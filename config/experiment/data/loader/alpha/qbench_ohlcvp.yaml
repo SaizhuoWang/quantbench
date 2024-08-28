@@ -1,0 +1,14 @@
+defaults:
+  - base_data_loader_alpha
+
+name: ohlcvp
+expressions:
+  ohlcvp_o2c: "div({disk:close}, {disk:open}) - 1"
+  ohlcvp_c2c: "div(delay({disk:close}, -1), {disk:close}) - 1"
+  ohlcvp_h2c: "div({disk:high}, {disk:close}) - 1"
+  ohlcvp_l2c: "div({disk:low}, {disk:close}) - 1"
+  ohlcvp_v2c: "div({disk:vwap}, {disk:close})"
+  ohlcvp_logvolume: "log({disk:volume})"
+  ohlcvp_turnover_day: "{disk:turnover_day}"     # (0, 3)
+  ohlcvp_turnover_week: "{disk:turnover_week}"   # (0, 3)
+  ohlcvp_turnover_month: "{disk:turnover_month}" # (0, 3)

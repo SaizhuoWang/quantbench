@@ -1,0 +1,6 @@
+defaults:
+  - base_data_loader_alpha
+
+name: c2c
+expressions:
+  c2c_1d: "delay({disk:close}, -1) / {disk:close} - 1"

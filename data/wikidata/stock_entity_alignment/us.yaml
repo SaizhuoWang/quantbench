@@ -1,0 +1,5325 @@
+A:
+  name: Agilent Technologies
+  qid: Q393762
+AA:
+  name: Alcoa
+  qid: Q135325
+AABA:
+  name: Altaba
+  qid: Q30321616
+AAIC:
+  name: Arlington Asset Investment
+  qid: Q4792281
+AAL:
+  name: American Airlines Group
+  qid: Q4742937
+AAN:
+  name: Aaron's, Inc.
+  qid: Q10397787
+AAON:
+  name: AAON
+  qid: Q286214
+AAP:
+  name: Advance Auto Parts
+  qid: Q4686051
+AAPL:
+  name: Apple
+  qid: Q312
+AB:
+  name: AllianceBernstein
+  qid: Q4732268
+ABB:
+  name: ABB Group
+  qid: Q52825
+ABBV:
+  name: AbbVie
+  qid: Q14662364
+ABC:
+  name: AmerisourceBergen
+  qid: Q470156
+ABEV:
+  name: AmBev
+  qid: Q2142669
+ABM:
+  name: ABM Industries
+  qid: Q4650338
+ABNB:
+  name: Airbnb
+  qid: Q63327
+ABUS:
+  name: Arbutus Biopharma
+  qid: Q17747021
+ACAD:
+  name: Acadia Pharmaceuticals
+  qid: Q4671580
+ACB:
+  name: Aurora Cannabis
+  qid: Q47500199
+ACCD:
+  name: Accolade
+  qid: Q96791280
+ACCO:
+  name: ACCO Brands
+  qid: Q288129
+ACGL:
+  name: Arch Capital Group
+  qid: Q28155430
+ACHC:
+  name: Acadia Healthcare
+  qid: Q28407181
+ACHR:
+  name: Archer Aviation
+  qid: Q109369035
+ACIW:
+  name: ACI Worldwide
+  qid: Q4650685
+ACLS:
+  name: Axcelis Technologies
+  qid: Q4830196
+ACM:
+  name: AECOM
+  qid: Q2825507
+ACN:
+  name: Accenture
+  qid: Q338825
+ACOR:
+  name: Acorda Therapeutics
+  qid: Q4674531
+ACT:
+  name: Actavis
+  qid: Q343204
+ACTG:
+  name: Acacia Research
+  qid: Q4670840
+ADBE:
+  name: Adobe
+  qid: Q11463
+ADI:
+  name: Analog Devices
+  qid: Q484930
+ADM:
+  name: Archer Daniels Midland
+  qid: Q632694
+ADNT:
+  name: Adient
+  qid: Q26832896
+ADP:
+  name: Automatic Data Processing
+  qid: Q489080
+ADPT:
+  name: Adaptive Biotechnologies
+  qid: Q30283420
+ADSK:
+  name: Autodesk
+  qid: Q628051
+ADT:
+  name: ADT Inc.
+  qid: Q290680
+ADTN:
+  name: Adtran
+  qid: Q4651203
+ADVM:
+  name: Avalanche Biotechnologies
+  qid: Q23679974
+AEE:
+  name: Ameren
+  qid: Q462984
+AEG:
+  name: Aegon N.V.
+  qid: Q291171
+AEO:
+  name: American Eagle Outfitters
+  qid: Q2842931
+AEP:
+  name: American Electric Power
+  qid: Q464092
+AER:
+  name: AerCap
+  qid: Q4687934
+AES:
+  name: AES Corporation
+  qid: Q291508
+AFG:
+  name: American Financial Group
+  qid: Q4743779
+AFL:
+  name: Aflac
+  qid: Q26311
+AGCO:
+  name: AGCO
+  qid: Q292292
+AGEN:
+  name: Agenus
+  qid: Q4692116
+AGIO:
+  name: Agios Pharmaceuticals
+  qid: Q16824426
+AGM:
+  name: Federal Agricultural Mortgage Corporation
+  qid: Q5439999
+AGR:
+  name: Avangrid
+  qid: Q5983823
+AGRO:
+  name: Adecoagro
+  qid: Q101429880
+AGYS:
+  name: Agilysys
+  qid: Q17510106
+AI:
+  name: C3.ai
+  qid: Q104081972
+AIG:
+  name: American International Group
+  qid: Q212235
+AIN:
+  name: Albany International
+  qid: Q23018189
+AIT:
+  name: Applied Industrial Technologies
+  qid: Q4781544
+AIV:
+  name: Aimco
+  qid: Q293796
+AJG:
+  name: Arthur J. Gallagher & Co.
+  qid: Q4799191
+AKAM:
+  name: Akamai Technologies
+  qid: Q415598
+AKR:
+  name: Acadia Realty Trust
+  qid: Q4671583
+AL:
+  name: Air Lease
+  qid: Q4698062
+ALB:
+  name: Albemarle Corporation
+  qid: Q127074
+ALC:
+  name: Alcon
+  qid: Q684825
+ALG:
+  name: Alamo Group
+  qid: Q21198484
+ALGN:
+  name: Align Technology
+  qid: Q30272258
+ALGT:
+  name: Allegiant Air
+  qid: Q1319601
+ALIM:
+  name: Alimera Sciences
+  qid: Q4726659
+ALK:
+  name: Alaska Airlines
+  qid: Q822614
+ALKS:
+  name: Alkermes
+  qid: Q4727688
+ALLE:
+  name: Allegion
+  qid: Q16738121
+ALLT:
+  name: Allot Ltd
+  qid: Q4733161
+ALNY:
+  name: Alnylam Pharmaceuticals
+  qid: Q16974682
+ALRM:
+  name: Alarm.com, Inc.
+  qid: Q4708382
+ALTI:
+  name: Altairnano
+  qid: Q433896
+ALTR:
+  name: Altair Engineering
+  qid: Q434017
+ALV:
+  name: Autoliv
+  qid: Q787044
+ALXN:
+  name: Alexion Pharmaceuticals
+  qid: Q204727
+AM:
+  name: American Greetings
+  qid: Q464767
+AMAT:
+  name: Semitool
+  qid: Q7449678
+AMBC:
+  name: Ambac
+  qid: Q456563
+AMC:
+  name: AMC Theatres
+  qid: Q294721
+AMCR:
+  name: Amcor
+  qid: Q460307
+AMCX:
+  name: AMC Networks
+  qid: Q4652575
+AMD:
+  name: Advanced Micro Devices
+  qid: Q128896
+AME:
+  name: Ametek
+  qid: Q470317
+AMED:
+  name: Amedisys Home Health and Hospice Care
+  qid: Q4742102
+AMG:
+  name: Affiliated Managers Group
+  qid: Q25775
+AMGN:
+  name: Amgen
+  qid: Q470517
+AMH:
+  name: American Homes 4 Rent
+  qid: Q20979194
+AMKR:
+  name: Amkor Technology
+  qid: Q472536
+AMLX:
+  name: Amylyx Pharmaceuticals
+  qid: Q115225388
+AMOV:
+  name: "Am\xE9rica M\xF3vil"
+  qid: Q482267
+AMP:
+  name: Ameriprise Financial
+  qid: Q2843129
+AMRN:
+  name: Amarin Corporation
+  qid: Q4740289
+AMRS:
+  name: Amyris
+  qid: Q4749580
+AMRX:
+  name: Amneal Pharmaceuticals, Inc.
+  qid: Q16996714
+AMSC:
+  name: American Superconductor
+  qid: Q2843029
+AMT:
+  name: American Tower Corporation
+  qid: Q4745263
+AMTD:
+  name: TD Ameritrade
+  qid: Q7669886
+AMZN:
+  name: Amazon
+  qid: Q3884
+ANDE:
+  name: The Andersons
+  qid: Q7713699
+ANET:
+  name: Arista Networks
+  qid: Q2861324
+ANGI:
+  name: Angie's List
+  qid: Q4763176
+ANSS:
+  name: Ansys
+  qid: Q295774
+ANY:
+  name: Sphere 3D
+  qid: Q105375474
+AON:
+  name: Aon plc
+  qid: Q739518
+AOS:
+  name: A. O. Smith
+  qid: Q4648219
+AP:
+  name: Ampco Pittsburgh
+  qid: Q4748076
+APAM:
+  name: Artisan Partners Asset Management
+  qid: Q41590812
+APD:
+  name: Air Products & Chemicals
+  qid: Q407744
+APEI:
+  name: American Public Education, Inc.
+  qid: Q21992261
+APH:
+  name: Amphenol
+  qid: Q474621
+API:
+  name: Agora, Inc.
+  qid: Q106309492
+APO:
+  name: Apollo Global Management
+  qid: Q619121
+APOL:
+  name: Apollo Group
+  qid: Q619111
+APPF:
+  name: AppFolio
+  qid: Q25831370
+APPH:
+  name: AppHarvest
+  qid: Q106768814
+APPN:
+  name: Appian Corporation
+  qid: Q56273983
+APPS:
+  name: Digital Turbine
+  qid: Q106295041
+APTV:
+  name: Aptiv
+  qid: Q643626
+AR:
+  name: Antero Resources
+  qid: Q39046155
+ARCB:
+  name: ArcBest
+  qid: Q109291018
+ARCC:
+  name: Ares Management
+  qid: Q4789079
+ARCH:
+  name: Arch Resources
+  qid: Q2062132
+ARCO:
+  name: Arcos Dorados Holdings
+  qid: Q15727302
+ARE:
+  name: Alexandria Real Estate Equities
+  qid: Q48739877
+ARES:
+  name: Ares Management
+  qid: Q4789079
+ARMK:
+  name: Aramark
+  qid: Q625708
+ARNC:
+  name: Arconic
+  qid: Q92639564
+ARVL:
+  name: Arrival
+  qid: Q28405615
+ARW:
+  name: Arrow Electronics
+  qid: Q2059537
+ARWR:
+  name: Arrowhead Research
+  qid: Q22121863
+ASAN:
+  name: Asana Inc.
+  qid: Q111411592
+ASML:
+  name: ASML Holding
+  qid: Q297879
+ASPS:
+  name: Ocwen
+  qid: Q7077162
+ASRT:
+  name: Assertio Therapeutics
+  qid: Q16991690
+ASRV:
+  name: AmeriServ Financial
+  qid: Q4742486
+ASTC:
+  name: Astrotech Corporation
+  qid: Q59507
+ASTI:
+  name: Ascent Solar
+  qid: Q4803857
+ASUR:
+  name: Asure Software
+  qid: Q4811929
+ATEN:
+  name: A10 Networks
+  qid: Q16157155
+ATHM:
+  name: Autohome
+  qid: Q47016300
+ATHX:
+  name: Athersys
+  qid: Q30284052
+ATI:
+  name: Allegheny Technologies
+  qid: Q1361648
+ATNI:
+  name: Atlantic Tele-Network
+  qid: Q4816569
+ATO:
+  name: Atmos Energy
+  qid: Q4817084
+ATSG:
+  name: Airborne Maintenance & Engineering Services
+  qid: Q16002190
+ATUS:
+  name: Altice USA
+  qid: Q644289
+ATVI:
+  name: Activision Blizzard
+  qid: Q344341
+AU:
+  name: AngloGold Ashanti
+  qid: Q541076
+AUBN:
+  name: Auburn National Bancorporation
+  qid: Q16162525
+AUDC:
+  name: Audiocodes Ltd.
+  qid: Q2895117
+AUR:
+  name: Aurora Innovation
+  qid: Q101606525
+AUTL:
+  name: Autolus Therapeutics
+  qid: Q56583577
+AUY:
+  name: Yamana Gold
+  qid: Q835370
+AVA:
+  name: Avista
+  qid: Q4828988
+AVAV:
+  name: AeroVironment
+  qid: Q919300
+AVB:
+  name: AvalonBay Communities
+  qid: Q4827537
+AVDL:
+  name: Avadel Pharmaceuticals
+  qid: Q16993447
+AVGO:
+  name: Broadcom Inc.
+  qid: Q4827416
+AVNW:
+  name: Aviat Networks
+  qid: Q4828605
+AVT:
+  name: Avnet
+  qid: Q4829076
+AVTR:
+  name: Avantor
+  qid: Q104842834
+AVY:
+  name: Avery Dennison
+  qid: Q790650
+AWI:
+  name: Armstrong World Industries
+  qid: Q689446
+AWRE:
+  name: Aware, Inc.
+  qid: Q29641502
+AXDX:
+  name: Accelerate Diagnostics
+  qid: Q91490380
+AXL:
+  name: American Axle
+  qid: Q4743120
+AXP:
+  name: American Express
+  qid: Q194360
+AXTA:
+  name: Axalta Coating Systems
+  qid: Q26215536
+AYI:
+  name: Acuity Brands
+  qid: Q4677870
+AYX:
+  name: Alteryx
+  qid: Q73883753
+AZN:
+  name: AstraZeneca
+  qid: Q731938
+AZO:
+  name: AutoZone
+  qid: Q4826087
+AZTA:
+  name: N
+  qid: Q117169721
+B:
+  name: Barnes Group
+  qid: Q4861529
+BA:
+  name: Boeing
+  qid: Q66
+BABA:
+  name: Alibaba Group
+  qid: Q1359568
+BAH:
+  name: Booz Allen Hamilton
+  qid: Q893221
+BAK:
+  name: Braskem
+  qid: Q899395
+BAM:
+  name: Brookfield Asset Management
+  qid: Q908324
+BAND:
+  name: Bandwidth.com
+  qid: Q4854759
+BAX:
+  name: Baxter International
+  qid: Q761965
+BB:
+  name: BlackBerry
+  qid: Q502121
+BBBY:
+  name: Bed Bath & Beyond
+  qid: Q813782
+BBGI:
+  name: Beasley Broadcast Group
+  qid: Q4876829
+BBU:
+  name: Brookfield Business Partners
+  qid: Q24705550
+BBVA:
+  name: Bilbao Vizcaya Argentaria Bank
+  qid: Q806189
+BBW:
+  name: Build-A-Bear Workshop
+  qid: Q1002992
+BBWI:
+  name: Bath & Body Works
+  qid: Q810773
+BBY:
+  name: Best Buy
+  qid: Q533415
+BC:
+  name: Brunswick Corporation
+  qid: Q994153
+BCE:
+  name: BCE Inc.
+  qid: Q24525746
+BCO:
+  name: Brink's
+  qid: Q2902305
+BCOV:
+  name: Brightcove
+  qid: Q4967514
+BCRX:
+  name: BioCryst Pharmaceuticals
+  qid: Q4914611
+BCS:
+  name: Barclays
+  qid: Q245343
+BDN:
+  name: Brandywine Realty Trust
+  qid: Q4957288
+BDX:
+  name: Becton Dickinson
+  qid: Q813780
+BEAM:
+  name: Beam Therapeutics
+  qid: Q107457363
+BECN:
+  name: Beacon Roofing Supply, Inc.
+  qid: Q16950815
+BEKE:
+  name: KE Holdings Inc.
+  qid: Q105886736
+BEN:
+  name: Franklin Templeton Investments
+  qid: Q744683
+BEPC:
+  name: Brookfield Renewable Corporation
+  qid: Q106240910
+BFC:
+  name: Bank First Corporation
+  qid: Q111384715
+BG:
+  name: Bunge Limited
+  qid: Q1009458
+BGCP:
+  name: BGC Partners
+  qid: Q4835545
+BGFV:
+  name: Big 5 Sporting Goods
+  qid: Q4904902
+BGS:
+  name: B&G Foods
+  qid: Q54953653
+BH:
+  name: Biglari Holdings Inc.
+  qid: Q4906978
+BHF:
+  name: Brighthouse Financial
+  qid: Q39052929
+BHLB:
+  name: Berkshire Bank
+  qid: Q48976878
+BHR:
+  name: Braemar Hotels & Resorts
+  qid: Q63862184
+BHVN:
+  name: Biohaven Pharmaceuticals
+  qid: Q92546757
+BIG:
+  name: Big Lots
+  qid: Q4905973
+BIIB:
+  name: Biogen
+  qid: Q864338
+BILI:
+  name: Bilibili
+  qid: Q3077586
+BIO:
+  name: Bio-Rad Laboratories
+  qid: Q2904022
+BJRI:
+  name: BJ's Restaurant & Brewery
+  qid: Q4835755
+BK:
+  name: The Bank of New York Mellon
+  qid: Q589288
+BKCC:
+  name: Kelso & Company
+  qid: Q6386533
+BKD:
+  name: Brookdale Senior Living
+  qid: Q4974387
+BKE:
+  name: Buckle
+  qid: Q4983306
+BKH:
+  name: Black Hills Corporation
+  qid: Q880296
+BKKT:
+  name: Bakkt
+  qid: Q83768717
+BKNG:
+  name: Booking Holdings
+  qid: Q18674747
+BKR:
+  name: Baker Hughes
+  qid: Q804353
+BL:
+  name: BlackLine
+  qid: Q28222794
+BLDP:
+  name: Ballard Power Systems
+  qid: Q474383
+BLK:
+  name: BlackRock
+  qid: Q219635
+BLKB:
+  name: Blackbaud
+  qid: Q4922539
+BLMN:
+  name: Bloomin' Brands
+  qid: Q4928282
+BLRX:
+  name: Bioline Rx Ltd.
+  qid: Q4914627
+BLUE:
+  name: bluebird bio
+  qid: Q30256843
+BLX:
+  name: Banco Latinoamericano de Comercio Exterior
+  qid: Q25104482
+BMA:
+  name: Macro Bank
+  qid: Q2335199
+BMBL:
+  name: Bumble
+  qid: Q21233433
+BMO:
+  name: Bank of Montreal
+  qid: Q806693
+BMRN:
+  name: BioMarin Pharmaceutical
+  qid: Q4914632
+BMY:
+  name: Bristol-Myers Squibb
+  qid: Q266423
+BNGO:
+  name: BioNano Genomics
+  qid: Q30265338
+BNS:
+  name: Scotiabank
+  qid: Q451476
+BNTC:
+  name: Benitec Biopharma Ltd
+  qid: Q17001319
+BNTX:
+  name: BioNTech
+  qid: Q30256699
+BOH:
+  name: Bank of Hawaii
+  qid: Q4856124
+BOKF:
+  name: BOK Financial Corporation
+  qid: Q2162158
+BOOM:
+  name: Dynamic Materials Corporation
+  qid: Q5318916
+BOSC:
+  name: B.O.S. Better Online Solutions
+  qid: Q4833850
+BOX:
+  name: Box
+  qid: Q4951483
+BP:
+  name: BP
+  qid: Q152057
+BPOP:
+  name: Popular, Inc.
+  qid: Q7229656
+BPT:
+  name: BP Prudhoe Bay Royalty Trust
+  qid: Q4836297
+BR:
+  name: Broadridge Financial Solutions
+  qid: Q4972280
+BRC:
+  name: Brady Corporation
+  qid: Q897097
+BRCM:
+  name: Broadcom
+  qid: Q555925
+BRFS:
+  name: BRF
+  qid: Q899097
+BRKR:
+  name: Bruker
+  qid: Q431454
+BRO:
+  name: Brown & Brown
+  qid: Q4976010
+BRX:
+  name: Brixmor Property Group
+  qid: Q17512182
+BRY:
+  name: Berry Petroleum Company
+  qid: Q16245358
+BSET:
+  name: Bassett Furniture
+  qid: Q4868109
+BSM:
+  name: Black Stone Minerals
+  qid: Q21196367
+BSRR:
+  name: N
+  qid: Q117187407
+BSX:
+  name: Boston Scientific
+  qid: Q894585
+BSY:
+  name: Bentley Systems
+  qid: Q818314
+BTU:
+  name: Peabody Energy
+  qid: Q1785549
+BUD:
+  name: Anheuser-Busch InBev
+  qid: Q128738
+BUSE:
+  name: Busey Bank
+  qid: Q5001347
+BVN:
+  name: Buenaventura
+  qid: Q1001788
+BVXV:
+  name: BiondVax
+  qid: Q54621346
+BWA:
+  name: BorgWarner
+  qid: Q825943
+BWAY:
+  name: Brainsway Ltd.
+  qid: Q2913953
+BWXT:
+  name: BWX Technologies
+  qid: Q4836852
+BX:
+  name: The Blackstone Group
+  qid: Q880942
+BXP:
+  name: Boston Properties
+  qid: Q4844439
+BYFC:
+  name: Broadway Federal Bank
+  qid: Q4972437
+BYND:
+  name: Beyond Meat
+  qid: Q18205509
+C:
+  name: Citigroup
+  qid: Q219508
+CA:
+  name: CA Technologies
+  qid: Q600624
+CAAS:
+  name: China Automotive Systems
+  qid: Q5099579
+CABO:
+  name: Sparklight
+  qid: Q11301445
+CACC:
+  name: Credit Acceptance
+  qid: Q15845093
+CACI:
+  name: CACI
+  qid: Q1022711
+CADE:
+  name: Cadence Bancorporation
+  qid: Q114820617
+CAG:
+  name: Conagra Brands, Inc.
+  qid: Q1123399
+CAH:
+  name: Cardinal Health
+  qid: Q902397
+CAKE:
+  name: The Cheesecake Factory
+  qid: Q1045842
+CAL:
+  name: Caleres
+  qid: Q4112833
+CALM:
+  name: Cal-Maine
+  qid: Q5018092
+CAMP:
+  name: CalAmp
+  qid: Q60742568
+CAN:
+  name: Canaan Creative
+  qid: Q24909030
+CANF:
+  name: Can Fite Biopharma
+  qid: Q96482303
+CAR:
+  name: Avis Budget Group
+  qid: Q2874395
+CARG:
+  name: CarGurus
+  qid: Q17050423
+CARR:
+  name: Carrier Corporation
+  qid: Q731912
+CARV:
+  name: Carver Bancorp, Inc.
+  qid: Q17986287
+CASH:
+  name: MetaBank
+  qid: Q6822267
+CASY:
+  name: Casey's General Stores
+  qid: Q2940968
+CAT:
+  name: Caterpillar Inc.
+  qid: Q459965
+CATY:
+  name: Cathay Bank
+  qid: Q4189507
+CB:
+  name: Chubb Corp.
+  qid: Q1089060
+CBD:
+  name: GPA
+  qid: Q1541470
+CBL:
+  name: CBL & Associates Properties
+  qid: Q5009135
+CBRE:
+  name: CBRE Group
+  qid: Q1023013
+CBRL:
+  name: Cracker Barrel
+  qid: Q4492609
+CBSH:
+  name: Commerce Bancshares
+  qid: Q5152411
+CBU:
+  name: Community Bank, N.A.
+  qid: Q5154635
+CCI:
+  name: Crown Castle International Corp.
+  qid: Q5189320
+CCJ:
+  name: Cameco
+  qid: Q1028449
+CCK:
+  name: Crown Holdings
+  qid: Q5189378
+CCL:
+  name: Carnival Corporation & plc
+  qid: Q1044059
+CCOI:
+  name: Cogent Communications
+  qid: Q1106938
+CDAY:
+  name: Ceridian
+  qid: Q5064245
+CDE:
+  name: Coeur Mining
+  qid: Q386193
+CDLX:
+  name: Cardlytics
+  qid: Q103793759
+CDNS:
+  name: Cadence Design Systems
+  qid: Q608776
+CDTX:
+  name: Cidara Therapeutics
+  qid: Q30268897
+CDW:
+  name: CDW
+  qid: Q1023155
+CDXS:
+  name: Codexis
+  qid: Q5140275
+CE:
+  name: Celanese
+  qid: Q547450
+CECO:
+  name: Career Education Corporation
+  qid: Q5038907
+CEG:
+  name: N
+  qid: Q119409667
+CEIX:
+  name: Consol Energy
+  qid: Q945521
+CERE:
+  name: Ceres, Inc.
+  qid: Q16858748
+CERN:
+  name: Cerner
+  qid: Q1055390
+CF:
+  name: CF Industries
+  qid: Q905806
+CFFI:
+  name: N
+  qid: Q119075727
+CFFN:
+  name: Capitol Federal Savings Bank
+  qid: Q5035870
+CFG:
+  name: Citizens Financial Group
+  qid: Q5122694
+CFR:
+  name: Frost Bank
+  qid: Q5506152
+CGEN:
+  name: Compugen Ltd.
+  qid: Q5157220
+CHDN:
+  name: Churchill Downs Incorporated
+  qid: Q5118174
+CHH:
+  name: Choice Hotels
+  qid: Q1075788
+CHK:
+  name: Chesapeake Energy
+  qid: Q2962826
+CHKP:
+  name: Check Point
+  qid: Q176587
+CHRD:
+  name: Chordiant
+  qid: Q5104985
+CHRW:
+  name: C. H. Robinson Worldwide
+  qid: Q931200
+CHS:
+  name: Chico's
+  qid: Q5096393
+CHT:
+  name: Chunghwa Telecom
+  qid: Q717531
+CHWY:
+  name: Chewy
+  qid: Q28130158
+CI:
+  name: Cigna
+  qid: Q642271
+CIB:
+  name: Bancolombia
+  qid: Q806206
+CIDM:
+  name: Cinedigm
+  qid: Q16247698
+CIG:
+  name: "Companhia Energ\xE9tica de Minas Gerais"
+  qid: Q1121202
+CIGI:
+  name: Colliers International
+  qid: Q5147194
+CINF:
+  name: Cincinnati Financial
+  qid: Q5120253
+CL:
+  name: Colgate-Palmolive Company
+  qid: Q609466
+CLIR:
+  name: ClearSign Combustion
+  qid: Q19866632
+CLLS:
+  name: Cellectis
+  qid: Q2943995
+CLMT:
+  name: Calumet Lubricants
+  qid: Q5024089
+CLOV:
+  name: Clover Health
+  qid: Q22079519
+CLW:
+  name: Clearwater Paper
+  qid: Q5130952
+CLX:
+  name: Clorox
+  qid: Q910368
+CMA:
+  name: Comerica
+  qid: Q1114148
+CMCM:
+  name: Cheetah Mobile
+  qid: Q18111091
+CMCSA:
+  name: Comcast
+  qid: Q1113804
+CMCT:
+  name: CIM Commercial Trust Corporation
+  qid: Q96574679
+CME:
+  name: CME Group
+  qid: Q1023876
+CMG:
+  name: Chipotle Mexican Grill
+  qid: Q465751
+CMI:
+  name: Cummins
+  qid: Q173476
+CMLS:
+  name: Cumulus Media
+  qid: Q5194189
+CMPR:
+  name: Cimpress
+  qid: Q22121865
+CMPS:
+  name: Compass Pathways
+  qid: Q56481140
+CMS:
+  name: CMS Energy
+  qid: Q5013012
+CNA:
+  name: CNA Financial
+  qid: Q5013072
+CNC:
+  name: Centene Corporation
+  qid: Q5059102
+CNHI:
+  name: CNH Industrial
+  qid: Q15238661
+CNI:
+  name: Canadian National Railway
+  qid: Q624798
+CNP:
+  name: Union Pacific Railroad
+  qid: Q725793
+CNTY:
+  name: Century Casinos
+  qid: Q5063137
+CNX:
+  name: CNX Resources
+  qid: Q65066950
+CNXN:
+  name: PC Connection
+  qid: Q7118693
+CODI:
+  name: N
+  qid: Q22674043
+COF:
+  name: Capital One
+  qid: Q1034654
+COHR:
+  name: Coherent, Inc.
+  qid: Q1107088
+COIN:
+  name: Coinbase
+  qid: Q16972754
+COKE:
+  name: Coca-Cola Bottling Co. Consolidated
+  qid: Q5139058
+COLM:
+  name: Columbia Sportswear Company
+  qid: Q1112588
+COMM:
+  name: CommScope
+  qid: Q5152057
+CONN:
+  name: Conn's
+  qid: Q5161257
+COO:
+  name: The Cooper Companies
+  qid: Q1129792
+COOL:
+  name: Cyberian Outpost
+  qid: Q5197796
+COOP:
+  name: Mr. Cooper
+  qid: Q23807959
+COP:
+  name: ConocoPhillips
+  qid: Q214763
+CORT:
+  name: Corcept Therapeutics
+  qid: Q15734041
+COST:
+  name: Costco
+  qid: Q715583
+CP:
+  name: N
+  qid: Q117706368
+CPA:
+  name: Copa Airlines
+  qid: Q849404
+CPF:
+  name: Central Pacific Bank
+  qid: Q5061578
+CPHC:
+  name: Canterbury Park
+  qid: Q5033676
+CPNG:
+  name: Coupang
+  qid: Q12620655
+CPRT:
+  name: Copart
+  qid: Q16951448
+CPRX:
+  name: Catalyst Pharmaceuticals
+  qid: Q18149200
+CPS:
+  name: Cooper-Standard Automotive
+  qid: Q5167736
+CPT:
+  name: Camden Property Trust
+  qid: Q5025803
+CRAI:
+  name: CRA International
+  qid: Q5013834
+CRC:
+  name: California Resources
+  qid: Q47394052
+CRCT:
+  name: Cricut
+  qid: Q5185100
+CRH:
+  name: CRH
+  qid: Q1053299
+CRL:
+  name: Charles River Laboratories
+  qid: Q5082076
+CRM:
+  name: Salesforce
+  qid: Q941127
+CRNT:
+  name: Ceragon
+  qid: Q5063615
+CRON:
+  name: Cronos Group Inc
+  qid: Q75256038
+CROX:
+  name: Crocs, Inc.
+  qid: Q926699
+CRSP:
+  name: CRISPR Therapeutics
+  qid: Q104480207
+CRTO:
+  name: Criteo
+  qid: Q2814507
+CRUS:
+  name: Cirrus Logic
+  qid: Q1067998
+CRVL:
+  name: CorVel Corporation
+  qid: Q5169368
+CRWD:
+  name: CrowdStrike
+  qid: Q24890758
+CS:
+  name: Credit Suisse
+  qid: Q372657
+CSCO:
+  name: Cisco Systems
+  qid: Q173395
+CSGP:
+  name: CoStar Group
+  qid: Q16988748
+CSIQ:
+  name: Canadian Solar
+  qid: Q1032353
+CSL:
+  name: Carlisle Companies
+  qid: Q5041354
+CSSE:
+  name: Chicken Soup for the Soul
+  qid: Q5096273
+CSTE:
+  name: Caesarstone Sdot-Yam
+  qid: Q1287771
+CTAS:
+  name: Van Dyne Crotty
+  qid: Q15109928
+CTG:
+  name: Computer Task Group, Incorporated
+  qid: Q1122299
+CTLT:
+  name: Catalent Pharma Solutions
+  qid: Q19866242
+CTRA:
+  name: Coterra Energy
+  qid: Q4035714
+CTSH:
+  name: Cognizant
+  qid: Q1107035
+CTSO:
+  name: Cytosorbents
+  qid: Q17182820
+CTXS:
+  name: Citrix Systems
+  qid: Q916196
+CUBE:
+  name: CubeSmart
+  qid: Q5192200
+CUZ:
+  name: Cousins Properties
+  qid: Q5178840
+CVAC:
+  name: CureVac
+  qid: Q1144473
+CVE:
+  name: Cenovus Energy
+  qid: Q1053422
+CVGW:
+  name: Calavo Growers
+  qid: Q16850385
+CVLT:
+  name: CommVault Systems
+  qid: Q5152058
+CVNA:
+  name: Carvana
+  qid: Q16247191
+CVS:
+  name: CVS Health
+  qid: Q624375
+CVT:
+  name: Cvent
+  qid: Q5197142
+CVX:
+  name: Chevron Corporation
+  qid: Q319642
+CW:
+  name: Curtiss-Wright
+  qid: Q1138291
+CWBC:
+  name: Community West Bancshares
+  qid: Q16950619
+CWH:
+  name: Camping World
+  qid: Q5028383
+CWK:
+  name: Cushman & Wakefield
+  qid: Q1146061
+CWST:
+  name: Casella Waste Systems
+  qid: Q5048400
+CWT:
+  name: California Water Service Group
+  qid: Q104845916
+CX:
+  name: Cemex
+  qid: Q1053348
+CXM:
+  name: Sprinklr
+  qid: Q18636409
+CXW:
+  name: CoreCivic
+  qid: Q1135278
+CYBR:
+  name: CyberArk
+  qid: Q5197666
+CYCC:
+  name: Cyclacel
+  qid: Q5198104
+CYH:
+  name: Community Health Systems
+  qid: Q5154770
+CYN:
+  name: City National Bank
+  qid: Q5123314
+CYTK:
+  name: Cytokinetics
+  qid: Q30283314
+CYXT:
+  name: Cyxtera
+  qid: Q111143924
+D:
+  name: Dominion Energy
+  qid: Q677464
+DAIO:
+  name: Data I/O
+  qid: Q5227174
+DAKT:
+  name: Daktronics
+  qid: Q1157767
+DAL:
+  name: Delta Air Lines
+  qid: Q188920
+DAN:
+  name: Dana Corporation
+  qid: Q5214701
+DB:
+  name: Deutsche Bank
+  qid: Q66048
+DBVT:
+  name: DBV Technologies
+  qid: Q5204430
+DBX:
+  name: Dropbox Inc.
+  qid: Q15589464
+DD:
+  name: DuPont
+  qid: Q221062
+DDD:
+  name: 3D Systems
+  qid: Q4636301
+DDOG:
+  name: Datadog
+  qid: Q16248637
+DDS:
+  name: Dillard's
+  qid: Q844805
+DE:
+  name: Deere & Company
+  qid: Q496302
+DELL:
+  name: Dell Inc.
+  qid: Q30873
+DENN:
+  name: Denny's
+  qid: Q1189695
+DEO:
+  name: Diageo
+  qid: Q161140
+DFS:
+  name: Discover Financial
+  qid: Q5281775
+DG:
+  name: Dollar General
+  qid: Q145168
+DGII:
+  name: Digi International
+  qid: Q5275716
+DGX:
+  name: Quest Diagnostics
+  qid: Q7271456
+DHI:
+  name: D. R. Horton
+  qid: Q5203782
+DHR:
+  name: Danaher Corporation
+  qid: Q1159256
+DIN:
+  name: Dine Brands Global
+  qid: Q5278020
+DIS:
+  name: The Walt Disney Company
+  qid: Q7414
+DISCA:
+  name: Discovery Inc.
+  qid: Q621592
+DISCK:
+  name: Discovery Inc.
+  qid: Q621592
+DISH:
+  name: Dish
+  qid: Q1199757
+DJCO:
+  name: Daily Journal Corporation
+  qid: Q5209286
+DK:
+  name: Delek US
+  qid: Q104664954
+DKNG:
+  name: DraftKings
+  qid: Q21189310
+DKS:
+  name: Dick's Sporting Goods
+  qid: Q5272601
+DLB:
+  name: Dolby Laboratories
+  qid: Q261288
+DLPN:
+  name: Dolphin Entertainment
+  qid: Q5289622
+DLR:
+  name: Digital Realty Trust
+  qid: Q5275969
+DLTR:
+  name: Dollar Tree
+  qid: Q5289230
+DLX:
+  name: Deluxe Corporation
+  qid: Q5254919
+DM:
+  name: Desktop Metal
+  qid: Q48800016
+DMRC:
+  name: Digimarc
+  qid: Q5275736
+DNA:
+  name: Ginkgo Bioworks
+  qid: Q29026065
+DNB:
+  name: Dun & Bradstreet
+  qid: Q1265181
+DOCU:
+  name: DocuSign
+  qid: Q5287613
+DOV:
+  name: Dover Corporation
+  qid: Q16974527
+DOW:
+  name: Dow Inc.
+  qid: Q62739842
+DOX:
+  name: Amdocs
+  qid: Q460446
+DPZ:
+  name: "Domino\u2019s Pizza"
+  qid: Q839466
+DSP:
+  name: Viant Technology
+  qid: Q115258245
+DT:
+  name: Dynatrace
+  qid: Q25048844
+DTE:
+  name: DTE Energy
+  qid: Q5206232
+DTEA:
+  name: DavidsTea
+  qid: Q3019129
+DUK:
+  name: Duke Energy
+  qid: Q1264404
+DUOL:
+  name: Duolingo
+  qid: Q2918660
+DV:
+  name: Adtalem Global Education
+  qid: Q5244154
+DVA:
+  name: DaVita
+  qid: Q5207184
+DVN:
+  name: Devon Energy
+  qid: Q1206980
+DWAC:
+  name: Digital World Acquisition Corp.
+  qid: Q110670454
+DWACU:
+  name: Digital World Acquisition Corp.
+  qid: Q110670454
+DXC:
+  name: DXC Technology
+  qid: Q28782856
+DXCM:
+  name: Dexcom
+  qid: Q15109865
+DXLG:
+  name: Destination XL Group
+  qid: Q5050852
+DZSI:
+  name: DZS
+  qid: Q8070896
+E:
+  name: Eni
+  qid: Q565594
+EA:
+  name: Electronic Arts
+  qid: Q173941
+EB:
+  name: Eventbrite
+  qid: Q5416738
+EBAY:
+  name: eBay
+  qid: Q58024
+EBC:
+  name: Eastern Bank
+  qid: Q5330003
+ECL:
+  name: Ecolab
+  qid: Q1282031
+ED:
+  name: Consolidated Edison
+  qid: Q1127536
+EDIT:
+  name: Editas Medicine
+  qid: Q23131313
+EDN:
+  name: Edenor
+  qid: Q2843192
+EDU:
+  name: New Oriental
+  qid: Q13631921
+EE:
+  name: El Paso Electric
+  qid: Q5351770
+EFX:
+  name: Equifax
+  qid: Q5384453
+EGAN:
+  name: eGain
+  qid: Q17068984
+EGBN:
+  name: EagleBank
+  qid: Q5324991
+EGLX:
+  name: Enthusiast Gaming
+  qid: Q60754892
+EH:
+  name: EHang
+  qid: Q18124524
+EHC:
+  name: HealthSouth
+  qid: Q5690400
+EHTH:
+  name: eHealthInsurance
+  qid: Q5323107
+EL:
+  name: "Est\xE9e Lauder Companies"
+  qid: Q1260606
+ELV:
+  name: Elevance Health, Inc.
+  qid: Q677488
+ELYS:
+  name: Elys Game Technology
+  qid: Q106615565
+EMBK:
+  name: Embark Technology
+  qid: Q110597561
+EME:
+  name: Emcor
+  qid: Q5370289
+EMN:
+  name: Eastman Chemical Company
+  qid: Q899022
+EMR:
+  name: Emerson Electric
+  qid: Q1335585
+ENB:
+  name: Enbridge
+  qid: Q1339966
+ENER:
+  name: Energy Conversion Devices
+  qid: Q5376911
+ENLV:
+  name: Enlivex
+  qid: Q96480089
+ENPH:
+  name: Enphase Energy
+  qid: Q17012234
+ENR:
+  name: Energizer Holdings
+  qid: Q1200840
+ENTG:
+  name: Entegris
+  qid: Q5380128
+EOG:
+  name: EOG Resources
+  qid: Q1275577
+EPAM:
+  name: EPAM Systems
+  qid: Q1275613
+EPC:
+  name: Edgewell Personal Care
+  qid: Q5337641
+EPR:
+  name: EPR Properties
+  qid: Q48977470
+EQIX:
+  name: Equinix
+  qid: Q851641
+EQR:
+  name: Equity Residential
+  qid: Q187740
+EQT:
+  name: EQT
+  qid: Q5323987
+ERIC:
+  name: Ericsson
+  qid: Q52618
+ERII:
+  name: Energy Recovery Inc.
+  qid: Q5376971
+ERJ:
+  name: Embraer
+  qid: Q105557
+ES:
+  name: Eversource Energy
+  qid: Q3344199
+ESEA:
+  name: Euroseas
+  qid: Q16975402
+ESI:
+  name: ITT Technical Institute
+  qid: Q5974942
+ESLT:
+  name: Elbit Systems Ltd.
+  qid: Q1325369
+ESPR:
+  name: Esperion Therapeutics
+  qid: Q5398941
+ESRT:
+  name: Empire State Realty Trust
+  qid: Q27146006
+ESRX:
+  name: Express Scripts
+  qid: Q768231
+ESS:
+  name: Essex Property Trust, Inc.
+  qid: Q27964091
+ESTC:
+  name: Elastic
+  qid: Q22074922
+ET:
+  name: Energy Transfer Equity
+  qid: Q5376999
+ETN:
+  name: Eaton Corporation
+  qid: Q48872
+ETR:
+  name: Entergy
+  qid: Q1344587
+ETSY:
+  name: Etsy
+  qid: Q1353939
+EVER:
+  name: EverQuote
+  qid: Q28405655
+EVGN:
+  name: Evogene Ltd
+  qid: Q6981538
+EVR:
+  name: Evercore Partners
+  qid: Q5416929
+EVRG:
+  name: Evergy
+  qid: Q7987107
+EVRI:
+  name: Everi Holdings
+  qid: Q20979249
+EW:
+  name: Edwards Lifesciences
+  qid: Q16966841
+EWBC:
+  name: East West Bank
+  qid: Q3046549
+EWCZ:
+  name: European Wax Center
+  qid: Q5413426
+EXAS:
+  name: Exact Sciences
+  qid: Q22121866
+EXC:
+  name: Exelon
+  qid: Q1383669
+EXEL:
+  name: Exelixis
+  qid: Q5419989
+EXLS:
+  name: EXL
+  qid: Q5324689
+EXPE:
+  name: Expedia Group
+  qid: Q8085893
+EXPO:
+  name: Exponent
+  qid: Q5421507
+EXR:
+  name: Extra Space Storage
+  qid: Q5422162
+EXTR:
+  name: Extreme Networks
+  qid: Q2034659
+F:
+  name: Ford Motor Company
+  qid: Q44294
+FANG:
+  name: Diamondback Energy
+  qid: Q65091423
+FARM:
+  name: Farmer Brothers
+  qid: Q18148458
+FAST:
+  name: Fastenal
+  qid: Q3067119
+FAZE:
+  name: FaZe Clan
+  qid: Q21161576
+FBNC:
+  name: First Bancorp
+  qid: Q5452332
+FCBC:
+  name: First Community Bancshares
+  qid: Q5452775
+FCEL:
+  name: FuelCell Energy
+  qid: Q16993862
+FCF:
+  name: First Commonwealth Bank
+  qid: Q5452773
+FCFS:
+  name: Cash America International
+  qid: Q5048636
+FCN:
+  name: FTI Consulting
+  qid: Q5427196
+FCX:
+  name: Freeport-McMoRan
+  qid: Q1453620
+FDS:
+  name: FactSet
+  qid: Q1885491
+FE:
+  name: FirstEnergy
+  qid: Q1419248
+FFBC:
+  name: First Financial Bank
+  qid: Q5453009
+FFIV:
+  name: F5
+  qid: Q3029296
+FHB:
+  name: First Hawaiian Bank
+  qid: Q3072937
+FHI:
+  name: Federated Hermes
+  qid: Q5440684
+FHN:
+  name: First Horizon National Corporation
+  qid: Q1419446
+FICO:
+  name: FICO
+  qid: Q1392999
+FIGS:
+  name: FIGS (apparel)
+  qid: Q55611365
+FIS:
+  name: Fidelity National Information Services
+  qid: Q1411295
+FITB:
+  name: Fifth Third Bank
+  qid: Q1411810
+FIVE:
+  name: Five Below
+  qid: Q5455836
+FL:
+  name: Foot Locker
+  qid: Q63335
+FLEX:
+  name: Flex Ltd.
+  qid: Q1140680
+FLGT:
+  name: Fulgent Genetics
+  qid: Q66823616
+FLIR:
+  name: FLIR Systems
+  qid: Q5426537
+FLL:
+  name: Full House Resorts
+  qid: Q5508083
+FLR:
+  name: Fluor Corporation
+  qid: Q653581
+FLS:
+  name: Flowserve
+  qid: Q1430331
+FLT:
+  name: Fleetcor
+  qid: Q16838618
+FLWS:
+  name: 1-800-Flowers
+  qid: Q4545752
+FMC:
+  name: FMC Corporation
+  qid: Q899183
+FMX:
+  name: Tigres
+  qid: Q1435628
+FNKO:
+  name: Funko
+  qid: Q5509271
+FNV:
+  name: Franco-Nevada
+  qid: Q5484477
+FOLD:
+  name: Amicus Therapeutics
+  qid: Q18636342
+FORG:
+  name: ForgeRock
+  qid: Q18150963
+FORR:
+  name: Forrester
+  qid: Q829961
+FORTY:
+  name: Formula Systems (1985) Ltd.
+  qid: Q5470333
+FOSL:
+  name: Fossil
+  qid: Q356212
+FOX:
+  name: Fox Corporation
+  qid: Q60238941
+FOXA:
+  name: Fox Corporation
+  qid: Q60238941
+FOXF:
+  name: Fox Racing Shox
+  qid: Q282997
+FRG:
+  name: Franchise Group
+  qid: Q109680037
+FRGI:
+  name: Fiesta Restaurant Group
+  qid: Q91360366
+FRHC:
+  name: Freedom Finance Ukraine
+  qid: Q21843099
+FRME:
+  name: First Merchants Bank
+  qid: Q19572527
+FROG:
+  name: JFrog Ltd
+  qid: Q98608948
+FRPH:
+  name: Patriot Transportation
+  qid: Q18636301
+FRPT:
+  name: Freshpet
+  qid: Q5503081
+FRSH:
+  name: Papa Murphy's
+  qid: Q7132349
+FRSX:
+  name: foresight automotive LTD
+  qid: Q96574751
+FRT:
+  name: Federal Realty Investment Trust
+  qid: Q27988152
+FSLR:
+  name: First Solar
+  qid: Q1138888
+FSLY:
+  name: Fastly
+  qid: Q34045622
+FSS:
+  name: Federal Signal Corporation
+  qid: Q1400073
+FTCH:
+  name: Farfetch
+  qid: Q18712957
+FTDR:
+  name: Frontdoor, Inc.
+  qid: Q111387671
+FTI:
+  name: FMC Technologies
+  qid: Q1164386
+FTNT:
+  name: Fortinet
+  qid: Q2749364
+FTV:
+  name: Fortive
+  qid: Q27919383
+FUL:
+  name: H.B. Fuller
+  qid: Q20486915
+FULT:
+  name: Fulton Financial Corporation
+  qid: Q5508431
+FUN:
+  name: Cedar Fair
+  qid: Q657648
+FUTU:
+  name: Futu Holdings
+  qid: Q96378897
+FUV:
+  name: Arcimoto
+  qid: Q4787395
+FVRR:
+  name: Fiverr
+  qid: Q5410132
+FYBR:
+  name: Frontier Communications
+  qid: Q2974454
+G:
+  name: Genpact
+  qid: Q1007000
+GAIA:
+  name: Gaia
+  qid: Q5516980
+GAME:
+  name: Shanda
+  qid: Q5575439
+GBCI:
+  name: Glacier Bancorp, Inc
+  qid: Q17183462
+GBX:
+  name: The Greenbrier Companies
+  qid: Q7738224
+GCI:
+  name: Gannett
+  qid: Q1345971
+GD:
+  name: General Dynamics
+  qid: Q502940
+GDDY:
+  name: GoDaddy
+  qid: Q1416215
+GDEN:
+  name: Golden Entertainment
+  qid: Q5579415
+GDEV:
+  name: Nexters
+  qid: Q85607259
+GDOT:
+  name: Green Dot Corporation
+  qid: Q16975278
+GE:
+  name: General Electric
+  qid: Q54173
+GEF:
+  name: Greif, Inc.
+  qid: Q20486914
+GEVO:
+  name: Gevo, Inc
+  qid: Q5554922
+GFF:
+  name: Griffon Corporation
+  qid: Q16840288
+GGAL:
+  name: Galicia Financial Group
+  qid: Q3118234
+GGR:
+  name: Gogoro
+  qid: Q19880591
+GH:
+  name: Guardant Health Inc.
+  qid: Q53308751
+GIC:
+  name: Global Industrial Company
+  qid: Q7663801
+GIFI:
+  name: Gulf Island Fabrication
+  qid: Q24896598
+GIGM:
+  name: GigaMedia Limited
+  qid: Q5560152
+GILT:
+  name: Gilat Satellite Networks Ltd.
+  qid: Q11159866
+GIS:
+  name: General Mills
+  qid: Q629998
+GL:
+  name: Torchmark
+  qid: Q7825574
+GLDD:
+  name: Great Lakes Dredge and Dock Company
+  qid: Q5599440
+GLNG:
+  name: Golar LNG
+  qid: Q5578424
+GLPG:
+  name: "Gal\xE1pagos NV"
+  qid: Q5517961
+GLT:
+  name: Glatfelter
+  qid: Q726654
+GLUE:
+  name: Monte Rosa Therapeutics
+  qid: Q115011580
+GLW:
+  name: Corning Inc.
+  qid: Q5842736
+GM:
+  name: General Motors
+  qid: Q81965
+GMCR:
+  name: Keurig Dr Pepper
+  qid: Q3116111
+GME:
+  name: GameStop
+  qid: Q202210
+GMED:
+  name: Globus Medical
+  qid: Q18344949
+GNRC:
+  name: Generac Holdings Inc.
+  qid: Q5531627
+GNTX:
+  name: Gentex
+  qid: Q5533602
+GNUS:
+  name: Genius Brands
+  qid: Q25231005
+GNW:
+  name: Genworth Financial
+  qid: Q1502712
+GO:
+  name: Grocery Outlet
+  qid: Q5609934
+GOCO:
+  name: GoHealth
+  qid: Q96379626
+GOEV:
+  name: Canoo
+  qid: Q99482082
+GOGL:
+  name: Golden Ocean Group
+  qid: Q2504058
+GOGO:
+  name: Gogo Inflight Internet
+  qid: Q27065
+GOL:
+  name: "Gol Transportes A\xE9reos"
+  qid: Q691637
+GOLD.L:
+  name: Randgold Resources
+  qid: Q1145004
+GOOG:
+  name: Google Inc.
+  qid: Q95
+GOOGL:
+  name: Google Inc.
+  qid: Q95
+GPC:
+  name: Genuine Parts Company
+  qid: Q5533818
+GPI:
+  name: Group 1 Automotive
+  qid: Q5611081
+GPK:
+  name: Graphic Packaging
+  qid: Q5597139
+GPN:
+  name: Global Payments
+  qid: Q5570544
+GPRO:
+  name: GoPro
+  qid: Q733482
+GPS:
+  name: Gap Inc.
+  qid: Q420822
+GRC:
+  name: Gorman-Rupp Company
+  qid: Q5586622
+GRFS:
+  name: Grifols
+  qid: Q901262
+GRMN:
+  name: Garmin
+  qid: Q658789
+GRP:
+  name: Grant Prideco
+  qid: Q16874768
+GRPN:
+  name: Groupon
+  qid: Q852787
+GRVY:
+  name: Gravity Corporation
+  qid: Q484143
+GS:
+  name: Goldman Sachs
+  qid: Q193326
+GSK:
+  name: GlaxoSmithKline
+  qid: Q212322
+GT:
+  name: Goodyear Tire and Rubber Company
+  qid: Q620875
+GTLB:
+  name: GitLab Inc.
+  qid: Q55589254
+GTLS:
+  name: Chart Industries, Inc
+  qid: Q22661749
+GTN:
+  name: Gray Television
+  qid: Q5598232
+GVA:
+  name: Granite Construction
+  qid: Q5595849
+GWW:
+  name: W. W. Grainger
+  qid: Q1627894
+GYRO:
+  name: Gyrodyne Company of America
+  qid: Q5625470
+H:
+  name: Hyatt Hotels Corporation
+  qid: Q1425063
+HA:
+  name: Hawaiian Airlines
+  qid: Q642610
+HAE:
+  name: Haemonetics
+  qid: Q16980281
+HAFC:
+  name: Hanmi Bank
+  qid: Q5648633
+HAIN:
+  name: Hain Celestial Group
+  qid: Q5639346
+HAL:
+  name: Halliburton
+  qid: Q656165
+HALO:
+  name: Halozyme Therapeutics
+  qid: Q5643474
+HAS:
+  name: Hasbro
+  qid: Q501476
+HBAN:
+  name: Huntington Bank
+  qid: Q798819
+HBI:
+  name: Hanesbrands
+  qid: Q5647768
+HBIO:
+  name: Harvard Bioscience
+  qid: Q16994890
+HCA:
+  name: HCA Corporation
+  qid: Q1630431
+HCM:
+  name: Hutchison China Meditech
+  qid: Q10921659
+HD:
+  name: The Home Depot
+  qid: Q864407
+HE:
+  name: Hawaiian Electric Industries
+  qid: Q5684524
+HEAR:
+  name: Turtle Beach Systems
+  qid: Q7856379
+HELE:
+  name: Helen of Troy Limited
+  qid: Q5703474
+HES:
+  name: Hess Corporation
+  qid: Q1615684
+HHR:
+  name: Headhunter
+  qid: Q4040469
+HHS:
+  name: Harte Hanks
+  qid: Q5674337
+HI:
+  name: Hillenbrand, Inc.
+  qid: Q5763038
+HIBB:
+  name: Hibbett Sports
+  qid: Q5750671
+HIG:
+  name: The Hartford
+  qid: Q444110
+HII:
+  name: Huntington Ingalls Industries
+  qid: Q7257522
+HIMX:
+  name: Himax
+  qid: Q5765159
+HL:
+  name: Hecla Mining
+  qid: Q5696498
+HLIT:
+  name: Harmonic Inc.
+  qid: Q15109880
+HLT:
+  name: Hilton Worldwide
+  qid: Q1057464
+HMC:
+  name: Honda
+  qid: Q9584
+HNI:
+  name: HNI Corporation
+  qid: Q5635303
+HOFV:
+  name: Hall of Fame Resort & Entertainment Co
+  qid: Q106070945
+HOLX:
+  name: Hologic
+  qid: Q5884072
+HOMB:
+  name: Home BancShares
+  qid: Q28402394
+HON:
+  name: Honeywell International, Inc.
+  qid: Q898208
+HPE:
+  name: Hewlett Packard Enterprise
+  qid: Q19923099
+HPQ:
+  name: HP Inc.
+  qid: Q21404084
+HRB:
+  name: H&R Block
+  qid: Q5627799
+HRI:
+  name: Herc Holdings Inc.
+  qid: Q107623842
+HROW:
+  name: Harrow Health
+  qid: Q22079529
+HSBC:
+  name: HSBC
+  qid: Q190464
+HSC:
+  name: Harsco
+  qid: Q1586955
+HSII:
+  name: Heidrick & Struggles
+  qid: Q17110635
+HST:
+  name: Host Hotels & Resorts
+  qid: Q1630559
+HTBI:
+  name: HomeTrust Bancshares
+  qid: Q16995776
+HTHT:
+  name: Huazhu Hotels Group
+  qid: Q15926208
+HTZ:
+  name: Hertz Global Holdings
+  qid: Q95205133
+HUBG:
+  name: Hub Group
+  qid: Q17183768
+HUBS:
+  name: HubSpot
+  qid: Q5926631
+HUN:
+  name: Huntsman Corporation
+  qid: Q851361
+HURN:
+  name: Huron Consulting Group
+  qid: Q17086972
+HVT:
+  name: Havertys
+  qid: Q5683881
+HWM:
+  name: Howmet Aerospace
+  qid: Q25104597
+HXL:
+  name: Hexcel
+  qid: Q5748967
+HYZN:
+  name: Hyzon Motors
+  qid: Q108076472
+HZNP:
+  name: Horizon Therapeutics
+  qid: Q16844753
+IAC:
+  name: IAC
+  qid: Q974846
+IBA:
+  name: Bachoco
+  qid: Q4838903
+IBCP:
+  name: Independent Bank
+  qid: Q6016398
+IBKR:
+  name: INTERACTIVE BROKERS LLC - ATS
+  qid: Q3901581
+IBM:
+  name: IBM
+  qid: Q37156
+IBN:
+  name: ICICI Bank
+  qid: Q1653258
+IBOC:
+  name: International Bancshares Corporation
+  qid: Q6048685
+ICCM:
+  name: IceCure Medical
+  qid: Q115792001
+ICFI:
+  name: ICF International
+  qid: Q5969562
+ICPT:
+  name: Intercept Pharmaceuticals
+  qid: Q16997126
+ICUI:
+  name: ICU Medical
+  qid: Q5969799
+IDCC:
+  name: InterDigital
+  qid: Q6044894
+IDT:
+  name: IDT Corporation
+  qid: Q1925384
+IDXX:
+  name: IDEXX Laboratories, Inc.
+  qid: Q1758392
+IEP:
+  name: Icahn Enterprises
+  qid: Q5985017
+IESC:
+  name: Integrated Electrical Services
+  qid: Q6042841
+IEX:
+  name: IDEX Corporation
+  qid: Q5970002
+IFF:
+  name: International Flavors & Fragrances
+  qid: Q1666568
+IFIN:
+  name: Investors Bank & Trust
+  qid: Q6060936
+IGT:
+  name: International Game Technology PLC
+  qid: Q5514677
+IHG:
+  name: InterContinental Hotels Group
+  qid: Q1424962
+IHRT:
+  name: iHeartMedia
+  qid: Q477993
+ILMN:
+  name: Illumina
+  qid: Q2068984
+IMAX:
+  name: IMAX Corporation
+  qid: Q1654103
+IMBI:
+  name: ShopHQ
+  qid: Q4356115
+IMGN:
+  name: ImmunoGen Inc.
+  qid: Q15964806
+IMMR:
+  name: Immersion Corporation
+  qid: Q10534742
+IMTX:
+  name: Immatics Biotechnologies (Germany)
+  qid: Q30256960
+INBK:
+  name: First Internet Bank of Indiana
+  qid: Q5453106
+INCY:
+  name: Incyte
+  qid: Q6015591
+INDB:
+  name: Rockland Trust
+  qid: Q7355463
+INFN:
+  name: Infinera
+  qid: Q6029685
+INFY:
+  name: Infosys
+  qid: Q26989
+ING:
+  name: ING Group
+  qid: Q645708
+INT:
+  name: World Fuel Services
+  qid: Q8035757
+INTC:
+  name: Intel
+  qid: Q248
+INVH:
+  name: Invitation Homes
+  qid: Q85769855
+INVZ:
+  name: Innoviz Technologies
+  qid: Q111804995
+IOSP:
+  name: Innospec
+  qid: Q15109891
+IOT:
+  name: Samsara
+  qid: Q108770716
+IOVA:
+  name: Iovance Biotherapeutics
+  qid: Q85769888
+IP:
+  name: International Paper
+  qid: Q202972
+IPG:
+  name: Interpublic Group of Companies
+  qid: Q1501630
+IPGP:
+  name: IPG Photonics
+  qid: Q5973024
+IQ:
+  name: iQIYI
+  qid: Q15913890
+IRBT:
+  name: iRobot
+  qid: Q285161
+IRDM:
+  name: Iridium Communications
+  qid: Q154387
+IRWD:
+  name: Ironwood Pharmaceuticals
+  qid: Q16997309
+ISRG:
+  name: Intuitive Surgical
+  qid: Q2743863
+ISRL:
+  name: Isramco Negev 2 Limited Partnership
+  qid: Q2918112
+IT:
+  name: Gartner
+  qid: Q174198
+ITRI:
+  name: Itron
+  qid: Q5923178
+ITT:
+  name: ITT Corporation
+  qid: Q582418
+ITW:
+  name: Illinois Tool Works
+  qid: Q1510378
+IVAC:
+  name: Intevac
+  qid: Q6057493
+IVZ:
+  name: Invesco
+  qid: Q522617
+IX:
+  name: Orix
+  qid: Q906055
+J:
+  name: Jacobs Engineering Group
+  qid: Q3157622
+JAKK:
+  name: Jakks Pacific
+  qid: Q4474231
+JAMF:
+  name: Jamf
+  qid: Q85770729
+JBHT:
+  name: J. B. Hunt
+  qid: Q4041705
+JBL:
+  name: Jabil
+  qid: Q2171646
+JBLU:
+  name: JetBlue Airways
+  qid: Q161086
+JBT:
+  name: JBT Corporation
+  qid: Q3156864
+JCI:
+  name: Johnson Controls
+  qid: Q667865
+JD:
+  name: JD.com
+  qid: Q3598926
+JHG:
+  name: Janus Henderson
+  qid: Q30325409
+JJSF:
+  name: J & J Snack Foods
+  qid: Q6109309
+JKHY:
+  name: Jack Henry & Associates
+  qid: Q6113060
+JKS:
+  name: Jinko Solar
+  qid: Q20182011
+JLL:
+  name: Jones Lang LaSalle
+  qid: Q1703389
+JNCE:
+  name: Jounce Therapeutics
+  qid: Q106760435
+JNJ:
+  name: Johnson & Johnson
+  qid: Q333718
+JNPR:
+  name: Juniper Networks
+  qid: Q1049080
+JOUT:
+  name: Johnson Outdoors
+  qid: Q19654979
+JPM:
+  name: JPMorgan Chase
+  qid: Q192314
+KALU:
+  name: Kaiser Aluminum
+  qid: Q6348410
+KAMN:
+  name: Kaman Aircraft
+  qid: Q1722848
+KB:
+  name: KB Kookmin Bank
+  qid: Q496606
+KBAL:
+  name: Kimball International
+  qid: Q1526456
+KBR:
+  name: KBR, Inc.
+  qid: Q596499
+KD:
+  name: Kyndryl
+  qid: Q106581385
+KELYA:
+  name: Kelly Services
+  qid: Q1538585
+KEN:
+  name: Kenon Holdings Ltd
+  qid: Q19605389
+KEP:
+  name: Korea Electric Power Corporation
+  qid: Q486737
+KEY:
+  name: KeyBank
+  qid: Q1740314
+KFY:
+  name: Korn Ferry
+  qid: Q1728446
+KGC:
+  name: Kinross Gold
+  qid: Q546880
+KHC:
+  name: Kraft Heinz
+  qid: Q19681433
+KIM:
+  name: Kimco Realty
+  qid: Q6410043
+KINS:
+  name: Kingstone Companies
+  qid: Q16998439
+KIRK:
+  name: Kirkland's
+  qid: Q6415714
+KLAC:
+  name: KLA Tencor
+  qid: Q624649
+KLIC:
+  name: Kulicke & Soffa Industries
+  qid: Q17063707
+KMB:
+  name: Kimberly-Clark
+  qid: Q1741634
+KMI:
+  name: Kinder Morgan
+  qid: Q931032
+KMPR:
+  name: Kemper Corporation
+  qid: Q6387063
+KO:
+  name: The Coca-Cola Company
+  qid: Q3295867
+KODK:
+  name: Kodak
+  qid: Q486269
+KOF:
+  name: Coca-Cola FEMSA
+  qid: Q20714863
+KOPN:
+  name: Kopin Corporation
+  qid: Q16998645
+KOS:
+  name: Kosmos Energy
+  qid: Q16733729
+KR:
+  name: Kroger
+  qid: Q153417
+KRFT:
+  name: Kraft Foods Group
+  qid: Q327751
+KRKR:
+  name: 36Kr
+  qid: Q10846071
+KRNT:
+  name: Kornit Digital
+  qid: Q6432445
+KRTX:
+  name: Karuna Therapeutics
+  qid: Q113503524
+KRUS:
+  name: Kura Sushi USA
+  qid: Q108415503
+KSS:
+  name: Kohl's
+  qid: Q967265
+KT:
+  name: KT Corporation
+  qid: Q485908
+KTCC:
+  name: Key Tronic
+  qid: Q1740323
+KTOS:
+  name: Kratos Defense & Security Solutions
+  qid: Q16858667
+L:
+  name: Loews Corporation
+  qid: Q826526
+LAD:
+  name: Lithia Motors
+  qid: Q6647881
+LAKE:
+  name: Lakeland Industries
+  qid: Q16999030
+LAMR:
+  name: Lamar Advertising Company
+  qid: Q3216588
+LANC:
+  name: T. Marzetti Company
+  qid: Q7668516
+LAUR:
+  name: Laureate Education
+  qid: Q689475
+LBRDA:
+  name: Liberty Broadband Corp
+  qid: Q105964823
+LC:
+  name: Lending Club
+  qid: Q6522340
+LCID:
+  name: Lucid Motors
+  qid: Q28027517
+LCTX:
+  name: Lineage Cell Therapeutics
+  qid: Q96482392
+LDI:
+  name: LoanDepot
+  qid: Q65117079
+LDOS:
+  name: Leidos
+  qid: Q502132
+LE:
+  name: Lands' End
+  qid: Q839555
+LEA:
+  name: Lear Corporation
+  qid: Q502344
+LECO:
+  name: Lincoln Electric
+  qid: Q6550657
+LEE:
+  name: Lee Enterprises
+  qid: Q6513538
+LEG:
+  name: Leggett & Platt
+  qid: Q1812555
+LEN:
+  name: Lennar Corporation
+  qid: Q16981175
+LEVI:
+  name: Levi Strauss & Co.
+  qid: Q127962
+LFUS:
+  name: Littelfuse
+  qid: Q6648755
+LFVN:
+  name: LifeVantage
+  qid: Q7251172
+LGIH:
+  name: LGI Homes
+  qid: Q6458324
+LH:
+  name: LabCorp
+  qid: Q6466630
+LHX:
+  name: L3Harris Technologies
+  qid: Q65053147
+LIFE:
+  name: Life Technologies
+  qid: Q1824441
+LIN:
+  name: Linde Group
+  qid: Q682759
+LINC:
+  name: Lincoln Group of Schools
+  qid: Q6550684
+LIND:
+  name: Lindblad Expeditions
+  qid: Q91387266
+LION:
+  name: Fidelity Southern Corporation
+  qid: Q16250432
+LKCO:
+  name: Luokong Technology
+  qid: Q104839226
+LKQ:
+  name: LKQ Corporation
+  qid: Q20711490
+LL:
+  name: LL Flooring
+  qid: Q6703090
+LLAP:
+  name: N
+  qid: Q118725786
+LLTC:
+  name: Linear Technology
+  qid: Q999567
+LLY:
+  name: Eli Lilly and Company
+  qid: Q632240
+LMT:
+  name: Lockheed Martin
+  qid: Q7240
+LNC:
+  name: Lincoln National Corporation
+  qid: Q1825763
+LNN:
+  name: Lindsay Manufacturing
+  qid: Q6552749
+LNT:
+  name: Alliant Energy
+  qid: Q4732492
+LOB:
+  name: Live Oak Bank
+  qid: Q20708193
+LOCO:
+  name: El Pollo Loco
+  qid: Q2353849
+LOGI:
+  name: Logitech
+  qid: Q223127
+LOOP:
+  name: LoopNet
+  qid: Q6675775
+LOVE:
+  name: LoveSac
+  qid: Q6690181
+LOW:
+  name: Lowe's
+  qid: Q1373493
+LPL:
+  name: LG Display
+  qid: Q483006
+LPLA:
+  name: LPL Financial
+  qid: Q6459734
+LRCX:
+  name: Lam Research
+  qid: Q1342041
+LRN:
+  name: Stride, Inc.
+  qid: Q6324302
+LSCC:
+  name: Lattice Semiconductor
+  qid: Q747207
+LSTR:
+  name: Landstar System
+  qid: Q6485221
+LUMN:
+  name: Lumen Technologies
+  qid: Q5063092
+LUNA:
+  name: Luna Innovations
+  qid: Q15109903
+LUV:
+  name: Southwest Airlines
+  qid: Q503308
+LVS:
+  name: Las Vegas Sands
+  qid: Q1506045
+LW:
+  name: Lamb Weston
+  qid: Q3216600
+LWAY:
+  name: Lifeway Foods
+  qid: Q6545549
+LXRX:
+  name: Lexicon Pharmaceuticals
+  qid: Q6537727
+LYB:
+  name: LyondellBasell
+  qid: Q899255
+LYFT:
+  name: Lyft
+  qid: Q17077936
+LYG:
+  name: Lloyds Banking Group
+  qid: Q1152764
+LYV:
+  name: Live Nation Entertainment
+  qid: Q1061903
+LZB:
+  name: La-Z-Boy
+  qid: Q6391583
+M:
+  name: Macy's, Inc.
+  qid: Q5479360
+MA:
+  name: Mastercard
+  qid: Q489921
+MAA:
+  name: Mid-America Apartments
+  qid: Q27988239
+MAC:
+  name: Macerich
+  qid: Q6723256
+MAR:
+  name: Marriott International
+  qid: Q1141173
+MARK:
+  name: Remark Media
+  qid: Q7311538
+MAS:
+  name: Masco
+  qid: Q6782872
+MASI:
+  name: Masimo
+  qid: Q6783278
+MAT:
+  name: Mattel
+  qid: Q596139
+MAXR:
+  name: Maxar Technologies
+  qid: Q48791239
+MAYS:
+  name: J.W. Mays
+  qid: Q15109897
+MBI:
+  name: MBIA
+  qid: Q1371852
+MBLY:
+  name: Mobileye
+  qid: Q2901365
+MC:
+  name: Moelis & Company
+  qid: Q16953039
+MCD:
+  name: "McDonald\u2019s"
+  qid: Q38076
+MCHP:
+  name: GARANT
+  qid: Q1545076
+MCHX:
+  name: Marchex
+  qid: Q17078915
+MCK:
+  name: McKesson Corporation
+  qid: Q570473
+MCO:
+  name: Moody's Corporation
+  qid: Q675585
+MCRI:
+  name: Atlantis Casino Resort Spa
+  qid: Q4816705
+MDC:
+  name: MDC Holdings
+  qid: Q6715131
+MDLZ:
+  name: Mondelez International
+  qid: Q12857502
+MDRX:
+  name: Allscripts
+  qid: Q4733274
+MDT:
+  name: Medtronic plc
+  qid: Q642189
+MDWD:
+  name: MediWound (Israel)
+  qid: Q43896231
+MED:
+  name: Medifast
+  qid: Q6806861
+MEDP:
+  name: Medpace
+  qid: Q17108701
+MELI:
+  name: Mercado Libre
+  qid: Q950419
+MEOH:
+  name: Methanex
+  qid: Q13529431
+MERC:
+  name: Mercer
+  qid: Q1391599
+MESA:
+  name: Mesa Air Group
+  qid: Q1922290
+MESO:
+  name: Mesoblast
+  qid: Q25326524
+MET:
+  name: MetLife
+  qid: Q607131
+MFC:
+  name: Manulife Financial
+  qid: Q1652574
+MFG:
+  name: Mizuho Financial Group
+  qid: Q166621
+MGA:
+  name: Magna International
+  qid: Q697311
+MGEE:
+  name: MGE Energy, Inc.
+  qid: Q6715705
+MGI:
+  name: MoneyGram
+  qid: Q1944412
+MGIC:
+  name: Magic Software Enterprises Ltd.
+  qid: Q1548363
+MGM:
+  name: MGM Resorts International
+  qid: Q568532
+MGTA:
+  name: Magenta Therapeutics
+  qid: Q99744291
+MHK:
+  name: Mohawk Industries
+  qid: Q6893780
+MHLD:
+  name: Maiden Holdings
+  qid: Q6735371
+MHO:
+  name: M/I Homes
+  qid: Q98424095
+MIDD:
+  name: Middleby Corporation
+  qid: Q17108492
+MIRM:
+  name: Mirum Pharmaceuticals
+  qid: Q113503532
+MKC:
+  name: McCormick & Company
+  qid: Q1915049
+MKL:
+  name: Markel Corporation
+  qid: Q6770621
+MKTX:
+  name: MarketAxess
+  qid: Q55622230
+MLI:
+  name: Mueller Industries
+  qid: Q16885315
+MLKN:
+  name: Knoll
+  qid: Q1624295
+MLM:
+  name: Martin Marietta Materials
+  qid: Q6776123
+MMC:
+  name: Marsh & McLennan Companies
+  qid: Q1786345
+MMI:
+  name: Marcus & Millichap
+  qid: Q6757974
+MMS:
+  name: Maximus Inc.
+  qid: Q6795931
+MMYT:
+  name: MakeMyTrip
+  qid: Q3630923
+MNDO:
+  name: Mind CTI
+  qid: Q6863447
+MNK:
+  name: Mallinckrodt Pharmaceuticals
+  qid: Q6744211
+MNKD:
+  name: MannKind Corporation
+  qid: Q6750663
+MNMD:
+  name: MindMed
+  qid: Q106615428
+MNST:
+  name: Monster Beverage
+  qid: Q1945295
+MO:
+  name: Altria
+  qid: Q445007
+MOFG:
+  name: Midwestone Financial Group
+  qid: Q6843476
+MOH:
+  name: Molina Healthcare
+  qid: Q6896175
+MORN:
+  name: Morningstar, Inc.
+  qid: Q1389504
+MP:
+  name: MP Materials
+  qid: Q105563992
+MPLX:
+  name: MPLX
+  qid: Q105965677
+MPWR:
+  name: Monolithic Power Systems, Inc.
+  qid: Q22058448
+MRBK:
+  name: Meridian Corporation
+  qid: Q111384721
+MRCY:
+  name: Mercury Systems
+  qid: Q6818651
+MRDB:
+  name: MariaDB Corporation Ab
+  qid: Q56826699
+MRK:
+  name: Merck & Co.
+  qid: Q247489
+MRNA:
+  name: Moderna
+  qid: Q17081612
+MRO:
+  name: Marathon Oil
+  qid: Q1577587
+MRVL:
+  name: Marvell Technology Group
+  qid: Q1347782
+MS:
+  name: Morgan Stanley
+  qid: Q334204
+MSCI:
+  name: MSCI
+  qid: Q768773
+MSEX:
+  name: Middlesex Water Company
+  qid: Q17113791
+MSFT:
+  name: Microsoft
+  qid: Q2283
+MSI:
+  name: Motorola Solutions
+  qid: Q634815
+MSTR:
+  name: MicroStrategy
+  qid: Q1192211
+MT:
+  name: ArcelorMittal
+  qid: Q27893
+MTB:
+  name: M&T Bank
+  qid: Q3272257
+MTCH:
+  name: Match Group
+  qid: Q23133268
+MTD:
+  name: Mettler Toledo
+  qid: Q680186
+MTEX:
+  name: Mannatech
+  qid: Q3372572
+MTH:
+  name: Meritage Homes Corporation
+  qid: Q6819538
+MTLS:
+  name: Materialise NV
+  qid: Q6786571
+MTN:
+  name: Vail Resorts
+  qid: Q16986288
+MTRN:
+  name: Materion
+  qid: Q4979671
+MTSI:
+  name: M/A-COM Technology Solutions
+  qid: Q17109447
+MTW:
+  name: Manitowoc Cranes
+  qid: Q4043693
+MUR:
+  name: Murphy Oil
+  qid: Q951259
+MUSA:
+  name: Murphy USA
+  qid: Q19604459
+MUX:
+  name: McEwen Mining
+  qid: Q6801109
+MWA:
+  name: Mueller Water Products
+  qid: Q16982326
+MXIM:
+  name: Maxim Integrated
+  qid: Q1784671
+MYGN:
+  name: Myriad Genetics
+  qid: Q3331496
+MYL:
+  name: Mylan
+  qid: Q899010
+NAII:
+  name: Natural Alternatives International
+  qid: Q15109912
+NATH:
+  name: Nathan's Famous
+  qid: Q1319505
+NATI:
+  name: National Instruments
+  qid: Q1544413
+NATR:
+  name: Nature's Sunshine Products
+  qid: Q4045079
+NBIX:
+  name: Neurocrine Biosciences
+  qid: Q7002174
+NBN:
+  name: Northeast Bank
+  qid: Q7057831
+NCLH:
+  name: Norwegian Cruise Line
+  qid: Q130309
+NCTY:
+  name: The9
+  qid: Q7711620
+NDAQ:
+  name: Nasdaq, Inc.
+  qid: Q1472929
+NDLS:
+  name: Noodles & Company
+  qid: Q7049673
+NDSN:
+  name: Nordson Corporation
+  qid: Q1998662
+NE:
+  name: Noble Corporation
+  qid: Q7045708
+NEE:
+  name: NextEra Energy
+  qid: Q967868
+NEM:
+  name: Newmont Mining Corporation
+  qid: Q1785405
+NEO:
+  name: NeoGenomics
+  qid: Q48976818
+NEOG:
+  name: NeoGen
+  qid: Q17114199
+NEON:
+  name: Neonode
+  qid: Q846246
+NET:
+  name: Cloudflare
+  qid: Q4778915
+NETI:
+  name: Eneti
+  qid: Q106900660
+NEWR:
+  name: New Relic
+  qid: Q7011152
+NFE:
+  name: New Fortress Energy
+  qid: Q106239511
+NFG:
+  name: National Fuel Gas
+  qid: Q12859164
+NFLX:
+  name: N
+  qid: Q116452644
+NGVC:
+  name: Vitamin Cottage Natural Grocers
+  qid: Q17146520
+NI:
+  name: NiSource
+  qid: Q1984481
+NICE:
+  name: Nice Ltd
+  qid: Q2091479
+NIO:
+  name: NIO
+  qid: Q29921278
+NIU:
+  name: Niu Technologies
+  qid: Q104868523
+NKE:
+  name: Nike
+  qid: Q483915
+NKTR:
+  name: Nektar Therapeutics
+  qid: Q17114308
+NLS:
+  name: Nautilus, Inc.
+  qid: Q3337196
+NMR:
+  name: Nomura Group
+  qid: Q658089
+NMRK:
+  name: Newmark Group
+  qid: Q7018524
+NNDM:
+  name: Nano Dimension Ltd.
+  qid: Q65251731
+NNI:
+  name: Nelnet
+  qid: Q6990264
+NNOX:
+  name: Nano-X Imaging
+  qid: Q109648854
+NOC:
+  name: Northrop Grumman Ship Systems
+  qid: Q4045482
+NOK:
+  name: Nokia
+  qid: Q1418
+NOV:
+  name: National Oilwell Varco
+  qid: Q1817417
+NOVA:
+  name: Sunnova Energy International
+  qid: Q98055133
+NOW:
+  name: ServiceNow
+  qid: Q7455653
+NPO:
+  name: Enpro Industries
+  qid: Q16013760
+NR:
+  name: Newpark Resources
+  qid: Q17114287
+NRG:
+  name: NRG Energy
+  qid: Q6955139
+NRGV:
+  name: Energy Vault
+  qid: Q57060073
+NS:
+  name: NuStar Energy
+  qid: Q7067712
+NSC:
+  name: Norfolk Southern Corporation
+  qid: Q20858163
+NSIT:
+  name: Insight Enterprises
+  qid: Q6038080
+NSP:
+  name: Insperity
+  qid: Q16980616
+NTCT:
+  name: NetScout Systems
+  qid: Q6998317
+NTES:
+  name: NetEase
+  qid: Q196259
+NTGR:
+  name: Netgear
+  qid: Q979690
+NTLA:
+  name: Intellia Therapeutics
+  qid: Q54621387
+NTNX:
+  name: Nutanix
+  qid: Q16959629
+NTR:
+  name: Nutrien
+  qid: Q48742870
+NTRA:
+  name: Natera
+  qid: Q6968762
+NTRS:
+  name: Northern Trust
+  qid: Q970695
+NUAN:
+  name: Nuance Communications
+  qid: Q1137289
+NUE:
+  name: Nucor
+  qid: Q1645081
+NUS:
+  name: Nu Skin Enterprises
+  qid: Q1764040
+NUVA:
+  name: NuVasive
+  qid: Q7067716
+NVAX:
+  name: Novavax
+  qid: Q17072200
+NVCR:
+  name: Novocure (Jersey)
+  qid: Q30267502
+NVDA:
+  name: Nvidia
+  qid: Q182477
+NVMI:
+  name: Nova Ltd
+  qid: Q7064069
+NVO:
+  name: Novo Nordisk
+  qid: Q818846
+NVR:
+  name: NVR, Inc.
+  qid: Q6955706
+NVS:
+  name: Novartis
+  qid: Q507154
+NWBI:
+  name: Northwest Bank
+  qid: Q7060191
+NWL:
+  name: Newell Brands
+  qid: Q667599
+NWLI:
+  name: National Western Life
+  qid: Q4045074
+NWS:
+  name: News Corp
+  qid: Q14289857
+NWSA:
+  name: News Corp
+  qid: Q14289857
+NXGN:
+  name: NextGen Healthcare Information Systems
+  qid: Q17109731
+NXPI:
+  name: NXP Semiconductors
+  qid: Q1155668
+NXST:
+  name: Nexstar Media Group
+  qid: Q7020906
+NYCB:
+  name: New York Community Bank
+  qid: Q6517792
+NYT:
+  name: The New York Times Company
+  qid: Q2529982
+O:
+  name: Realty Income Corporation
+  qid: Q7301386
+OC:
+  name: Owens Corning
+  qid: Q7114736
+OCC:
+  name: Optical Cable Corporation
+  qid: Q7098806
+OCFC:
+  name: OceanFirst Bank
+  qid: Q85846831
+OCGN:
+  name: Ocugen
+  qid: Q106698278
+ODFL:
+  name: Old Dominion Freight Line
+  qid: Q7083862
+ODP:
+  name: Office Depot
+  qid: Q1337797
+OGE:
+  name: Oklahoma Gas & Electric
+  qid: Q2007484
+OGN:
+  name: Organon & Co.
+  qid: Q903372
+OGS:
+  name: ONE Gas
+  qid: Q16983192
+OI:
+  name: Owens-Illinois
+  qid: Q180106
+OII:
+  name: Oceaneering International
+  qid: Q1150535
+OKE:
+  name: ONEOK
+  qid: Q11074156
+OLED:
+  name: Universal Display Corporation
+  qid: Q3116307
+OLLI:
+  name: Ollie's Bargain Outlet
+  qid: Q7088304
+OLN:
+  name: Olin Corporation
+  qid: Q7086908
+OMAB:
+  name: Grupo Aeroportuario Centro Norte
+  qid: Q5612176
+OMC:
+  name: Omnicom Group
+  qid: Q1519267
+OMEX:
+  name: Odyssey Marine Exploration
+  qid: Q1812489
+OMF:
+  name: OneMain Financial
+  qid: Q28444592
+OMI:
+  name: Owens & Minor
+  qid: Q7114733
+ONB:
+  name: Old National Bank
+  qid: Q7084595
+ONCY:
+  name: Oncolytics Biotech
+  qid: Q13529450
+ONTO:
+  name: Onto Innovation
+  qid: Q7377461
+ONVO:
+  name: Organovo
+  qid: Q17073430
+OOMA:
+  name: Ooma
+  qid: Q7095328
+OPEN:
+  name: Opendoor
+  qid: Q96397546
+OPK:
+  name: Opko Health Inc.
+  qid: Q17138182
+OPRA:
+  name: Opera Software
+  qid: Q215639
+OPTT:
+  name: Ocean Power Technologies Australasia
+  qid: Q17018954
+OPY:
+  name: Oppenheimer Holdings
+  qid: Q7098552
+ORAN:
+  name: Orange
+  qid: Q1431486
+ORCL:
+  name: Oracle
+  qid: Q19900
+ORI:
+  name: Old Republic International
+  qid: Q7084833
+ORMP:
+  name: Oramed Pharmaceuticals Inc.
+  qid: Q65089744
+ORTX:
+  name: Orchard Therapeutics
+  qid: Q107364296
+OSH:
+  name: Orchard Supply Hardware
+  qid: Q7100213
+OSIS:
+  name: Spacelabs Healthcare
+  qid: Q7572694
+OSK:
+  name: Oshkosh Corporation
+  qid: Q1969091
+OSPN:
+  name: OneSpan
+  qid: Q3552887
+OSS:
+  name: One Stop Systems, Inc.
+  qid: Q115978123
+OSTK:
+  name: Overstock.com
+  qid: Q3301958
+OTEX:
+  name: Open Text Corporation
+  qid: Q2025791
+OTIS:
+  name: Otis Worldwide Corporation
+  qid: Q1134069
+OTLY:
+  name: Oatly
+  qid: Q10605824
+OTTR:
+  name: Otter Tail Corporation
+  qid: Q7109415
+OUST:
+  name: Ouster
+  qid: Q97574745
+OUT:
+  name: Outfront Media
+  qid: Q23090931
+OVV:
+  name: Ovintiv Inc.
+  qid: Q688687
+OWL:
+  name: Blue Owl Capital
+  qid: Q114795591
+OXM:
+  name: Oxford Industries
+  qid: Q7115371
+OXY:
+  name: Occidental Petroleum
+  qid: Q2013357
+OZK:
+  name: Bank OZK
+  qid: Q20708654
+OZON:
+  name: Ozon
+  qid: Q2365235
+PAAS:
+  name: Pan American Silver
+  qid: Q7129613
+PACB:
+  name: Pacific Biosciences
+  qid: Q2069106
+PACW:
+  name: CapitalSource
+  qid: Q5035425
+PANW:
+  name: Palo Alto Networks
+  qid: Q7128508
+PARA:
+  name: Paramount Global
+  qid: Q76846862
+PAY:
+  name: VeriFone
+  qid: Q2912154
+PAYC:
+  name: Paycom
+  qid: Q17084959
+PAYX:
+  name: Paychex
+  qid: Q946080
+PBA:
+  name: Pembina Pipeline
+  qid: Q7161915
+PBF:
+  name: PBF Energy
+  qid: Q16979157
+PBH:
+  name: Prestige Brands
+  qid: Q7241774
+PBPB:
+  name: Potbelly Sandwich Shop
+  qid: Q7234777
+PBR:
+  name: Petrobras
+  qid: Q210047
+PBT:
+  name: Permian Basin Royalty Trust
+  qid: Q7169321
+PBYI:
+  name: Puma Biotechnology
+  qid: Q28877490
+PCAR:
+  name: PACCAR
+  qid: Q1477661
+PCG:
+  name: Pacific Gas and Electric Company
+  qid: Q1815011
+PCH:
+  name: Potlatch Corp.
+  qid: Q7234972
+PCTY:
+  name: Paylocity Corporation
+  qid: Q7156760
+PD:
+  name: PagerDuty
+  qid: Q48989804
+PDCO:
+  name: Patterson Companies
+  qid: Q538203
+PDD:
+  name: Pinduoduo
+  qid: Q47015652
+PEAK:
+  name: Healthpeak Properties
+  qid: Q16975567
+PEG:
+  name: Public Service Enterprise Group
+  qid: Q930919
+PEGA:
+  name: Pegasystems
+  qid: Q7160600
+PENN:
+  name: Penn Entertainment
+  qid: Q7163201
+PEP:
+  name: PepsiCo
+  qid: Q334800
+PERI:
+  name: Perion Network Ltd.
+  qid: Q1660996
+PESI:
+  name: Perma-Fix Environmental Services
+  qid: Q30256497
+PETS:
+  name: PetMed Express
+  qid: Q7171526
+PFBC:
+  name: Preferred Bank
+  qid: Q7239836
+PFE:
+  name: Pfizer
+  qid: Q206921
+PFIE:
+  name: Profire Energy
+  qid: Q7248285
+PFLT:
+  name: PennantPark Investment Corporation
+  qid: Q96575127
+PFS:
+  name: Provident Bank of New Jersey
+  qid: Q7252517
+PG:
+  name: Procter & Gamble
+  qid: Q212405
+PGEN:
+  name: Precigen, Inc
+  qid: Q30282590
+PH:
+  name: Parker Hannifin
+  qid: Q1470619
+PHG:
+  name: Koninklijke Philips NV
+  qid: Q170416
+PHGE:
+  name: Biomx
+  qid: Q96482167
+PHI:
+  name: PLDT
+  qid: Q644167
+PHM:
+  name: PulteGroup
+  qid: Q7259716
+PHUN:
+  name: Phunware
+  qid: Q78203110
+PI:
+  name: Impinj
+  qid: Q4041316
+PII:
+  name: Polaris Industries
+  qid: Q1850587
+PINS:
+  name: Pinterest
+  qid: Q255381
+PIPR:
+  name: Piper Sandler Companies
+  qid: Q3389022
+PJT:
+  name: PJT Partners
+  qid: Q23680081
+PKG:
+  name: Packaging Corporation of America
+  qid: Q16983334
+PKI:
+  name: PerkinElmer
+  qid: Q2066858
+PL:
+  name: Planet Labs
+  qid: Q17085620
+PLAB:
+  name: Photronics Inc
+  qid: Q7187948
+PLAY:
+  name: Dave & Buster's
+  qid: Q5228205
+PLCE:
+  name: The Children's Place
+  qid: Q3520257
+PLD:
+  name: Prologis
+  qid: Q16983765
+PLNT:
+  name: Planet Fitness
+  qid: Q7201095
+PLTR:
+  name: Palantir Technologies
+  qid: Q2047336
+PLUG:
+  name: Plug Power
+  qid: Q7205253
+PLUR:
+  name: Pluri Inc.
+  qid: Q7205567
+PLUS:
+  name: EPlus Inc
+  qid: Q16992684
+PMD:
+  name: Psychemedics Corporation
+  qid: Q7256219
+PNBK:
+  name: Patriot National Bancorp
+  qid: Q17074260
+PNC:
+  name: PNC Financial Services
+  qid: Q38928
+PNFP:
+  name: Pinnacle Financial Partners
+  qid: Q7196294
+PNR:
+  name: Pentair
+  qid: Q7165001
+PNW:
+  name: Pinnacle West Capital Corporation
+  qid: Q26110522
+PODD:
+  name: Insulet (United States)
+  qid: Q104480795
+POOL:
+  name: Pool Corporation
+  qid: Q101209811
+POR:
+  name: Portland General Electric
+  qid: Q7231939
+PPBI:
+  name: Pacific Premier Bancorp
+  qid: Q30588251
+PPC:
+  name: Pilgrim's Corp
+  qid: Q3388421
+PPG:
+  name: PPG Industries
+  qid: Q48754
+PPL:
+  name: PPL
+  qid: Q2044512
+PRFT:
+  name: Perficient
+  qid: Q7168146
+PRGO:
+  name: Perrigo Company Plc
+  qid: Q2916497
+PRGS:
+  name: Progress Software
+  qid: Q741046
+PRI:
+  name: Primerica
+  qid: Q7243481
+PRIM:
+  name: Primoris Services Corporation
+  qid: Q20714950
+PRO:
+  name: PROS
+  qid: Q20858221
+PRPL:
+  name: Purple Innovation, Inc.
+  qid: Q28228105
+PRTS:
+  name: U.S. Auto Parts
+  qid: Q91498427
+PRU:
+  name: Prudential Financial
+  qid: Q2114414
+PSA:
+  name: Public Storage
+  qid: Q1156045
+PSMT:
+  name: PriceSmart
+  qid: Q7242563
+PSO:
+  name: Pearson plc
+  qid: Q1916402
+PSTV:
+  name: Plus Therapeutics
+  qid: Q113510380
+PSX:
+  name: Phillips 66
+  qid: Q1656230
+PTC:
+  name: Parametric Technology Corporation
+  qid: Q1760641
+PTCT:
+  name: PTC Therapeutics
+  qid: Q7120959
+PTSI:
+  name: PAM Transport
+  qid: Q7118151
+PUK:
+  name: Prudential plc
+  qid: Q1374135
+PVH:
+  name: PVH
+  qid: Q1132272
+PWFL:
+  name: PowerFleet
+  qid: Q96574719
+PWR:
+  name: Quanta Services
+  qid: Q7268886
+PXD:
+  name: Pioneer Natural Resources
+  qid: Q4046987
+PXLW:
+  name: Pixelworks
+  qid: Q17141691
+PYPL:
+  name: PayPal
+  qid: Q483959
+PZZA:
+  name: Papa Johns
+  qid: Q2759586
+QCOM:
+  name: Qualcomm Inc.
+  qid: Q544847
+QD:
+  name: Qudian
+  qid: Q59089890
+QDEL:
+  name: Quidel
+  qid: Q15917582
+QGEN:
+  name: Qiagen
+  qid: Q315287
+QIWI:
+  name: Qiwi
+  qid: Q4047736
+QLYS:
+  name: Qualys
+  qid: Q7268802
+QMCO:
+  name: Quantum Corporation
+  qid: Q1413997
+QRVO:
+  name: Qorvo
+  qid: Q18169198
+QSR:
+  name: Restaurant Brands International
+  qid: Q18619470
+QTT:
+  name: Qutoutiao
+  qid: Q59318110
+QUOT:
+  name: coupons.com
+  qid: Q5178055
+R:
+  name: Ryder
+  qid: Q2178198
+RACE:
+  name: Ferrari N.V.
+  qid: Q22243729
+RAD:
+  name: Rite Aid
+  qid: Q3433273
+RAIL:
+  name: FreightCar America
+  qid: Q5501354
+RAVE:
+  name: Pizza Inn
+  qid: Q4118850
+RBBN:
+  name: Ribbon Communications
+  qid: Q54871457
+RBCAA:
+  name: Republic Bank & Trust Company
+  qid: Q7314387
+RBLX:
+  name: Roblox Corporation
+  qid: Q67186598
+RCI:
+  name: Rogers Communications
+  qid: Q165684
+RCKY:
+  name: Rocky Brands
+  qid: Q7355744
+RCL:
+  name: Royal Caribbean Group
+  qid: Q427881
+RCUS:
+  name: Arcus Biosciences
+  qid: Q113503877
+RDCM:
+  name: Radcom Ltd
+  qid: Q7280047
+RDFN:
+  name: Redfin
+  qid: Q7305846
+RDN:
+  name: Radian Group
+  qid: Q7280290
+RDWR:
+  name: Radware
+  qid: Q2907743
+RDY:
+  name: Dr. Reddy's Laboratories
+  qid: Q908961
+REAL:
+  name: The RealReal
+  qid: Q65090792
+RELL:
+  name: Richardson Electronics
+  qid: Q28776959
+RENN:
+  name: Renren
+  qid: Q784022
+RENT:
+  name: Rentrak
+  qid: Q7313561
+RF:
+  name: Regions Financial Corporation
+  qid: Q917131
+RGCO:
+  name: RGC Resources
+  qid: Q7276640
+RGLD:
+  name: Royal Gold
+  qid: Q7374224
+RGS:
+  name: Regis Corporation
+  qid: Q7309325
+RHI:
+  name: Robert Half
+  qid: Q2157448
+RIDE:
+  name: Lordstown Motors
+  qid: Q86681792
+RIG:
+  name: Transocean
+  qid: Q686785
+RILY:
+  name: B. Riley Financial
+  qid: Q108670343
+RIO:
+  name: N
+  qid: Q10291918
+RIVN:
+  name: Rivian Automotive
+  qid: Q7338847
+RJF:
+  name: Raymond James Financial
+  qid: Q7298901
+RKDA:
+  name: Arcadia Biosciences (United States)
+  qid: Q30285756
+RKT:
+  name: Rocket Companies, Inc.
+  qid: Q105887484
+RL:
+  name: Ralph Lauren Corporation
+  qid: Q1641437
+RLI:
+  name: RLI Corp.
+  qid: Q7276947
+RLX:
+  name: RLX Technology Inc.
+  qid: Q105965623
+RMBS:
+  name: Rambus
+  qid: Q1196745
+RMCF:
+  name: Rocky Mountain Chocolate Factory
+  qid: Q7355878
+RMD:
+  name: ResMed
+  qid: Q7314903
+RMR:
+  name: The RMR Group
+  qid: Q84698811
+RMTI:
+  name: Rockwell Medical Inc.
+  qid: Q17131128
+RNA:
+  name: Prosensa
+  qid: Q7250583
+RNG:
+  name: RingCentral
+  qid: Q7334682
+RNST:
+  name: Renasant Bank
+  qid: Q28446528
+ROAD:
+  name: Caliber System
+  qid: Q7339697
+ROCK:
+  name: Gibraltar Industries
+  qid: Q111387847
+ROK:
+  name: Rockwell Automation
+  qid: Q1529234
+ROKU:
+  name: Roku, Inc.
+  qid: Q7360089
+ROL:
+  name: Rollins Inc.
+  qid: Q7361273
+ROP:
+  name: Roper Technologies
+  qid: Q16932392
+ROST:
+  name: Ross Stores
+  qid: Q3442791
+RPD:
+  name: Rapid7
+  qid: Q107705824
+RPT:
+  name: RPT Realty
+  qid: Q7289304
+RRC:
+  name: Range Resources
+  qid: Q4048013
+RRGB:
+  name: Red Robin
+  qid: Q7304886
+RS:
+  name: Reliance Steel & Aluminum Co.
+  qid: Q7311031
+RSG:
+  name: Republic Services
+  qid: Q7314415
+RTX:
+  name: Raytheon Technologies Corporation
+  qid: Q89368734
+RUN:
+  name: Sunrun
+  qid: Q7638158
+RUSHA:
+  name: Rush Enterprises
+  qid: Q25245312
+RUTH:
+  name: Ruth's Hospitality Group
+  qid: Q7382830
+RXT:
+  name: Rackspace Technology
+  qid: Q2990586
+RY:
+  name: Royal Bank of Canada
+  qid: Q735261
+RYAAY:
+  name: Ryanair
+  qid: Q170614
+RYTM:
+  name: Rhythm Pharmaceuticals
+  qid: Q113504151
+S:
+  name: Sears
+  qid: Q6499202
+SABR:
+  name: Sabre Corporation
+  qid: Q4376955
+SAIA:
+  name: Saia
+  qid: Q7399844
+SAIC:
+  name: Science Applications International Corporation
+  qid: Q14993631
+SALM:
+  name: Salem Media Group
+  qid: Q5431118
+SAM:
+  name: Boston Beer Company
+  qid: Q894558
+SAN:
+  name: Santander Group
+  qid: Q806215
+SAND:
+  name: Sandstorm Gold
+  qid: Q7416970
+SANM:
+  name: Sanmina Corporation
+  qid: Q426583
+SAP:
+  name: SAP
+  qid: Q552581
+SASR:
+  name: Sandy Spring Bank
+  qid: Q17109642
+SATS:
+  name: EchoStar
+  qid: Q1280748
+SBAC:
+  name: SBA Communications
+  qid: Q7388926
+SBGI:
+  name: Sinclair Broadcast Group
+  qid: Q2288792
+SBH:
+  name: Sally Beauty Holdings
+  qid: Q7405065
+SBNY:
+  name: Signature Bank
+  qid: Q24204571
+SBSW:
+  name: Sibanye-Stillwater
+  qid: Q21639712
+SCHN:
+  name: Schnitzer Steel Industries
+  qid: Q7431916
+SCHW:
+  name: Charles Schwab Corporation
+  qid: Q1066028
+SCI:
+  name: Service Corporation International
+  qid: Q11306218
+SCL:
+  name: Stepan Company
+  qid: Q3208192
+SCOR:
+  name: Comscore
+  qid: Q734779
+SCSC:
+  name: Scansource
+  qid: Q22121871
+SCU:
+  name: Sculptor Capital Management
+  qid: Q7076286
+SCX:
+  name: The L. S. Starrett Company
+  qid: Q6456630
+SDC:
+  name: SmileDirectClub
+  qid: Q60751931
+SDRL:
+  name: Seadrill
+  qid: Q1477156
+SE:
+  name: Sea Ltd
+  qid: Q93520415
+SEAC:
+  name: SeaChange International
+  qid: Q19867417
+SEE:
+  name: Sealed Air
+  qid: Q7440621
+SEIC:
+  name: SEI Investments Company
+  qid: Q7389686
+SEM:
+  name: Select Medical
+  qid: Q16984522
+SEV:
+  name: Sevcon
+  qid: Q7457122
+SF:
+  name: Stifel
+  qid: Q7616390
+SFIX:
+  name: Stitch Fix
+  qid: Q18385610
+SFM:
+  name: Sprouts Farmers Market
+  qid: Q7581369
+SFNC:
+  name: Simmons Bank
+  qid: Q28402389
+SGEN:
+  name: Seagen
+  qid: Q17155112
+SGMO:
+  name: Sangamo Therapeutics
+  qid: Q7417809
+SHAK:
+  name: Shake Shack
+  qid: Q1058722
+SHG:
+  name: Shinhan Bank
+  qid: Q487230
+SHOP:
+  name: Shopify
+  qid: Q7501150
+SHPG:
+  name: Shire plc
+  qid: Q905049
+SHW:
+  name: Sherwin-Williams
+  qid: Q48881
+SI:
+  name: Siemens Mexico
+  qid: Q16984598
+SIAL:
+  name: Sigma-Aldrich
+  qid: Q680841
+SID:
+  name: "Companhia Sider\xFArgica Nacional"
+  qid: Q400384
+SIG:
+  name: Signet Jewelers Limited
+  qid: Q7512923
+SILC:
+  name: Silicom
+  qid: Q10819817
+SIVB:
+  name: SVB Financial Group
+  qid: Q111839764
+SJM:
+  name: The J.M. Smucker Company
+  qid: Q7742790
+SJR:
+  name: Shaw Communications
+  qid: Q1516849
+SJW:
+  name: SJW Group
+  qid: Q17141393
+SKIL:
+  name: Skillsoft
+  qid: Q20136005
+SKLZ:
+  name: Skillz
+  qid: Q18378515
+SKM:
+  name: SK Telecom
+  qid: Q493145
+SKT:
+  name: Tanger Factory Outlet Centers
+  qid: Q7682888
+SKX:
+  name: Skechers
+  qid: Q2945643
+SLAB:
+  name: Silicon Laboratories
+  qid: Q2286044
+SLB:
+  name: Schlumberger
+  qid: Q1425316
+SLF:
+  name: Sun Life Financial
+  qid: Q835456
+SLG:
+  name: SL Green Realty
+  qid: Q7391016
+SLGN:
+  name: Silgan Holdings
+  qid: Q17080741
+SLP:
+  name: Simulations Plus
+  qid: Q7521341
+SM:
+  name: SM Energy
+  qid: Q16984687
+SMCI:
+  name: Supermicro
+  qid: Q1817174
+SMFG:
+  name: Sumitomo Mitsui Financial Group
+  qid: Q2094989
+SMMT:
+  name: Summit Therapeutics
+  qid: Q113503453
+SMRT:
+  name: Stein Mart
+  qid: Q7606770
+SMSI:
+  name: Smith Micro Software
+  qid: Q7545224
+SNA:
+  name: Snap-on
+  qid: Q1631922
+SNAP:
+  name: Snap Inc.
+  qid: Q27022329
+SNBR:
+  name: Sleep Number
+  qid: Q7447640
+SNDA:
+  name: Sonida Senior Living
+  qid: Q5035662
+SNDK:
+  name: SanDisk
+  qid: Q260833
+SNDR:
+  name: Schneider National
+  qid: Q7431894
+SNEX:
+  name: StoneX
+  qid: Q1666331
+SNOW:
+  name: Snowflake Inc.
+  qid: Q22078063
+SNPO:
+  name: Snap One
+  qid: Q113754376
+SNPS:
+  name: Synopsys
+  qid: Q2303478
+SNV:
+  name: Synovus
+  qid: Q3508889
+SNX:
+  name: Synnex
+  qid: Q7662493
+SNY:
+  name: Sanofi
+  qid: Q158205
+SO:
+  name: Southern Company
+  qid: Q2304693
+SOFI:
+  name: SoFi
+  qid: Q17020720
+SOHU:
+  name: Sohu
+  qid: Q965133
+SOLO:
+  name: ElectraMeccanica
+  qid: Q28127133
+SON:
+  name: Sonoco
+  qid: Q7562151
+SONM:
+  name: Sonim Technologies
+  qid: Q1225892
+SONO:
+  name: Sonos
+  qid: Q3492619
+SONY:
+  name: Sony
+  qid: Q41187
+SOPH:
+  name: Sophia Genetics
+  qid: Q79583223
+SP:
+  name: Spelling Television
+  qid: Q2721586
+SPB:
+  name: Spectrum Brands
+  qid: Q771865
+SPCE:
+  name: Virgin Galactic
+  qid: Q373225
+SPG:
+  name: Simon Property Group
+  qid: Q2287759
+SPGI:
+  name: S&P Global
+  qid: Q868587
+SPLK:
+  name: Splunk
+  qid: Q1835753
+SPLS:
+  name: Staples Inc.
+  qid: Q785943
+SPNS:
+  name: Sapiens International Corporation N.v
+  qid: Q7420971
+SPOT:
+  name: Spotify Technology
+  qid: Q60269744
+SPPI:
+  name: Spectrum Pharmaceuticals
+  qid: Q7575301
+SPWR:
+  name: SunPower
+  qid: Q645525
+SQ:
+  name: Block, Inc.
+  qid: Q110778747
+SRCL:
+  name: Stericycle
+  qid: Q3973262
+SRE:
+  name: Sempra
+  qid: Q7449804
+SRG:
+  name: Seritage Growth Properties
+  qid: Q105099852
+SRPT:
+  name: Sarepta Therapeutics
+  qid: Q15109846
+SSB:
+  name: South State Bank
+  qid: Q55633597
+SSD:
+  name: Simpson Manufacturing Company
+  qid: Q29469208
+SSKN:
+  name: MELA Sciences
+  qid: Q6715352
+SSNC:
+  name: SS&C Technologies
+  qid: Q7392916
+SSP:
+  name: E. W. Scripps Company
+  qid: Q283457
+SSRM:
+  name: SSR Mining
+  qid: Q7516369
+SSYS:
+  name: Stratasys
+  qid: Q3975878
+STC:
+  name: Stewart Information Services Corporation
+  qid: Q7615829
+STE:
+  name: Steris
+  qid: Q80947821
+STIM:
+  name: Neuronetics, Inc.
+  qid: Q7002474
+STKL:
+  name: SunOpta
+  qid: Q7638153
+STLA:
+  name: Stellantis
+  qid: Q97439162
+STM:
+  name: STMicroelectronics
+  qid: Q661845
+STN:
+  name: Stantec
+  qid: Q2331913
+STNE:
+  name: StoneCo Ltd.
+  qid: Q105966359
+STR:
+  name: Questar Corporation
+  qid: Q7271499
+STT:
+  name: State Street Corporation
+  qid: Q2037125
+STX:
+  name: Seagate Technology
+  qid: Q705392
+STZ:
+  name: Constellation Brands
+  qid: Q1128160
+SU:
+  name: Canadian Oil Sands Limited
+  qid: Q1032244
+SUI:
+  name: Sun Communities
+  qid: Q7638250
+SWK:
+  name: Stanley Black & Decker
+  qid: Q706094
+SWKS:
+  name: Skyworks Solutions
+  qid: Q7538146
+SWN:
+  name: Southwestern Energy
+  qid: Q7571413
+SWX:
+  name: Southwest Gas
+  qid: Q7571280
+SYF:
+  name: Synchrony
+  qid: Q18387139
+SYK:
+  name: Stryker Corporation
+  qid: Q2357515
+SYNA:
+  name: Synaptics
+  qid: Q1571490
+SYNH:
+  name: Syneos Health
+  qid: Q18153430
+T:
+  name: AT&T
+  qid: Q35476
+TA:
+  name: TravelCenters of America
+  qid: Q7835892
+TAL:
+  name: TAL Education Group
+  qid: Q96407440
+TAP:
+  name: Molson Coors Brewing Company
+  qid: Q3319685
+TARO:
+  name: TARO Pharmaceuticals
+  qid: Q16131515
+TAST:
+  name: Carrols Restaurant Group
+  qid: Q17078981
+TATT:
+  name: Tat Technologies Ltd
+  qid: Q7669439
+TBI:
+  name: TrueBlue
+  qid: Q33127130
+TBLA:
+  name: Taboola
+  qid: Q18154756
+TCBI:
+  name: Texas Capital Bank
+  qid: Q54622058
+TCBK:
+  name: Tri Counties Bank
+  qid: Q108888216
+TCOM:
+  name: Trip.com Group
+  qid: Q5191790
+TCS:
+  name: The Container Store
+  qid: Q7727445
+TCX:
+  name: Tucows
+  qid: Q2087612
+TD:
+  name: Toronto-Dominion Bank
+  qid: Q1194832
+TDG:
+  name: TransDigm Group
+  qid: Q7833612
+TDUP:
+  name: Thredup
+  qid: Q105751519
+TDW:
+  name: Tidewater
+  qid: Q7800873
+TDY:
+  name: Teledyne Technologies
+  qid: Q7696127
+TEAM:
+  name: Atlassian
+  qid: Q757307
+TECH:
+  name: Bio-Techne
+  qid: Q19873469
+TEL:
+  name: TE Connectivity
+  qid: Q663452
+TENB:
+  name: Tenable Network Security
+  qid: Q55948312
+TEO:
+  name: Telecom Argentina
+  qid: Q1544312
+TER:
+  name: Teradyne
+  qid: Q2404292
+TERN:
+  name: Terayon
+  qid: Q7701648
+TEVA:
+  name: Teva- Pharmaceutical Industries Ltd.
+  qid: Q898750
+TEX:
+  name: Terex
+  qid: Q1937503
+TFC:
+  name: Truist Financial
+  qid: Q795486
+TFCF:
+  name: 21st Century Fox
+  qid: Q5476713
+TFCFA:
+  name: 21st Century Fox
+  qid: Q5476713
+TFII:
+  name: TFI International
+  qid: Q7833614
+TFX:
+  name: Teleflex
+  qid: Q7696143
+TGNA:
+  name: Tegna Inc.
+  qid: Q20648663
+TGT:
+  name: Target Corporation
+  qid: Q1046951
+THC:
+  name: Tenet Healthcare
+  qid: Q3518066
+THFF:
+  name: First Financial Bank
+  qid: Q5453008
+THG:
+  name: Hanover Insurance
+  qid: Q5649395
+THO:
+  name: Thor Industries
+  qid: Q7796068
+THRY:
+  name: Thryv, Inc.
+  qid: Q14914829
+THS:
+  name: Isac
+  qid: Q16958009
+TIGO:
+  name: Millicom
+  qid: Q276345
+TILE:
+  name: Interface, Inc.
+  qid: Q1666040
+TIMB:
+  name: TIM Brasil
+  qid: Q2079243
+TITN:
+  name: Titan Machinery
+  qid: Q7809764
+TJX:
+  name: TJX Companies
+  qid: Q1285819
+TKC:
+  name: Turkcell
+  qid: Q283852
+TLK:
+  name: Telkom Indonesia
+  qid: Q2305438
+TLYS:
+  name: Tillys
+  qid: Q7802889
+TM:
+  name: Toyota
+  qid: Q53268
+TME:
+  name: Tencent Music
+  qid: Q56011958
+TMHC:
+  name: Taylor Morrison
+  qid: Q7690075
+TMO:
+  name: Thermo Fisher Scientific
+  qid: Q643674
+TMUS:
+  name: T-Mobile US
+  qid: Q3511885
+TNDM:
+  name: Tandem Diabetes Care, Inc.
+  qid: Q22121872
+TNXP:
+  name: Tonix Pharmaceuticals
+  qid: Q39052499
+TPC:
+  name: Tutor Perini
+  qid: Q7856971
+TPH:
+  name: TRI Pointe Group
+  qid: Q58041994
+TPIC:
+  name: TPI Composites
+  qid: Q106623027
+TPL:
+  name: Texas Pacific Land Trust
+  qid: Q7707900
+TPR:
+  name: Tapestry, Inc.
+  qid: Q56273715
+TR:
+  name: Tootsie Roll Industries
+  qid: Q7824332
+TRC:
+  name: Tejon Ranch
+  qid: Q7695260
+TREE:
+  name: LendingTree
+  qid: Q6522339
+TRGP:
+  name: Targa Resources
+  qid: Q7685824
+TRIP:
+  name: Tripadvisor
+  qid: Q1770710
+TRMB:
+  name: Trimble
+  qid: Q2297063
+TRMD:
+  name: TORM
+  qid: Q694872
+TROW:
+  name: T. Rowe Price
+  qid: Q3511946
+TRP:
+  name: TC Energy
+  qid: Q1516108
+TRST:
+  name: TrustCo Bank
+  qid: Q7848087
+'TRUE':
+  name: TrueCar
+  qid: Q7847309
+TRUP:
+  name: Trupanion
+  qid: Q7848008
+TRV:
+  name: The Travelers Companies
+  qid: Q942471
+TRVG:
+  name: trivago
+  qid: Q265286
+TRVN:
+  name: Trevena Inc
+  qid: Q7838954
+TSCO:
+  name: Tractor Supply Company
+  qid: Q15109925
+TSEM:
+  name: Tower Semiconductor Ltd.
+  qid: Q7829730
+TSLA:
+  name: Tesla, Inc.
+  qid: Q478214
+TSM:
+  name: TSMC
+  qid: Q713418
+TSN:
+  name: Tyson Foods
+  qid: Q1325987
+TSQ:
+  name: Townsquare Media
+  qid: Q7830269
+TT:
+  name: Trane Technologies
+  qid: Q1663044
+TTC:
+  name: Toro
+  qid: Q935059
+TTD:
+  name: Trade Desk
+  qid: Q60744565
+TTEC:
+  name: TTEC
+  qid: Q7695737
+TTEK:
+  name: Tetra Tech
+  qid: Q7706196
+TTGT:
+  name: TechTarget
+  qid: Q7692144
+TTWO:
+  name: Take-Two Interactive
+  qid: Q94933
+TU:
+  name: TELUS
+  qid: Q165858
+TUP:
+  name: Tupperware
+  qid: Q1129117
+TV:
+  name: Grupo Televisa, owner of TelevisaUnivision
+  qid: Q47099
+TW:
+  name: TRADEWEB LLC
+  qid: Q18754966
+TWIN:
+  name: Twin Disc
+  qid: Q7858146
+TWLO:
+  name: Twilio
+  qid: Q7858039
+TWNK:
+  name: Hostess Brands
+  qid: Q17068094
+TWOU:
+  name: 2U
+  qid: Q4633233
+TWST:
+  name: Twist Bioscience
+  qid: Q43303430
+TXG:
+  name: 10X Genomics (United States)
+  qid: Q56585268
+TXN:
+  name: Texas Instruments
+  qid: Q193412
+TXRH:
+  name: Texas Roadhouse
+  qid: Q7707945
+TZOO:
+  name: Travelzoo
+  qid: Q7836120
+U:
+  name: US Airways Group
+  qid: Q7875835
+UA:
+  name: Under Armour
+  qid: Q2031485
+UAA:
+  name: Under Armour
+  qid: Q2031485
+UAL:
+  name: United Airlines Holdings
+  qid: Q871700
+UBA:
+  name: Urstadt Biddle Properties
+  qid: Q60763554
+UBER:
+  name: Uber Technology
+  qid: Q780442
+UBFO:
+  name: United Security Bancshares
+  qid: Q16959092
+UBSI:
+  name: United Bank
+  qid: Q16920636
+UCBI:
+  name: United Community Bank
+  qid: Q7887635
+UDR:
+  name: UDR Inc
+  qid: Q27988153
+UFPT:
+  name: UFP Technologies
+  qid: Q17145997
+UHAL:
+  name: Amerco
+  qid: Q106221634
+UHS:
+  name: Universal Health Services
+  qid: Q7893967
+UI:
+  name: Ubiquiti Networks
+  qid: Q7876533
+UIHC:
+  name: UPC Insurance
+  qid: Q85811579
+UIS:
+  name: Unisys
+  qid: Q518016
+UL:
+  name: Unilever
+  qid: Q157062
+ULBI:
+  name: Ultralife Corporation
+  qid: Q17086475
+ULTA:
+  name: Ulta Beauty
+  qid: Q7880076
+UMBF:
+  name: UMB Financial Corporation
+  qid: Q7865088
+UMC:
+  name: United Microelectronics Corporation
+  qid: Q143616
+UNF:
+  name: UniFirst
+  qid: Q7884645
+UNFI:
+  name: United Natural Foods
+  qid: Q7888979
+UNH:
+  name: UnitedHealth Group
+  qid: Q2103926
+UNM:
+  name: Unum
+  qid: Q143435
+UNP:
+  name: Union Pacific Corporation
+  qid: Q20183163
+UPWK:
+  name: Upwork
+  qid: Q3344170
+URBN:
+  name: Urban Outfitters
+  qid: Q3552193
+URI:
+  name: United Rentals
+  qid: Q7889101
+USB:
+  name: U.S. Bancorp
+  qid: Q739084
+USFD:
+  name: US Foods
+  qid: Q1668265
+USM:
+  name: U.S. Cellular
+  qid: Q2466256
+USNA:
+  name: USANA Health Sciences
+  qid: Q2502355
+UVV:
+  name: Universal Corporation
+  qid: Q7893929
+UWMC:
+  name: UWM Holdings
+  qid: Q106024170
+V:
+  name: Visa Inc.
+  qid: Q328840
+VAL:
+  name: Valspar
+  qid: Q48822
+VALU:
+  name: Value Line
+  qid: Q7912737
+VBIV:
+  name: VBI Vaccines
+  qid: Q106522144
+VCEL:
+  name: Vericel
+  qid: Q19604609
+VECO:
+  name: Veeco
+  qid: Q1665653
+VEEV:
+  name: Veeva Systems
+  qid: Q24204493
+VEON:
+  name: VEON
+  qid: Q1562826
+VFC:
+  name: VF Corporation
+  qid: Q457960
+VIA:
+  name: Viacom
+  qid: Q214346
+VIAB:
+  name: Viacom
+  qid: Q214346
+VIAV:
+  name: VIAVI Solutions
+  qid: Q28222763
+VICR:
+  name: Vicor Corporation
+  qid: Q7925565
+VIPS:
+  name: Vipshop
+  qid: Q19854317
+VIRT:
+  name: Virtu Financial
+  qid: Q7934906
+VJET:
+  name: Voxeljet
+  qid: Q19799775
+VLRS:
+  name: Volaris
+  qid: Q431757
+VLTA:
+  name: Volta Charging
+  qid: Q109307156
+VMC:
+  name: Vulcan Materials Company
+  qid: Q1685287
+VMI:
+  name: Valmont Industries
+  qid: Q7912506
+VMW:
+  name: VMware Inc.
+  qid: Q11407
+VNET:
+  name: 21Vianet
+  qid: Q25230554
+VNO:
+  name: Vornado Realty Trust
+  qid: Q368181
+VNT:
+  name: Vontier
+  qid: Q101209850
+VOD:
+  name: Vodafone
+  qid: Q122141
+VOXX:
+  name: Voxx International
+  qid: Q2506396
+VOYA:
+  name: Voya Financial
+  qid: Q5972276
+VPG:
+  name: N
+  qid: Q120007567
+VRA:
+  name: Vera Bradley
+  qid: Q7920749
+VRAY:
+  name: ViewRay
+  qid: Q77581453
+VRNS:
+  name: Varonis Systems
+  qid: Q19903773
+VRNT:
+  name: Verint Systems
+  qid: Q7921363
+VRSK:
+  name: Verisk Analytics
+  qid: Q7921370
+VRSN:
+  name: Verisign
+  qid: Q734338
+VRTS:
+  name: Virtus Investment Partners
+  qid: Q7935247
+VRTV:
+  name: Veritiv
+  qid: Q27988208
+VRTX:
+  name: Vertex Pharmaceuticals
+  qid: Q2744099
+VSAT:
+  name: ViaSat
+  qid: Q7924358
+VSEC:
+  name: VSE Corporation
+  qid: Q7907548
+VSH:
+  name: Vishay Intertechnology
+  qid: Q2528284
+VST:
+  name: Vistra
+  qid: Q104158381
+VSTO:
+  name: Vista Outdoor
+  qid: Q21072695
+VTR:
+  name: Ventas, Inc.
+  qid: Q19865761
+VTRS:
+  name: Viatris
+  qid: Q101983981
+VUZI:
+  name: Vuzix
+  qid: Q7943726
+VVV:
+  name: Valvoline
+  qid: Q16531742
+VXRT:
+  name: Vaxart
+  qid: Q30292482
+W:
+  name: Wayfair
+  qid: Q3540193
+WAB:
+  name: Wabtec
+  qid: Q741707
+WABC:
+  name: Westamerica Bank
+  qid: Q7987101
+WAFD:
+  name: WaFd Bank
+  qid: Q7971859
+WAT:
+  name: Waters Corporation
+  qid: Q1322011
+WB:
+  name: Weibo Corporation
+  qid: Q12010467
+WBD:
+  name: Warner Bros. Discovery
+  qid: Q107074885
+WBS:
+  name: Webster Bank
+  qid: Q7978891
+WBX:
+  name: Wallbox
+  qid: Q107183498
+WCC:
+  name: WESCO International
+  qid: Q7949044
+WD:
+  name: Walker & Dunlop
+  qid: Q60764327
+WDAY:
+  name: Workday, Inc.
+  qid: Q8034666
+WDFC:
+  name: WD-40 Company
+  qid: Q21189117
+WEC:
+  name: Wisconsin Energy Corporation
+  qid: Q8027166
+WELL:
+  name: Welltower
+  qid: Q20486917
+WEN:
+  name: Wendy's Company
+  qid: Q2559267
+WERN:
+  name: Werner Enterprises
+  qid: Q7983382
+WEX:
+  name: Wright Express
+  qid: Q8038212
+WF:
+  name: Woori Financial Group
+  qid: Q484117
+WFC:
+  name: Wells Fargo
+  qid: Q744149
+WFM:
+  name: Whole Foods Market
+  qid: Q1809448
+WHD:
+  name: Cactus Inc.
+  qid: Q111384774
+WHG:
+  name: Westwood Holdings Group
+  qid: Q21010691
+WHLM:
+  name: Wilhelmina Models
+  qid: Q4019844
+WHR:
+  name: Whirlpool Corporation
+  qid: Q1471346
+WINA:
+  name: Winmark
+  qid: Q28048853
+WING:
+  name: Wingstop
+  qid: Q8025339
+WIRE:
+  name: Encore Wire
+  qid: Q110186196
+WIT:
+  name: Wipro
+  qid: Q1364176
+WIX:
+  name: Wix.com
+  qid: Q420506
+WKHS:
+  name: Workhorse Group
+  qid: Q28406599
+WLDN:
+  name: Willdan Group
+  qid: Q17087372
+WLK:
+  name: Westlake Corporation
+  qid: Q17326957
+WM:
+  name: Waste Management, Inc
+  qid: Q2552219
+WMB:
+  name: Williams Companies
+  qid: Q930639
+WMG:
+  name: Warner Music Group
+  qid: Q21077
+WMT:
+  name: Walmart
+  qid: Q483551
+WNS:
+  name: WNS Global Services
+  qid: Q7953597
+WOLF:
+  name: Wolfspeed
+  qid: Q5183828
+WOOF:
+  name: VCA Animal Hospitals
+  qid: Q7906620
+WOR:
+  name: Worthington Industries
+  qid: Q2594130
+WPP:
+  name: Wausau Paper
+  qid: Q16986877
+WPRT:
+  name: Westport Innovations
+  qid: Q7989598
+WRB:
+  name: W. R. Berkley
+  qid: Q1369955
+WRK:
+  name: WestRock
+  qid: Q21016487
+WSBC:
+  name: WesBanco
+  qid: Q7983629
+WSFS:
+  name: WSFS Bank
+  qid: Q7955609
+WSM:
+  name: Williams-Sonoma
+  qid: Q2581220
+WSR:
+  name: Whitestone REIT
+  qid: Q100323973
+WST:
+  name: West Pharmaceutical Services
+  qid: Q1660662
+WTFC:
+  name: Wintrust Financial
+  qid: Q23680018
+WTRG:
+  name: Essential Utilities
+  qid: Q2894362
+WU:
+  name: Western Union
+  qid: Q861042
+WVE:
+  name: Wave Life Sciences
+  qid: Q91396922
+WVVI:
+  name: Willamette Valley Vineyards
+  qid: Q8003328
+WW:
+  name: WW International
+  qid: Q1929466
+WWD:
+  name: Woodward
+  qid: Q8033550
+WWE:
+  name: WWE
+  qid: Q35339
+WWW:
+  name: Wolverine World Wide
+  qid: Q8030548
+WY:
+  name: Weyerhaeuser
+  qid: Q1780382
+WYNN:
+  name: Wynn Resorts
+  qid: Q2274089
+X:
+  name: U.S. Steel
+  qid: Q72539
+XEL:
+  name: Xcel Energy
+  qid: Q1486956
+XGN:
+  name: Exagen Inc.
+  qid: Q106435940
+XIN:
+  name: Xinyuan Real Estate
+  qid: Q8044687
+XM:
+  name: Qualtrics
+  qid: Q7268803
+XNET:
+  name: Xunlei Limited
+  qid: Q15915960
+XOM:
+  name: ExxonMobil
+  qid: Q156238
+XOS:
+  name: Xos
+  qid: Q112032576
+XP:
+  name: XP Investimentos
+  qid: Q10394124
+XPEV:
+  name: XPeng
+  qid: Q63035278
+XPO:
+  name: XPO, Inc.
+  qid: Q8042415
+XRAY:
+  name: Dentsply
+  qid: Q834888
+XTLB:
+  name: XTL Bio
+  qid: Q96482054
+XYL:
+  name: Xylem Inc.
+  qid: Q3146975
+YELP:
+  name: Yelp
+  qid: Q2299611
+YEXT:
+  name: Yext
+  qid: Q8053341
+YNDX:
+  name: Yandex N.V.
+  qid: Q47120756
+YOU:
+  name: Clear Secure
+  qid: Q25245477
+YTEN:
+  name: Yield10 Bioscience
+  qid: Q6822359
+YTRA:
+  name: Yatra.com
+  qid: Q16968189
+YY:
+  name: YY
+  qid: Q8046104
+Z:
+  name: Zillow
+  qid: Q8071921
+ZBH:
+  name: Zimmer Biomet Holdings
+  qid: Q203552
+ZEUS:
+  name: Olympic Steel
+  qid: Q7089136
+ZFOX:
+  name: ZeroFox
+  qid: Q29096796
+ZG:
+  name: Zillow
+  qid: Q8071921
+ZH:
+  name: Zhihu
+  qid: Q15898172
+ZIM:
+  name: Zim Integrated Shipping Services Ltd
+  qid: Q203386
+ZION:
+  name: Zions Bancorporation
+  qid: Q205378
+ZM:
+  name: Zoom Video Communications
+  qid: Q17460900
+ZS:
+  name: Zscaler
+  qid: Q8074786
+ZTO:
+  name: ZTO EXPRESS
+  qid: Q10876705
+ZTS:
+  name: Zoetis
+  qid: Q8073337
+ZUMZ:
+  name: Zumiez
+  qid: Q8075252
+ZUO:
+  name: Zuora
+  qid: Q8075320
+ZYNE:
+  name: Zynerba Pharmaceuticals
+  qid: Q30283745
+ZYXI:
+  name: Zynex
+  qid: Q17147182

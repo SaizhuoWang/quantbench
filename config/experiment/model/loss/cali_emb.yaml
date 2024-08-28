@@ -1,0 +1,4 @@
+name: EmbCalibrationLoss
+module_path: q4l.model.loss.zoo
+kwargs:
+  lambda_c: 1.0

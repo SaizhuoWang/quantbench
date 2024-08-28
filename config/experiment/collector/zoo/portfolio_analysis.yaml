@@ -1,0 +1,98 @@
+strategy:
+  signal:
+    name: SoftTopkStrategy
+    module_path: q4l.qlib.contrib.strategy.cost_control
+    kwargs:
+      signal: <PRED>
+      topk: 300
+  position:
+    name: DirectPositionStrategy
+    module_path: q4l.backtest.strategy
+    kwargs:
+      position: <PRED>
+
+
+exchange:
+  cn:
+    name: Q4LExchange
+    module_path: q4l.eval.backtest.exchange
+    kwargs:
+      storage_backend: disk
+      compute_backend: myhxdf
+      deal_price: close
+      open_cost: 0.0015
+      close_cost: 0.0015
+      impact_cost: 0.001
+      min_cost: 5
+      pool: ${experiment.data.pool}
+      limit_threshold:
+        - limitup
+        - limitdown
+      trade_unit: 100
+      loader_config: ${experiment.data.loader}
+  us:
+    name: Q4LExchange
+    module_path: q4l.eval.backtest.exchange
+    kwargs:
+      storage_backend: disk
+      compute_backend: myhxdf
+      deal_price: close
+      open_cost: 0.000
+      close_cost: 0.000
+      impact_cost: 0.001
+      min_cost: 0
+      pool: ${experiment.data.pool}
+      loader_config: ${experiment.data.loader}
+  hk:
+    name: Q4LExchange
+    module_path: q4l.eval.backtest.exchange
+    kwargs:
+      storage_backend: disk
+      compute_backend: myhxdf
+      deal_price: close
+      open_cost: 0.001
+      close_cost: 0.001
+      min_cost: 0
+      pool: ${experiment.data.pool}
+      loader_config: ${experiment.data.loader}
+  uk:
+    name: Q4LExchange
+    module_path: q4l.eval.backtest.exchange
+    kwargs:
+      storage_backend: disk
+      compute_backend: myhxdf
+      deal_price: close
+      open_cost: 0.0015
+      close_cost: 0.0015
+      min_cost: 0
+      pool: ${experiment.data.pool}
+      loader_config: ${experiment.data.loader}
+  jp:
+    name: Q4LExchange
+    module_path: q4l.eval.backtest.exchange
+    kwargs:
+      storage_backend: disk
+      compute_backend: myhxdf
+      deal_price: close
+      open_cost: 0.0015
+      close_cost: 0.0015
+      min_cost: 0
+      pool: ${experiment.data.pool}
+      loader_config: ${experiment.data.loader}
+
+portana_record:
+    name: PortAnaRecord
+    module_path: q4l.qlib.workflow.record_temp
+    kwargs:
+      strategy: ${experiment.collector.zoo.backtest_zoo.strategy.${experiment.model.output_type}}
+      executor:
+        name: SimulatorExecutor
+        module_path: q4l.qlib.backtest.executor
+        kwargs:
+          time_per_step: day
+          generate_portfolio_metrics: true
+      exchange_kwargs:
+        exchange: ${experiment.collector.zoo.backtest_zoo.exchange.${experiment.data.region}}
+      account: 1.0e+8
+      benchmark: ${experiment.data.benchmark}
+

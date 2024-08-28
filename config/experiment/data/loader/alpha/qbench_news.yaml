@@ -1,0 +1,7 @@
+defaults:
+  - base_data_loader_alpha
+
+name: news
+expressions:
+  news_count: "{disk:count}"
+  news_score: "{disk:normalized}"

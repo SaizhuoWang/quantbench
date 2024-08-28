@@ -1,0 +1,23 @@
+defaults:
+  - base_data_loader_alpha
+
+name: fundamental
+expressions:
+  fundamental_market_cap: "log({disk:market_cap})"    # (0, 60)
+  fundamental_pe: "{disk:inv_pe}"   # (-1, 1)
+  fundamental_pb: "{disk:inv_pb}"   # (-1, 1)
+  fundamental_eps: "1 / {disk:eps}" # (-1, 1)
+  fundamental_dividend_yield: "{disk:dividend_yield}" # (0, 1)
+  fundamental_roe: "{disk:roe}"     # (0, 1)
+  fundamental_roa: "{disk:roa}"     # (0, 1)
+  fundamental_ps: "{disk:ps}"       # (0.5, 10)
+  fundamental_de_ratio: "{disk:de_ratio}"    # (0, 3)
+  fundamental_free_cash_flow: "{disk:free_cash_flow}"  # (0, 100)
+  fundamental_current_ratio: "{disk:current_ratio}"   # (0, 3)
+  fundamental_quick_ratio: "{disk:quick_ratio}"       # (0, 3)
+  fundamental_gross_margin: "{disk:gross_margin}"     # (0, 1)
+  fundamental_operating_margin: "{disk:operating_margin}" # (0, 1)
+  fundamental_net_margin: "{disk:net_margin}"      # (0, 1)
+  fundamental_ev: "{disk:ev}"  # (0, 60)
+  fundamental_ev_ebitda: "{disk:ev_ebitda}" # (0, 60)
+  fundamental_bvps: "1 / {disk:bvps}"  # (0, 60)

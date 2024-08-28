@@ -1,0 +1,11 @@
+name: CompositeLoss
+module_path: q4l.model.loss.zoo
+kwargs:
+  components:
+    - name: MSELoss
+      module_path: q4l.model.loss.zoo
+      kwargs: {}
+    - name: PairwiseRankingLoss
+      module_path: q4l.model.loss.zoo
+      kwargs: {}
+  weights: [1.0, 0.5]

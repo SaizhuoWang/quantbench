@@ -1,0 +1,4 @@
+name: EmbeddingLayer
+module_path: q4l.model.zoo.emb
+kwargs:
+  input_dim: ${experiment.model.input_size}

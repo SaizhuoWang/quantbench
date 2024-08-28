@@ -1,0 +1,21 @@
+defaults:
+  - base_spatial_model
+
+name: DTML
+model_type: spatial
+
+components:
+  spatial:
+    name: DTML
+    module_path: q4l.model.zoo.spatial.adaptive.dtml
+    kwargs:
+      node_emb_dim: 256
+      out_features: 256
+      num_heads: 8
+      num_layers: 1
+      x_window: ${experiment.data.sampler.x_window}
+
+  temporal:
+    name: IdentityTemporalModel
+    module_path: q4l.model.zoo.temporal.base
+    kwargs: {}

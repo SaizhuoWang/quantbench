@@ -1,0 +1,215 @@
+{"qid":"Q478214","label":"Tesla, Inc.","symbol":"0R0X.IL"}
+{"qid":"Q270077","label":"7digital","symbol":"7DIG.L"}
+{"qid":"Q274372","label":"sphanis","symbol":"888.L"}
+{"qid":"Q541451","label":"Anglo American plc","symbol":"AAL.L"}
+{"qid":"Q54621936","label":"Abrdn","symbol":"ABDN.L"}
+{"qid":"Q267417","label":"Admiral Group","symbol":"ADM.L"}
+{"qid":"Q4400200","label":"Rusagro","symbol":"AGRO.L"}
+{"qid":"Q4805956","label":"Ashtead Group","symbol":"AHT.L"}
+{"qid":"Q51747","label":"Air China","symbol":"AIRC.L"}
+{"qid":"Q4657474","label":"A J Bell","symbol":"AJB.L"}
+{"qid":"Q585150","label":"Antofagasta PLC","symbol":"ANTO.L"}
+{"qid":"Q211951","label":"Asos","symbol":"ASC.L"}
+{"qid":"Q2310500","label":"Ascential","symbol":"ASCL.L"}
+{"qid":"Q1616858","label":"Tatneft","symbol":"ATAD.L"}
+{"qid":"Q4826130","label":"Auto Trader Group","symbol":"AUTO.L"}
+{"qid":"Q55103384","label":"Avast","symbol":"AVST.L"}
+{"qid":"Q847869","label":"AVEVA","symbol":"AVV.L"}
+{"qid":"Q2003549","label":"Axis Bank","symbol":"AXB.L"}
+{"qid":"Q731938","label":"AstraZeneca","symbol":"AZN.L"}
+{"qid":"Q385426","label":"Babcock International","symbol":"BAB.L"}
+{"qid":"Q2064018","label":"Bakkav\u00f6r","symbol":"BAKK.L"}
+{"qid":"Q245343","label":"Barclays","symbol":"BARC.L"}
+{"qid":"Q856411","label":"British American Tobacco","symbol":"BATS.L"}
+{"qid":"Q20539356","label":"Tritax Big Box REIT","symbol":"BBOX.L"}
+{"qid":"Q16927770","label":"Brave Bison","symbol":"BBSN.L"}
+{"qid":"Q591090","label":"Barratt Developments","symbol":"BDEV.L"}
+{"qid":"Q625713","label":"BHP Group","symbol":"BHP.L"}
+{"qid":"Q4904749","label":"Biffa","symbol":"BIFF.L"}
+{"qid":"Q4892023","label":"Berkeley Group Holdings","symbol":"BKG.L"}
+{"qid":"Q919646","label":"British Land","symbol":"BLND.L"}
+{"qid":"Q4836931","label":"B&M","symbol":"BME.L"}
+{"qid":"Q568642","label":"Bloomsbury Publishing plc","symbol":"BMY.L"}
+{"qid":"Q806215","label":"Santander Group","symbol":"BNC.L"}
+{"qid":"Q872718","label":"Bunzl","symbol":"BNZL.L"}
+{"qid":"Q30688042","label":"Boohoo Group","symbol":"BOO.L"}
+{"qid":"Q152057","label":"BP","symbol":"BP_.L"}
+{"qid":"Q16245318","label":"Batm Advanced Communications Ltd","symbol":"BVC.L"}
+{"qid":"Q5035433","label":"Capital & Regional","symbol":"CAL.L"}
+{"qid":"Q5035431","label":"Capital & Counties Properties","symbol":"CAPC.L"}
+{"qid":"Q5038192","label":"Card Factory","symbol":"CARD.L"}
+{"qid":"Q1104910","label":"Coca-Cola Hellenic","symbol":"CCH.L"}
+{"qid":"Q1044059","label":"Carnival Corporation & plc","symbol":"CCL.L"}
+{"qid":"Q19593","label":"Celtic F.C.","symbol":"CCP.L"}
+{"qid":"Q20711946","label":"Caffyns","symbol":"CFYN.L"}
+{"qid":"Q5053566","label":"Catlin Group","symbol":"CGL.L"}
+{"qid":"Q5120901","label":"Cineworld","symbol":"CINE.L"}
+{"qid":"Q16987518","label":"Clarkson plc","symbol":"CKN.L"}
+{"qid":"Q5039561","label":"Carillion","symbol":"CLLN.L"}
+{"qid":"Q259013","label":"Centrica","symbol":"CNA.L"}
+{"qid":"Q5159103","label":"Concurrent Technologies Corporation","symbol":"CNC.L"}
+{"qid":"Q110321485","label":"Cordiant Digital Infrastructure","symbol":"CORD.L"}
+{"qid":"Q782697","label":"Compass Group","symbol":"CPG.L"}
+{"qid":"Q606013","label":"Capita","symbol":"CPI.L"}
+{"qid":"Q3003175","label":"Croda International","symbol":"CRDA.L"}
+{"qid":"Q1053299","label":"CRH","symbol":"CRH.L"}
+{"qid":"Q5204483","label":"DCC plc","symbol":"DCC.L"}
+{"qid":"Q6569399","label":"Dairy Farm International Holdings","symbol":"DFIB.L"}
+{"qid":"Q161140","label":"Diageo","symbol":"DGE.L"}
+{"qid":"Q699810","label":"De La Rue","symbol":"DLAR.L"}
+{"qid":"Q5263338","label":"Derwent London","symbol":"DLN.L"}
+{"qid":"Q1256028","label":"Drax Group","symbol":"DRX.L"}
+{"qid":"Q19903249","label":"DWF LLP","symbol":"DWF.L"}
+{"qid":"Q1407658","label":"Man Group","symbol":"EMG.L"}
+{"qid":"Q25103691","label":"Entain","symbol":"ENT.L"}
+{"qid":"Q14832845","label":"Esure","symbol":"ESUR.L"}
+{"qid":"Q1344736","label":"Entertainment One","symbol":"ETO.L"}
+{"qid":"Q1382653","label":"Evraz","symbol":"EVR.L"}
+{"qid":"Q191551","label":"easyJet","symbol":"EZJ.L"}
+{"qid":"Q302251","label":"Frontier Developments","symbol":"FDEV.L"}
+{"qid":"Q1198156","label":"FirstGroup plc","symbol":"FGP.L"}
+{"qid":"Q23022611","label":"Flutter Entertainment","symbol":"FLTR.L"}
+{"qid":"Q2913554","label":"Frasers Group","symbol":"FRAS.L"}
+{"qid":"Q3087545","label":"Fresnillo plc","symbol":"FRES.L"}
+{"qid":"Q5253950","label":"Fuller's Brewery","symbol":"FSTA.L"}
+{"qid":"Q20711812","label":"GB Group","symbol":"GBG.L"}
+{"qid":"Q5530611","label":"Gemfields","symbol":"GEM.L"}
+{"qid":"Q5531617","label":"Genel Energy","symbol":"GENL.L"}
+{"qid":"Q16639028","label":"Gfinity","symbol":"GFIN.L"}
+{"qid":"Q5519051","label":"Galliford Try","symbol":"GFRD.L"}
+{"qid":"Q5592537","label":"Grafton Group","symbol":"GFTU.L"}
+{"qid":"Q5617503","label":"Gulf Keystone Petroleum","symbol":"GKP.L"}
+{"qid":"Q169339","label":"Glencore","symbol":"GLEN.L"}
+{"qid":"Q5564162","label":"Greene King","symbol":"GNK.L"}
+{"qid":"Q1166056","label":"Go-Ahead Group plc","symbol":"GOG.L"}
+{"qid":"Q5582545","label":"Good Energy","symbol":"GOOD.L"}
+{"qid":"Q3403981","label":"Greggs","symbol":"GRG.L"}
+{"qid":"Q212322","label":"GlaxoSmithKline","symbol":"GSK.L"}
+{"qid":"Q48815022","label":"The Gym Group","symbol":"GYM.L"}
+{"qid":"Q55613750","label":"Hilton Food Group","symbol":"HFG.L"}
+{"qid":"Q463094","label":"Foxconn","symbol":"HHPD.L"}
+{"qid":"Q5643254","label":"Halma plc","symbol":"HLMA.L"}
+{"qid":"Q190464","label":"HSBC","symbol":"HSBA.L"}
+{"qid":"Q5890431","label":"Homeserve","symbol":"HSV.L"}
+{"qid":"Q61925901","label":"Hostelworld Group","symbol":"HSW.L"}
+{"qid":"Q55931","label":"Hyundai Motor Company","symbol":"HYUD.L"}
+{"qid":"Q8774","label":"International Airlines Group","symbol":"IAG.L"}
+{"qid":"Q6047302","label":"Intermediate Capital Group","symbol":"ICP.L"}
+{"qid":"Q638098","label":"Royal Mail","symbol":"IDS.L"}
+{"qid":"Q1424962","label":"InterContinental Hotels Group","symbol":"IHG.L"}
+{"qid":"Q55614507","label":"IntegraFin","symbol":"IHP.L"}
+{"qid":"Q229764","label":"3i","symbol":"III.L"}
+{"qid":"Q1471161","label":"Imperial Brands","symbol":"IMB.L"}
+{"qid":"Q1423812","label":"Inchcape plc","symbol":"INCH.L"}
+{"qid":"Q19903338","label":"Indivior","symbol":"INDV.L"}
+{"qid":"Q680946","label":"Informa","symbol":"INF.L"}
+{"qid":"Q16994758","label":"Impax Asset Management Group","symbol":"IPX.L"}
+{"qid":"Q1136085","label":"Intertek","symbol":"ITRK.L"}
+{"qid":"Q3140604","label":"ITV plc","symbol":"ITV.L"}
+{"qid":"Q1359435","label":"Just Eat Takeaway","symbol":"JET.L"}
+{"qid":"Q502470","label":"Johnson Matthey","symbol":"JMAT.L"}
+{"qid":"Q16851931","label":"Just Retirement","symbol":"JUST.L"}
+{"qid":"Q683098","label":"Kingfisher plc","symbol":"KGF.L"}
+{"qid":"Q3196454","label":"Kier Group","symbol":"KIE.L"}
+{"qid":"Q45700","label":"Konami","symbol":"KNM.L"}
+{"qid":"Q16733729","label":"Kosmos Energy","symbol":"KOS.L"}
+{"qid":"Q506160","label":"Land Securities","symbol":"LAND.L"}
+{"qid":"Q1470848","label":"Legal & General","symbol":"LGEN.L"}
+{"qid":"Q162345","label":"LG Electronics","symbol":"LGLD.L"}
+{"qid":"Q1152764","label":"Lloyds Banking Group","symbol":"LLOY.L"}
+{"qid":"Q4258608","label":"Lenta","symbol":"LNTA.L"}
+{"qid":"Q6675212","label":"Lookers","symbol":"LOOK.L"}
+{"qid":"Q60764227","label":"LoopUp","symbol":"LOOP.L"}
+{"qid":"Q6483017","label":"Lancashire Holdings","symbol":"LRE.L"}
+{"qid":"Q5573225","label":"London Stock Exchange Group","symbol":"LSEG.L"}
+{"qid":"Q16997477","label":"McColl's","symbol":"MCLS.L"}
+{"qid":"Q1931458","label":"Micro Focus International","symbol":"MCRO.L"}
+{"qid":"Q16997473","label":"McCarthy & Stone","symbol":"MCS.L"}
+{"qid":"Q1236521","label":"Mandarin Oriental Hotel Group","symbol":"MDO.L"}
+{"qid":"Q573278","label":"Merlin Entertainments","symbol":"MERL.L"}
+{"qid":"Q3304413","label":"Meggitt","symbol":"MGGT.L"}
+{"qid":"Q12123536","label":"MHP","symbol":"MHPC.L"}
+{"qid":"Q779252","label":"Mondi Group","symbol":"MNDI.L"}
+{"qid":"Q838553","label":"M&G Investments","symbol":"MNG.L"}
+{"qid":"Q1284261","label":"Nornickel","symbol":"MNOD.L"}
+{"qid":"Q6899359","label":"Moneysupermarket.com","symbol":"MONY.L"}
+{"qid":"Q59209009","label":"Motorpoint","symbol":"MOTR.L"}
+{"qid":"Q3305280","label":"Melrose Industries","symbol":"MRO.L"}
+{"qid":"Q922344","label":"Morrisons","symbol":"MRW.L"}
+{"qid":"Q136738","label":"Mothercare","symbol":"MTC.L"}
+{"qid":"Q3866987","label":"Mulberry","symbol":"MUL.L"}
+{"qid":"Q96395828","label":"Ninety One plc","symbol":"N91.L"}
+{"qid":"Q17149263","label":"NCC Group","symbol":"NCC.L"}
+{"qid":"Q6954702","label":"NMC Health","symbol":"NMC.L"}
+{"qid":"Q21178621","label":"NewRiver Retail","symbol":"NRR.L"}
+{"qid":"Q251546","label":"Novatek","symbol":"NVTK.L"}
+{"qid":"Q13218598","label":"NatWest Group","symbol":"NWG.L"}
+{"qid":"Q246655","label":"Next plc","symbol":"NXT.L"}
+{"qid":"Q7075640","label":"Ocado","symbol":"OCDO.L"}
+{"qid":"Q289704","label":"Old Mutual","symbol":"OMU.L"}
+{"qid":"Q28135340","label":"OnTheMarket","symbol":"OTMP.L"}
+{"qid":"Q7115375","label":"Oxford Instruments","symbol":"OXIG.L"}
+{"qid":"Q386414","label":"PhosAgro","symbol":"PHOR.L"}
+{"qid":"Q15176605","label":"Plus500","symbol":"PLUS.L"}
+{"qid":"Q7240331","label":"Premier Oil","symbol":"PMO.L"}
+{"qid":"Q278810","label":"Pennon Group","symbol":"PNN.L"}
+{"qid":"Q2380266","label":"Polymetal International","symbol":"POLY.L"}
+{"qid":"Q1374135","label":"Prudential plc","symbol":"PRU.L"}
+{"qid":"Q30682229","label":"Pershing Square Holdings","symbol":"PSH.L"}
+{"qid":"Q1118657","label":"Persimmon plc","symbol":"PSN.L"}
+{"qid":"Q1916402","label":"Pearson plc","symbol":"PSON.L"}
+{"qid":"Q29995941","label":"Quiz (clothing)","symbol":"QUIZ.L"}
+{"qid":"Q7295601","label":"Rathbone Brothers","symbol":"RAT.L"}
+{"qid":"Q998470","label":"RELX Group","symbol":"REL.L"}
+{"qid":"Q10291918","label":"N","symbol":"RIO.L"}
+{"qid":"Q7355289","label":"Rockhopper Exploration","symbol":"RKH.L"}
+{"qid":"Q22000919","label":"Deliveroo","symbol":"ROO.L"}
+{"qid":"Q243278","label":"Rolls-Royce","symbol":"RR_.L"}
+{"qid":"Q1780407","label":"RSA Insurance Group","symbol":"RSA.L"}
+{"qid":"Q7313261","label":"Renishaw plc","symbol":"RSW.L"}
+{"qid":"Q2622493","label":"Rentokil Initial","symbol":"RTO.L"}
+{"qid":"Q30666445","label":"Renewi","symbol":"RWI.L"}
+{"qid":"Q5367046","label":"M&C Saatchi","symbol":"SAA.L"}
+{"qid":"Q152096","label":"Sainsbury's","symbol":"SBRY.L"}
+{"qid":"Q17036182","label":"Softcat","symbol":"SCT.L"}
+{"qid":"Q1142797","label":"Schroders","symbol":"SDR.L"}
+{"qid":"Q1469903","label":"Sage Group","symbol":"SGE.L"}
+{"qid":"Q2205753","label":"Segro","symbol":"SGRO.L"}
+{"qid":"Q1536176","label":"Smurfit Kappa Group","symbol":"SKG.L"}
+{"qid":"Q5206214","label":"DS Smith","symbol":"SMDS.L"}
+{"qid":"Q2295406","label":"Smiths Group","symbol":"SMIN.L"}
+{"qid":"Q20718","label":"Samsung Electronics","symbol":"SMSN.L"}
+{"qid":"Q7437862","label":"Scottish Mortgage Investment Trust","symbol":"SMT.L"}
+{"qid":"Q1548712","label":"WHSmith","symbol":"SMWH.L"}
+{"qid":"Q7558612","label":"Solomon Gold","symbol":"SOLG.L"}
+{"qid":"Q85766647","label":"Hipgnosis Songs Fund","symbol":"SONG.L"}
+{"qid":"Q7562832","label":"Sopheon","symbol":"SPE.L"}
+{"qid":"Q4049943","label":"Spirax-Sarco Engineering","symbol":"SPX.L"}
+{"qid":"Q1781702","label":"Sistema","symbol":"SSA.L"}
+{"qid":"Q493854","label":"SSE plc","symbol":"SSE.L"}
+{"qid":"Q548278","label":"Standard Chartered","symbol":"STAN.L"}
+{"qid":"Q21008565","label":"Secure Trust Bank","symbol":"STB.L"}
+{"qid":"Q7394933","label":"SThree","symbol":"STEM.L"}
+{"qid":"Q7394867","label":"STV Group","symbol":"STVG.L"}
+{"qid":"Q503077","label":"Severn Trent","symbol":"SVT.L"}
+{"qid":"Q3514518","label":"TalkTalk Group","symbol":"TALK.L"}
+{"qid":"Q4457878","label":"Tinkoff Bank","symbol":"TCS.L"}
+{"qid":"Q7695821","label":"Telecom Plus","symbol":"TEP.L"}
+{"qid":"Q7741165","label":"THG","symbol":"THG.L"}
+{"qid":"Q108570008","label":"BlackRock Throgmorton Trust","symbol":"THRG.L"}
+{"qid":"Q3541981","label":"Tullow Oil","symbol":"TLW.L"}
+{"qid":"Q1384984","label":"Team17","symbol":"TM17.L"}
+{"qid":"Q487494","label":"Tesco","symbol":"TSCO.L"}
+{"qid":"Q573103","label":"TUI AG","symbol":"TUI.L"}
+{"qid":"Q3915128","label":"Focusrite","symbol":"TUNE.L"}
+{"qid":"Q28402815","label":"Greencoat UK Wind","symbol":"UKW.L"}
+{"qid":"Q157062","label":"Unilever","symbol":"ULVR.L"}
+{"qid":"Q7917867","label":"Vectura Group","symbol":"VEC.L"}
+{"qid":"Q19653069","label":"Velocys PLC","symbol":"VLS.L"}
+{"qid":"Q122141","label":"Vodafone","symbol":"VOD.L"}
+{"qid":"Q4053147","label":"William Hill","symbol":"WMH.L"}
+{"qid":"Q28404008","label":"Watches of Switzerland","symbol":"WOSG.L"}
+{"qid":"Q114499629","label":"W.A.G Payment Solutions","symbol":"WPS.L"}
+{"qid":"Q1435702","label":"Whitbread","symbol":"WTB.L"}
+{"qid":"Q8057802","label":"Young's","symbol":"YNGA.L"}
+{"qid":"Q8070658","label":"Zhejiang Expressway Company","symbol":"ZHEH.L"}

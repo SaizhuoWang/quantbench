@@ -1,0 +1,645 @@
+0R0X.IL:
+  name: Tesla, Inc.
+  qid: Q478214
+7DIG.L:
+  name: 7digital
+  qid: Q270077
+888.L:
+  name: sphanis
+  qid: Q274372
+AAL.L:
+  name: Anglo American plc
+  qid: Q541451
+ABDN.L:
+  name: Abrdn
+  qid: Q54621936
+ADM.L:
+  name: Admiral Group
+  qid: Q267417
+AGRO.L:
+  name: Rusagro
+  qid: Q4400200
+AHT.L:
+  name: Ashtead Group
+  qid: Q4805956
+AIRC.L:
+  name: Air China
+  qid: Q51747
+AJB.L:
+  name: A J Bell
+  qid: Q4657474
+ANTO.L:
+  name: Antofagasta PLC
+  qid: Q585150
+ASC.L:
+  name: Asos
+  qid: Q211951
+ASCL.L:
+  name: Ascential
+  qid: Q2310500
+ATAD.L:
+  name: Tatneft
+  qid: Q1616858
+AUTO.L:
+  name: Auto Trader Group
+  qid: Q4826130
+AVST.L:
+  name: Avast
+  qid: Q55103384
+AVV.L:
+  name: AVEVA
+  qid: Q847869
+AXB.L:
+  name: Axis Bank
+  qid: Q2003549
+AZN.L:
+  name: AstraZeneca
+  qid: Q731938
+BAB.L:
+  name: Babcock International
+  qid: Q385426
+BAKK.L:
+  name: "Bakkav\xF6r"
+  qid: Q2064018
+BARC.L:
+  name: Barclays
+  qid: Q245343
+BATS.L:
+  name: British American Tobacco
+  qid: Q856411
+BBOX.L:
+  name: Tritax Big Box REIT
+  qid: Q20539356
+BBSN.L:
+  name: Brave Bison
+  qid: Q16927770
+BDEV.L:
+  name: Barratt Developments
+  qid: Q591090
+BHP.L:
+  name: BHP Group
+  qid: Q625713
+BIFF.L:
+  name: Biffa
+  qid: Q4904749
+BKG.L:
+  name: Berkeley Group Holdings
+  qid: Q4892023
+BLND.L:
+  name: British Land
+  qid: Q919646
+BME.L:
+  name: B&M
+  qid: Q4836931
+BMY.L:
+  name: Bloomsbury Publishing plc
+  qid: Q568642
+BNC.L:
+  name: Santander Group
+  qid: Q806215
+BNZL.L:
+  name: Bunzl
+  qid: Q872718
+BOO.L:
+  name: Boohoo Group
+  qid: Q30688042
+BP_.L:
+  name: BP
+  qid: Q152057
+BVC.L:
+  name: Batm Advanced Communications Ltd
+  qid: Q16245318
+CAL.L:
+  name: Capital & Regional
+  qid: Q5035433
+CAPC.L:
+  name: Capital & Counties Properties
+  qid: Q5035431
+CARD.L:
+  name: Card Factory
+  qid: Q5038192
+CCH.L:
+  name: Coca-Cola Hellenic
+  qid: Q1104910
+CCL.L:
+  name: Carnival Corporation & plc
+  qid: Q1044059
+CCP.L:
+  name: Celtic F.C.
+  qid: Q19593
+CFYN.L:
+  name: Caffyns
+  qid: Q20711946
+CGL.L:
+  name: Catlin Group
+  qid: Q5053566
+CINE.L:
+  name: Cineworld
+  qid: Q5120901
+CKN.L:
+  name: Clarkson plc
+  qid: Q16987518
+CLLN.L:
+  name: Carillion
+  qid: Q5039561
+CNA.L:
+  name: Centrica
+  qid: Q259013
+CNC.L:
+  name: Concurrent Technologies Corporation
+  qid: Q5159103
+CORD.L:
+  name: Cordiant Digital Infrastructure
+  qid: Q110321485
+CPG.L:
+  name: Compass Group
+  qid: Q782697
+CPI.L:
+  name: Capita
+  qid: Q606013
+CRDA.L:
+  name: Croda International
+  qid: Q3003175
+CRH.L:
+  name: CRH
+  qid: Q1053299
+DCC.L:
+  name: DCC plc
+  qid: Q5204483
+DFIB.L:
+  name: Dairy Farm International Holdings
+  qid: Q6569399
+DGE.L:
+  name: Diageo
+  qid: Q161140
+DLAR.L:
+  name: De La Rue
+  qid: Q699810
+DLN.L:
+  name: Derwent London
+  qid: Q5263338
+DRX.L:
+  name: Drax Group
+  qid: Q1256028
+DWF.L:
+  name: DWF LLP
+  qid: Q19903249
+EMG.L:
+  name: Man Group
+  qid: Q1407658
+ENT.L:
+  name: Entain
+  qid: Q25103691
+ESUR.L:
+  name: Esure
+  qid: Q14832845
+ETO.L:
+  name: Entertainment One
+  qid: Q1344736
+EVR.L:
+  name: Evraz
+  qid: Q1382653
+EZJ.L:
+  name: easyJet
+  qid: Q191551
+FDEV.L:
+  name: Frontier Developments
+  qid: Q302251
+FGP.L:
+  name: FirstGroup plc
+  qid: Q1198156
+FLTR.L:
+  name: Flutter Entertainment
+  qid: Q23022611
+FRAS.L:
+  name: Frasers Group
+  qid: Q2913554
+FRES.L:
+  name: Fresnillo plc
+  qid: Q3087545
+FSTA.L:
+  name: Fuller's Brewery
+  qid: Q5253950
+GBG.L:
+  name: GB Group
+  qid: Q20711812
+GEM.L:
+  name: Gemfields
+  qid: Q5530611
+GENL.L:
+  name: Genel Energy
+  qid: Q5531617
+GFIN.L:
+  name: Gfinity
+  qid: Q16639028
+GFRD.L:
+  name: Galliford Try
+  qid: Q5519051
+GFTU.L:
+  name: Grafton Group
+  qid: Q5592537
+GKP.L:
+  name: Gulf Keystone Petroleum
+  qid: Q5617503
+GLEN.L:
+  name: Glencore
+  qid: Q169339
+GNK.L:
+  name: Greene King
+  qid: Q5564162
+GOG.L:
+  name: Go-Ahead Group plc
+  qid: Q1166056
+GOOD.L:
+  name: Good Energy
+  qid: Q5582545
+GRG.L:
+  name: Greggs
+  qid: Q3403981
+GSK.L:
+  name: GlaxoSmithKline
+  qid: Q212322
+GYM.L:
+  name: The Gym Group
+  qid: Q48815022
+HFG.L:
+  name: Hilton Food Group
+  qid: Q55613750
+HHPD.L:
+  name: Foxconn
+  qid: Q463094
+HLMA.L:
+  name: Halma plc
+  qid: Q5643254
+HSBA.L:
+  name: HSBC
+  qid: Q190464
+HSV.L:
+  name: Homeserve
+  qid: Q5890431
+HSW.L:
+  name: Hostelworld Group
+  qid: Q61925901
+HYUD.L:
+  name: Hyundai Motor Company
+  qid: Q55931
+IAG.L:
+  name: International Airlines Group
+  qid: Q8774
+ICP.L:
+  name: Intermediate Capital Group
+  qid: Q6047302
+IDS.L:
+  name: Royal Mail
+  qid: Q638098
+IHG.L:
+  name: InterContinental Hotels Group
+  qid: Q1424962
+IHP.L:
+  name: IntegraFin
+  qid: Q55614507
+III.L:
+  name: 3i
+  qid: Q229764
+IMB.L:
+  name: Imperial Brands
+  qid: Q1471161
+INCH.L:
+  name: Inchcape plc
+  qid: Q1423812
+INDV.L:
+  name: Indivior
+  qid: Q19903338
+INF.L:
+  name: Informa
+  qid: Q680946
+IPX.L:
+  name: Impax Asset Management Group
+  qid: Q16994758
+ITRK.L:
+  name: Intertek
+  qid: Q1136085
+ITV.L:
+  name: ITV plc
+  qid: Q3140604
+JET.L:
+  name: Just Eat Takeaway
+  qid: Q1359435
+JMAT.L:
+  name: Johnson Matthey
+  qid: Q502470
+JUST.L:
+  name: Just Retirement
+  qid: Q16851931
+KGF.L:
+  name: Kingfisher plc
+  qid: Q683098
+KIE.L:
+  name: Kier Group
+  qid: Q3196454
+KNM.L:
+  name: Konami
+  qid: Q45700
+KOS.L:
+  name: Kosmos Energy
+  qid: Q16733729
+LAND.L:
+  name: Land Securities
+  qid: Q506160
+LGEN.L:
+  name: Legal & General
+  qid: Q1470848
+LGLD.L:
+  name: LG Electronics
+  qid: Q162345
+LLOY.L:
+  name: Lloyds Banking Group
+  qid: Q1152764
+LNTA.L:
+  name: Lenta
+  qid: Q4258608
+LOOK.L:
+  name: Lookers
+  qid: Q6675212
+LOOP.L:
+  name: LoopUp
+  qid: Q60764227
+LRE.L:
+  name: Lancashire Holdings
+  qid: Q6483017
+LSEG.L:
+  name: London Stock Exchange Group
+  qid: Q5573225
+MCLS.L:
+  name: McColl's
+  qid: Q16997477
+MCRO.L:
+  name: Micro Focus International
+  qid: Q1931458
+MCS.L:
+  name: McCarthy & Stone
+  qid: Q16997473
+MDO.L:
+  name: Mandarin Oriental Hotel Group
+  qid: Q1236521
+MERL.L:
+  name: Merlin Entertainments
+  qid: Q573278
+MGGT.L:
+  name: Meggitt
+  qid: Q3304413
+MHPC.L:
+  name: MHP
+  qid: Q12123536
+MNDI.L:
+  name: Mondi Group
+  qid: Q779252
+MNG.L:
+  name: M&G Investments
+  qid: Q838553
+MNOD.L:
+  name: Nornickel
+  qid: Q1284261
+MONY.L:
+  name: Moneysupermarket.com
+  qid: Q6899359
+MOTR.L:
+  name: Motorpoint
+  qid: Q59209009
+MRO.L:
+  name: Melrose Industries
+  qid: Q3305280
+MRW.L:
+  name: Morrisons
+  qid: Q922344
+MTC.L:
+  name: Mothercare
+  qid: Q136738
+MUL.L:
+  name: Mulberry
+  qid: Q3866987
+N91.L:
+  name: Ninety One plc
+  qid: Q96395828
+NCC.L:
+  name: NCC Group
+  qid: Q17149263
+NMC.L:
+  name: NMC Health
+  qid: Q6954702
+NRR.L:
+  name: NewRiver Retail
+  qid: Q21178621
+NVTK.L:
+  name: Novatek
+  qid: Q251546
+NWG.L:
+  name: NatWest Group
+  qid: Q13218598
+NXT.L:
+  name: Next plc
+  qid: Q246655
+OCDO.L:
+  name: Ocado
+  qid: Q7075640
+OMU.L:
+  name: Old Mutual
+  qid: Q289704
+OTMP.L:
+  name: OnTheMarket
+  qid: Q28135340
+OXIG.L:
+  name: Oxford Instruments
+  qid: Q7115375
+PHOR.L:
+  name: PhosAgro
+  qid: Q386414
+PLUS.L:
+  name: Plus500
+  qid: Q15176605
+PMO.L:
+  name: Premier Oil
+  qid: Q7240331
+PNN.L:
+  name: Pennon Group
+  qid: Q278810
+POLY.L:
+  name: Polymetal International
+  qid: Q2380266
+PRU.L:
+  name: Prudential plc
+  qid: Q1374135
+PSH.L:
+  name: Pershing Square Holdings
+  qid: Q30682229
+PSN.L:
+  name: Persimmon plc
+  qid: Q1118657
+PSON.L:
+  name: Pearson plc
+  qid: Q1916402
+QUIZ.L:
+  name: Quiz (clothing)
+  qid: Q29995941
+RAT.L:
+  name: Rathbone Brothers
+  qid: Q7295601
+REL.L:
+  name: RELX Group
+  qid: Q998470
+RIO.L:
+  name: N
+  qid: Q10291918
+RKH.L:
+  name: Rockhopper Exploration
+  qid: Q7355289
+ROO.L:
+  name: Deliveroo
+  qid: Q22000919
+RR_.L:
+  name: Rolls-Royce
+  qid: Q243278
+RSA.L:
+  name: RSA Insurance Group
+  qid: Q1780407
+RSW.L:
+  name: Renishaw plc
+  qid: Q7313261
+RTO.L:
+  name: Rentokil Initial
+  qid: Q2622493
+RWI.L:
+  name: Renewi
+  qid: Q30666445
+SAA.L:
+  name: M&C Saatchi
+  qid: Q5367046
+SBRY.L:
+  name: Sainsbury's
+  qid: Q152096
+SCT.L:
+  name: Softcat
+  qid: Q17036182
+SDR.L:
+  name: Schroders
+  qid: Q1142797
+SGE.L:
+  name: Sage Group
+  qid: Q1469903
+SGRO.L:
+  name: Segro
+  qid: Q2205753
+SKG.L:
+  name: Smurfit Kappa Group
+  qid: Q1536176
+SMDS.L:
+  name: DS Smith
+  qid: Q5206214
+SMIN.L:
+  name: Smiths Group
+  qid: Q2295406
+SMSN.L:
+  name: Samsung Electronics
+  qid: Q20718
+SMT.L:
+  name: Scottish Mortgage Investment Trust
+  qid: Q7437862
+SMWH.L:
+  name: WHSmith
+  qid: Q1548712
+SOLG.L:
+  name: Solomon Gold
+  qid: Q7558612
+SONG.L:
+  name: Hipgnosis Songs Fund
+  qid: Q85766647
+SPE.L:
+  name: Sopheon
+  qid: Q7562832
+SPX.L:
+  name: Spirax-Sarco Engineering
+  qid: Q4049943
+SSA.L:
+  name: Sistema
+  qid: Q1781702
+SSE.L:
+  name: SSE plc
+  qid: Q493854
+STAN.L:
+  name: Standard Chartered
+  qid: Q548278
+STB.L:
+  name: Secure Trust Bank
+  qid: Q21008565
+STEM.L:
+  name: SThree
+  qid: Q7394933
+STVG.L:
+  name: STV Group
+  qid: Q7394867
+SVT.L:
+  name: Severn Trent
+  qid: Q503077
+TALK.L:
+  name: TalkTalk Group
+  qid: Q3514518
+TCS.L:
+  name: Tinkoff Bank
+  qid: Q4457878
+TEP.L:
+  name: Telecom Plus
+  qid: Q7695821
+THG.L:
+  name: THG
+  qid: Q7741165
+THRG.L:
+  name: BlackRock Throgmorton Trust
+  qid: Q108570008
+TLW.L:
+  name: Tullow Oil
+  qid: Q3541981
+TM17.L:
+  name: Team17
+  qid: Q1384984
+TSCO.L:
+  name: Tesco
+  qid: Q487494
+TUI.L:
+  name: TUI AG
+  qid: Q573103
+TUNE.L:
+  name: Focusrite
+  qid: Q3915128
+UKW.L:
+  name: Greencoat UK Wind
+  qid: Q28402815
+ULVR.L:
+  name: Unilever
+  qid: Q157062
+VEC.L:
+  name: Vectura Group
+  qid: Q7917867
+VLS.L:
+  name: Velocys PLC
+  qid: Q19653069
+VOD.L:
+  name: Vodafone
+  qid: Q122141
+WMH.L:
+  name: William Hill
+  qid: Q4053147
+WOSG.L:
+  name: Watches of Switzerland
+  qid: Q28404008
+WPS.L:
+  name: W.A.G Payment Solutions
+  qid: Q114499629
+WTB.L:
+  name: Whitbread
+  qid: Q1435702
+YNGA.L:
+  name: Young's
+  qid: Q8057802
+ZHEH.L:
+  name: Zhejiang Expressway Company
+  qid: Q8070658

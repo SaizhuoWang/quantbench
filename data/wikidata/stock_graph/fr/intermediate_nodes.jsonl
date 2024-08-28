@@ -1,0 +1,378 @@
+{"qid":"Q107036435","label":"Orange Cyberdefense","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q108190893","label":"Marc Jacobs","neighbors":[["Q504998","P355","dst"],["Q504998","P749","src"]]}
+{"qid":"Q28873276","label":"Sky 56","neighbors":[["Q3147573","P466","dst"],["Q1431486","P466","dst"]]}
+{"qid":"Q19704710","label":"Ketchapp","neighbors":[["Q188273","P749","dst"],["Q188273","P355","src"]]}
+{"qid":"Q112166041","label":"business and other management consulting","neighbors":[["Q3198944","P452","src"],["Q2558951","P452","src"],["Q55595435","P452","src"]]}
+{"qid":"Q2506605","label":"187 Ride or Die","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q2360382","label":"St\u00e9phane Richard","neighbors":[["Q1431486","P108","dst"],["Q3339185","P112","dst"],["Q1431486","P1416","dst"]]}
+{"qid":"Q29110554","label":"Thales (Portugal)","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q29122825","label":"Faurecia (Canada)","neighbors":[["Q142205","P355","src"],["Q142205","P749","dst"]]}
+{"qid":"Q110817131","label":"Tom Clancy's Splinter Cell: Mission Pack","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q3744458","label":"Stellantis Italy","neighbors":[["Q97439162","P127","dst"],["Q97439162","P355","src"],["Q97439162","P749","dst"]]}
+{"qid":"Q38309536","label":"Soparind SCA","neighbors":[["Q892432","P749","src"],["Q892432","P127","src"],["Q892432","P355","dst"]]}
+{"qid":"Q821969","label":"Berluti","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q849363","label":"The Vanguard Group","neighbors":[["Q3391735","P127","src"],["Q3280364","P127","src"],["Q3197950","P127","src"],["Q55595435","P127","src"]]}
+{"qid":"Q840776","label":"Tom Clancy's EndWar","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q1449367","label":"Rayman Activity Centre","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q98897593","label":"public limited company with a board of directors (n.o.s.)","neighbors":[["Q892432","P1454","src"],["Q2819236","P1454","src"],["Q3488995","P1454","src"],["Q188273","P1454","src"],["Q55595435","P1454","src"],["Q3147573","P1454","src"],["Q47088340","P1454","src"],["Q56853086","P1454","src"],["Q1431486","P1454","src"],["Q460487","P1454","src"],["Q3347591","P1454","src"],["Q105508686","P1454","src"],["Q3339185","P1454","src"],["Q2982355","P1454","src"],["Q917717","P1454","src"],["Q57593821","P1454","src"],["Q678565","P1454","src"],["Q1161666","P1454","src"],["Q141644","P1454","src"],["Q2870542","P1454","src"],["Q3391735","P1454","src"]]}
+{"qid":"Q8579146","label":"Category:LVMH","neighbors":[["Q504998","P301","dst"],["Q504998","P910","src"]]}
+{"qid":"Q270363","label":"Soci\u00e9t\u00e9 G\u00e9n\u00e9rale","neighbors":[["Q2819236","P749","src"],["Q2819236","P127","src"],["Q2819236","P355","dst"],["Q2819236","P1830","dst"]]}
+{"qid":"Q112176867","label":"soci\u00e9t\u00e9 europ\u00e9enne","neighbors":[["Q920000","P1454","src"],["Q2558951","P1454","src"],["Q504998","P1454","src"],["Q3198944","P1454","src"],["Q142205","P1454","src"]]}
+{"qid":"Q846884","label":"Ubisoft Shanghai","neighbors":[["Q188273","P361","dst"],["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q662824","label":"Telespazio","neighbors":[["Q1161666","P749","dst"],["Q1161666","P127","dst"]]}
+{"qid":"Q30338622","label":"Saint-Gobain (Norway)","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q2395204","label":"The Adventures of Tintin: The Secret of the Unicorn","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q93671545","label":"Green Panda Games","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"]]}
+{"qid":"Q3418702","label":"RanX: The Video Game","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q3486194","label":"Skateball","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q26773777","label":"Category:Kl\u00e9pierre","neighbors":[["Q3197950","P910","src"],["Q3197950","P301","dst"]]}
+{"qid":"Q3118486","label":"Gr\u00e9goire Olivier","neighbors":[["Q142205","P108","dst"],["Q275623","P108","dst"]]}
+{"qid":"Q1278885","label":"Isover","neighbors":[["Q678565","P1830","src"],["Q678565","P749","dst"],["Q678565","P127","dst"]]}
+{"qid":"Q1422710","label":"Hindustan Motors","neighbors":[["Q275623","P127","dst"],["Q275623","P1830","src"],["Q275623","P749","dst"]]}
+{"qid":"Q29110553","label":"Thales Group (Germany)","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q29122821","label":"Faurecia","neighbors":[["Q142205","P355","src"],["Q142205","P749","dst"]]}
+{"qid":"Q3191596","label":"K par K","neighbors":[["Q678565","P1830","src"],["Q678565","P127","dst"]]}
+{"qid":"Q105745689","label":"Autostar","neighbors":[["Q3539134","P127","dst"],["Q3539134","P1830","src"]]}
+{"qid":"Q980908","label":"Champagne Mercier","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q3342222","label":"Nitrobike","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q3347517","label":"Orange Cin\u00e9ma S\u00e9ries","neighbors":[["Q1431486","P1716","src"],["Q1431486","P127","dst"]]}
+{"qid":"Q752515","label":"Bulgari","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q3086862","label":"Fred Joaillier","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q3167891","label":"Jean-Martin Folz","neighbors":[["Q275623","P108","dst"],["Q275623","P488","src"]]}
+{"qid":"Q3198815","label":"Orange Slovensko","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q90","label":"Paris","neighbors":[["Q105508686","P159","src"],["Q3339185","P159","src"],["Q275623","P740","src"],["Q917717","P159","src"],["Q57593821","P159","src"],["Q2558951","P159","src"],["Q920000","P159","src"],["Q141644","P159","src"],["Q56853086","P740","src"],["Q504998","P740","src"],["Q3198944","P159","src"],["Q3197950","P159","src"],["Q3339185","P131","src"],["Q17176822","P159","src"],["Q1161666","P740","src"],["Q2558951","P131","src"],["Q920000","P131","src"],["Q460487","P159","src"],["Q504998","P159","src"],["Q3147573","P159","src"],["Q3197950","P131","src"]]}
+{"qid":"Q1420","label":"motor car","neighbors":[["Q275623","P1056","src"],["Q97439162","P1056","src"]]}
+{"qid":"Q11371","label":"internet service provider","neighbors":[["Q1431486","P31","src"],["Q1431486","P1056","src"]]}
+{"qid":"Q32055","label":"Bernard Arnault","neighbors":[["Q504998","P1037","src"],["Q504998","P169","src"]]}
+{"qid":"Q2982351","label":"Colas Rail","neighbors":[["Q2982355","P749","dst"],["Q2982355","P127","dst"],["Q2982355","P355","src"]]}
+{"qid":"Q1930860","label":"OTC Markets Group","neighbors":[["Q142205","P414","src"],["Q3147573","P414","src"],["Q1161666","P414","src"],["Q3488995","P414","src"],["Q3197950","P414","src"]]}
+{"qid":"Q2040289","label":"Orange Business Services","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q30114662","label":"accommodation facility for dependent elderly people","neighbors":[["Q110024089","P452","src"],["Q3198944","P452","src"]]}
+{"qid":"Q58215022","label":"Henry Racamier","neighbors":[["Q504998","P112","src"],["Q504998","P108","dst"]]}
+{"qid":"Q2992995","label":"Orange RDC","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q28974295","label":"Saint-Gobain (Germany)","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q3117302","label":"Orange Bank","neighbors":[["Q1431486","P749","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q7032086","label":"Category:Ubisoft","neighbors":[["Q188273","P910","src"],["Q188273","P301","dst"]]}
+{"qid":"Q22317575","label":"Paris bid for the 2024 Summer Olympics","neighbors":[["Q504998","P859","dst"],["Q1431486","P859","dst"]]}
+{"qid":"Q1287437","label":"Rimowa","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q1373328","label":"Rayman Raving Rabbids 2","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q266341","label":"Orange Egypt","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q31840575","label":"Future Combat Air System","neighbors":[["Q460487","P176","dst"],["Q1161666","P176","dst"]]}
+{"qid":"Q104381586","label":"Maison Francis Kurkdjian","neighbors":[["Q504998","P749","dst"],["Q504998","P355","src"]]}
+{"qid":"Q19871679","label":"Bulgari Hotel and Residences","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q5303567","label":"Downtown Run","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q610824","label":"Ubisoft Kyiv","neighbors":[["Q188273","P749","dst"],["Q188273","P355","src"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q38306257","label":"Savencia Fromage & Dairy Czech Republic","neighbors":[["Q892432","P127","dst"],["Q892432","P749","dst"],["Q892432","P355","src"]]}
+{"qid":"Q33161719","label":"Benoit Bazin","neighbors":[["Q678565","P1416","dst"],["Q678565","P1037","src"]]}
+{"qid":"Q28974296","label":"Saint-Gobain (Canada)","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q2895769","label":"Benefit Cosmetics","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"]]}
+{"qid":"Q3022761","label":"Denis Kessler","neighbors":[["Q920000","P169","src"],["Q920000","P488","src"],["Q920000","P1037","src"]]}
+{"qid":"Q3040938","label":"Ubisoft Sao Paulo","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q13525681","label":"Template:Ubisoft","neighbors":[["Q188273","P1423","dst"],["Q188273","P1424","src"]]}
+{"qid":"Q29110552","label":"Thales","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q29113579","label":"Nexans (United Kingdom)","neighbors":[["Q141644","P355","src"],["Q141644","P749","dst"]]}
+{"qid":"Q1702123","label":"Saint-Gobain Weber","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q105847289","label":"Stellantis France","neighbors":[["Q275623","P1365","dst"],["Q97439162","P749","dst"]]}
+{"qid":"Q3385996","label":"Pierre Louette","neighbors":[["Q1431486","P108","dst"],["Q1431486","P1416","dst"]]}
+{"qid":"Q3500954","label":"Orange studio","neighbors":[["Q1431486","P749","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q3519457","label":"Thales Communications","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q382556","label":"Planet of Death","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q2993404","label":"Connaissance des arts","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q112166028","label":"rental of land and other real estate","neighbors":[["Q3147573","P452","src"],["Q13359824","P452","src"]]}
+{"qid":"Q181114","label":"Stellantis North America","neighbors":[["Q97439162","P127","dst"],["Q97439162","P355","src"],["Q97439162","P749","dst"]]}
+{"qid":"Q128356","label":"Thales Alenia Space","neighbors":[["Q1161666","P749","dst"],["Q1161666","P112","dst"],["Q1161666","P127","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q234371","label":"Mirage III","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q55597242","label":"Humensis","neighbors":[["Q920000","P355","src"],["Q920000","P749","dst"]]}
+{"qid":"Q691958","label":"Hublot","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q723756","label":"Super \u00c9tendard","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q3519456","label":"Thales Communications & Security","neighbors":[["Q1161666","P749","dst"],["Q1161666","P127","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q3519453","label":"Thales Australia","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q3519460","label":"Thales Underwater Systems","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q987729","label":"La D\u00e9fense","neighbors":[["Q678565","P159","src"],["Q55595435","P131","src"],["Q1161666","P159","src"],["Q55595435","P159","src"]]}
+{"qid":"Q1027129","label":"Call of Juarez: Bound in Blood","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q1041320","label":"Ubisoft Paris","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q16382626","label":"Asphalt","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q16511698","label":"Joint CNRS \/ Thales Physics Unit","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q1583780","label":"La Samaritaine","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q104778130","label":"Christian Aubert","neighbors":[["Q2870542","P488","src"],["Q2870542","P112","src"]]}
+{"qid":"Q4830453","label":"business","neighbors":[["Q3198944","P31","src"],["Q3197950","P31","src"],["Q3391735","P31","src"],["Q892432","P31","src"],["Q17176822","P31","src"],["Q3488995","P31","src"],["Q2819236","P31","src"],["Q188273","P31","src"],["Q55595435","P31","src"],["Q1431486","P31","src"],["Q3147573","P31","src"],["Q47088340","P31","src"],["Q37934148","P31","src"],["Q56853086","P31","src"],["Q504998","P31","src"],["Q105508686","P31","src"],["Q3006170","P31","src"],["Q16533733","P31","src"],["Q2982355","P31","src"],["Q3339185","P31","src"],["Q917717","P31","src"],["Q2870542","P31","src"],["Q3539134","P31","src"],["Q57593821","P31","src"],["Q2558951","P31","src"],["Q1161666","P31","src"],["Q920000","P31","src"],["Q141644","P31","src"],["Q3280364","P31","src"]]}
+{"qid":"Q4052309","label":"Ubisoft Casablanca","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q157974","label":"Glenmorangie distillery","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q166953","label":"RedLynx","neighbors":[["Q188273","P355","src"],["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q135265","label":"Issy-les-Moulineaux","neighbors":[["Q1431486","P159","src"],["Q3147573","P131","src"]]}
+{"qid":"Q895795","label":"Kenzo","neighbors":[["Q504998","P749","dst"],["Q504998","P355","src"]]}
+{"qid":"Q981010","label":"EURO STOXX 50","neighbors":[["Q504998","P527","dst"],["Q56853086","P527","dst"],["Q678565","P361","src"],["Q56853086","P361","src"]]}
+{"qid":"Q716186","label":"Christian Streiff","neighbors":[["Q275623","P108","dst"],["Q275623","P488","src"]]}
+{"qid":"Q695299","label":"Ubisoft Blue Byte","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q769222","label":"Dailymotion","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q754180","label":"Mirage IV","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q732438","label":"Just Dance 2","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q274","label":"Ardbeg","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q6742","label":"Peugeot","neighbors":[["Q97439162","P355","src"],["Q275623","P1830","src"],["Q275623","P112","src"],["Q275623","P355","src"],["Q97439162","P749","dst"]]}
+{"qid":"Q30113","label":"Jeep","neighbors":[["Q97439162","P127","dst"],["Q97439162","P355","src"],["Q97439162","P749","dst"]]}
+{"qid":"Q7447962","label":"Self-Defense Training Camp","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q2874780","label":"Aximum","neighbors":[["Q2982355","P749","dst"],["Q2982355","P127","dst"],["Q2982355","P355","src"]]}
+{"qid":"Q1686544","label":"Loro Piana","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q51135597","label":"Fenty Beauty","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"]]}
+{"qid":"Q29888180","label":"Ubisoft Berlin","neighbors":[["Q188273","P361","dst"],["Q188273","P749","dst"]]}
+{"qid":"Q58196319","label":"Faurecia Emissions Control Technologies, Mlad\u00e1 Boleslav","neighbors":[["Q142205","P355","src"],["Q142205","P749","dst"]]}
+{"qid":"Q52320916","label":"Nexans Skagerrak","neighbors":[["Q141644","P127","dst"],["Q141644","P1830","src"]]}
+{"qid":"Q7709619","label":"Thales Training & Simulation","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q28859350","label":"Werewolves Within","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q30338124","label":"Thales Group (Brazil)","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q30338127","label":"Thales (Norway)","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q7669187","label":"TACO Faurecia Design Center","neighbors":[["Q142205","P1366","dst"],["Q142205","P155","src"]]}
+{"qid":"Q7697349","label":"Telkom Kenya","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q107719069","label":"LDLC Arena","neighbors":[["Q3347591","P1830","src"],["Q3347591","P137","dst"],["Q3347591","P127","dst"]]}
+{"qid":"Q16668220","label":"Orange Money","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q16675870","label":"Scrabble 2005","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q25377187","label":"Petz Countryside","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q13427095","label":"Just Dance 2014","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q51540919","label":"Ubisoft Winnipeg","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q7824644","label":"Top Trumps Adventures: Horror and Predators","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q7824643","label":"Top Trumps Adventures: Dogs and Dinosaurs","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q2696118","label":"Driver: Renegade","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q7099654","label":"Orange Jordan","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q19339570","label":"Category:Savencia Fromage & Dairy","neighbors":[["Q892432","P301","dst"],["Q892432","P910","src"]]}
+{"qid":"Q5305268","label":"Dragonriders: Chronicles of Pern","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q14143711","label":"Rabbids Invasion","neighbors":[["Q188273","P123","dst"],["Q188273","P170","dst"]]}
+{"qid":"Q55775451","label":"Saint-Gobain Recherche","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q3087263","label":"Ubisoft Leamington","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q3173864","label":"Patou","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q172323","label":"Ubisoft Romania","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q190117","label":"automotive industry","neighbors":[["Q142205","P452","src"],["Q275623","P452","src"],["Q97439162","P452","src"]]}
+{"qid":"Q1000","label":"Gabon","neighbors":[["Q37934148","P127","src"],["Q37934148","P17","src"]]}
+{"qid":"Q27564","label":"Dodge","neighbors":[["Q97439162","P127","dst"],["Q97439162","P355","src"]]}
+{"qid":"Q76868","label":"Assassin's Creed III: Liberation","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q9185754","label":"Celtic Legends","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q325680","label":"Saint-Gobain","neighbors":[["Q678565","P1889","dst"],["Q678565","P138","src"],["Q678565","P740","src"]]}
+{"qid":"Q2439098","label":"Darty France","neighbors":[["Q47088340","P355","src"],["Q47088340","P138","src"],["Q47088340","P749","dst"]]}
+{"qid":"Q2542073","label":"Puffy's Saga","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q912413","label":"France T\u00e9l\u00e9com","neighbors":[["Q1431486","P1366","dst"],["Q1431486","P1365","src"],["Q1431486","P155","src"],["Q1431486","P156","dst"]]}
+{"qid":"Q2925743","label":"BPB plc","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q2961620","label":"Chaumet","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q1368909","label":"Essilor","neighbors":[["Q56853086","P749","dst"],["Q56853086","P527","src"],["Q56853086","P1365","src"],["Q56853086","P355","src"]]}
+{"qid":"Q2370558","label":"Tom Clancy's Ghost Recon Phantoms","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q2405055","label":"Thales Services","neighbors":[["Q1161666","P749","dst"],["Q1161666","P127","dst"]]}
+{"qid":"Q54826214","label":"Prince of Persia: The Forgotten Sands","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q104864903","label":"Template:Stellantis","neighbors":[["Q97439162","P1423","dst"],["Q97439162","P1424","src"]]}
+{"qid":"Q2442030","label":"CAC Mid 60","neighbors":[["Q3198944","P3679","src"],["Q2819236","P527","dst"],["Q2558951","P527","dst"],["Q3391735","P527","dst"],["Q47088340","P527","dst"],["Q460487","P527","dst"],["Q3339185","P527","dst"],["Q917717","P527","dst"],["Q3280364","P527","dst"],["Q3539134","P527","dst"],["Q3488995","P527","dst"],["Q3147573","P527","dst"],["Q3198944","P527","dst"],["Q141644","P527","dst"]]}
+{"qid":"Q1846213","label":"C.O.P. The Recruit","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q645984","label":"TAG Heuer","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"],["Q504998","P355","src"]]}
+{"qid":"Q58219572","label":"Faurecia Automotive Czech Republic","neighbors":[["Q142205","P355","src"],["Q142205","P749","dst"]]}
+{"qid":"Q19698200","label":"Orange France","neighbors":[["Q1431486","P355","src"],["Q1431486","P199","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q7269628","label":"Quazal","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q15059487","label":"Thales Microelectronics","neighbors":[["Q1161666","P749","dst"],["Q1161666","P127","dst"]]}
+{"qid":"Q939500","label":"Might & Magic Heroes VI","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q55617482","label":"list of Ubisoft subsidiaries","neighbors":[["Q188273","P355","src"],["Q188273","P1830","src"]]}
+{"qid":"Q59187","label":"Vauxhall","neighbors":[["Q97439162","P355","src"],["Q275623","P749","dst"],["Q275623","P1830","src"],["Q275623","P355","src"],["Q97439162","P749","dst"]]}
+{"qid":"Q16683042","label":"V\u00e9ronique B\u00e9dague","neighbors":[["Q3339185","P108","dst"],["Q3339185","P1037","src"]]}
+{"qid":"Q2377961","label":"Orange Moldova","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q2385849","label":"Euronext Paris","neighbors":[["Q3339185","P414","src"],["Q678565","P414","src"],["Q2982355","P414","src"],["Q110024089","P414","src"],["Q57593821","P414","src"],["Q1161666","P414","src"],["Q141644","P414","src"],["Q2870542","P414","src"],["Q3280364","P414","src"],["Q3539134","P414","src"],["Q97439162","P414","src"],["Q2558951","P414","src"],["Q3391735","P414","src"],["Q275623","P414","src"],["Q920000","P414","src"],["Q3197950","P414","src"],["Q16533733","P414","src"],["Q892432","P414","src"],["Q13359824","P414","src"],["Q3198944","P414","src"],["Q3488995","P414","src"],["Q2819236","P414","src"],["Q188273","P414","src"],["Q142205","P414","src"],["Q17176822","P414","src"],["Q3147573","P414","src"],["Q56853086","P414","src"],["Q1431486","P414","src"],["Q460487","P414","src"],["Q55595435","P414","src"],["Q3347591","P414","src"],["Q504998","P414","src"],["Q47088340","P414","src"],["Q105508686","P414","src"],["Q37934148","P414","src"],["Q917717","P414","src"],["Q3006170","P414","src"]]}
+{"qid":"Q2408041","label":"Sephora","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"],["Q504998","P355","src"]]}
+{"qid":"Q846484","label":"Caisse des D\u00e9p\u00f4ts et Consignations","neighbors":[["Q3147573","P749","src"],["Q3147573","P127","src"],["Q3147573","P355","dst"],["Q55595435","P127","src"],["Q3147573","P1830","dst"]]}
+{"qid":"Q60892151","label":"Colas Midi M\u00e9diterran\u00e9e","neighbors":[["Q2982355","P749","dst"],["Q2982355","P355","src"]]}
+{"qid":"Q9017561","label":"Kiko World Football","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q687896","label":"Thomson-CSF","neighbors":[["Q1161666","P155","src"],["Q1161666","P156","dst"],["Q1161666","P1365","src"]]}
+{"qid":"Q4023086","label":"Your Shape","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q4052310","label":"Ubisoft Chengdu","neighbors":[["Q188273","P749","dst"],["Q188273","P355","src"]]}
+{"qid":"Q18744665","label":"Patrice Caine","neighbors":[["Q1161666","P169","src"],["Q1161666","P108","dst"]]}
+{"qid":"Q25245117","label":"telecommunications","neighbors":[["Q1161666","P452","src"],["Q1431486","P452","src"]]}
+{"qid":"Q7300667","label":"Ready Set Word","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q1553251","label":"Guerlain","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q3547645","label":"Ubisoft Annecy","neighbors":[["Q188273","P361","dst"],["Q188273","P749","dst"],["Q188273","P355","src"],["Q188273","P1830","src"],["Q188273","P127","dst"]]}
+{"qid":"Q7132023","label":"Panzer General: Allied Assault","neighbors":[["Q188273","P123","dst"],["Q188273","P275","dst"]]}
+{"qid":"Q3477381","label":"automotive supplier","neighbors":[["Q3391735","P452","src"],["Q142205","P31","src"]]}
+{"qid":"Q3913196","label":"Thales Nederland","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q17149264","label":"Soci\u00e9t\u00e9 d'\u00e9tude et de gestion des centres d'\u00e9quipement","neighbors":[["Q3197950","P749","dst"],["Q3197950","P355","src"]]}
+{"qid":"Q3512088","label":"Teksid","neighbors":[["Q97439162","P127","dst"],["Q97439162","P749","dst"]]}
+{"qid":"Q1466613","label":"Massive Entertainment","neighbors":[["Q188273","P749","dst"],["Q188273","P355","src"]]}
+{"qid":"Q1465005","label":"Orange Polska","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q6243361","label":"Category:Orange S.A.","neighbors":[["Q1431486","P910","src"],["Q1431486","P301","dst"]]}
+{"qid":"Q3068466","label":"Fer et Flamme","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q7395145","label":"SWARM","neighbors":[["Q1161666","P176","dst"],["Q1161666","P287","dst"]]}
+{"qid":"Q7395275","label":"SYSGO","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q15093798","label":"Rocksmith 2014","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q3815419","label":"Kong: The 8th Wonder of the World","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q1172017","label":"Dassault Mirage IIIV","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q59545875","label":"Le Cubisme","neighbors":[["Q3391735","P859","dst"],["Q504998","P859","dst"]]}
+{"qid":"Q38826872","label":"Ceramic Synthesis and Functionalization Laboratory","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q63182869","label":"Ultra Texture Pack","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q10379294","label":"Telhanorte","neighbors":[["Q678565","P1830","src"],["Q678565","P127","dst"]]}
+{"qid":"Q3065425","label":"Peugeot family","neighbors":[["Q97439162","P127","src"],["Q275623","P127","src"]]}
+{"qid":"Q5204929","label":"DFS Galleria","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"]]}
+{"qid":"Q544964","label":"Ang\u00e9nieux","neighbors":[["Q1161666","P749","dst"],["Q1161666","P127","dst"]]}
+{"qid":"Q514059","label":"Nadeo","neighbors":[["Q188273","P355","src"],["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q548711","label":"Clarion","neighbors":[["Q142205","P127","dst"],["Q142205","P355","src"]]}
+{"qid":"Q556539","label":"Jean-Bernard L\u00e9vy","neighbors":[["Q1161666","P169","src"],["Q1161666","P108","dst"]]}
+{"qid":"Q903621","label":"Ubisoft Montreal","neighbors":[["Q188273","P355","src"],["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q948531","label":"Celine","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q966905","label":"Loewe","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q1091789","label":"Tom Clancy's Ghost Recon: Shadow Wars","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q1088625","label":"Stellantis Canada","neighbors":[["Q97439162","P127","dst"],["Q97439162","P749","dst"]]}
+{"qid":"Q1950734","label":"Tom Clancy's Splinter Cell: Essentials","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q3071245","label":"Stellantis India","neighbors":[["Q97439162","P127","dst"],["Q97439162","P749","dst"]]}
+{"qid":"Q3083238","label":"Fran\u00e7aise de M\u00e9canique","neighbors":[["Q97439162","P355","src"],["Q275623","P355","src"],["Q275623","P749","dst"],["Q97439162","P749","dst"]]}
+{"qid":"Q33102542","label":"Jean-Christophe Quemard","neighbors":[["Q275623","P3320","src"],["Q275623","P1037","src"]]}
+{"qid":"Q3337111","label":"Nature & D\u00e9couvertes","neighbors":[["Q47088340","P127","dst"],["Q47088340","P749","dst"]]}
+{"qid":"Q3355052","label":"Orange Labs","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q3355034","label":"Orange C\u00f4te d'Ivoire","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q11960319","label":"Orange Business Services","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q33112117","label":"Christel Heydemann","neighbors":[["Q1431486","P169","src"],["Q1431486","P108","dst"],["Q1431486","P1037","src"]]}
+{"qid":"Q1207061","label":"Red Steel 2","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q110285679","label":"ET Dutch Holdings","neighbors":[["Q142205","P355","src"],["Q142205","P749","dst"]]}
+{"qid":"Q926575","label":"Fendi","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P355","src"]]}
+{"qid":"Q8142879","label":"Falcon","neighbors":[["Q460487","P137","dst"],["Q460487","P176","dst"]]}
+{"qid":"Q699529","label":"Mo\u00ebt & Chandon","neighbors":[["Q504998","P138","src"],["Q504998","P361","dst"],["Q504998","P127","dst"],["Q504998","P355","src"],["Q504998","P1830","src"],["Q504998","P749","dst"]]}
+{"qid":"Q7179451","label":"Petz: Crazy Monkeyz","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q533304","label":"Tom Clancy's Splinter Cell: Chaos Theory","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q2945049","label":"centre d'archive","neighbors":[["Q275623","P127","dst"],["Q275623","P1830","src"]]}
+{"qid":"Q16259677","label":"Imagine: Animal Doctor","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q3365049","label":"Parfums Givenchy","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q3323833","label":"Stellantis Vigo Plant","neighbors":[["Q275623","P137","dst"],["Q97439162","P137","dst"]]}
+{"qid":"Q3309843","label":"Michel Guillemot","neighbors":[["Q188273","P3320","src"],["Q188273","P112","src"]]}
+{"qid":"Q5141908","label":"Colas Ltd","neighbors":[["Q2982355","P749","dst"],["Q2982355","P355","src"]]}
+{"qid":"Q28974297","label":"Saint-Gobain (United Kingdom)","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q25377239","label":"Petz Beach","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q25391827","label":"Laurent Burelle","neighbors":[["Q3391735","P1416","dst"],["Q3391735","P127","src"]]}
+{"qid":"Q7898372","label":"Ubisoft Connect","neighbors":[["Q188273","P112","dst"],["Q188273","P170","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q1137991","label":"Thomas Pink","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q2731200","label":"i3D.net","neighbors":[["Q188273","P749","dst"],["Q188273","P355","src"]]}
+{"qid":"Q2735515","label":"Batman: Gotham City Racer","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q623107","label":"Dassault nEUROn","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q15070370","label":"Ivory Tower","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q8058929","label":"Your Shape: Fitness Evolved","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q58168072","label":"Colas CZ","neighbors":[["Q2982355","P749","dst"],["Q2982355","P127","dst"],["Q2982355","P355","src"]]}
+{"qid":"Q58197106","label":"Saint-Gobain Construction Products CZ","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q33841362","label":"Andr\u00e9 Fran\u00e7ois-Poncet","neighbors":[["Q2558951","P1037","src"],["Q2558951","P1416","dst"]]}
+{"qid":"Q7709616","label":"Thales Optronics","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q2700894","label":"Seven Kingdoms II: The Fryhtan Wars","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q17518571","label":"Falcon 900LX","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q6746","label":"Citro\u00ebn","neighbors":[["Q97439162","P127","dst"],["Q97439162","P355","src"],["Q275623","P1830","src"],["Q275623","P355","src"],["Q97439162","P749","dst"]]}
+{"qid":"Q8845960","label":"Category:Thales Group","neighbors":[["Q1161666","P301","dst"],["Q1161666","P910","src"]]}
+{"qid":"Q3300959","label":"Maurice Jordan","neighbors":[["Q275623","P108","dst"],["Q275623","P488","src"]]}
+{"qid":"Q3143654","label":"Hybride Technologies","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q2291164","label":"Racing Simulation 3","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q21281151","label":"Saint-Gobain Glass France","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q2083518","label":"Ubisoft Montpellier","neighbors":[["Q188273","P749","dst"],["Q188273","P355","src"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q3158451","label":"Jacques Calvet","neighbors":[["Q275623","P108","dst"],["Q275623","P488","src"]]}
+{"qid":"Q219635","label":"BlackRock","neighbors":[["Q3197950","P127","src"],["Q55595435","P127","src"]]}
+{"qid":"Q3794455","label":"The Jungle Book Groove Party","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q172455","label":"Boulogne-Billancourt","neighbors":[["Q2870542","P159","src"],["Q2982355","P159","src"]]}
+{"qid":"Q3490246","label":"Sonatel","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q1357111","label":"OL Reign","neighbors":[["Q3347591","P355","src"],["Q3347591","P1830","src"],["Q3347591","P138","dst"],["Q3347591","P749","dst"],["Q3347591","P127","dst"]]}
+{"qid":"Q99655718","label":"AGOS: A Game of Space","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q30338121","label":"Thales","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q62127300","label":"Colas Nord EST","neighbors":[["Q2982355","P749","dst"],["Q2982355","P355","src"]]}
+{"qid":"Q15635619","label":"Ubisoft Pune","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q1998794","label":"Monaco Grand Prix","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q3154519","label":"Iron Lord","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q85862323","label":"Pucci","neighbors":[["Q504998","P749","dst"],["Q504998","P355","src"]]}
+{"qid":"Q13431465","label":"Thales Air Defence","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q803873","label":"Bain Capital","neighbors":[["Q3280364","P749","src"],["Q3280364","P127","src"]]}
+{"qid":"Q796826","label":"BNP Paribas Asset Management","neighbors":[["Q3391735","P127","src"],["Q3197950","P127","src"]]}
+{"qid":"Q891723","label":"public company","neighbors":[["Q13359824","P31","src"],["Q3198944","P31","src"],["Q3197950","P31","src"],["Q3391735","P31","src"],["Q892432","P31","src"],["Q275623","P31","src"],["Q3488995","P31","src"],["Q2819236","P31","src"],["Q188273","P31","src"],["Q55595435","P31","src"],["Q1431486","P31","src"],["Q142205","P31","src"],["Q3147573","P31","src"],["Q47088340","P31","src"],["Q37934148","P31","src"],["Q56853086","P31","src"],["Q460487","P31","src"],["Q3347591","P31","src"],["Q504998","P31","src"],["Q105508686","P31","src"],["Q16533733","P31","src"],["Q2982355","P31","src"],["Q3339185","P31","src"],["Q917717","P31","src"],["Q2870542","P31","src"],["Q678565","P31","src"],["Q110024089","P31","src"],["Q97439162","P31","src"],["Q3539134","P31","src"],["Q57593821","P31","src"],["Q2558951","P31","src"],["Q1161666","P31","src"],["Q920000","P31","src"],["Q141644","P31","src"],["Q3280364","P31","src"]]}
+{"qid":"Q2807996","label":"Ubisoft Milan","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q676585","label":"Fnac","neighbors":[["Q47088340","P355","src"],["Q47088340","P138","src"],["Q47088340","P749","dst"]]}
+{"qid":"Q596062","label":"\u00c9tendard IV","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q603035","label":"Imagine Babyz","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q542767","label":"Christian Dior","neighbors":[["Q504998","P749","src"],["Q504998","P355","dst"],["Q504998","P1830","dst"]]}
+{"qid":"Q54392919","label":"OL Le Mus\u00e9e","neighbors":[["Q3347591","P749","dst"],["Q3347591","P355","src"],["Q3347591","P138","dst"]]}
+{"qid":"Q6674337","label":"Longtail Studios","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q6881511","label":"enterprise","neighbors":[["Q3198944","P31","src"],["Q3197950","P31","src"],["Q3391735","P31","src"],["Q892432","P31","src"],["Q275623","P31","src"],["Q3488995","P31","src"],["Q1431486","P31","src"],["Q142205","P31","src"],["Q3147573","P31","src"],["Q47088340","P31","src"],["Q56853086","P31","src"],["Q504998","P31","src"],["Q2982355","P31","src"],["Q3339185","P31","src"],["Q917717","P31","src"],["Q2870542","P31","src"],["Q3539134","P31","src"],["Q2558951","P31","src"],["Q1161666","P31","src"],["Q920000","P31","src"],["Q141644","P31","src"],["Q16533733","P31","src"]]}
+{"qid":"Q110567707","label":"SA \u00e0 directoire (s.a.i.)","neighbors":[["Q275623","P1454","src"],["Q16533733","P1454","src"],["Q3539134","P1454","src"],["Q13359824","P1454","src"]]}
+{"qid":"Q65945848","label":"Rabbids Invasion","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q7179453","label":"Petz Sports: Dog Playground","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q1276685","label":"Olympique Lyonnais","neighbors":[["Q3347591","P355","src"],["Q3347591","P1830","src"],["Q3347591","P749","dst"],["Q3347591","P127","dst"],["Q3347591","P361","dst"]]}
+{"qid":"Q109955545","label":"Totem","neighbors":[["Q1431486","P361","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q769354","label":"Red Storm Entertainment","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q776131","label":"Just Dance 3","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q795901","label":"GSM Association","neighbors":[["Q1431486","P361","src"],["Q1431486","P527","dst"]]}
+{"qid":"Q41567768","label":"Saint-Gobain Adfors CZ","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q614362","label":"Orange Livebox","neighbors":[["Q1431486","P1716","src"],["Q1431486","P127","dst"]]}
+{"qid":"Q93671484","label":"Blue Mammoth Games","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"]]}
+{"qid":"Q3117475","label":"Groupe Les Echos","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q30714541","label":"Imerys (United Kingdom)","neighbors":[["Q917717","P355","src"],["Q917717","P749","dst"]]}
+{"qid":"Q3552617","label":"PSA Mulhouse Plant","neighbors":[["Q275623","P137","dst"],["Q275623","P361","dst"]]}
+{"qid":"Q3573697","label":"Yves Guillemot","neighbors":[["Q188273","P1416","dst"],["Q188273","P3320","src"],["Q188273","P169","src"],["Q188273","P112","src"]]}
+{"qid":"Q29113580","label":"Nexans Deutschland GmbH","neighbors":[["Q141644","P355","src"],["Q141644","P749","dst"]]}
+{"qid":"Q30338122","label":"Thales","neighbors":[["Q1161666","P749","dst"],["Q1161666","P355","src"]]}
+{"qid":"Q16040593","label":"DS Automobiles","neighbors":[["Q97439162","P355","src"],["Q275623","P1830","src"],["Q275623","P112","dst"],["Q275623","P355","src"],["Q97439162","P749","dst"]]}
+{"qid":"Q17625587","label":"Dassault Falcon Service","neighbors":[["Q460487","P355","src"],["Q460487","P1830","src"],["Q460487","P127","dst"]]}
+{"qid":"Q17636121","label":"Orange Centrafrique","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q13219473","label":"Rayman","neighbors":[["Q188273","P123","dst"],["Q188273","P750","dst"]]}
+{"qid":"Q3355067","label":"Orange Romania","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q3355077","label":"Orange Tunisia","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q3373076","label":"Pavillon de Muire","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q29888194","label":"Ubisoft Bordeaux","neighbors":[["Q188273","P361","dst"],["Q188273","P749","dst"]]}
+{"qid":"Q66763775","label":"Assassin's Creed III Remastered","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q55343624","label":"Transference","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q200038","label":"Mirage 2000","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"],["Q460487","P1056","src"]]}
+{"qid":"Q248611","label":"Rocksmith","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q212793","label":"Charenton-le-Pont","neighbors":[["Q56853086","P159","src"],["Q56853086","P131","src"]]}
+{"qid":"Q15678788","label":"Fiat Chrysler Automobiles","neighbors":[["Q97439162","P1365","src"],["Q97439162","P1366","dst"],["Q275623","P7888","dst"],["Q97439162","P7888","dst"]]}
+{"qid":"Q110285726","label":"ET Dutch Holdings III","neighbors":[["Q142205","P355","src"],["Q142205","P749","dst"]]}
+{"qid":"Q190973","label":"Dassault Rafale","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q319361","label":"Mirage F1","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q239162","label":"Toyota Motor Manufacturing Czech Republic","neighbors":[["Q275623","P112","dst"],["Q275623","P355","src"],["Q275623","P1830","src"]]}
+{"qid":"Q113328933","label":"Stellantis Argentina","neighbors":[["Q97439162","P355","src"],["Q97439162","P749","dst"]]}
+{"qid":"Q113329512","label":"Peugeot-Citro\u00ebn Argentina","neighbors":[["Q275623","P355","src"],["Q275623","P749","dst"]]}
+{"qid":"Q24929972","label":"Maxime Picat","neighbors":[["Q275623","P3320","src"],["Q275623","P1037","src"]]}
+{"qid":"Q5322942","label":"EE","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q5378206","label":"English China Clays","neighbors":[["Q917717","P155","src"],["Q917717","P156","dst"]]}
+{"qid":"Q10859717","label":"Orange UK","neighbors":[["Q1431486","P355","src"],["Q1431486","P749","dst"]]}
+{"qid":"Q1499936","label":"Gemalto","neighbors":[["Q1161666","P749","dst"],["Q1161666","P127","dst"]]}
+{"qid":"Q18414205","label":"Future Games Of London","neighbors":[["Q188273","P749","dst"],["Q188273","P355","src"]]}
+{"qid":"Q1138526","label":"Mirage 5","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q106762406","label":"AI@Centech","neighbors":[["Q1161666","P127","dst"],["Q1161666","P1830","src"]]}
+{"qid":"Q7828240","label":"Totally Spies! Totally Party","neighbors":[["Q188273","P123","dst"],["Q188273","P287","dst"]]}
+{"qid":"Q2939466","label":"Carlos Tavares","neighbors":[["Q97439162","P169","src"],["Q275623","P488","src"],["Q97439162","P108","dst"],["Q275623","P108","dst"],["Q275623","P3320","src"]]}
+{"qid":"Q3365053","label":"Parfums Christian Dior","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"],["Q504998","P355","src"]]}
+{"qid":"Q15647504","label":"Ubisoft Film & Television","neighbors":[["Q188273","P749","dst"],["Q188273","P127","dst"],["Q188273","P1830","src"]]}
+{"qid":"Q65627649","label":"Category:PSA Group people","neighbors":[["Q275623","P4195","src"],["Q275623","P971","dst"]]}
+{"qid":"Q7246758","label":"Pro Rally 2002","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q1172028","label":"Super Myst\u00e8re","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q1200698","label":"Le Bon March\u00e9","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"]]}
+{"qid":"Q1172012","label":"Dassault Mirage G","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q18380158","label":"Tour Saint-Gobain","neighbors":[["Q678565","P159","src"],["Q678565","P466","dst"],["Q678565","P138","dst"]]}
+{"qid":"Q1229287","label":"Hennessy","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q142","label":"France","neighbors":[["Q3339185","P17","src"],["Q917717","P17","src"],["Q1161666","P17","src"],["Q917717","P1001","src"],["Q3280364","P17","src"],["Q3539134","P17","src"],["Q57593821","P17","src"],["Q2558951","P17","src"],["Q2870542","P17","src"],["Q97439162","P17","src"],["Q920000","P17","src"],["Q3197950","P17","src"],["Q3198944","P495","src"],["Q3391735","P17","src"],["Q141644","P17","src"],["Q3539134","P495","src"],["Q16533733","P17","src"],["Q3198944","P17","src"],["Q678565","P17","src"],["Q13359824","P17","src"],["Q3539134","P159","src"],["Q275623","P17","src"],["Q3488995","P17","src"],["Q892432","P17","src"],["Q2819236","P495","src"],["Q17176822","P17","src"],["Q56853086","P17","src"],["Q2819236","P17","src"],["Q188273","P17","src"],["Q55595435","P17","src"],["Q504998","P17","src"],["Q460487","P17","src"],["Q3147573","P17","src"],["Q142205","P17","src"],["Q105508686","P17","src"],["Q47088340","P17","src"],["Q1431486","P17","src"],["Q3347591","P17","src"],["Q3006170","P17","src"],["Q2982355","P17","src"]]}
+{"qid":"Q8507","label":"Parc Olympique Lyonnais","neighbors":[["Q3347591","P1830","src"],["Q3347591","P127","dst"]]}
+{"qid":"Q13677","label":"New York Stock Exchange","neighbors":[["Q1431486","P414","src"],["Q97439162","P414","src"]]}
+{"qid":"Q34416","label":"Saint-Gobain Building Distribution Germany","neighbors":[["Q678565","P749","dst"],["Q678565","P355","src"]]}
+{"qid":"Q16677736","label":"Spirou: The Robot Invasion","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q6385853","label":"ALPAL-2","neighbors":[["Q1431486","P137","dst"],["Q1431486","P127","dst"]]}
+{"qid":"Q108915591","label":"Nexans Sweden","neighbors":[["Q141644","P355","src"],["Q141644","P749","dst"]]}
+{"qid":"Q30714553","label":"Imerys (Austria)","neighbors":[["Q917717","P355","src"],["Q917717","P749","dst"]]}
+{"qid":"Q6577725","label":"Category:Dassault Group aircraft","neighbors":[["Q460487","P910","src"],["Q460487","P301","dst"]]}
+{"qid":"Q783794","label":"company","neighbors":[["Q55595435","P31","src"],["Q105508686","P31","src"]]}
+{"qid":"Q1370124","label":"Philippe Varin","neighbors":[["Q275623","P108","dst"],["Q275623","P488","src"]]}
+{"qid":"Q7575468","label":"Speed Busters","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q618098","label":"Apax Partners","neighbors":[["Q3280364","P1830","dst"],["Q3280364","P127","src"]]}
+{"qid":"Q1569960","label":"Orange Armenia","neighbors":[["Q1431486","P355","src"],["Q1431486","P112","dst"],["Q1431486","P749","dst"]]}
+{"qid":"Q743182","label":"Association Familiale Mulliez","neighbors":[["Q57593821","P1830","dst"],["Q57593821","P749","src"],["Q57593821","P127","src"]]}
+{"qid":"Q786820","label":"automobile manufacturer","neighbors":[["Q97439162","P31","src"],["Q275623","P31","src"]]}
+{"qid":"Q39960894","label":"PCA logistika","neighbors":[["Q275623","P355","src"],["Q275623","P127","dst"],["Q275623","P1830","src"],["Q275623","P749","dst"]]}
+{"qid":"Q2078911","label":"Teenage Mutant Ninja Turtles","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q2056628","label":"Acqua di Parma","neighbors":[["Q504998","P1830","src"],["Q504998","P749","dst"],["Q504998","P127","dst"]]}
+{"qid":"Q191485","label":"Louis Vuitton","neighbors":[["Q504998","P138","src"],["Q504998","P361","dst"],["Q504998","P127","dst"],["Q504998","P1830","src"],["Q504998","P749","dst"]]}
+{"qid":"Q173151","label":"Talbot","neighbors":[["Q275623","P127","dst"],["Q275623","P1830","src"]]}
+{"qid":"Q193920","label":"Rueil-Malmaison","neighbors":[["Q2819236","P131","src"],["Q2819236","P159","src"],["Q275623","P159","src"]]}
+{"qid":"Q106093174","label":"Assassin's Creed Odyssey \u2013 Legacy of the First Blade","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q7278840","label":"Racal","neighbors":[["Q1161666","P155","src"],["Q1161666","P156","dst"]]}
+{"qid":"Q1607361","label":"Beowulf: The Game","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q970769","label":"Norges Bank","neighbors":[["Q3391735","P127","src"],["Q3280364","P127","src"],["Q3197950","P127","src"],["Q55595435","P127","src"]]}
+{"qid":"Q90999","label":"Zombi","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q142348","label":"Le Parisien","neighbors":[["Q504998","P1830","src"],["Q504998","P127","dst"],["Q504998","P123","dst"]]}
+{"qid":"Q589433","label":"Dassault Mercure","neighbors":[["Q460487","P176","dst"],["Q460487","P178","dst"]]}
+{"qid":"Q648828","label":"CAC 40","neighbors":[["Q678565","P361","src"],["Q1431486","P361","src"],["Q1161666","P527","dst"],["Q56853086","P527","dst"],["Q678565","P527","dst"],["Q1161666","P361","src"],["Q56853086","P361","src"],["Q1431486","P527","dst"],["Q97439162","P527","dst"],["Q275623","P361","src"],["Q504998","P527","dst"],["Q97439162","P361","src"],["Q504998","P361","src"]]}
+{"qid":"Q4889486","label":"Dassault Falcon Jet","neighbors":[["Q460487","P355","src"],["Q460487","P1830","src"],["Q460487","P749","dst"],["Q460487","P127","dst"]]}
+{"qid":"Q4998454","label":"Burelle","neighbors":[["Q3391735","P355","dst"],["Q3391735","P749","src"]]}
+{"qid":"Q104859756","label":"Category:Stellantis","neighbors":[["Q97439162","P910","src"],["Q97439162","P301","dst"]]}
+{"qid":"Q328077","label":"Vertou","neighbors":[["Q3280364","P131","src"],["Q3280364","P159","src"]]}
+{"qid":"Q2866951","label":"Assassin's Creed II: Multiplayer","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q2362964","label":"Bpifrance","neighbors":[["Q97439162","P127","src"],["Q275623","P127","src"],["Q55595435","P127","src"]]}
+{"qid":"Q111794910","label":"Assassin's Creed Valhalla: The Siege of Paris","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q7622909","label":"Street Riders","neighbors":[["Q188273","P123","dst"],["Q188273","P178","dst"]]}
+{"qid":"Q52698543","label":"Category:Imerys","neighbors":[["Q917717","P301","dst"],["Q917717","P910","src"]]}
+{"qid":"Q24038997","label":"Orange Belgium","neighbors":[["Q1431486","P355","src"],["Q1431486","P1716","dst"],["Q1431486","P361","dst"],["Q1431486","P749","dst"],["Q1431486","P127","dst"]]}

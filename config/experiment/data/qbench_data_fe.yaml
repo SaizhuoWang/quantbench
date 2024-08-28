@@ -1,0 +1,19 @@
+defaults:
+  - base_data
+  - loader: qbench_loader
+  - preprocessor: qbench_preprocessor
+  - sampler: qbench_sampler
+  - loader/backend/compute@loader.backend.compute.myhxdf: myhxdf
+  - loader/alpha@loader.alpha.ohlcvp: qbench_ohlcvp
+
+# Below are things that should be specified in exp scripts
+  # - loader/alpha@loader.alpha.alpha101: alpha101
+  # - loader/alpha@loader.alpha.alpha191: alpha191
+  # - loader/alpha@loader.alpha.alpha158: alpha158
+  # - loader/alpha@loader.alpha.alpha56ba: alpha56ba
+
+shm_name: qbench_shm_data
+
+# region: cn
+# pool: all
+# benchmark: '../data/benchmark/csi1000.csv'

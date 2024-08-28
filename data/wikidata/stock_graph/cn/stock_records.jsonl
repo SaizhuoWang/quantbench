@@ -1,0 +1,728 @@
+{"qid":"Q7195659","label":"Ping An Bank","symbol":"000001_XSHE"}
+{"qid":"Q861340","label":"Vanke","symbol":"000002_XSHE"}
+{"qid":"Q15935951","label":"N","symbol":"000004_XSHE"}
+{"qid":"Q11152843","label":"N","symbol":"000005_XSHE"}
+{"qid":"Q11153089","label":"N","symbol":"000007_XSHE"}
+{"qid":"Q65051366","label":"China High-Speed Railway Technology Co.,Ltd.","symbol":"000008_XSHE"}
+{"qid":"Q10873649","label":"N","symbol":"000009_XSHE"}
+{"qid":"Q11153047","label":"N","symbol":"000010_XSHE"}
+{"qid":"Q11153424","label":"N","symbol":"000011_XSHE"}
+{"qid":"Q5014099","label":"CSG Holding","symbol":"000012_XSHE"}
+{"qid":"Q11140286","label":"N","symbol":"000014_XSHE"}
+{"qid":"Q11152803","label":"N","symbol":"000017_XSHE"}
+{"qid":"Q11152844","label":"N","symbol":"000018_XSHE"}
+{"qid":"Q11153066","label":"N","symbol":"000019_XSHE"}
+{"qid":"Q11152852","label":"N","symbol":"000020_XSHE"}
+{"qid":"Q15953259","label":"Kaifa","symbol":"000021_XSHE"}
+{"qid":"Q11153183","label":"N","symbol":"000023_XSHE"}
+{"qid":"Q11153067","label":"N","symbol":"000025_XSHE"}
+{"qid":"Q15942781","label":"N","symbol":"000026_XSHE"}
+{"qid":"Q7494368","label":"Shenzhen Energy","symbol":"000027_XSHE"}
+{"qid":"Q10926183","label":"N","symbol":"000028_XSHE"}
+{"qid":"Q11061743","label":"N","symbol":"000030_XSHE"}
+{"qid":"Q10875957","label":"N","symbol":"000031_XSHE"}
+{"qid":"Q11153103","label":"N","symbol":"000033_XSHE"}
+{"qid":"Q10905876","label":"N","symbol":"000036_XSHE"}
+{"qid":"Q11153004","label":"N","symbol":"000037_XSHE"}
+{"qid":"Q11153040","label":"N","symbol":"000038_XSHE"}
+{"qid":"Q1073291","label":"China International Marine Containers","symbol":"000039_XSHE"}
+{"qid":"Q10949352","label":"N","symbol":"000040_XSHE"}
+{"qid":"Q11153093","label":"N","symbol":"000042_XSHE"}
+{"qid":"Q11153458","label":"N","symbol":"000045_XSHE"}
+{"qid":"Q15931919","label":"Oceanwide Holdings Co., Ltd.","symbol":"000046_XSHE"}
+{"qid":"Q11071862","label":"N","symbol":"000049_XSHE"}
+{"qid":"Q10940860","label":"N","symbol":"000050_XSHE"}
+{"qid":"Q11084714","label":"Fangda Steel","symbol":"000055_XSHE"}
+{"qid":"Q11153048","label":"N","symbol":"000056_XSHE"}
+{"qid":"Q11153138","label":"N","symbol":"000058_XSHE"}
+{"qid":"Q15936116","label":"N","symbol":"000059_XSHE"}
+{"qid":"Q7494388","label":"Shenzhen Zhongjin Lingnan Nonfemet Company","symbol":"000060_XSHE"}
+{"qid":"Q15930921","label":"N","symbol":"000061_XSHE"}
+{"qid":"Q10905754","label":"N","symbol":"000062_XSHE"}
+{"qid":"Q136484","label":"ZTE","symbol":"000063_XSHE"}
+{"qid":"Q10903048","label":"N","symbol":"000065_XSHE"}
+{"qid":"Q10874202","label":"N","symbol":"000066_XSHE"}
+{"qid":"Q11153137","label":"N","symbol":"000068_XSHE"}
+{"qid":"Q11153069","label":"N","symbol":"000070_XSHE"}
+{"qid":"Q11153061","label":"N","symbol":"000078_XSHE"}
+{"qid":"Q8848362","label":"N","symbol":"000088_XSHE"}
+{"qid":"Q842297","label":"Shenzhen Bao'an International Airport","symbol":"000089_XSHE"}
+{"qid":"Q11062352","label":"N","symbol":"000096_XSHE"}
+{"qid":"Q733958","label":"TCL Technology","symbol":"000100_XSHE"}
+{"qid":"Q10948815","label":"N","symbol":"000150_XSHE"}
+{"qid":"Q10875575","label":"N","symbol":"000151_XSHE"}
+{"qid":"Q10876888","label":"N","symbol":"000153_XSHE"}
+{"qid":"Q11054983","label":"N","symbol":"000155_XSHE"}
+{"qid":"Q15940122","label":"Wasu Media","symbol":"000156_XSHE"}
+{"qid":"Q5972314","label":"Zoomlion","symbol":"000157_XSHE"}
+{"qid":"Q15938413","label":"N","symbol":"000158_XSHE"}
+{"qid":"Q11083641","label":"N","symbol":"000159_XSHE"}
+{"qid":"Q15914712","label":"Shenwan Hongyuan","symbol":"000166_XSHE"}
+{"qid":"Q10947025","label":"Jiangsu Dongfang Shenghong","symbol":"000301_XSHE"}
+{"qid":"Q2609533","label":"Midea","symbol":"000333_XSHE"}
+{"qid":"Q3567081","label":"Weichai Power","symbol":"000338_XSHE"}
+{"qid":"Q15934405","label":"N","symbol":"000400_XSHE"}
+{"qid":"Q6192159","label":"Jidong Cement","symbol":"000401_XSHE"}
+{"qid":"Q5449667","label":"Financial Street Holding","symbol":"000402_XSHE"}
+{"qid":"Q11077797","label":"N","symbol":"000403_XSHE"}
+{"qid":"Q15938201","label":"N","symbol":"000408_XSHE"}
+{"qid":"Q17029175","label":"TAIFU INDUSTRY CO.,LTD","symbol":"000409_XSHE"}
+{"qid":"Q11138978","label":"Shenyang Machine Tool","symbol":"000410_XSHE"}
+{"qid":"Q10949465","label":"N","symbol":"000413_XSHE"}
+{"qid":"Q17038681","label":"BOHAI LEASING CO.,LTD","symbol":"000415_XSHE"}
+{"qid":"Q17024851","label":"Wuxi Little Swan Company Limited","symbol":"000418_XSHE"}
+{"qid":"Q17030780","label":"N","symbol":"000419_XSHE"}
+{"qid":"Q10917208","label":"JILIN CHEMICAL FIBRE STOCK CO.,LTD.","symbol":"000420_XSHE"}
+{"qid":"Q15941291","label":"N","symbol":"000422_XSHE"}
+{"qid":"Q10871094","label":"Dong-E-E-Jiao","symbol":"000423_XSHE"}
+{"qid":"Q10894035","label":"Inner Mongolia Xingye Mining Co. Ltd.","symbol":"000426_XSHE"}
+{"qid":"Q10905656","label":"N","symbol":"000428_XSHE"}
+{"qid":"Q11066898","label":"N","symbol":"000430_XSHE"}
+{"qid":"Q4977492","label":"Chenming Paper","symbol":"000488_XSHE"}
+{"qid":"Q10877258","label":"DANDONG CHEMICAL FIBRE CO. LTD.","symbol":"000498_XSHE"}
+{"qid":"Q11123915","label":"N","symbol":"000501_XSHE"}
+{"qid":"Q15927839","label":"N","symbol":"000502_XSHE"}
+{"qid":"Q11151280","label":"N","symbol":"000503_XSHE"}
+{"qid":"Q17039924","label":"N","symbol":"000504_XSHE"}
+{"qid":"Q17041529","label":"N","symbol":"000505_XSHE"}
+{"qid":"Q10875817","label":"N","symbol":"000506_XSHE"}
+{"qid":"Q17059899","label":"ZHUHAI PORT CO., LTD","symbol":"000507_XSHE"}
+{"qid":"Q10905625","label":"Huasu Holdings Co., Ltd","symbol":"000509_XSHE"}
+{"qid":"Q15954245","label":"SICHUAN JINLU GROUP CO., LTD.","symbol":"000510_XSHE"}
+{"qid":"Q17028930","label":"N","symbol":"000511_XSHE"}
+{"qid":"Q10877611","label":"Livzon Pharmaceutical Group Inc.","symbol":"000513_XSHE"}
+{"qid":"Q17029636","label":"CHONGQINGYUKAIFACO.,LTD.","symbol":"000514_XSHE"}
+{"qid":"Q11065661","label":"N","symbol":"000516_XSHE"}
+{"qid":"Q17066664","label":"RONGAN PROPERTY CO., LTD","symbol":"000517_XSHE"}
+{"qid":"Q10925192","label":"JIANGSU SIHUAN BIOENGINEERING CO.\uff0cLTD","symbol":"000518_XSHE"}
+{"qid":"Q11133848","label":"HUNAN JIANGNAN RED ARROW CO.,LTD.","symbol":"000519_XSHE"}
+{"qid":"Q15955292","label":"N","symbol":"000520_XSHE"}
+{"qid":"Q10916954","label":"HEFEI MEILING CO.,LTD.","symbol":"000521_XSHE"}
+{"qid":"Q10870325","label":"Dong Fang Hotel Guangzhou","symbol":"000524_XSHE"}
+{"qid":"Q10906880","label":"NANJING RED SUN CO.,LTD.","symbol":"000525_XSHE"}
+{"qid":"Q17029040","label":"XIAMEN INSIGHT INVESTMENT CO.,LTD","symbol":"000526_XSHE"}
+{"qid":"Q5244509","label":"LiuGong","symbol":"000528_XSHE"}
+{"qid":"Q11062252","label":"N","symbol":"000529_XSHE"}
+{"qid":"Q10933724","label":"DALIAN REFRIGERATION CO.,LTD","symbol":"000530_XSHE"}
+{"qid":"Q11062140","label":"N","symbol":"000531_XSHE"}
+{"qid":"Q10865117","label":"GUANG DONG WEDGE C0.,LTD.","symbol":"000534_XSHE"}
+{"qid":"Q10905784","label":"N","symbol":"000536_XSHE"}
+{"qid":"Q8061323","label":"Yunnan Baiyao Group","symbol":"000538_XSHE"}
+{"qid":"Q10874962","label":"N","symbol":"000540_XSHE"}
+{"qid":"Q10886751","label":"Foshan Electrical And Lighting","symbol":"000541_XSHE"}
+{"qid":"Q17039971","label":"AN HUI WENERGY COMPANY LIMITED","symbol":"000543_XSHE"}
+{"qid":"Q10917205","label":"JILIN PHARMACEUTICAL CO., LTD.","symbol":"000545_XSHE"}
+{"qid":"Q17029543","label":"CHINASCHOLARS GROUP CO,. LTD.","symbol":"000547_XSHE"}
+{"qid":"Q15952760","label":"Hunan Investment Group","symbol":"000548_XSHE"}
+{"qid":"Q1065539","label":"Jiangling Motors","symbol":"000550_XSHE"}
+{"qid":"Q10898185","label":"CREATE TECHNOLOGY & SCIENCE CO.,LTD","symbol":"000551_XSHE"}
+{"qid":"Q17062883","label":"N","symbol":"000552_XSHE"}
+{"qid":"Q27579359","label":"Sanonda","symbol":"000553_XSHE"}
+{"qid":"Q11145000","label":"N","symbol":"000554_XSHE"}
+{"qid":"Q10941013","label":"SHENZHEN TECHO TELCOM.,LTD","symbol":"000555_XSHE"}
+{"qid":"Q11061932","label":"N","symbol":"000557_XSHE"}
+{"qid":"Q15956832","label":"Lander Real Estate Co.,Ltd","symbol":"000558_XSHE"}
+{"qid":"Q10864905","label":"WANXIANG QIANCHAO CO.,LTD","symbol":"000559_XSHE"}
+{"qid":"Q11087448","label":"N","symbol":"000560_XSHE"}
+{"qid":"Q17059354","label":"N","symbol":"000561_XSHE"}
+{"qid":"Q10865935","label":"XI\u2032AN MINSHENG GROUP CO.,LTD.","symbol":"000565_XSHE"}
+{"qid":"Q17028496","label":"HAINAN HAIYAO CO.\uff0cLTD.","symbol":"000566_XSHE"}
+{"qid":"Q11150772","label":"HAINAN HAIDE INDUSTRY CO.,LTD","symbol":"000567_XSHE"}
+{"qid":"Q4260724","label":"Luzhou Laojiao","symbol":"000568_XSHE"}
+{"qid":"Q11060426","label":"CHANGCHAI CO.,LTD.","symbol":"000570_XSHE"}
+{"qid":"Q1397713","label":"Haima Automobile","symbol":"000572_XSHE"}
+{"qid":"Q15956642","label":"N","symbol":"000573_XSHE"}
+{"qid":"Q10943697","label":"N","symbol":"000581_XSHE"}
+{"qid":"Q10903277","label":"BEIHAI PORT CO., LTD.","symbol":"000582_XSHE"}
+{"qid":"Q11103117","label":"Northeast Electric Development","symbol":"000585_XSHE"}
+{"qid":"Q11133054","label":"N","symbol":"000586_XSHE"}
+{"qid":"Q17040325","label":"Goldleaf Jewelry Company Limited","symbol":"000587_XSHE"}
+{"qid":"Q17039418","label":"GUIZHOU TYRE CO.,LTD.","symbol":"000589_XSHE"}
+{"qid":"Q15932529","label":"N","symbol":"000590_XSHE"}
+{"qid":"Q11112613","label":"CHONGQING TONG JUN GE CO.,LTD.","symbol":"000591_XSHE"}
+{"qid":"Q10875941","label":"Fujian CFC Industries Co.lTD.","symbol":"000592_XSHE"}
+{"qid":"Q10938194","label":"N","symbol":"000593_XSHE"}
+{"qid":"Q10926099","label":"N","symbol":"000594_XSHE"}
+{"qid":"Q17063326","label":"XIBEI BEARING CO.,LTD.","symbol":"000595_XSHE"}
+{"qid":"Q10946773","label":"Gu Jing Gong Liquor","symbol":"000596_XSHE"}
+{"qid":"Q10869568","label":"N","symbol":"000597_XSHE"}
+{"qid":"Q10894332","label":"Chengdu Xingrong Investment Co.,Ltd","symbol":"000598_XSHE"}
+{"qid":"Q17028511","label":"QINGDAO DOUBLESTAR CO.,LTD","symbol":"000599_XSHE"}
+{"qid":"Q11065365","label":"N","symbol":"000600_XSHE"}
+{"qid":"Q15955783","label":"GUANGDONG SHAONENG GROUP CO.,LTD.","symbol":"000601_XSHE"}
+{"qid":"Q15956508","label":"N","symbol":"000602_XSHE"}
+{"qid":"Q17066420","label":"Shengda Mining CO.,LTD","symbol":"000603_XSHE"}
+{"qid":"Q10925194","label":"SIHUAN PHARMACEUTICAL CO., LTD.","symbol":"000605_XSHE"}
+{"qid":"Q15955035","label":"N","symbol":"000607_XSHE"}
+{"qid":"Q17031963","label":"YANG GUANG CO., LTD.","symbol":"000608_XSHE"}
+{"qid":"Q17066884","label":"XI'AN TOURISM CO., LTD.","symbol":"000610_XSHE"}
+{"qid":"Q15952703","label":"N","symbol":"000611_XSHE"}
+{"qid":"Q15954390","label":"N","symbol":"000612_XSHE"}
+{"qid":"Q17030819","label":"HUBEI GOLDEN RING CO.,LTD.","symbol":"000615_XSHE"}
+{"qid":"Q17016841","label":"Yeland Group Co., Ltd.","symbol":"000616_XSHE"}
+{"qid":"Q17028038","label":"JINAN DIESEL ENGINE CO.,LTD.","symbol":"000617_XSHE"}
+{"qid":"Q15955944","label":"N","symbol":"000619_XSHE"}
+{"qid":"Q17025379","label":"MACROLINK REAL ESTATE CO., LTD.","symbol":"000620_XSHE"}
+{"qid":"Q29366","label":"Changan Automobile","symbol":"000625_XSHE"}
+{"qid":"Q15956629","label":"LIANYUNGANG IDEAL GROUP CO.,LTD.","symbol":"000626_XSHE"}
+{"qid":"Q15954752","label":"N","symbol":"000627_XSHE"}
+{"qid":"Q15955940","label":"N","symbol":"000628_XSHE"}
+{"qid":"Q7132050","label":"Pangang Group Vanadium Titanium & Resources","symbol":"000629_XSHE"}
+{"qid":"Q7821114","label":"Tongling Nonferrous Metals","symbol":"000630_XSHE"}
+{"qid":"Q17030853","label":"SHUNFA HENGYE Corporation.","symbol":"000631_XSHE"}
+{"qid":"Q17012830","label":"FUJIAN SANMU GROUP CO.,LTD.","symbol":"000632_XSHE"}
+{"qid":"Q17023376","label":"SHENYANG HEJIN HOLDING CO., LTD","symbol":"000633_XSHE"}
+{"qid":"Q15955117","label":"NINGXIN YINGLITE CHEMICALS CO.,LTD","symbol":"000635_XSHE"}
+{"qid":"Q15954225","label":"N","symbol":"000636_XSHE"}
+{"qid":"Q15955109","label":"N","symbol":"000638_XSHE"}
+{"qid":"Q17065326","label":"Xiwang Foodstuffs Co., Ltd.","symbol":"000639_XSHE"}
+{"qid":"Q1544535","label":"Gree Electric","symbol":"000651_XSHE"}
+{"qid":"Q7800211","label":"Tianjin TEDA Co., Ltd.","symbol":"000652_XSHE"}
+{"qid":"Q15956485","label":"Shandong Jinling Mining Co., Ltd.","symbol":"000655_XSHE"}
+{"qid":"Q15956358","label":"JINKE PROPERTY GROUP CO.,LTD.","symbol":"000656_XSHE"}
+{"qid":"Q15954750","label":"N","symbol":"000657_XSHE"}
+{"qid":"Q17041552","label":"ZHUHAI ZHONGFU ENTERPRISE CO.,LTD.","symbol":"000659_XSHE"}
+{"qid":"Q15953622","label":"Changchun High & New Technology Industry (Group) Inc.","symbol":"000661_XSHE"}
+{"qid":"Q17032343","label":"SOFTTO CO., LTD","symbol":"000662_XSHE"}
+{"qid":"Q15955660","label":"N","symbol":"000663_XSHE"}
+{"qid":"Q15917254","label":"N","symbol":"000666_XSHE"}
+{"qid":"Q17031711","label":"RONGFENGHOLDING GROUP CO.,LTD.","symbol":"000668_XSHE"}
+{"qid":"Q23957588","label":"Visual China Group","symbol":"000681_XSHE"}
+{"qid":"Q105975716","label":"Citic Pacific Special Steel Group Co., Ltd.","symbol":"000708_XSHE"}
+{"qid":"Q15938515","label":"Suning Universal","symbol":"000718_XSHE"}
+{"qid":"Q11173143","label":"N","symbol":"000720_XSHE"}
+{"qid":"Q22234667","label":"Boe Technology Group Co., Ltd.","symbol":"000725_XSHE"}
+{"qid":"Q2060769","label":"Beijing Yanjing Brewery","symbol":"000729_XSHE"}
+{"qid":"Q17022922","label":"N","symbol":"000737_XSHE"}
+{"qid":"Q17030152","label":"N","symbol":"000748_XSHE"}
+{"qid":"Q30946172","label":"N","symbol":"000750_XSHE"}
+{"qid":"Q11045670","label":"Xinhua Pharmaceutical","symbol":"000756_XSHE"}
+{"qid":"Q302850","label":"Steyr Motors","symbol":"000760_XSHE"}
+{"qid":"Q22100451","label":"N","symbol":"000766_XSHE"}
+{"qid":"Q8044018","label":"AVIC Aircraft Corporation Ltd.","symbol":"000768_XSHE"}
+{"qid":"Q11061887","label":"GF Securities Company Limited","symbol":"000776_XSHE"}
+{"qid":"Q11081183","label":"Xinxing Ductile Iron Pipes Co.,Ltd","symbol":"000778_XSHE"}
+{"qid":"Q4260242","label":"Changjiang Securities","symbol":"000783_XSHE"}
+{"qid":"Q2121621","label":"Qinghai Salt Lake Potash","symbol":"000792_XSHE"}
+{"qid":"Q24886215","label":"Huawen Media Group Co., Ltd.","symbol":"000793_XSHE"}
+{"qid":"Q5424523","label":"FAW Car Company","symbol":"000800_XSHE"}
+{"qid":"Q56087556","label":"Shanxi Taigang Stainless Steel Co., Ltd.","symbol":"000825_XSHE"}
+{"qid":"Q4260326","label":"CITIC Guoan","symbol":"000839_XSHE"}
+{"qid":"Q3570160","label":"Wuliangye","symbol":"000858_XSHE"}
+{"qid":"Q15943417","label":"Shunxin Agriculture","symbol":"000860_XSHE"}
+{"qid":"Q11061724","label":"N","symbol":"000861_XSHE"}
+{"qid":"Q82467","label":"Ankai","symbol":"000868_XSHE"}
+{"qid":"Q5072156","label":"Changyu Winery","symbol":"000869_XSHE"}
+{"qid":"Q10917528","label":"Henan Tongli Cement Co.,Ltd.","symbol":"000885_XSHE"}
+{"qid":"Q15910607","label":"Huan&Rui Century Pictures","symbol":"000892_XSHE"}
+{"qid":"Q11061987","label":"N","symbol":"000893_XSHE"}
+{"qid":"Q2227422","label":"Angang Steel Company","symbol":"000898_XSHE"}
+{"qid":"Q15935428","label":"N","symbol":"000900_XSHE"}
+{"qid":"Q10907999","label":"N","symbol":"000906_XSHG"}
+{"qid":"Q15933253","label":"N","symbol":"000908_XSHE"}
+{"qid":"Q2121562","label":"Qianjiang Motorcycle","symbol":"000913_XSHE"}
+{"qid":"Q15920142","label":"Hunan TV & Broadcast Intermediary Company","symbol":"000917_XSHE"}
+{"qid":"Q5772527","label":"Hisense Kelon","symbol":"000921_XSHE"}
+{"qid":"Q2285090","label":"FAW Tianjin","symbol":"000927_XSHE"}
+{"qid":"Q5942059","label":"Valin Steel","symbol":"000932_XSHE"}
+{"qid":"Q67205965","label":"Sinotruk Jinan Truck Co., Ltd.","symbol":"000951_XSHE"}
+{"qid":"Q197914","label":"Zhongtong Bus","symbol":"000957_XSHE"}
+{"qid":"Q8061336","label":"Yunnan Tin","symbol":"000960_XSHE"}
+{"qid":"Q5629389","label":"HD Medicine","symbol":"000963_XSHE"}
+{"qid":"Q1145751","label":"Inspur","symbol":"000977_XSHE"}
+{"qid":"Q11705500","label":"Zotye Auto","symbol":"000980_XSHE"}
+{"qid":"Q8044779","label":"Xishan Coal and Electricity Power","symbol":"000983_XSHE"}
+{"qid":"Q10878998","label":"N","symbol":"000989_XSHE"}
+{"qid":"Q5091391","label":"Chengzhi Co., Ltd","symbol":"000990_XSHE"}
+{"qid":"Q15936377","label":"N","symbol":"000998_XSHE"}
+{"qid":"Q18651906","label":"China Resources Sanjiu Medical & Pharmaceutical Co., Ltd.","symbol":"000999_XSHE"}
+{"qid":"Q17038587","label":"Henan Yuneng Holdings Co Ltd","symbol":"001896_XSHE"}
+{"qid":"Q5099782","label":"China Merchants Property","symbol":"001979_XSHE"}
+{"qid":"Q28412534","label":"N","symbol":"002007_XSHE"}
+{"qid":"Q10889279","label":"Zhejiang Transfar Co.,Ltd.","symbol":"002010_XSHE"}
+{"qid":"Q1895661","label":"Suning.com","symbol":"002024_XSHE"}
+{"qid":"Q10864536","label":"N","symbol":"002027_XSHE"}
+{"qid":"Q7452379","label":"Septwolves","symbol":"002029_XSHE"}
+{"qid":"Q10875261","label":"N","symbol":"002030_XSHE"}
+{"qid":"Q17006657","label":"Supor","symbol":"002032_XSHE"}
+{"qid":"Q17035756","label":"N","symbol":"002038_XSHE"}
+{"qid":"Q11179866","label":"N","symbol":"002039_XSHE"}
+{"qid":"Q17060372","label":"N","symbol":"002046_XSHE"}
+{"qid":"Q17024809","label":"N","symbol":"002048_XSHE"}
+{"qid":"Q10875472","label":"N","symbol":"002051_XSHE"}
+{"qid":"Q10880855","label":"Yunnan Tourism Co., Ltd.","symbol":"002059_XSHE"}
+{"qid":"Q17032848","label":"Zhejiang Huafon Spandex Co., Ltd.","symbol":"002064_XSHE"}
+{"qid":"Q27791833","label":"DHC Software Co., Ltd.","symbol":"002065_XSHE"}
+{"qid":"Q11135448","label":"N","symbol":"002068_XSHE"}
+{"qid":"Q18654547","label":"N","symbol":"002069_XSHE"}
+{"qid":"Q11140786","label":"Jiangsu Shagang Company Limited","symbol":"002075_XSHE"}
+{"qid":"Q10925905","label":"Good-Ark Electronics","symbol":"002079_XSHE"}
+{"qid":"Q11151494","label":"N","symbol":"002084_XSHE"}
+{"qid":"Q10939573","label":"N","symbol":"002100_XSHE"}
+{"qid":"Q11061876","label":"N","symbol":"002103_XSHE"}
+{"qid":"Q4856166","label":"Bank of Ningbo","symbol":"002142_XSHE"}
+{"qid":"Q5514453","label":"GRG Banking","symbol":"002152_XSHE"}
+{"qid":"Q17038791","label":"Yoozoo Games","symbol":"002174_XSHE"}
+{"qid":"Q24834627","label":"Eternal Asia","symbol":"002183_XSHE"}
+{"qid":"Q3269017","label":"Quanjude","symbol":"002186_XSHE"}
+{"qid":"Q11062329","label":"Guangzhou Grandbuy Co.,Ltd.","symbol":"002187_XSHE"}
+{"qid":"Q10898422","label":"N","symbol":"002189_XSHE"}
+{"qid":"Q15903262","label":"Sanquan Food","symbol":"002216_XSHE"}
+{"qid":"Q86726152","label":"Yuwell Medical","symbol":"002223_XSHE"}
+{"qid":"Q10923268","label":"N","symbol":"002232_XSHE"}
+{"qid":"Q18111506","label":"Dahua Technology","symbol":"002236_XSHE"}
+{"qid":"Q19817859","label":"Joyoung","symbol":"002242_XSHE"}
+{"qid":"Q10902548","label":"N","symbol":"002246_XSHE"}
+{"qid":"Q17035891","label":"N","symbol":"002265_XSHE"}
+{"qid":"Q6823520","label":"Meters\/bonwe","symbol":"002269_XSHE"}
+{"qid":"Q11103512","label":"N","symbol":"002271_XSHE"}
+{"qid":"Q17030868","label":"N","symbol":"002277_XSHE"}
+{"qid":"Q22324956","label":"Alpha Group Company","symbol":"002292_XSHE"}
+{"qid":"Q20716869","label":"Shenzhen Salubris Pharmaceuticals","symbol":"002294_XSHE"}
+{"qid":"Q11145618","label":"Yanghe Distillery","symbol":"002304_XSHE"}
+{"qid":"Q17031449","label":"N","symbol":"002306_XSHE"}
+{"qid":"Q105977087","label":"Guangdong Haid Group Co., Limited","symbol":"002311_XSHE"}
+{"qid":"Q17040770","label":"N","symbol":"002317_XSHE"}
+{"qid":"Q5338060","label":"Edifier","symbol":"002351_XSHE"}
+{"qid":"Q7390019","label":"SF Express","symbol":"002352_XSHE"}
+{"qid":"Q11141563","label":"N","symbol":"002358_XSHE"}
+{"qid":"Q11077178","label":"talkweb","symbol":"002397_XSHE"}
+{"qid":"Q15954659","label":"N","symbol":"002400_XSHE"}
+{"qid":"Q106222114","label":"Glodon Company Limited","symbol":"002410_XSHE"}
+{"qid":"Q5760704","label":"Hikvision","symbol":"002415_XSHE"}
+{"qid":"Q116251274","label":"N","symbol":"002419_XSHE"}
+{"qid":"Q10872610","label":"N","symbol":"002423_XSHE"}
+{"qid":"Q10896438","label":"N","symbol":"002425_XSHE"}
+{"qid":"Q10894278","label":"Shenzhen Fastprint Circuit Tech Co.,Ltd.","symbol":"002436_XSHE"}
+{"qid":"Q55454145","label":"O-film (China)","symbol":"002456_XSHE"}
+{"qid":"Q198223","label":"Guangzhou Zhujiang Brewery Group","symbol":"002461_XSHE"}
+{"qid":"Q10426347","label":"STO Express","symbol":"002468_XSHE"}
+{"qid":"Q7487931","label":"Shandong Molong Petroleum Machinery","symbol":"002490_XSHE"}
+{"qid":"Q108388466","label":"Rongsheng Petrochemical","symbol":"002493_XSHE"}
+{"qid":"Q24836166","label":"N","symbol":"002504_XSHE"}
+{"qid":"Q18651096","label":"37Games","symbol":"002555_XSHE"}
+{"qid":"Q15902893","label":"N","symbol":"002557_XSHE"}
+{"qid":"Q16078481","label":"Giant Interactive","symbol":"002558_XSHE"}
+{"qid":"Q18669162","label":"Shenzhen Rapoo Technology Co.,Ltd.","symbol":"002577_XSHE"}
+{"qid":"Q2608329","label":"BYD Company","symbol":"002594_XSHE"}
+{"qid":"Q10943413","label":"N","symbol":"002605_XSHE"}
+{"qid":"Q54803398","label":"Jiangsu Guoxin Corporation Limited","symbol":"002608_XSHE"}
+{"qid":"Q7168080","label":"Perfect World","symbol":"002624_XSHE"}
+{"qid":"Q10948928","label":"N","symbol":"002627_XSHE"}
+{"qid":"Q10900737","label":"N","symbol":"002650_XSHE"}
+{"qid":"Q17033460","label":"SHENZHEN MASON TECHNOLOGIES CO, LTD.","symbol":"002654_XSHE"}
+{"qid":"Q10893828","label":"Shandong Gettop Acoustic Co.,Ltd.","symbol":"002655_XSHE"}
+{"qid":"Q10909761","label":"N","symbol":"002656_XSHE"}
+{"qid":"Q16926236","label":"N","symbol":"002660_XSHE"}
+{"qid":"Q24837162","label":"Kemen Noodle Manufacturing","symbol":"002661_XSHE"}
+{"qid":"Q10942666","label":"N","symbol":"002668_XSHE"}
+{"qid":"Q2065895","label":"Pearl River Piano Group","symbol":"002678_XSHE"}
+{"qid":"Q55715749","label":"Changsheng Bio-technology Co., Ltd.","symbol":"002680_XSHE"}
+{"qid":"Q10948000","label":"N","symbol":"002683_XSHE"}
+{"qid":"Q15908807","label":"N","symbol":"002684_XSHE"}
+{"qid":"Q15955294","label":"WUXI HUADONG HEAVY MACHINERY CO., LTD.","symbol":"002685_XSHE"}
+{"qid":"Q17025825","label":"N","symbol":"002690_XSHE"}
+{"qid":"Q10875851","label":"N","symbol":"002691_XSHE"}
+{"qid":"Q17030758","label":"GOODY SCIENCE & TECHNOLOGY CO.,LTD.","symbol":"002694_XSHE"}
+{"qid":"Q15954067","label":"Huangshanghuang","symbol":"002695_XSHE"}
+{"qid":"Q15950449","label":"Baiyang Aquatic Group, Inc.","symbol":"002696_XSHE"}
+{"qid":"Q11083674","label":"XinJiang Haoyuan Gas Company Limited","symbol":"002700_XSHE"}
+{"qid":"Q11148475","label":"Zhejiang Shibao Company Limited","symbol":"002703_XSHE"}
+{"qid":"Q18119538","label":"N","symbol":"002726_XSHE"}
+{"qid":"Q5619672","label":"Guosen Securities","symbol":"002736_XSHE"}
+{"qid":"Q116140537","label":"Sunflower Pharmaceutical Group","symbol":"002737_XSHE"}
+{"qid":"Q24836346","label":"R&T","symbol":"002790_XSHE"}
+{"qid":"Q115536566","label":"Guangzhou Metro Design & Research Institute","symbol":"003013_XSHE"}
+{"qid":"Q110313340","label":"Shenzhen Zhaowei","symbol":"003021_XSHE"}
+{"qid":"Q17039829","label":"Qingdao TGOOD Electric Co., Ltd.","symbol":"300001_XSHE"}
+{"qid":"Q11078096","label":"N","symbol":"300005_XSHE"}
+{"qid":"Q17033089","label":"N","symbol":"300006_XSHE"}
+{"qid":"Q17032665","label":"Henan Hanwei Electronics Company Limited","symbol":"300007_XSHE"}
+{"qid":"Q17039563","label":"N","symbol":"300012_XSHE"}
+{"qid":"Q11082308","label":"N","symbol":"300013_XSHE"}
+{"qid":"Q105966435","label":"EVE Energy Co., Ltd","symbol":"300014_XSHE"}
+{"qid":"Q11073798","label":"Aier Eye Hospital Group Company Limited","symbol":"300015_XSHE"}
+{"qid":"Q30944755","label":"Wangsu Science & Technology","symbol":"300017_XSHE"}
+{"qid":"Q10937152","label":"GanSu DaYu Water-saving Co., Ltd.","symbol":"300021_XSHE"}
+{"qid":"Q10917120","label":"N","symbol":"300022_XSHE"}
+{"qid":"Q11082956","label":"SIASUN Robot & Automation Co., Ltd.","symbol":"300024_XSHE"}
+{"qid":"Q8007810","label":"Huayi Brothers","symbol":"300027_XSHE"}
+{"qid":"Q10940957","label":"N","symbol":"300029_XSHE"}
+{"qid":"Q24836515","label":"Hithink Flush Information Network Co Ltd","symbol":"300033_XSHE"}
+{"qid":"Q11082286","label":"Shenzhen Capchem Technology Co.,Ltd.","symbol":"300037_XSHE"}
+{"qid":"Q8063267","label":"ZQGame","symbol":"300052_XSHE"}
+{"qid":"Q24836492","label":"East Money Information","symbol":"300059_XSHE"}
+{"qid":"Q27808154","label":"Le.com","symbol":"300104_XSHE"}
+{"qid":"Q105904156","label":"Chongqing Zhifei Biological Products Co., Ltd.","symbol":"300122_XSHE"}
+{"qid":"Q15908644","label":"N","symbol":"300133_XSHE"}
+{"qid":"Q10889947","label":"N","symbol":"300137_XSHE"}
+{"qid":"Q17032557","label":"Gumuzhen Bio-technology Co., Ltd","symbol":"300143_XSHE"}
+{"qid":"Q28418371","label":"N","symbol":"300146_XSHE"}
+{"qid":"Q17499736","label":"Guangzhou Xiangxue Pharmaceutical","symbol":"300147_XSHE"}
+{"qid":"Q10940661","label":"N","symbol":"300148_XSHE"}
+{"qid":"Q11083907","label":"N","symbol":"300159_XSHE"}
+{"qid":"Q24836170","label":"Xiuqiang","symbol":"300160_XSHE"}
+{"qid":"Q10940475","label":"Jiangsu Skyray Instrument Co., Ltd.","symbol":"300165_XSHE"}
+{"qid":"Q10889557","label":"Fujian Yuanli Active Carbon Co., Ltd.","symbol":"300174_XSHE"}
+{"qid":"Q11092329","label":"Lontrue Co., Limited","symbol":"300175_XSHE"}
+{"qid":"Q11173947","label":"N","symbol":"300176_XSHE"}
+{"qid":"Q16926299","label":"N","symbol":"300178_XSHE"}
+{"qid":"Q17032857","label":"N","symbol":"300180_XSHE"}
+{"qid":"Q10937810","label":"N","symbol":"300186_XSHE"}
+{"qid":"Q15942383","label":"N","symbol":"300187_XSHE"}
+{"qid":"Q17029638","label":"Grand Agriseeds Technology,Inc.","symbol":"300189_XSHE"}
+{"qid":"Q56236328","label":"Jasic Technology","symbol":"300193_XSHE"}
+{"qid":"Q15956590","label":"N","symbol":"300198_XSHE"}
+{"qid":"Q15945880","label":"N","symbol":"300215_XSHE"}
+{"qid":"Q15924527","label":"N","symbol":"300216_XSHE"}
+{"qid":"Q511901","label":"Ingenic Semiconductor","symbol":"300223_XSHE"}
+{"qid":"Q11131231","label":"Shanghai Yongli Belting Co., Ltd.","symbol":"300230_XSHE"}
+{"qid":"Q17061037","label":"Shandong Ruifeng Chemical Co., Ltd.","symbol":"300243_XSHE"}
+{"qid":"Q28472070","label":"Beijing Enlight Media","symbol":"300251_XSHE"}
+{"qid":"Q15933579","label":"N","symbol":"300267_XSHE"}
+{"qid":"Q15934703","label":"N","symbol":"300268_XSHE"}
+{"qid":"Q10866906","label":"N","symbol":"300276_XSHE"}
+{"qid":"Q11151255","label":"Shenzhen Hirisun Technology Incorporated","symbol":"300277_XSHE"}
+{"qid":"Q15941580","label":"N","symbol":"300278_XSHE"}
+{"qid":"Q17031925","label":"N","symbol":"300284_XSHE"}
+{"qid":"Q10926950","label":"N","symbol":"300285_XSHE"}
+{"qid":"Q10947148","label":"Shanghai Acrel Limited","symbol":"300286_XSHE"}
+{"qid":"Q17031395","label":"N","symbol":"300287_XSHE"}
+{"qid":"Q4846098","label":"Everyday Network","symbol":"300295_XSHE"}
+{"qid":"Q111941633","label":"OURPALM","symbol":"300315_XSHE"}
+{"qid":"Q17164056","label":"Hailun Piano Co.,Ltd.","symbol":"300329_XSHE"}
+{"qid":"Q17030362","label":"Jiangmen Kanhoo Industry Co.,Ltd.","symbol":"300340_XSHE"}
+{"qid":"Q10940775","label":"N","symbol":"300342_XSHE"}
+{"qid":"Q17034232","label":"N","symbol":"300343_XSHE"}
+{"qid":"Q10941716","label":"N","symbol":"300344_XSHE"}
+{"qid":"Q105977466","label":"Hangzhou Tigermed Consulting Co.,Ltd","symbol":"300347_XSHE"}
+{"qid":"Q16926247","label":"N","symbol":"300350_XSHE"}
+{"qid":"Q11132745","label":"N","symbol":"300351_XSHE"}
+{"qid":"Q10902501","label":"Beijing VRV Software Corporation Limited","symbol":"300352_XSHE"}
+{"qid":"Q11103188","label":"Kyland Technology Co., Ltd.","symbol":"300353_XSHE"}
+{"qid":"Q11104021","label":"N","symbol":"300354_XSHE"}
+{"qid":"Q15940538","label":"N","symbol":"300355_XSHE"}
+{"qid":"Q24833916","label":"Dandong Xintai Electric Co., Ltd","symbol":"300372_XSHE"}
+{"qid":"Q22100116","label":"Zhejiang Talent Television & Film Co., Ltd.","symbol":"300426_XSHE"}
+{"qid":"Q24837843","label":"Baofeng Group Co., Ltd.","symbol":"300431_XSHE"}
+{"qid":"Q19855135","label":"Lens Technology","symbol":"300433_XSHE"}
+{"qid":"Q106024877","label":"Sangfor Technologies Inc.","symbol":"300454_XSHE"}
+{"qid":"Q109714029","label":"Jinke","symbol":"300459_XSHE"}
+{"qid":"Q16951366","label":"Beta Pharma Inc.","symbol":"300558_XSHE"}
+{"qid":"Q108113056","label":"Shenzhen Kangtai Biological Products","symbol":"300601_XSHE"}
+{"qid":"Q65261814","label":"Yealink Network Technology Co., Ltd.","symbol":"300628_XSHE"}
+{"qid":"Q795900","label":"BGI Genomics","symbol":"300676_XSHE"}
+{"qid":"Q18653563","label":"Contemporary Amperex Technology Co. Limited","symbol":"300750_XSHE"}
+{"qid":"Q20688443","label":"Lakala","symbol":"300773_XSHE"}
+{"qid":"Q54805303","label":"Three Squirrels","symbol":"300783_XSHE"}
+{"qid":"Q5011905","label":"CITIC Press Group","symbol":"300788_XSHE"}
+{"qid":"Q28452620","label":"Anker","symbol":"300866_XSHE"}
+{"qid":"Q15914368","label":"Yihai Kerry","symbol":"300999_XSHE"}
+{"qid":"Q1479076","label":"Shanghai Pudong Development Bank","symbol":"600000_XSHG"}
+{"qid":"Q11062176","label":"N","symbol":"600004_XSHG"}
+{"qid":"Q27966719","label":"Wuhan Iron and Steel (joint-stock)","symbol":"600005_XSHG"}
+{"qid":"Q5295879","label":"Dongfeng Automobile Company Limited","symbol":"600006_XSHG"}
+{"qid":"Q3481392","label":"Shanghai Airport Authority","symbol":"600009_XSHG"}
+{"qid":"Q373291","label":"Baotou Steel","symbol":"600010_XSHG"}
+{"qid":"Q1507642","label":"Huaneng Power International","symbol":"600011_XSHG"}
+{"qid":"Q46065","label":"ANHUI EXPRESSWAY COMPANY LIMITED","symbol":"600012_XSHG"}
+{"qid":"Q1595443","label":"Hua Xia Bank","symbol":"600015_XSHG"}
+{"qid":"Q911543","label":"China Minsheng Bank","symbol":"600016_XSHG"}
+{"qid":"Q750131","label":"Shanghai International Port","symbol":"600018_XSHG"}
+{"qid":"Q11452539","label":"Baoshan Iron & Steel","symbol":"600019_XSHG"}
+{"qid":"Q106241128","label":"Zhejiang Zheneng Electric Power Co., Ltd.","symbol":"600023_XSHG"}
+{"qid":"Q55206991","label":"Huaneng Lancang River Hydropower","symbol":"600025_XSHG"}
+{"qid":"Q641021","label":"COSCO SHIPPING Energy Transportation Co., Ltd.","symbol":"600026_XSHG"}
+{"qid":"Q5925035","label":"Huadian Power International","symbol":"600027_XSHG"}
+{"qid":"Q831445","label":"Sinopec","symbol":"600028_XSHG"}
+{"qid":"Q291090","label":"China Southern Airlines","symbol":"600029_XSHG"}
+{"qid":"Q5416931","label":"Everbright Securities","symbol":"600030_XSHG"}
+{"qid":"Q1853060","label":"Sany","symbol":"600031_XSHG"}
+{"qid":"Q11119788","label":"Hubei Chutian Expressway Company Limited","symbol":"600035_XSHG"}
+{"qid":"Q1073327","label":"China Merchants Bank","symbol":"600036_XSHG"}
+{"qid":"Q2893982","label":"Beijing Gehua CATV Network Co.,Ltd.","symbol":"600037_XSHG"}
+{"qid":"Q577166","label":"Poly Real Estate","symbol":"600048_XSHG"}
+{"qid":"Q1068485","label":"China Unicom","symbol":"600050_XSHG"}
+{"qid":"Q11072893","label":"Ningbo United Group","symbol":"600051_XSHG"}
+{"qid":"Q11148741","label":"Zhejiang Guangsha Company Limited","symbol":"600052_XSHG"}
+{"qid":"Q17032922","label":"N","symbol":"600055_XSHG"}
+{"qid":"Q17498774","label":"N","symbol":"600059_XSHG"}
+{"qid":"Q2527941","label":"Hisense","symbol":"600060_XSHG"}
+{"qid":"Q10905818","label":"China Resources Double Crane","symbol":"600062_XSHG"}
+{"qid":"Q5555081","label":"Gezhouba Group","symbol":"600068_XSHG"}
+{"qid":"Q17040767","label":"N","symbol":"600069_XSHG"}
+{"qid":"Q11133911","label":"N","symbol":"600072_XSHG"}
+{"qid":"Q10876660","label":"China Television Media, Ltd","symbol":"600088_XSHG"}
+{"qid":"Q11062030","label":"Guangzhou Development Group","symbol":"600098_XSHG"}
+{"qid":"Q3178595","label":"Linhai","symbol":"600099_XSHG"}
+{"qid":"Q600103","label":"Tsinghua Tongfang Company","symbol":"600100_XSHG"}
+{"qid":"Q11087931","label":"SICHUAN MINGXING ELECTRIC POWER CO.,LTD","symbol":"600101_XSHG"}
+{"qid":"Q910401","label":"SAIC Motor","symbol":"600104_XSHG"}
+{"qid":"Q19852186","label":"N","symbol":"600109_XSHG"}
+{"qid":"Q291796","label":"China Eastern Airlines","symbol":"600115_XSHG"}
+{"qid":"Q104839204","label":"China Spacesat","symbol":"600118_XSHG"}
+{"qid":"Q17061275","label":"N","symbol":"600121_XSHG"}
+{"qid":"Q22101149","label":"N","symbol":"600129_XSHG"}
+{"qid":"Q585504","label":"Ningbo Bird","symbol":"600130_XSHG"}
+{"qid":"Q11051048","label":"Sichuan Minjiang Hydropower Co.,Ltd.","symbol":"600131_XSHG"}
+{"qid":"Q1186806","label":"China Lucky Film","symbol":"600135_XSHG"}
+{"qid":"Q10876829","label":"N","symbol":"600138_XSHG"}
+{"qid":"Q17029877","label":"N","symbol":"600148_XSHG"}
+{"qid":"Q10874737","label":"CSSC Holdings Limited","symbol":"600150_XSHG"}
+{"qid":"Q10911437","label":"Xiamen C&D","symbol":"600153_XSHG"}
+{"qid":"Q15950184","label":"N","symbol":"600156_XSHG"}
+{"qid":"Q10871725","label":"N","symbol":"600158_XSHG"}
+{"qid":"Q11082810","label":"Ningxia Xinri Hengli Steel Wire Co. Ltd","symbol":"600165_XSHG"}
+{"qid":"Q814825","label":"Foton Motor","symbol":"600166_XSHG"}
+{"qid":"Q15528181","label":"Shanghai Construction Group","symbol":"600170_XSHG"}
+{"qid":"Q1112652","label":"Youngor Group","symbol":"600177_XSHG"}
+{"qid":"Q11178907","label":"N","symbol":"600179_XSHG"}
+{"qid":"Q850451","label":"Yanzhou Coal Mining Company","symbol":"600188_XSHG"}
+{"qid":"Q11071241","label":"Fosun Pharmaceutical","symbol":"600196_XSHG"}
+{"qid":"Q10946735","label":"HENAN ANCAI HI-TECH CO.,LTD.","symbol":"600207_XSHG"}
+{"qid":"Q292428","label":"Hainan Airlines","symbol":"600221_XSHG"}
+{"qid":"Q10905064","label":"Zhejiang Shenghua Biok Biology Co.,Ltd.","symbol":"600226_XSHG"}
+{"qid":"Q11111355","label":"N","symbol":"600236_XSHG"}
+{"qid":"Q28411062","label":"N","symbol":"600256_XSHG"}
+{"qid":"Q17075021","label":"N","symbol":"600262_XSHG"}
+{"qid":"Q15939052","label":"N","symbol":"600270_XSHG"}
+{"qid":"Q24838676","label":"Jiangsu Hengrui Medicine","symbol":"600276_XSHG"}
+{"qid":"Q6963666","label":"Nanjing Iron and Steel Company Limited","symbol":"600282_XSHG"}
+{"qid":"Q54622556","label":"Jiangsu Sainty Corporation Limited","symbol":"600287_XSHG"}
+{"qid":"Q15953505","label":"N","symbol":"600295_XSHG"}
+{"qid":"Q21705932","label":"N","symbol":"600297_XSHG"}
+{"qid":"Q10946997","label":"N","symbol":"600298_XSHG"}
+{"qid":"Q15944480","label":"Adisseo","symbol":"600299_XSHG"}
+{"qid":"Q17038496","label":"Jiuquan Steel","symbol":"600307_XSHG"}
+{"qid":"Q2599552","label":"Wanhua Chemical Group Co., Ltd.","symbol":"600309_XSHG"}
+{"qid":"Q15904036","label":"Shanghai Jahwa Corporation","symbol":"600315_XSHG"}
+{"qid":"Q695693","label":"Zhenhua Port Machinery Company","symbol":"600320_XSHG"}
+{"qid":"Q17022277","label":"N","symbol":"600325_XSHG"}
+{"qid":"Q18109568","label":"Juneyao Group","symbol":"600327_XSHG"}
+{"qid":"Q11062187","label":"Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited","symbol":"600332_XSHG"}
+{"qid":"Q17025844","label":"N","symbol":"600337_XSHG"}
+{"qid":"Q1518015","label":"Jiangxi Copper","symbol":"600362_XSHG"}
+{"qid":"Q7821083","label":"Tonghua Grape Wine","symbol":"600365_XSHG"}
+{"qid":"Q22773795","label":"N","symbol":"600372_XSHG"}
+{"qid":"Q10888873","label":"N","symbol":"600380_XSHG"}
+{"qid":"Q15932400","label":"N","symbol":"600383_XSHG"}
+{"qid":"Q17065211","label":"Fujian Longking Co.,Ltd.","symbol":"600388_XSHG"}
+{"qid":"Q15953403","label":"N","symbol":"600390_XSHG"}
+{"qid":"Q15916333","label":"N","symbol":"600392_XSHG"}
+{"qid":"Q11061988","label":"N","symbol":"600393_XSHG"}
+{"qid":"Q17040480","label":"N","symbol":"600395_XSHG"}
+{"qid":"Q27058694","label":"Fushun Special Steel","symbol":"600399_XSHG"}
+{"qid":"Q105975653","label":"NARI Technology Co., Ltd.","symbol":"600406_XSHG"}
+{"qid":"Q17032802","label":"Beijing Teamsun Technology Co., Ltd.","symbol":"600410_XSHG"}
+{"qid":"Q15925772","label":"Xiangtan Electric Manufacturing Group","symbol":"600416_XSHG"}
+{"qid":"Q545579","label":"JAC Motors","symbol":"600418_XSHG"}
+{"qid":"Q10405662","label":"Pien tze huang","symbol":"600436_XSHG"}
+{"qid":"Q105970758","label":"Tongwei Co., Ltd.","symbol":"600438_XSHG"}
+{"qid":"Q2883611","label":"Baoji Titanium Industry","symbol":"600456_XSHG"}
+{"qid":"Q29982416","label":"Aeolus Tyre","symbol":"600469_XSHG"}
+{"qid":"Q15941223","label":"N","symbol":"600476_XSHG"}
+{"qid":"Q15955048","label":"N","symbol":"600478_XSHG"}
+{"qid":"Q10895898","label":"N","symbol":"600480_XSHG"}
+{"qid":"Q10876750","label":"Zhongjin Gold","symbol":"600489_XSHG"}
+{"qid":"Q11089403","label":"Jinxi Industries Group","symbol":"600495_XSHG"}
+{"qid":"Q1072571","label":"Chihong Zinc and Germanium","symbol":"600497_XSHG"}
+{"qid":"Q15893433","label":"N","symbol":"600498_XSHG"}
+{"qid":"Q17033027","label":"N","symbol":"600503_XSHG"}
+{"qid":"Q10935074","label":"N","symbol":"600508_XSHG"}
+{"qid":"Q29641450","label":"HNA Infrastructure Investment Group","symbol":"600515_XSHG"}
+{"qid":"Q11064044","label":"Kangmei Pharmaceutical","symbol":"600518_XSHG"}
+{"qid":"Q1518607","label":"Kweichow Moutai Company","symbol":"600519_XSHG"}
+{"qid":"Q55698148","label":"China Railway Hi-tech Industry Corporation","symbol":"600528_XSHG"}
+{"qid":"Q17024923","label":"N","symbol":"600546_XSHG"}
+{"qid":"Q16926206","label":"Shenzhen Expressway Company Limited","symbol":"600548_XSHG"}
+{"qid":"Q15831504","label":"Tianwei Baobian Electric","symbol":"600550_XSHG"}
+{"qid":"Q4881150","label":"Beijing Jingneng Thermal Power","symbol":"600578_XSHG"}
+{"qid":"Q10939168","label":"N","symbol":"600579_XSHG"}
+{"qid":"Q116788109","label":"N","symbol":"600580_XSHG"}
+{"qid":"Q545565","label":"Anhui Conch Cement Company","symbol":"600585_XSHG"}
+{"qid":"Q11045676","label":"N","symbol":"600587_XSHG"}
+{"qid":"Q11145192","label":"N","symbol":"600590_XSHG"}
+{"qid":"Q11181543","label":"N","symbol":"600592_XSHG"}
+{"qid":"Q17038767","label":"N","symbol":"600594_XSHG"}
+{"qid":"Q15931727","label":"N","symbol":"600599_XSHG"}
+{"qid":"Q313542","label":"Tsingtao Brewery","symbol":"600600_XSHG"}
+{"qid":"Q753571","label":"Founder Technology","symbol":"600601_XSHG"}
+{"qid":"Q15902946","label":"Greenland Holdings Corp., Ltd.","symbol":"600606_XSHG"}
+{"qid":"Q15910313","label":"Lao Feng Xiang Company Limited","symbol":"600612_XSHG"}
+{"qid":"Q11179977","label":"N","symbol":"600614_XSHG"}
+{"qid":"Q5299680","label":"Double Coin","symbol":"600623_XSHG"}
+{"qid":"Q24834814","label":"N","symbol":"600628_XSHG"}
+{"qid":"Q820777","label":"Shanghai Oriental Pearl Media","symbol":"600637_XSHG"}
+{"qid":"Q11149068","label":"N","symbol":"600639_XSHG"}
+{"qid":"Q18719261","label":"Besttone Holding","symbol":"600640_XSHG"}
+{"qid":"Q751992","label":"Shenergy Company","symbol":"600642_XSHG"}
+{"qid":"Q11120784","label":"LESHAN ELECTRIC POWER CO.,LTD","symbol":"600644_XSHG"}
+{"qid":"Q15956367","label":"N","symbol":"600648_XSHG"}
+{"qid":"Q60712324","label":"Jinjiang Investment","symbol":"600650_XSHG"}
+{"qid":"Q18669300","label":"Shanghai Feilo Co.,Ltd.","symbol":"600654_XSHG"}
+{"qid":"Q6127052","label":"Yuyuan Tourist Mart","symbol":"600655_XSHG"}
+{"qid":"Q10902747","label":"N","symbol":"600657_XSHG"}
+{"qid":"Q1254961","label":"Fuyao","symbol":"600660_XSHG"}
+{"qid":"Q28414632","label":"N","symbol":"600662_XSHG"}
+{"qid":"Q15956841","label":"Shanghai Lujiazui Finance & Trade Zone Development","symbol":"600663_XSHG"}
+{"qid":"Q10867936","label":"Shanghai Potevio Company Limited","symbol":"600680_XSHG"}
+{"qid":"Q11062171","label":"N","symbol":"600684_XSHG"}
+{"qid":"Q5613742","label":"Guangzhou Shipyard International","symbol":"600685_XSHG"}
+{"qid":"Q3273406","label":"King Long","symbol":"600686_XSHG"}
+{"qid":"Q820770","label":"Shanghai Petrochemical","symbol":"600688_XSHG"}
+{"qid":"Q17028574","label":"Haier Smart Home","symbol":"600690_XSHG"}
+{"qid":"Q5226584","label":"Dashang Group","symbol":"600694_XSHG"}
+{"qid":"Q10394366","label":"Hunan Tyen Machinery Co., Ltd","symbol":"600698_XSHG"}
+{"qid":"Q30716593","label":"Joyson Electronics","symbol":"600699_XSHG"}
+{"qid":"Q11060425","label":"N","symbol":"600710_XSHG"}
+{"qid":"Q10907372","label":"Nanning Department Store Company Limited","symbol":"600712_XSHG"}
+{"qid":"Q13479439","label":"Tianjin Port Holdings","symbol":"600717_XSHG"}
+{"qid":"Q1579888","label":"Neusoft","symbol":"600718_XSHG"}
+{"qid":"Q11141416","label":"N","symbol":"600722_XSHG"}
+{"qid":"Q5925020","label":"Huadian Energy Company Limited","symbol":"600726_XSHG"}
+{"qid":"Q15934784","label":"N","symbol":"600729_XSHG"}
+{"qid":"Q22231130","label":"Fujian Start Group Co.,Ltd","symbol":"600734_XSHG"}
+{"qid":"Q1822760","label":"Liaoning Chengda","symbol":"600739_XSHG"}
+{"qid":"Q7489116","label":"Shanxi Coking Co., Ltd.","symbol":"600740_XSHG"}
+{"qid":"Q10905622","label":"HUAYU Automotive Systems Company Limited","symbol":"600741_XSHG"}
+{"qid":"Q10934281","label":"N","symbol":"600744_XSHG"}
+{"qid":"Q105976864","label":"Wingtech Technology","symbol":"600745_XSHG"}
+{"qid":"Q48816378","label":"HNA Technology Co., Ltd.","symbol":"600751_XSHG"}
+{"qid":"Q60712152","label":"Jinjiang Shares","symbol":"600754_XSHG"}
+{"qid":"Q1145751","label":"Inspur","symbol":"600756_XSHG"}
+{"qid":"Q15921904","label":"Hubei Changjiang Publishing & Media Group","symbol":"600757_XSHG"}
+{"qid":"Q10294493","label":"Anhui Heli","symbol":"600761_XSHG"}
+{"qid":"Q18109572","label":"Guangyuyuan","symbol":"600771_XSHG"}
+{"qid":"Q11103507","label":"EASTERN COMMUNICATIONS CO., LTD.","symbol":"600776_XSHG"}
+{"qid":"Q11129495","label":"N","symbol":"600779_XSHG"}
+{"qid":"Q1485050","label":"GD Power Development Company","symbol":"600795_XSHG"}
+{"qid":"Q11148464","label":"N","symbol":"600797_XSHG"}
+{"qid":"Q15935476","label":"Huaxin Cement Company Limited","symbol":"600801_XSHG"}
+{"qid":"Q11087434","label":"Shenji Group Kunming Machine Tool Company","symbol":"600806_XSHG"}
+{"qid":"Q1859119","label":"Maanshan Iron and Steel","symbol":"600808_XSHG"}
+{"qid":"Q338925","label":"Orient Group","symbol":"600811_XSHG"}
+{"qid":"Q17032812","label":"North China Pharmaceutical Group Corp","symbol":"600812_XSHG"}
+{"qid":"Q19851515","label":"Forever","symbol":"600818_XSHG"}
+{"qid":"Q15939654","label":"SYP Glass Group Company Limited","symbol":"600819_XSHG"}
+{"qid":"Q19853970","label":"N","symbol":"600831_XSHG"}
+{"qid":"Q18651250","label":"Shanghai Shentong Metro Group Co., Ltd.","symbol":"600834_XSHG"}
+{"qid":"Q10867947","label":"N","symbol":"600835_XSHG"}
+{"qid":"Q4036041","label":"Changhong","symbol":"600839_XSHG"}
+{"qid":"Q18914818","label":"Shanghai East-China Computer","symbol":"600850_XSHG"}
+{"qid":"Q4412437","label":"Chunlan Group","symbol":"600854_XSHG"}
+{"qid":"Q15932414","label":"N","symbol":"600858_XSHG"}
+{"qid":"Q17163886","label":"N","symbol":"600860_XSHG"}
+{"qid":"Q17018818","label":"Inner Mongolia Mengdian Huaneng Thermal Power Corporation Limited","symbol":"600863_XSHG"}
+{"qid":"Q17066332","label":"N","symbol":"600867_XSHG"}
+{"qid":"Q20117829","label":"Sinopec SSC","symbol":"600871_XSHG"}
+{"qid":"Q38019695","label":"JONJEE HI-TECH","symbol":"600872_XSHG"}
+{"qid":"Q10939968","label":"N","symbol":"600874_XSHG"}
+{"qid":"Q5295864","label":"Dongfang Electric","symbol":"600875_XSHG"}
+{"qid":"Q10900668","label":"N","symbol":"600885_XSHG"}
+{"qid":"Q1231406","label":"Yili Group","symbol":"600887_XSHG"}
+{"qid":"Q4518226","label":"Churin Group","symbol":"600891_XSHG"}
+{"qid":"Q23888481","label":"N","symbol":"600893_XSHG"}
+{"qid":"Q11062276","label":"N","symbol":"600894_XSHG"}
+{"qid":"Q752496","label":"China Yangtze Power","symbol":"600900_XSHG"}
+{"qid":"Q11135108","label":"Bank of Jiangsu","symbol":"600919_XSHG"}
+{"qid":"Q741618","label":"China Mobile","symbol":"600941_XSHG"}
+{"qid":"Q24727812","label":"Orient Securities Co., Ltd.","symbol":"600958_XSHG"}
+{"qid":"Q24836824","label":"N","symbol":"600959_XSHG"}
+{"qid":"Q20063580","label":"Zhuzhou Smelter Group Co., Ltd.","symbol":"600961_XSHG"}
+{"qid":"Q10903045","label":"N","symbol":"600967_XSHG"}
+{"qid":"Q5099812","label":"China National Materials Group Corporation","symbol":"600970_XSHG"}
+{"qid":"Q15915020","label":"Hunan New Wellful (China)","symbol":"600975_XSHG"}
+{"qid":"Q19852921","label":"N","symbol":"600976_XSHG"}
+{"qid":"Q10873941","label":"China Film Co., Ltd.","symbol":"600977_XSHG"}
+{"qid":"Q1471346","label":"Whirlpool Corporation","symbol":"600983_XSHG"}
+{"qid":"Q105976216","label":"Ningxia Baofeng Energy Group Co., Ltd.","symbol":"600989_XSHG"}
+{"qid":"Q17499741","label":"Mayinglong Pharmaceutical Group","symbol":"600993_XSHG"}
+{"qid":"Q10878836","label":"Jointown Pharmaceutical Group","symbol":"600998_XSHG"}
+{"qid":"Q11077292","label":"China Merchants Securities","symbol":"600999_XSHG"}
+{"qid":"Q5227702","label":"Datong Coal Industry","symbol":"601001_XSHG"}
+{"qid":"Q5221832","label":"Daqin Railway Company Limited","symbol":"601006_XSHG"}
+{"qid":"Q6850542","label":"Bank of Nanjing","symbol":"601009_XSHG"}
+{"qid":"Q28207127","label":"Longi Silicon Materials","symbol":"601012_XSHG"}
+{"qid":"Q37786286","label":"Xizang Huayu Mining","symbol":"601020_XSHG"}
+{"qid":"Q1340408","label":"Spring Airlines","symbol":"601021_XSHG"}
+{"qid":"Q17031454","label":"N","symbol":"601038_XSHG"}
+{"qid":"Q1073509","label":"China Shenhua Energy Company","symbol":"601088_XSHG"}
+{"qid":"Q10872546","label":"China South Publishing & Media Group","symbol":"601098_XSHG"}
+{"qid":"Q46063","label":"Sichuan Expressway Company","symbol":"601107_XSHG"}
+{"qid":"Q51747","label":"Air China","symbol":"601111_XSHG"}
+{"qid":"Q11149994","label":"N","symbol":"601118_XSHG"}
+{"qid":"Q15930466","label":"Chongqing Water Group Co.,Ltd","symbol":"601158_XSHG"}
+{"qid":"Q1410821","label":"Industrial Bank Co.","symbol":"601166_XSHG"}
+{"qid":"Q1405600","label":"Western Mining Company","symbol":"601168_XSHG"}
+{"qid":"Q39146","label":"Bank of Beijing","symbol":"601169_XSHG"}
+{"qid":"Q1073482","label":"China Railway Construction Corporation Limited","symbol":"601186_XSHG"}
+{"qid":"Q22231041","label":"Dongxing Securities","symbol":"601198_XSHG"}
+{"qid":"Q18924452","label":"Inner Mongolia Junzheng ECI","symbol":"601216_XSHG"}
+{"qid":"Q7459934","label":"Shaanxi Coal Industry","symbol":"601225_XSHG"}
+{"qid":"Q4208351","label":"Bank of Shanghai","symbol":"601229_XSHG"}
+{"qid":"Q1552770","label":"GAC Group","symbol":"601238_XSHG"}
+{"qid":"Q26298","label":"Agricultural Bank of China","symbol":"601288_XSHG"}
+{"qid":"Q1256188","label":"Ping An Insurance","symbol":"601318_XSHG"}
+{"qid":"Q1807264","label":"The People's Insurance Company (Group) of China Limited","symbol":"601319_XSHG"}
+{"qid":"Q806680","label":"Bank of Communications","symbol":"601328_XSHG"}
+{"qid":"Q837982","label":"Guangshen Railway","symbol":"601333_XSHG"}
+{"qid":"Q11084240","label":"New China Life Insurance Co., Ltd.","symbol":"601336_XSHG"}
+{"qid":"Q979615","label":"China Railway Group Limited","symbol":"601390_XSHG"}
+{"qid":"Q26463","label":"Industrial and Commercial Bank of China","symbol":"601398_XSHG"}
+{"qid":"Q20062785","label":"Shanghai DZH Limited","symbol":"601519_XSHG"}
+{"qid":"Q2504145","label":"Sinovel","symbol":"601558_XSHG"}
+{"qid":"Q18109558","label":"N","symbol":"601579_XSHG"}
+{"qid":"Q750118","label":"Beijing North Star","symbol":"601588_XSHG"}
+{"qid":"Q1003813","label":"China Pacific Insurance","symbol":"601601_XSHG"}
+{"qid":"Q18844244","label":"CITIC Heavy Industries","symbol":"601608_XSHG"}
+{"qid":"Q20051726","label":"Metallurgical Corporation of China Limited","symbol":"601618_XSHG"}
+{"qid":"Q1073306","label":"China Life Insurance Company","symbol":"601628_XSHG"}
+{"qid":"Q1117001","label":"Great Wall Motor","symbol":"601633_XSHG"}
+{"qid":"Q69923136","label":"China State Construction Engineering Corporation Limited","symbol":"601668_XSHG"}
+{"qid":"Q15937427","label":"N","symbol":"601717_XSHG"}
+{"qid":"Q17035250","label":"N","symbol":"601718_XSHG"}
+{"qid":"Q995660","label":"Shanghai Electric","symbol":"601727_XSHG"}
+{"qid":"Q19840026","label":"CRRC","symbol":"601766_XSHG"}
+{"qid":"Q1465351","label":"Lifan Group","symbol":"601777_XSHG"}
+{"qid":"Q10945988","label":"N","symbol":"601789_XSHG"}
+{"qid":"Q17035127","label":"N","symbol":"601798_XSHG"}
+{"qid":"Q1073236","label":"China Communications Construction","symbol":"601800_XSHG"}
+{"qid":"Q5099833","label":"China Oilfield Services","symbol":"601808_XSHG"}
+{"qid":"Q11084242","label":"Xinhua Winshare","symbol":"601811_XSHG"}
+{"qid":"Q77674040","label":"Beijing-Shanghai High-Speed Railway Company","symbol":"601816_XSHG"}
+{"qid":"Q10873167","label":"China Everbright Bank","symbol":"601818_XSHG"}
+{"qid":"Q22704472","label":"Red Star Macalline","symbol":"601828_XSHG"}
+{"qid":"Q503182","label":"PetroChina Company Limited","symbol":"601857_XSHG"}
+{"qid":"Q1013412","label":"China Shipping Container Lines","symbol":"601866_XSHG"}
+{"qid":"Q2963719","label":"China Merchants Energy Shipping","symbol":"601872_XSHG"}
+{"qid":"Q15952752","label":"China Galaxy Securities","symbol":"601881_XSHG"}
+{"qid":"Q48880943","label":"N","symbol":"601888_XSHG"}
+{"qid":"Q1073240","label":"China Coal Energy","symbol":"601898_XSHG"}
+{"qid":"Q11084898","label":"Founder Securities","symbol":"601901_XSHG"}
+{"qid":"Q5099614","label":"Cosco Shipping Holdings Co., Ltd.","symbol":"601919_XSHG"}
+{"qid":"Q24840496","label":"Phoenix Publishing & Media","symbol":"601928_XSHG"}
+{"qid":"Q26299","label":"China Construction Bank","symbol":"601939_XSHG"}
+{"qid":"Q15891886","label":"Jinduicheng Molybdenum","symbol":"601958_XSHG"}
+{"qid":"Q106025746","label":"China National Nuclear Power Co., Ltd.","symbol":"601985_XSHG"}
+{"qid":"Q790068","label":"Bank of China","symbol":"601988_XSHG"}
+{"qid":"Q287744","label":"Datang International Power Generation Company","symbol":"601991_XSHG"}
+{"qid":"Q4415024","label":"BBMG","symbol":"601992_XSHG"}
+{"qid":"Q17039489","label":"N","symbol":"601997_XSHG"}
+{"qid":"Q38960","label":"China CITIC Bank","symbol":"601998_XSHG"}
+{"qid":"Q5967721","label":"people.cn","symbol":"603000_XSHG"}
+{"qid":"Q10942605","label":"ZheJiang AoKang Shoes Co., Ltd.","symbol":"603001_XSHG"}
+{"qid":"Q10923640","label":"Xilinmen Furniture Co., Ltd.","symbol":"603008_XSHG"}
+{"qid":"Q3703796","label":"Sugon","symbol":"603019_XSHG"}
+{"qid":"Q17026317","label":"Beijing Cuiwei Tower Co.,Ltd.","symbol":"603123_XSHG"}
+{"qid":"Q17025504","label":"CFMoto","symbol":"603129_XSHG"}
+{"qid":"Q17019412","label":"Gongniu Group Corporation","symbol":"603195_XSHG"}
+{"qid":"Q8038871","label":"WuXi PharmaTech","symbol":"603259_XSHG"}
+{"qid":"Q11086076","label":"N","symbol":"603366_XSHG"}
+{"qid":"Q17498731","label":"N","symbol":"603369_XSHG"}
+{"qid":"Q111310452","label":"IReaderTechnology Co., Ltd.","symbol":"603533_XSHG"}
+{"qid":"Q30261306","label":"Shandong Buchang Pharma","symbol":"603858_XSHG"}
+{"qid":"Q109744899","label":"LBX Pharmacy","symbol":"603883_XSHG"}
+{"qid":"Q109413209","label":"N","symbol":"605388_XSHG"}
+{"qid":"Q112073496","label":"HangZhou PinMing Software Co,.ltd","symbol":"688109_XSHG"}
+{"qid":"Q105975512","label":"Beijing Kingsoft Office Software, Inc.","symbol":"688111_XSHG"}
+{"qid":"Q648533","label":"Semiconductor Manufacturing International Corporation","symbol":"688981_XSHG"}

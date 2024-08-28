@@ -1,0 +1,1680 @@
+{"qid": "Q19854317", "label": "Vipshop", "symbol": "VIPS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19865761", "label": "Ventas, Inc.", "symbol": "VTR", "start": "2022-10-13", "end": "2022-12-30\n"}
+{"qid": "Q19866632", "label": "ClearSign Combustion", "symbol": "CLIR", "start": "2018-03-27", "end": "2022-12-30\n"}
+{"qid": "Q19867417", "label": "SeaChange International", "symbol": "SEAC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q47500199", "label": "Aurora Cannabis", "symbol": "ACB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q23131313", "label": "Editas Medicine", "symbol": "EDIT", "start": "2018-09-21", "end": "2022-12-30\n"}
+{"qid": "Q25831370", "label": "AppFolio", "symbol": "APPF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q106623027", "label": "TPI Composites", "symbol": "TPIC", "start": "2021-03-11", "end": "2022-12-30\n"}
+{"qid": "Q106760435", "label": "Jounce Therapeutics", "symbol": "JNCE", "start": "2015-06-24", "end": "2022-12-30\n"}
+{"qid": "Q106435940", "label": "Exagen Inc.", "symbol": "XGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q94777120", "label": "CarParts.com", "symbol": "PRTS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19654979", "label": "Johnson Outdoors", "symbol": "JOUT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q53308751", "label": "Guardant Health Inc.", "symbol": "GH", "start": "2022-07-12", "end": "2022-12-30\n"}
+{"qid": "Q19605389", "label": "Kenon Holdings", "symbol": "KEN", "start": "2019-12-17", "end": "2022-12-30\n"}
+{"qid": "Q16824426", "label": "Agios Pharmaceuticals", "symbol": "AGIO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16850385", "label": "Calavo Growers", "symbol": "CVGW", "start": "2017-10-27", "end": "2022-12-30\n"}
+{"qid": "Q16920636", "label": "United Bank", "symbol": "UBSI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16968189", "label": "Yatra.com", "symbol": "YTRA", "start": "2022-04-28", "end": "2022-12-30\n"}
+{"qid": "Q16974682", "label": "Alnylam Pharmaceuticals", "symbol": "ALNY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16983765", "label": "Prologis", "symbol": "PLD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16991690", "label": "Assertio Therapeutics", "symbol": "ASRT", "start": "2016-07-06", "end": "2022-12-30\n"}
+{"qid": "Q16988748", "label": "CoStar Group", "symbol": "CSGP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16994890", "label": "Harvard Bioscience", "symbol": "HBIO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16998439", "label": "Kingstone Companies", "symbol": "KINS", "start": "2020-07-29", "end": "2022-12-30\n"}
+{"qid": "Q17078915", "label": "Marchex", "symbol": "MCHX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17073430", "label": "Organovo", "symbol": "ONVO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17114287", "label": "Newpark Resources", "symbol": "NR", "start": "2021-03-19", "end": "2022-12-30\n"}
+{"qid": "Q17113726", "label": "Meridian Bioscience", "symbol": "VIVO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17084959", "label": "Paycom", "symbol": "PAYC", "start": "2022-03-08", "end": "2022-12-30\n"}
+{"qid": "Q17146520", "label": "Vitamin Cottage Natural Grocers", "symbol": "NGVC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96791280", "label": "Accolade", "symbol": "ACCD", "start": "2019-04-10", "end": "2022-12-30\n"}
+{"qid": "Q5597139", "label": "Graphic Packaging", "symbol": "GPK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5599440", "label": "Great Lakes Dredge and Dock Company", "symbol": "GLDD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5674337", "label": "Harte Hanks", "symbol": "HHS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5684524", "label": "Hawaiian Electric Industries", "symbol": "HE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q47120756", "label": "Yandex N.V.", "symbol": "YNDX", "start": "2021-02-03", "end": "2022-12-30\n"}
+{"qid": "Q63197674", "label": "Corteva Agriscience", "symbol": "CTVA", "start": "2017-10-23", "end": "2022-12-30\n"}
+{"qid": "Q92639564", "label": "Arconic", "symbol": "ARNC", "start": "2021-03-19", "end": "2022-12-30\n"}
+{"qid": "Q1666600", "label": "International Game Technology", "symbol": "IGT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1780382", "label": "Weyerhaeuser", "symbol": "WY", "start": "2018-09-06", "end": "2022-12-30\n"}
+{"qid": "Q1786345", "label": "Marsh & McLennan Companies", "symbol": "MMC", "start": "2016-04-07", "end": "2022-12-30\n"}
+{"qid": "Q1812489", "label": "Odyssey Marine Exploration", "symbol": "OMEX", "start": "2014-02-03", "end": "2022-12-30\n"}
+{"qid": "Q2895117", "label": "AudioCodes", "symbol": "AUDC", "start": "2021-02-17", "end": "2022-12-30\n"}
+{"qid": "Q2990586", "label": "Rackspace Technology", "symbol": "RXT", "start": "2022-10-28", "end": "2022-12-30\n"}
+{"qid": "Q3046549", "label": "East West Bank", "symbol": "EWBC", "start": "2015-06-02", "end": "2022-12-30\n"}
+{"qid": "Q3116307", "label": "Universal Display Corporation", "symbol": "OLED", "start": "2021-03-11", "end": "2022-12-30\n"}
+{"qid": "Q1915049", "label": "McCormick & Company", "symbol": "MKC", "start": "2021-07-23", "end": "2022-12-30\n"}
+{"qid": "Q1925384", "label": "IDT Corporation", "symbol": "IDT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18148458", "label": "Farmer Brothers", "symbol": "FARM", "start": "2022-11-10", "end": "2022-12-30\n"}
+{"qid": "Q18149200", "label": "Catalyst Pharmaceuticals", "symbol": "CPRX", "start": "2021-10-07", "end": "2022-12-30\n"}
+{"qid": "Q22058448", "label": "Monolithic Power Systems, Inc.", "symbol": "MPWR", "start": "2021-03-22", "end": "2022-12-30\n"}
+{"qid": "Q3518066", "label": "Tenet Healthcare", "symbol": "THC", "start": "2021-04-22", "end": "2022-12-30\n"}
+{"qid": "Q60763554", "label": "Urstadt Biddle Properties", "symbol": "UBA", "start": "2021-11-30", "end": "2022-12-30\n"}
+{"qid": "Q86681792", "label": "Lordstown Motors", "symbol": "RIDE", "start": "2018-10-01", "end": "2022-12-30\n"}
+{"qid": "Q110422580", "label": "JOYY", "symbol": "YY", "start": "2018-07-27", "end": "2022-12-30\n"}
+{"qid": "Q21077", "label": "Warner Music Group", "symbol": "WMG", "start": "2022-02-08", "end": "2022-12-30\n"}
+{"qid": "Q7906620", "label": "VCA Animal Hospitals", "symbol": "WOOF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7921370", "label": "Verisk Analytics", "symbol": "VRSK", "start": "2020-10-29", "end": "2022-12-30\n"}
+{"qid": "Q7924358", "label": "ViaSat", "symbol": "VSAT", "start": "2017-04-28", "end": "2022-12-30\n"}
+{"qid": "Q7925565", "label": "Vicor Corporation", "symbol": "VICR", "start": "2022-04-07", "end": "2022-12-30\n"}
+{"qid": "Q7934906", "label": "Virtu Financial", "symbol": "VIRT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7949044", "label": "WESCO International", "symbol": "WCC", "start": "2020-05-05", "end": "2022-12-30\n"}
+{"qid": "Q7987101", "label": "Westamerica Bank", "symbol": "WABC", "start": "2021-02-01", "end": "2022-12-30\n"}
+{"qid": "Q8070896", "label": "DZS", "symbol": "DZSI", "start": "2019-02-14", "end": "2022-12-30\n"}
+{"qid": "Q8074786", "label": "Zscaler", "symbol": "ZS", "start": "2021-09-13", "end": "2022-12-30\n"}
+{"qid": "Q98525405", "label": "Vista Oil & Gas", "symbol": "VIST", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3153706", "label": "Intrawest", "symbol": "SNOW", "start": "2021-02-03", "end": "2022-12-30\n"}
+{"qid": "Q3337196", "label": "Nautilus, Inc.", "symbol": "NLS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3372572", "label": "Mannatech", "symbol": "MTEX", "start": "2015-06-17", "end": "2022-12-30\n"}
+{"qid": "Q101983981", "label": "Viatris", "symbol": "VTRS", "start": "2014-10-29", "end": "2022-12-30\n"}
+{"qid": "Q65090792", "label": "The RealReal", "symbol": "REAL", "start": "2019-11-01", "end": "2022-12-30\n"}
+{"qid": "Q7440621", "label": "Sealed Air", "symbol": "SEE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7501150", "label": "Shopify", "symbol": "SHOP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7567571", "label": "South Jersey Industries", "symbol": "SJI", "start": "2022-05-16", "end": "2022-12-30\n"}
+{"qid": "Q7638250", "label": "Sun Communities", "symbol": "SUI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7638158", "label": "SunRun", "symbol": "RUN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7662493", "label": "Synnex", "symbol": "SNX", "start": "2015-10-12", "end": "2022-12-30\n"}
+{"qid": "Q7668516", "label": "T. Marzetti Company", "symbol": "LANC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7669886", "label": "TD Ameritrade", "symbol": "AMTD", "start": "2015-08-20", "end": "2022-12-30\n"}
+{"qid": "Q7707900", "label": "Texas Pacific Land Trust", "symbol": "TPL", "start": "2015-03-24", "end": "2022-12-30\n"}
+{"qid": "Q7802889", "label": "Tillys", "symbol": "TLYS", "start": "2022-03-25", "end": "2022-12-30\n"}
+{"qid": "Q1067998", "label": "Cirrus Logic", "symbol": "CRUS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1140680", "label": "Flex Ltd.", "symbol": "FLEX", "start": "2021-03-24", "end": "2022-12-30\n"}
+{"qid": "Q1112588", "label": "Columbia Sportswear Company", "symbol": "COLM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1192211", "label": "MicroStrategy", "symbol": "MSTR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1199757", "label": "Dish", "symbol": "DISH", "start": "2021-12-27", "end": "2022-12-30\n"}
+{"qid": "Q6387063", "label": "Kemper Corporation", "symbol": "KMPR", "start": "2020-08-26", "end": "2022-12-30\n"}
+{"qid": "Q6391583", "label": "La-Z-Boy", "symbol": "LZB", "start": "2014-03-11", "end": "2022-12-30\n"}
+{"qid": "Q6517792", "label": "New York Community Bank", "symbol": "NYCB", "start": "2019-09-13", "end": "2022-12-30\n"}
+{"qid": "Q23680081", "label": "PJT Partners", "symbol": "PJT", "start": "2019-12-20", "end": "2022-12-30\n"}
+{"qid": "Q23786068", "label": "Clovis Oncology", "symbol": "CLVS", "start": "2019-11-07", "end": "2022-12-30\n"}
+{"qid": "Q15917582", "label": "Quidel", "symbol": "QDEL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3901581", "label": "Interactive Brokers Group", "symbol": "IBKR", "start": "2018-12-06", "end": "2022-12-30\n"}
+{"qid": "Q2365235", "label": "Ozon", "symbol": "OZON", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2404292", "label": "Teradyne", "symbol": "TER", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5204430", "label": "DBV Technologies", "symbol": "DBVT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5275716", "label": "Digi International", "symbol": "DGII", "start": "2021-09-20", "end": "2022-12-30\n"}
+{"qid": "Q5410132", "label": "Fiverr", "symbol": "FVRR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5419989", "label": "Exelixis", "symbol": "EXEL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5421507", "label": "Exponent", "symbol": "EXPO", "start": "2016-10-21", "end": "2022-12-30\n"}
+{"qid": "Q5421507", "label": "Exponent", "symbol": "FAIL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5453261", "label": "First Merchants Corporation", "symbol": "FRME", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5427196", "label": "FTI Consulting", "symbol": "FCN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5479360", "label": "Macy's, Inc.", "symbol": "M", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5516980", "label": "Gaiam", "symbol": "GAIA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28228105", "label": "Purple Innovation, Inc.", "symbol": "PRPL", "start": "2019-05-09", "end": "2022-12-30\n"}
+{"qid": "Q5748967", "label": "Hexcel", "symbol": "HXL", "start": "2016-08-01", "end": "2022-12-30\n"}
+{"qid": "Q5763038", "label": "Hillenbrand, Inc.", "symbol": "HI", "start": "2017-12-21", "end": "2022-12-30\n"}
+{"qid": "Q5973024", "label": "IPG Photonics", "symbol": "IPGP", "start": "2018-09-21", "end": "2022-12-30\n"}
+{"qid": "Q5923178", "label": "Itron", "symbol": "ITRI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5985017", "label": "Icahn Enterprises", "symbol": "IEP", "start": "2021-09-09", "end": "2022-12-30\n"}
+{"qid": "Q1776022", "label": "Equinor ASA", "symbol": "EQNR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1852556", "label": "Philip Morris International", "symbol": "PM", "start": "2014-12-29", "end": "2022-12-30\n"}
+{"qid": "Q91360366", "label": "Fiesta Restaurant Group", "symbol": "FRGI", "start": "2021-09-30", "end": "2022-12-30\n"}
+{"qid": "Q7098806", "label": "Optical Cable Corporation", "symbol": "OCC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7109415", "label": "Otter Tail Corporation", "symbol": "OTTR", "start": "2021-03-22", "end": "2022-12-30\n"}
+{"qid": "Q7114733", "label": "Owens & Minor", "symbol": "OMI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7120959", "label": "PTC Therapeutics", "symbol": "PTCT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7256219", "label": "Psychemedics Corporation", "symbol": "PMD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7268886", "label": "Quanta Services", "symbol": "PWR", "start": "2021-08-05", "end": "2022-12-30\n"}
+{"qid": "Q7271456", "label": "Quest Diagnostics", "symbol": "DGX", "start": "2022-04-21", "end": "2022-12-30\n"}
+{"qid": "Q7271499", "label": "Questar Corporation", "symbol": "STR", "start": "2020-10-09", "end": "2022-12-30\n"}
+{"qid": "Q7289304", "label": "RPT Realty", "symbol": "RPT", "start": "2017-06-26", "end": "2022-12-30\n"}
+{"qid": "Q7338847", "label": "Rivian Automotive", "symbol": "RIVN", "start": "2021-12-06", "end": "2022-12-30\n"}
+{"qid": "Q7339697", "label": "Caliber System", "symbol": "ROAD", "start": "2018-11-28", "end": "2022-12-30\n"}
+{"qid": "Q7392916", "label": "SS&C Technologies", "symbol": "SSNC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18754966", "label": "Tradeweb", "symbol": "TW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28444592", "label": "OneMain Financial", "symbol": "OMF", "start": "2017-11-30", "end": "2022-12-30\n"}
+{"qid": "Q1812555", "label": "Leggett & Platt", "symbol": "LEG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1815011", "label": "Pacific Gas and Electric Company", "symbol": "PCG", "start": "2020-09-30", "end": "2022-12-30\n"}
+{"qid": "Q2007484", "label": "Oklahoma Gas & Electric", "symbol": "OGE", "start": "2014-11-20", "end": "2022-12-30\n"}
+{"qid": "Q3019129", "label": "DavidsTea", "symbol": "DTEA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3029296", "label": "F5 Networks", "symbol": "FFIV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18154756", "label": "Taboola", "symbol": "TBLA", "start": "2020-09-21", "end": "2022-12-30\n"}
+{"qid": "Q18169198", "label": "Qorvo", "symbol": "QRVO", "start": "2016-12-01", "end": "2022-12-30\n"}
+{"qid": "Q22121872", "label": "Tandem Diabetes Care, Inc.", "symbol": "TNDM", "start": "2016-06-03", "end": "2022-12-30\n"}
+{"qid": "Q2013357", "label": "Occidental Petroleum", "symbol": "OXY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2069413", "label": "Complete Genomics", "symbol": "GNOM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2087612", "label": "Tucows", "symbol": "TCX", "start": "2017-10-09", "end": "2022-12-30\n"}
+{"qid": "Q2091479", "label": "NICE Systems", "symbol": "NICE", "start": "2022-01-28", "end": "2022-12-30\n"}
+{"qid": "Q2162158", "label": "BOK Financial Corporation", "symbol": "BOKF", "start": "2020-11-20", "end": "2022-12-30\n"}
+{"qid": "Q2171646", "label": "Jabil", "symbol": "JBL", "start": "2021-04-16", "end": "2022-12-30\n"}
+{"qid": "Q871700", "label": "United Airlines Holdings", "symbol": "UAL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q899255", "label": "LyondellBasell", "symbol": "LYB", "start": "2021-03-18", "end": "2022-12-30\n"}
+{"qid": "Q897097", "label": "Brady Corporation", "symbol": "BRC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q935059", "label": "Toro", "symbol": "TTC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q48791239", "label": "Maxar Technologies", "symbol": "MAXR", "start": "2018-12-12", "end": "2022-12-30\n"}
+{"qid": "Q48800016", "label": "Desktop Metal", "symbol": "DM", "start": "2021-04-15", "end": "2022-12-30\n"}
+{"qid": "Q39052499", "label": "Tonix Pharmaceuticals", "symbol": "TNXP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7076047", "label": "Ocean Power Technologies", "symbol": "OPTT", "start": "2017-05-25", "end": "2022-12-30\n"}
+{"qid": "Q7077162", "label": "Ocwen", "symbol": "ASPS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7084833", "label": "Old Republic International", "symbol": "ORI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7086908", "label": "Olin Corporation", "symbol": "OLN", "start": "2015-05-12", "end": "2022-12-30\n"}
+{"qid": "Q7118693", "label": "PC Connection", "symbol": "CNXN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7129613", "label": "Pan American Silver", "symbol": "PAAS", "start": "2021-05-07", "end": "2022-12-30\n"}
+{"qid": "Q7169321", "label": "Permian Basin Royalty Trust", "symbol": "PBT", "start": "2020-12-17", "end": "2022-12-30\n"}
+{"qid": "Q7171526", "label": "PetMed Express", "symbol": "PETS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7196294", "label": "Pinnacle Financial Partners", "symbol": "PNFP", "start": "2017-07-26", "end": "2022-12-30\n"}
+{"qid": "Q7205253", "label": "Plug Power", "symbol": "PLUG", "start": "2020-05-12", "end": "2022-12-30\n"}
+{"qid": "Q7229656", "label": "Popular, Inc.", "symbol": "BPOP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7248285", "label": "Profire Energy", "symbol": "PFIE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7250583", "label": "Prosensa", "symbol": "RNA", "start": "2018-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7309325", "label": "Regis Corporation", "symbol": "RGS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7313561", "label": "Rentrak", "symbol": "RENT", "start": "2021-03-17", "end": "2022-12-30\n"}
+{"qid": "Q7314415", "label": "Republic Services", "symbol": "RSG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7361273", "label": "Rollins Inc.", "symbol": "ROL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7374224", "label": "Royal Gold", "symbol": "RGLD", "start": "2022-09-08", "end": "2022-12-30\n"}
+{"qid": "Q17143144", "label": "PacWest Bancorp", "symbol": "PACW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17144598", "label": "Unitil Corporation", "symbol": "UTL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4733161", "label": "Allot Communications", "symbol": "ALLT", "start": "2021-01-15", "end": "2022-12-30\n"}
+{"qid": "Q4868109", "label": "Bassett Furniture", "symbol": "BSET", "start": "2018-06-14", "end": "2022-12-30\n"}
+{"qid": "Q4835755", "label": "BJ's Restaurant & Brewery", "symbol": "BJRI", "start": "2021-05-26", "end": "2022-12-30\n"}
+{"qid": "Q4914632", "label": "BioMarin Pharmaceutical", "symbol": "BMRN", "start": "2020-01-17", "end": "2022-12-30\n"}
+{"qid": "Q48739877", "label": "Alexandria Real Estate Equities", "symbol": "ARE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7796068", "label": "Thor Industries", "symbol": "THO", "start": "2021-05-07", "end": "2022-12-30\n"}
+{"qid": "Q7809764", "label": "Titan Machinery", "symbol": "TITN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7830269", "label": "Townsquare Media", "symbol": "TSQ", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7833614", "label": "TFI International", "symbol": "TFII", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7856971", "label": "Tutor Perini", "symbol": "TPC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7858039", "label": "Twilio", "symbol": "TWLO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7887635", "label": "United Community Bank", "symbol": "UCBI", "start": "2020-10-02", "end": "2022-12-30\n"}
+{"qid": "Q7920749", "label": "Vera Bradley", "symbol": "VRA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7921363", "label": "Verint Systems", "symbol": "VRNT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q8034666", "label": "Workday, Inc.", "symbol": "WDAY", "start": "2021-06-10", "end": "2022-12-30\n"}
+{"qid": "Q8042415", "label": "XPO Logistics", "symbol": "XPO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q8071921", "label": "Zillow", "symbol": "ZG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q8071921", "label": "Zillow", "symbol": "Z", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6029685", "label": "Infinera", "symbol": "INFN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6048685", "label": "International Bancshares Corporation", "symbol": "IBOC", "start": "2014-10-01", "end": "2022-12-30\n"}
+{"qid": "Q6057493", "label": "Intevac", "symbol": "IVAC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6109309", "label": "J & J Snack Foods", "symbol": "JJSF", "start": "2015-07-01", "end": "2022-12-30\n"}
+{"qid": "Q4633233", "label": "2U", "symbol": "TWOU", "start": "2018-05-10", "end": "2022-12-30\n"}
+{"qid": "Q4687934", "label": "AerCap", "symbol": "AER", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4787395", "label": "Arcimoto", "symbol": "FUV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4733274", "label": "Allscripts", "symbol": "MDRX", "start": "2020-03-31", "end": "2022-12-30\n"}
+{"qid": "Q4828605", "label": "Aviat Networks", "symbol": "AVNW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4816569", "label": "Atlantic Tele-Network", "symbol": "ATNI", "start": "2014-12-11", "end": "2022-12-30\n"}
+{"qid": "Q23133268", "label": "Match Group", "symbol": "MTCH", "start": "2021-12-22", "end": "2022-12-30\n"}
+{"qid": "Q18344949", "label": "Globus Medical", "symbol": "GMED", "start": "2021-08-19", "end": "2022-12-30\n"}
+{"qid": "Q18349283", "label": "Hertz Car Sales", "symbol": "HTZ", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q106900660", "label": "Eneti", "symbol": "NETI", "start": "2020-02-13", "end": "2022-12-30\n"}
+{"qid": "Q41590812", "label": "Artisan Partners Asset Management", "symbol": "APAM", "start": "2021-03-03", "end": "2022-12-30\n"}
+{"qid": "Q15926208", "label": "Huazhu Hotels Group", "symbol": "HTHT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q58041994", "label": "TRI Pointe Group", "symbol": "TPH", "start": "2021-12-13", "end": "2022-12-30\n"}
+{"qid": "Q1665653", "label": "Veeco", "symbol": "VECO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1685287", "label": "Vulcan Materials Company", "symbol": "VMC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1740314", "label": "KeyBank", "symbol": "KEY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q100323973", "label": "Whitestone REIT", "symbol": "WSR", "start": "2021-07-29", "end": "2022-12-30\n"}
+{"qid": "Q2286044", "label": "Silicon Laboratories", "symbol": "SLAB", "start": "2015-06-25", "end": "2022-12-30\n"}
+{"qid": "Q2303478", "label": "Synopsys", "symbol": "SNPS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2304693", "label": "Southern Company", "symbol": "SO", "start": "2021-02-11", "end": "2022-12-30\n"}
+{"qid": "Q56583577", "label": "Autolus Therapeutics", "symbol": "AUTL", "start": "2021-09-23", "end": "2022-12-30\n"}
+{"qid": "Q106615565", "label": "Elys Game Technology", "symbol": "ELYS", "start": "2020-12-08", "end": "2022-12-30\n"}
+{"qid": "Q18636342", "label": "Amicus Therapeutics", "symbol": "FOLD", "start": "2016-08-05", "end": "2022-12-30\n"}
+{"qid": "Q17183462", "label": "Glacier Bancorp, Inc", "symbol": "GBCI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1373493", "label": "Lowe's", "symbol": "LOW", "start": "2018-04-10", "end": "2022-12-30\n"}
+{"qid": "Q1416215", "label": "GoDaddy", "symbol": "GDDY", "start": "2021-02-05", "end": "2022-12-30\n"}
+{"qid": "Q1502712", "label": "Genworth Financial", "symbol": "GNW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1534597", "label": "Gold Fields", "symbol": "GFI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1538585", "label": "Kelly Services", "symbol": "KELYA", "start": "2016-10-07", "end": "2022-12-30\n"}
+{"qid": "Q20486914", "label": "Greif, Inc.", "symbol": "GEF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4645515", "label": "8x8", "symbol": "EGHT", "start": "2016-10-17", "end": "2022-12-30\n"}
+{"qid": "Q4688714", "label": "Aethlon Medical", "symbol": "AEMD", "start": "2020-01-06", "end": "2022-12-30\n"}
+{"qid": "Q4686194", "label": "Advanced Energy", "symbol": "AEIS", "start": "2016-04-18", "end": "2022-12-30\n"}
+{"qid": "Q4745391", "label": "American Woodmark", "symbol": "AMWD", "start": "2017-06-23", "end": "2022-12-30\n"}
+{"qid": "Q4741030", "label": "Ambarella Inc.", "symbol": "AMBA", "start": "2018-10-31", "end": "2022-12-30\n"}
+{"qid": "Q17986287", "label": "Carver Bancorp, Inc.", "symbol": "CARV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q22074922", "label": "Elastic", "symbol": "ESTC", "start": "2021-01-11", "end": "2022-12-30\n"}
+{"qid": "Q22079529", "label": "Harrow Health", "symbol": "HROW", "start": "2021-12-29", "end": "2022-12-30\n"}
+{"qid": "Q22121871", "label": "Scansource", "symbol": "SCSC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q22121865", "label": "Cimpress", "symbol": "CMPR", "start": "2020-06-19", "end": "2022-12-30\n"}
+{"qid": "Q91490380", "label": "Accelerate Diagnostics", "symbol": "AXDX", "start": "2014-12-18", "end": "2022-12-30\n"}
+{"qid": "Q30284075", "label": "Adamis Pharmaceuticals Corporation", "symbol": "ADMP", "start": "2021-07-16", "end": "2022-12-30\n"}
+{"qid": "Q30289308", "label": "Verastem Oncology", "symbol": "VSTM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30324333", "label": "TechnipFMC", "symbol": "FTI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q85846831", "label": "OceanFirst Bank", "symbol": "OCFC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16844753", "label": "Horizon Therapeutics", "symbol": "HZNP", "start": "2021-02-11", "end": "2022-12-30\n"}
+{"qid": "Q16950619", "label": "Community West Bancshares", "symbol": "CWBC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16951448", "label": "Copart", "symbol": "CPRT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16986877", "label": "Wausau Paper", "symbol": "WPP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16983334", "label": "Packaging Corporation of America", "symbol": "PKG", "start": "2022-11-01", "end": "2022-12-30\n"}
+{"qid": "Q16975402", "label": "Euroseas", "symbol": "ESEA", "start": "2022-04-27", "end": "2022-12-30\n"}
+{"qid": "Q16994357", "label": "GrabCAD", "symbol": "SSYS", "start": "2021-12-03", "end": "2022-12-30\n"}
+{"qid": "Q16993447", "label": "Avadel Pharmaceuticals", "symbol": "AVDL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17051868", "label": "Poshmark", "symbol": "POSH", "start": "2020-09-23", "end": "2022-12-30\n"}
+{"qid": "Q17080741", "label": "Silgan Holdings", "symbol": "SLGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17112054", "label": "Silicon Valley Bank", "symbol": "SIVB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17086475", "label": "Ultralife Corporation", "symbol": "ULBI", "start": "2020-12-01", "end": "2022-12-30\n"}
+{"qid": "Q106768814", "label": "AppHarvest", "symbol": "APPH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3433273", "label": "Rite Aid", "symbol": "RAD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3540193", "label": "Wayfair", "symbol": "W", "start": "2014-03-21", "end": "2022-12-30\n"}
+{"qid": "Q89368734", "label": "Raytheon Technologies Corporation", "symbol": "RTX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7420971", "label": "Sapiens International Corporation", "symbol": "SPNS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7449678", "label": "Semitool", "symbol": "AMAT", "start": "2021-06-30", "end": "2022-12-30\n"}
+{"qid": "Q7606770", "label": "Stein Mart", "symbol": "SMRT", "start": "2021-12-16", "end": "2022-12-30\n"}
+{"qid": "Q7695260", "label": "Tejon Ranch", "symbol": "TRC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7695737", "label": "TTEC", "symbol": "TTEC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q926699", "label": "Crocs, Inc.", "symbol": "CROX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q187212", "label": "SolarEdge", "symbol": "SEDG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q193199", "label": "UBS", "symbol": "UBS", "start": "2017-04-28", "end": "2022-12-30\n"}
+{"qid": "Q192814", "label": "Harley-Davidson", "symbol": "HOG", "start": "2021-04-29", "end": "2022-12-30\n"}
+{"qid": "Q305473", "label": "IQVIA", "symbol": "IQV", "start": "2021-07-21", "end": "2022-12-30\n"}
+{"qid": "Q697311", "label": "Magna International", "symbol": "MGA", "start": "2022-09-30", "end": "2022-12-30\n"}
+{"qid": "Q734779", "label": "Comscore", "symbol": "SCOR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q741046", "label": "Progress Software", "symbol": "PRGS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q790060", "label": "Broadcom Limited", "symbol": "AVGO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q798819", "label": "Huntington Bank", "symbol": "HBAN", "start": "2020-07-24", "end": "2022-12-30\n"}
+{"qid": "Q826526", "label": "Loews Corporation", "symbol": "L", "start": "2020-05-19", "end": "2022-12-30\n"}
+{"qid": "Q836040", "label": "The Manitowoc Company", "symbol": "MTW", "start": "2017-05-25", "end": "2022-12-30\n"}
+{"qid": "Q77581453", "label": "ViewRay", "symbol": "VRAY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q11407", "label": "VMware Inc.", "symbol": "VMW", "start": "2021-06-23", "end": "2022-12-30\n"}
+{"qid": "Q14772", "label": "Baidu", "symbol": "BIDU", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3884", "label": "Amazon", "symbol": "AMZN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30873", "label": "Dell Inc.", "symbol": "DELL", "start": "2021-06-17", "end": "2022-12-30\n"}
+{"qid": "Q54173", "label": "General Electric", "symbol": "GE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q72539", "label": "U.S. Steel", "symbol": "X", "start": "2016-03-04", "end": "2022-12-30\n"}
+{"qid": "Q21874220", "label": "Atara Biotherapeutics, Inc.", "symbol": "ATRA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q23680018", "label": "Wintrust Financial", "symbol": "WTFC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q106615428", "label": "MindMed", "symbol": "MNMD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q91396922", "label": "Wave Life Sciences", "symbol": "WVE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5452733", "label": "First Citizens BancShares", "symbol": "FCNCA", "start": "2021-06-25", "end": "2022-12-30\n"}
+{"qid": "Q5453107", "label": "First Interstate BancSystem", "symbol": "FIBK", "start": "2021-10-14", "end": "2022-12-30\n"}
+{"qid": "Q5426765", "label": "First National Bank", "symbol": "FNB", "start": "2019-03-27", "end": "2022-12-30\n"}
+{"qid": "Q5453752", "label": "First Republic Bank", "symbol": "FRC", "start": "2020-12-03", "end": "2022-12-30\n"}
+{"qid": "Q5515077", "label": "GXS Inc.", "symbol": "OTEX", "start": "2020-01-22", "end": "2022-12-30\n"}
+{"qid": "Q5552410", "label": "Geron Corporation", "symbol": "GERN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5591659", "label": "Graco", "symbol": "GGG", "start": "2021-05-21", "end": "2022-12-30\n"}
+{"qid": "Q5615528", "label": "Guidewire Software", "symbol": "GWRE", "start": "2021-12-16", "end": "2022-12-30\n"}
+{"qid": "Q5629085", "label": "Tokio Marine HCC", "symbol": "HCC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5647025", "label": "Hancock Whitney", "symbol": "HWC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5104985", "label": "Chordiant", "symbol": "CHRD", "start": "2022-08-11", "end": "2022-12-30\n"}
+{"qid": "Q5140275", "label": "Codexis", "symbol": "CDXS", "start": "2022-06-24", "end": "2022-12-30\n"}
+{"qid": "Q5152058", "label": "CommVault Systems", "symbol": "CVLT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5198104", "label": "Cyclacel", "symbol": "CYCC", "start": "2018-08-09", "end": "2022-12-30\n"}
+{"qid": "Q5209286", "label": "Daily Journal Corporation", "symbol": "DJCO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5227174", "label": "Data I/O", "symbol": "DAIO", "start": "2014-12-17", "end": "2022-12-30\n"}
+{"qid": "Q5287613", "label": "DocuSign", "symbol": "DOCU", "start": "2021-11-04", "end": "2022-12-30\n"}
+{"qid": "Q21992261", "label": "American Public Education, Inc.", "symbol": "APEI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q22121863", "label": "Arrowhead Research", "symbol": "ARWR", "start": "2018-03-15", "end": "2022-12-30\n"}
+{"qid": "Q48967249", "label": "Tellurian Inc", "symbol": "TELL", "start": "2014-02-06", "end": "2022-12-30\n"}
+{"qid": "Q48988040", "label": "DaVita Medical Group", "symbol": "DVA", "start": "2016-10-06", "end": "2022-12-30\n"}
+{"qid": "Q127962", "label": "Levi Strauss & Co.", "symbol": "LEVI", "start": "2020-08-05", "end": "2022-12-30\n"}
+{"qid": "Q157062", "label": "Unilever", "symbol": "UL", "start": "2020-12-21", "end": "2022-12-30\n"}
+{"qid": "Q157062", "label": "Unilever", "symbol": "UCL", "start": "2021-10-04", "end": "2022-12-30\n"}
+{"qid": "Q158205", "label": "Sanofi", "symbol": "SNY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q158205", "label": "Sanofi", "symbol": "SAN", "start": "2020-12-02", "end": "2022-12-30\n"}
+{"qid": "Q165858", "label": "TELUS", "symbol": "TU", "start": "2021-01-22", "end": "2022-12-30\n"}
+{"qid": "Q174198", "label": "Gartner", "symbol": "IT", "start": "2022-06-03", "end": "2022-12-30\n"}
+{"qid": "Q212322", "label": "GlaxoSmithKline", "symbol": "GSK", "start": "2021-07-30", "end": "2022-12-30\n"}
+{"qid": "Q15109865", "label": "Dexcom", "symbol": "DXCM", "start": "2017-08-10", "end": "2022-12-30\n"}
+{"qid": "Q93520415", "label": "Sea Ltd", "symbol": "SE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17182820", "label": "Cytosorbents", "symbol": "CTSO", "start": "2021-10-22", "end": "2022-12-30\n"}
+{"qid": "Q17326957", "label": "Westlake Chemical", "symbol": "WLK", "start": "2019-02-05", "end": "2022-12-30\n"}
+{"qid": "Q15734041", "label": "Corcept Therapeutics", "symbol": "CORT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q15845093", "label": "Credit Acceptance", "symbol": "CACC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q15915960", "label": "Xunlei Limited", "symbol": "XNET", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q538203", "label": "Patterson Companies", "symbol": "PDCO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q544847", "label": "Qualcomm Inc.", "symbol": "QCOM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q546880", "label": "Kinross Gold", "symbol": "KGC", "start": "2021-11-26", "end": "2022-12-30\n"}
+{"qid": "Q645708", "label": "ING Group", "symbol": "ING", "start": "2015-03-24", "end": "2022-12-30\n"}
+{"qid": "Q658789", "label": "Garmin", "symbol": "GRMN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q661845", "label": "STMicroelectronics", "symbol": "STM", "start": "2021-10-15", "end": "2022-12-30\n"}
+{"qid": "Q675585", "label": "Moody's Corporation", "symbol": "MCO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q680186", "label": "Mettler Toledo", "symbol": "MTD", "start": "2022-03-04", "end": "2022-12-30\n"}
+{"qid": "Q19903773", "label": "Varonis Systems", "symbol": "VRNS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19923099", "label": "Hewlett Packard Enterprise", "symbol": "HPE", "start": "2022-01-10", "end": "2022-12-30\n"}
+{"qid": "Q5983823", "label": "Avangrid", "symbol": "AGR", "start": "2020-11-19", "end": "2022-12-30\n"}
+{"qid": "Q6038080", "label": "Insight Enterprises", "symbol": "NSIT", "start": "2020-11-04", "end": "2022-12-30\n"}
+{"qid": "Q6060936", "label": "Investors Bank & Trust", "symbol": "IFIN", "start": "2019-08-09", "end": "2022-12-30\n"}
+{"qid": "Q3511946", "label": "T. Rowe Price", "symbol": "TROW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q20486915", "label": "H.B. Fuller", "symbol": "FUL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4650685", "label": "ACI Worldwide", "symbol": "ACIW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4692116", "label": "Agenus", "symbol": "AGEN", "start": "2021-07-27", "end": "2022-12-30\n"}
+{"qid": "Q4778915", "label": "Cloudflare", "symbol": "NET", "start": "2022-01-10", "end": "2022-12-30\n"}
+{"qid": "Q16338433", "label": "Internet Gold Golden Lines", "symbol": "IGLD", "start": "2022-08-08", "end": "2022-12-30\n"}
+{"qid": "Q25048844", "label": "Dynatrace", "symbol": "DT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5197666", "label": "CyberArk", "symbol": "CYBR", "start": "2020-09-25", "end": "2022-12-30\n"}
+{"qid": "Q5185100", "label": "Cricut", "symbol": "CRCT", "start": "2021-03-31", "end": "2022-12-30\n"}
+{"qid": "Q5228205", "label": "Dave & Buster's", "symbol": "PLAY", "start": "2021-07-02", "end": "2022-12-30\n"}
+{"qid": "Q5289230", "label": "Dollar Tree", "symbol": "DLTR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5275736", "label": "Digimarc", "symbol": "DMRC", "start": "2022-03-30", "end": "2022-12-30\n"}
+{"qid": "Q5422162", "label": "Extra Space Storage", "symbol": "EXR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5376911", "label": "Energy Conversion Devices", "symbol": "ENER", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5453008", "label": "First Financial Bank", "symbol": "THFF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5470333", "label": "Formula Systems", "symbol": "FORTY", "start": "2019-02-21", "end": "2022-12-30\n"}
+{"qid": "Q3973262", "label": "Stericycle", "symbol": "SRCL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4019844", "label": "Wilhelmina Models", "symbol": "WHLM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4046987", "label": "Pioneer Natural Resources", "symbol": "PXD", "start": "2017-11-02", "end": "2022-12-30\n"}
+{"qid": "Q11301445", "label": "Sparklight", "symbol": "CABO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q821293", "label": "Rio Tinto Group", "symbol": "RIO", "start": "2019-01-02", "end": "2022-12-30\n"}
+{"qid": "Q818314", "label": "Bentley Systems", "symbol": "BSY", "start": "2021-07-08", "end": "2022-12-30\n"}
+{"qid": "Q835456", "label": "Sun Life Financial", "symbol": "SLF", "start": "2019-05-02", "end": "2022-12-30\n"}
+{"qid": "Q899097", "label": "BRF", "symbol": "BRFS", "start": "2021-09-21", "end": "2022-12-30\n"}
+{"qid": "Q946080", "label": "Paychex", "symbol": "PAYX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q950419", "label": "Mercado Libre", "symbol": "MELI", "start": "2022-01-25", "end": "2022-12-30\n"}
+{"qid": "Q28402394", "label": "Home BancShares", "symbol": "HOMB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28405655", "label": "EverQuote", "symbol": "EVER", "start": "2018-11-14", "end": "2022-12-30\n"}
+{"qid": "Q1424962", "label": "InterContinental Hotels Group plc", "symbol": "IHG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1425316", "label": "Schlumberger", "symbol": "SLB", "start": "2021-08-12", "end": "2022-12-30\n"}
+{"qid": "Q1477156", "label": "Seadrill", "symbol": "SDRL", "start": "2017-06-01", "end": "2022-12-30\n"}
+{"qid": "Q1501630", "label": "Interpublic Group of Companies", "symbol": "IPG", "start": "2020-06-25", "end": "2022-12-30\n"}
+{"qid": "Q1510378", "label": "Illinois Tool Works", "symbol": "ITW", "start": "2021-01-07", "end": "2022-12-30\n"}
+{"qid": "Q1516108", "label": "TC Energy", "symbol": "TRP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1516410", "label": "Suncor Energy", "symbol": "SU", "start": "2018-06-29", "end": "2022-12-30\n"}
+{"qid": "Q1519267", "label": "Omnicom Group", "symbol": "OMC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16733729", "label": "Kosmos Energy", "symbol": "KOS", "start": "2021-05-03", "end": "2022-12-30\n"}
+{"qid": "Q16738121", "label": "Allegion", "symbol": "ALLE", "start": "2020-07-24", "end": "2022-12-30\n"}
+{"qid": "Q16932650", "label": "Rubicon Technology", "symbol": "RBCN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16958009", "label": "TreeHouse Foods", "symbol": "THS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16959092", "label": "United Security Bancshares", "symbol": "UBFO", "start": "2021-06-24", "end": "2022-12-30\n"}
+{"qid": "Q16972754", "label": "Coinbase", "symbol": "COIN", "start": "2022-06-22", "end": "2022-12-30\n"}
+{"qid": "Q16980616", "label": "Insperity", "symbol": "NSP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16995776", "label": "HomeTrust Bancshares", "symbol": "HTBI", "start": "2018-10-04", "end": "2022-12-30\n"}
+{"qid": "Q16992684", "label": "EPlus Inc", "symbol": "PLUS", "start": "2021-12-16", "end": "2022-12-30\n"}
+{"qid": "Q16996714", "label": "Amneal Pharmaceuticals, Inc.", "symbol": "AMRX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17050423", "label": "CarGurus", "symbol": "CARG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17114199", "label": "NeoGen", "symbol": "NEOG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17108701", "label": "Medpace", "symbol": "MEDP", "start": "2021-01-04", "end": "2022-12-30\n"}
+{"qid": "Q17147182", "label": "Zynex", "symbol": "ZYXI", "start": "2021-04-01", "end": "2022-12-30\n"}
+{"qid": "Q4922539", "label": "Blackbaud", "symbol": "BLKB", "start": "2014-03-17", "end": "2022-12-30\n"}
+{"qid": "Q4928676", "label": "Blucora", "symbol": "BCOR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4994426", "label": "Invacare", "symbol": "IVC", "start": "2019-06-21", "end": "2022-12-30\n"}
+{"qid": "Q5033676", "label": "Canterbury Park", "symbol": "CPHC", "start": "2017-01-27", "end": "2022-12-30\n"}
+{"qid": "Q5013834", "label": "CRA International", "symbol": "CRAI", "start": "2021-01-13", "end": "2022-12-30\n"}
+{"qid": "Q5063137", "label": "Century Casinos", "symbol": "CNTY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5127720", "label": "Claro Colombia", "symbol": "AMOV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5152057", "label": "CommScope", "symbol": "COMM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5161257", "label": "Conn's", "symbol": "CONN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5169368", "label": "CorVel Corporation", "symbol": "CRVL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1374135", "label": "Prudential plc", "symbol": "PUK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1374135", "label": "Prudential plc", "symbol": "PRU", "start": "2021-11-11", "end": "2022-12-30\n"}
+{"qid": "Q1391599", "label": "Mercer", "symbol": "MERC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1413997", "label": "Quantum Corporation", "symbol": "QMCO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1549511", "label": "Ormat Industries", "symbol": "ORA", "start": "2021-03-10", "end": "2022-12-30\n"}
+{"qid": "Q1562826", "label": "VEON", "symbol": "VEON", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q325789", "label": "Jefferies & Company", "symbol": "JEF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q385452", "label": "Avid Technology", "symbol": "AVID", "start": "2014-11-19", "end": "2022-12-30\n"}
+{"qid": "Q430745", "label": "Teradata", "symbol": "TDC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q458363", "label": "Marathon Petroleum", "symbol": "MPC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q10534742", "label": "Immersion Corporation", "symbol": "IMMR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2743863", "label": "Intuitive Surgical", "symbol": "ISRG", "start": "2019-11-11", "end": "2022-12-30\n"}
+{"qid": "Q2759586", "label": "Papa Johns", "symbol": "PZZA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q60480286", "label": "Tilray", "symbol": "TLRY", "start": "2020-12-22", "end": "2022-12-30\n"}
+{"qid": "Q85769855", "label": "Invitation Homes", "symbol": "INVH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6015591", "label": "Incyte", "symbol": "INCY", "start": "2018-10-24", "end": "2022-12-30\n"}
+{"qid": "Q28222794", "label": "BlackLine", "symbol": "BL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q59318110", "label": "Qutoutiao", "symbol": "QTT", "start": "2018-09-20", "end": "2022-12-30\n"}
+{"qid": "Q5038907", "label": "Career Education Corporation", "symbol": "CECO", "start": "2021-01-15", "end": "2022-12-30\n"}
+{"qid": "Q5035503", "label": "Capital Cargo International Airlines", "symbol": "ATSG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5122694", "label": "Citizens Financial Group", "symbol": "CFG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5157220", "label": "Compugen", "symbol": "CGEN", "start": "2022-12-13", "end": "2022-12-30\n"}
+{"qid": "Q5194189", "label": "Cumulus Media", "symbol": "CMLS", "start": "2020-12-30", "end": "2022-12-30\n"}
+{"qid": "Q5177980", "label": "Coupa", "symbol": "COUP", "start": "2021-05-24", "end": "2022-12-30\n"}
+{"qid": "Q2068984", "label": "Illumina", "symbol": "ILMN", "start": "2022-05-26", "end": "2022-12-30\n"}
+{"qid": "Q2069106", "label": "Pacific Biosciences", "symbol": "PACB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2157448", "label": "Robert Half International", "symbol": "RHI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2178198", "label": "Ryder", "symbol": "R", "start": "2019-05-23", "end": "2022-12-30\n"}
+{"qid": "Q6715352", "label": "MELA Sciences", "symbol": "SSKN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6715705", "label": "MGE Energy, Inc.", "symbol": "MGEE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6744211", "label": "Mallinckrodt Pharmaceuticals", "symbol": "MNK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6770621", "label": "Markel Corporation", "symbol": "MKL", "start": "2021-03-29", "end": "2022-12-30\n"}
+{"qid": "Q6783278", "label": "Masimo", "symbol": "MASI", "start": "2021-01-27", "end": "2022-12-30\n"}
+{"qid": "Q6795931", "label": "Maximus Inc.", "symbol": "MMS", "start": "2020-11-19", "end": "2022-12-30\n"}
+{"qid": "Q6819538", "label": "Meritage Homes Corporation", "symbol": "MTH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6955139", "label": "NRG Energy", "symbol": "NRG", "start": "2022-12-15", "end": "2022-12-30\n"}
+{"qid": "Q7020906", "label": "Nexstar Media Group", "symbol": "NXST", "start": "2018-05-25", "end": "2022-12-30\n"}
+{"qid": "Q7045708", "label": "Noble Corporation", "symbol": "NE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4928282", "label": "Bloomin' Brands", "symbol": "BLMN", "start": "2014-10-02", "end": "2022-12-30\n"}
+{"qid": "Q5024089", "label": "Calumet Lubricants", "symbol": "CLMT", "start": "2022-03-22", "end": "2022-12-30\n"}
+{"qid": "Q5050852", "label": "Destination XL Group", "symbol": "DXLG", "start": "2014-01-07", "end": "2022-12-30\n"}
+{"qid": "Q5099579", "label": "China Automotive Systems", "symbol": "CAAS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5139058", "label": "Coca-Cola Bottling Co. Consolidated", "symbol": "COKE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5118174", "label": "Churchill Downs Incorporated", "symbol": "CHDN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7071951", "label": "O'Reilly Auto Parts", "symbol": "ORLY", "start": "2015-09-30", "end": "2022-12-30\n"}
+{"qid": "Q7118809", "label": "PDF Solutions", "symbol": "PDFS", "start": "2021-02-11", "end": "2022-12-30\n"}
+{"qid": "Q7119110", "label": "PFSweb", "symbol": "PFSW", "start": "2019-10-01", "end": "2022-12-30\n"}
+{"qid": "Q7236078", "label": "Powell Industries", "symbol": "POWL", "start": "2016-10-05", "end": "2022-12-30\n"}
+{"qid": "Q7248721", "label": "Progressive Corporation", "symbol": "PGR", "start": "2019-10-25", "end": "2022-12-30\n"}
+{"qid": "Q7272057", "label": "QuinStreet", "symbol": "QNST", "start": "2021-02-09", "end": "2022-12-30\n"}
+{"qid": "Q7280388", "label": "Radica Games", "symbol": "MAT", "start": "2020-12-18", "end": "2022-12-30\n"}
+{"qid": "Q7280957", "label": "Urban One", "symbol": "UONEK", "start": "2018-01-25", "end": "2022-12-30\n"}
+{"qid": "Q7308000", "label": "Regency Centers", "symbol": "REG", "start": "2021-05-12", "end": "2022-12-30\n"}
+{"qid": "Q7308054", "label": "Regeneron Pharmaceuticals", "symbol": "REGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7331170", "label": "RCI Hospitality Holdings", "symbol": "RICK", "start": "2021-06-30", "end": "2022-12-30\n"}
+{"qid": "Q6456630", "label": "The L. S. Starrett Company", "symbol": "SCX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6458324", "label": "LGI Homes", "symbol": "LGIH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6485221", "label": "Landstar System", "symbol": "LSTR", "start": "2022-03-23", "end": "2022-12-30\n"}
+{"qid": "Q6550684", "label": "Lincoln Group of Schools", "symbol": "LINC", "start": "2019-09-05", "end": "2022-12-30\n"}
+{"qid": "Q18155123", "label": "Robinhood", "symbol": "HOOD", "start": "2016-11-16", "end": "2022-12-30\n"}
+{"qid": "Q66823616", "label": "Fulgent Genetics", "symbol": "FLGT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q470317", "label": "Ametek", "symbol": "AME", "start": "2022-01-26", "end": "2022-12-30\n"}
+{"qid": "Q472536", "label": "Amkor Technology", "symbol": "AMKR", "start": "2016-03-24", "end": "2022-12-30\n"}
+{"qid": "Q470517", "label": "Amgen", "symbol": "AMGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q474383", "label": "Ballard Power Systems", "symbol": "BLDP", "start": "2018-04-12", "end": "2022-12-30\n"}
+{"qid": "Q478214", "label": "Tesla, Inc.", "symbol": "TSLA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q484117", "label": "Woori Financial Group", "symbol": "WF", "start": "2022-04-04", "end": "2022-12-30\n"}
+{"qid": "Q486737", "label": "Korea Electric Power Corporation", "symbol": "KEP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q503308", "label": "Southwest Airlines", "symbol": "LUV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q663596", "label": "Gilead Sciences", "symbol": "GILD", "start": "2018-06-27", "end": "2022-12-30\n"}
+{"qid": "Q668737", "label": "Yum! Brands", "symbol": "YUM", "start": "2021-10-07", "end": "2022-12-30\n"}
+{"qid": "Q727883", "label": "NetApp", "symbol": "NTAP", "start": "2021-02-18", "end": "2022-12-30\n"}
+{"qid": "Q738770", "label": "Western Digital", "symbol": "WDC", "start": "2022-03-25", "end": "2022-12-30\n"}
+{"qid": "Q747489", "label": "Cyrix", "symbol": "CYRX", "start": "2022-05-23", "end": "2022-12-30\n"}
+{"qid": "Q27988239", "label": "Mid-America Apartments", "symbol": "MAA", "start": "2021-10-13", "end": "2022-12-30\n"}
+{"qid": "Q27964091", "label": "Essex Property Trust, Inc.", "symbol": "ESS", "start": "2017-07-10", "end": "2022-12-30\n"}
+{"qid": "Q27988153", "label": "UDR Inc", "symbol": "UDR", "start": "2021-03-26", "end": "2022-12-30\n"}
+{"qid": "Q30591272", "label": "Halozyme, Inc.", "symbol": "HALO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19868026", "label": "PRA Group", "symbol": "PRAA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19876423", "label": "Hyster-Yale Materials Handling", "symbol": "HY", "start": "2020-04-03", "end": "2022-12-30\n"}
+{"qid": "Q19903490", "label": "Navient", "symbol": "NAVI", "start": "2015-11-03", "end": "2022-12-30\n"}
+{"qid": "Q5324991", "label": "EagleBank", "symbol": "EGBN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5413426", "label": "European Wax Center", "symbol": "EWCZ", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5416738", "label": "Eventbrite", "symbol": "EB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5440684", "label": "Federated Hermes", "symbol": "FHI", "start": "2020-12-16", "end": "2022-12-30\n"}
+{"qid": "Q5452332", "label": "First Bancorp", "symbol": "FBNC", "start": "2021-12-06", "end": "2022-12-30\n"}
+{"qid": "Q5455836", "label": "Five Below", "symbol": "FIVE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5453009", "label": "First Financial Bank", "symbol": "FFBC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5508431", "label": "Fulton Financial Corporation", "symbol": "FULT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5501354", "label": "FreightCar America", "symbol": "RAIL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5484477", "label": "Franco-Nevada", "symbol": "FNV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5531627", "label": "Generac Holdings Inc.", "symbol": "GNRC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q108415503", "label": "Kura Sushi USA", "symbol": "KRUS", "start": "2021-08-26", "end": "2022-12-30\n"}
+{"qid": "Q28877490", "label": "Puma Biotechnology", "symbol": "PBYI", "start": "2022-07-26", "end": "2022-12-30\n"}
+{"qid": "Q16840288", "label": "Griffon Corporation", "symbol": "GFF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3370152", "label": "Patterson-UTI Energy, Inc", "symbol": "PTEN", "start": "2018-07-26", "end": "2022-12-30\n"}
+{"qid": "Q3403513", "label": "Principal Financial Group", "symbol": "PFG", "start": "2022-12-22", "end": "2022-12-30\n"}
+{"qid": "Q3459777", "label": "Semtech Corporation", "symbol": "SMTC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96574679", "label": "CIM Commercial Trust Corporation", "symbol": "CMCT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4040469", "label": "Headhunter", "symbol": "HHR", "start": "2021-01-15", "end": "2022-12-30\n"}
+{"qid": "Q4048013", "label": "Range Resources", "symbol": "RRC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4045074", "label": "National Western Life", "symbol": "NWLI", "start": "2022-11-22", "end": "2022-12-30\n"}
+{"qid": "Q20800404", "label": "Alphabet Inc.", "symbol": "GOOG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q20800404", "label": "Alphabet Inc.", "symbol": "GOOGL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16248637", "label": "Datadog", "symbol": "DDOG", "start": "2019-10-03", "end": "2022-12-30\n"}
+{"qid": "Q420822", "label": "Gap Inc.", "symbol": "GPS", "start": "2015-05-04", "end": "2022-12-30\n"}
+{"qid": "Q427881", "label": "Royal Caribbean Group", "symbol": "RCL", "start": "2021-07-28", "end": "2022-12-30\n"}
+{"qid": "Q431757", "label": "Volaris", "symbol": "VLRS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q457960", "label": "VF Corporation", "symbol": "VFC", "start": "2020-08-13", "end": "2022-12-30\n"}
+{"qid": "Q460446", "label": "Amdocs", "symbol": "DOX", "start": "2015-02-05", "end": "2022-12-30\n"}
+{"qid": "Q483006", "label": "LG Display", "symbol": "LPL", "start": "2022-04-13", "end": "2022-12-30\n"}
+{"qid": "Q484930", "label": "Analog Devices", "symbol": "ADI", "start": "2021-10-27", "end": "2022-12-30\n"}
+{"qid": "Q485908", "label": "KT Corporation", "symbol": "KT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q489080", "label": "Automatic Data Processing", "symbol": "ADP", "start": "2019-12-04", "end": "2022-12-30\n"}
+{"qid": "Q493145", "label": "SK Telecom", "symbol": "SKM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q21010691", "label": "Westwood Holdings Group", "symbol": "WHG", "start": "2021-07-15", "end": "2022-12-30\n"}
+{"qid": "Q21072695", "label": "Vista Outdoor", "symbol": "VSTO", "start": "2021-05-27", "end": "2022-12-30\n"}
+{"qid": "Q21198484", "label": "Alamo Group", "symbol": "ALG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q21233433", "label": "Bumble", "symbol": "BMBL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q56585268", "label": "10X Genomics (United States)", "symbol": "TXG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6735371", "label": "Maiden Holdings", "symbol": "MHLD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6981538", "label": "Evogene", "symbol": "EVGN", "start": "2021-12-07", "end": "2022-12-30\n"}
+{"qid": "Q7067716", "label": "NuVasive", "symbol": "NUVA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q894558", "label": "Boston Beer Company", "symbol": "SAM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q931200", "label": "C. H. Robinson Worldwide", "symbol": "CHRW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q951259", "label": "Murphy Oil", "symbol": "MUR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q967868", "label": "NextEra Energy", "symbol": "NEE", "start": "2019-04-18", "end": "2022-12-28\n"}
+{"qid": "Q11159866", "label": "Gilat Satellite Networks", "symbol": "GILT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q56276186", "label": "Peloton", "symbol": "PTON", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q15898172", "label": "Zhihu", "symbol": "ZH", "start": "2020-05-28", "end": "2022-12-30\n"}
+{"qid": "Q15964806", "label": "ImmunoGen Inc.", "symbol": "IMGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16157155", "label": "A10 Networks", "symbol": "ATEN", "start": "2017-06-09", "end": "2022-12-30\n"}
+{"qid": "Q67186598", "label": "Roblox Corporation", "symbol": "RBLX", "start": "2021-05-10", "end": "2022-12-30\n"}
+{"qid": "Q24705550", "label": "Brookfield Business Partners", "symbol": "BBU", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q39046155", "label": "Antero Resources", "symbol": "AR", "start": "2021-03-04", "end": "2022-12-30\n"}
+{"qid": "Q39052929", "label": "Brighthouse Financial", "symbol": "BHF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4376955", "label": "Sabre Holdings", "symbol": "SABR", "start": "2018-01-25", "end": "2022-12-30\n"}
+{"qid": "Q13576574", "label": "Ituran", "symbol": "ITRN", "start": "2018-02-16", "end": "2022-12-30\n"}
+{"qid": "Q6432445", "label": "Kornit Digital", "symbol": "KRNT", "start": "2014-02-04", "end": "2022-12-30\n"}
+{"qid": "Q6459734", "label": "LPL Financial", "symbol": "LPLA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6513538", "label": "Lee Enterprises", "symbol": "LEE", "start": "2021-11-15", "end": "2022-12-29\n"}
+{"qid": "Q6715131", "label": "MDC Holdings", "symbol": "MDC", "start": "2020-09-30", "end": "2022-12-30\n"}
+{"qid": "Q6757974", "label": "Marcus & Millichap", "symbol": "MMI", "start": "2021-07-19", "end": "2022-12-30\n"}
+{"qid": "Q5380128", "label": "Entegris", "symbol": "ENTG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5511828", "label": "G&K Services", "symbol": "GK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5575439", "label": "Shanda", "symbol": "GAME", "start": "2017-03-28", "end": "2022-12-30\n"}
+{"qid": "Q5598232", "label": "Gray Television", "symbol": "GTN", "start": "2015-09-22", "end": "2022-12-30\n"}
+{"qid": "Q5611081", "label": "Group 1 Automotive", "symbol": "GPI", "start": "2021-09-23", "end": "2022-12-30\n"}
+{"qid": "Q5503081", "label": "Freshpet", "symbol": "FRPT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5560152", "label": "GigaMedia Limited", "symbol": "GIGM", "start": "2021-03-26", "end": "2022-12-30\n"}
+{"qid": "Q5579415", "label": "Golden Entertainment", "symbol": "GDEN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5762186", "label": "Hill International", "symbol": "HIL", "start": "2021-10-04", "end": "2022-12-30\n"}
+{"qid": "Q30256843", "label": "bluebird bio", "symbol": "BLUE", "start": "2021-04-08", "end": "2022-12-30\n"}
+{"qid": "Q30282590", "label": "Precigen, Inc", "symbol": "PGEN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30283420", "label": "Adaptive Biotechnologies", "symbol": "ADPT", "start": "2014-11-06", "end": "2022-12-30\n"}
+{"qid": "Q30283314", "label": "Cytokinetics", "symbol": "CYTK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30292482", "label": "Vaxart", "symbol": "VXRT", "start": "2021-10-28", "end": "2022-12-30\n"}
+{"qid": "Q1369955", "label": "W. R. Berkley", "symbol": "WRB", "start": "2021-12-09", "end": "2022-12-30\n"}
+{"qid": "Q1400073", "label": "Federal Signal Corporation", "symbol": "FSS", "start": "2016-06-21", "end": "2022-12-30\n"}
+{"qid": "Q1383669", "label": "Exelon", "symbol": "EXC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1411295", "label": "Fidelity National Information Services", "symbol": "FIS", "start": "2020-04-07", "end": "2022-12-30\n"}
+{"qid": "Q1453620", "label": "Freeport-McMoRan", "symbol": "FCX", "start": "2017-09-20", "end": "2022-12-30\n"}
+{"qid": "Q1486956", "label": "Xcel Energy", "symbol": "XEL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1506045", "label": "Las Vegas Sands", "symbol": "LVS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1516849", "label": "Shaw Communications", "symbol": "SJR", "start": "2022-01-25", "end": "2022-12-30\n"}
+{"qid": "Q1541470", "label": "GPA", "symbol": "CBD", "start": "2022-07-14", "end": "2022-12-30\n"}
+{"qid": "Q1544312", "label": "Telecom Argentina", "symbol": "TEO", "start": "2022-06-30", "end": "2022-12-30\n"}
+{"qid": "Q65251731", "label": "Nano Dimension Ltd.", "symbol": "NNDM", "start": "2021-05-27", "end": "2022-12-30\n"}
+{"qid": "Q65091423", "label": "Diamondback Energy", "symbol": "FANG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q65117079", "label": "LoanDepot", "symbol": "LDI", "start": "2022-02-09", "end": "2022-12-30\n"}
+{"qid": "Q1348664", "label": "Rockwell International", "symbol": "ROK", "start": "2021-11-09", "end": "2022-12-30\n"}
+{"qid": "Q1371852", "label": "MBIA", "symbol": "MBI", "start": "2022-08-30", "end": "2022-12-30\n"}
+{"qid": "Q1411810", "label": "Fifth Third Bank", "symbol": "FITB", "start": "2018-09-20", "end": "2022-12-30\n"}
+{"qid": "Q1430331", "label": "Flowserve", "symbol": "FLS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q99482082", "label": "Canoo", "symbol": "GOEV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2094989", "label": "Sumitomo Mitsui Financial Group", "symbol": "SMFG", "start": "2020-12-09", "end": "2022-12-30\n"}
+{"qid": "Q24525746", "label": "BCE Inc.", "symbol": "BCE", "start": "2022-11-16", "end": "2022-12-30\n"}
+{"qid": "Q20858221", "label": "PROS", "symbol": "PRO", "start": "2021-12-06", "end": "2022-12-30\n"}
+{"qid": "Q851641", "label": "Equinix", "symbol": "EQIX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q834888", "label": "Dentsply", "symbol": "XRAY", "start": "2022-05-20", "end": "2022-12-30\n"}
+{"qid": "Q851361", "label": "Huntsman Corporation", "symbol": "HUN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q861042", "label": "Western Union", "symbol": "WU", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q864407", "label": "The Home Depot", "symbol": "HD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q846246", "label": "Neonode", "symbol": "NEON", "start": "2020-11-16", "end": "2022-12-30\n"}
+{"qid": "Q901262", "label": "Grifols", "symbol": "GRFS", "start": "2021-07-01", "end": "2022-12-30\n"}
+{"qid": "Q901262", "label": "Grifols", "symbol": "GRF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q898208", "label": "Honeywell", "symbol": "HON", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q906055", "label": "Orix", "symbol": "IX", "start": "2017-11-02", "end": "2022-12-30\n"}
+{"qid": "Q917131", "label": "Regions Financial Corporation", "symbol": "RF", "start": "2019-04-04", "end": "2022-12-30\n"}
+{"qid": "Q919300", "label": "AeroVironment", "symbol": "AVAV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q941127", "label": "Salesforce.com", "symbol": "CRM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q970695", "label": "Northern Trust", "symbol": "NTRS", "start": "2022-05-06", "end": "2022-12-30\n"}
+{"qid": "Q18124524", "label": "EHang", "symbol": "EH", "start": "2019-06-28", "end": "2022-12-30\n"}
+{"qid": "Q18153430", "label": "Syneos Health", "symbol": "SYNH", "start": "2019-03-12", "end": "2022-12-30\n"}
+{"qid": "Q18205509", "label": "Beyond Meat", "symbol": "BYND", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q166621", "label": "Mizuho Financial Group", "symbol": "MFG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q153417", "label": "Kroger", "symbol": "KR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q212405", "label": "Procter & Gamble", "symbol": "PG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q259011", "label": "Motorola", "symbol": "MSI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q24890758", "label": "CrowdStrike", "symbol": "CRWD", "start": "2021-12-31", "end": "2022-12-30\n"}
+{"qid": "Q24896598", "label": "Gulf Island Fabrication", "symbol": "GIFI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q25104482", "label": "Banco Latinoamericano de Comercio Exterior", "symbol": "BLX", "start": "2017-04-26", "end": "2022-12-30\n"}
+{"qid": "Q8030548", "label": "Wolverine World Wide", "symbol": "WWW", "start": "2016-01-27", "end": "2022-12-30\n"}
+{"qid": "Q8075252", "label": "Zumiez", "symbol": "ZUMZ", "start": "2021-04-30", "end": "2022-12-30\n"}
+{"qid": "Q25245312", "label": "Rush Enterprises", "symbol": "RUSHA", "start": "2014-01-16", "end": "2022-12-30\n"}
+{"qid": "Q106522144", "label": "VBI Vaccines", "symbol": "VBIV", "start": "2022-09-16", "end": "2022-12-30\n"}
+{"qid": "Q5197796", "label": "Cyberian Outpost", "symbol": "COOL", "start": "2021-12-27", "end": "2022-12-30\n"}
+{"qid": "Q5191790", "label": "Trip.com Group", "symbol": "TCOM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5323107", "label": "eHealthInsurance", "symbol": "EHTH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5330003", "label": "Eastern Bank", "symbol": "EBC", "start": "2020-10-02", "end": "2022-12-30\n"}
+{"qid": "Q5376971", "label": "Energy Recovery Inc.", "symbol": "ERII", "start": "2021-08-12", "end": "2022-12-30\n"}
+{"qid": "Q5476713", "label": "21st Century Fox", "symbol": "FOXA", "start": "2019-07-18", "end": "2022-12-30\n"}
+{"qid": "Q143616", "label": "United Microelectronics Corporation", "symbol": "UMC", "start": "2020-05-05", "end": "2022-12-30\n"}
+{"qid": "Q154387", "label": "Iridium Communications", "symbol": "IRDM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q173395", "label": "Cisco Systems", "symbol": "CSCO", "start": "2021-04-27", "end": "2022-12-30\n"}
+{"qid": "Q193326", "label": "Goldman Sachs", "symbol": "GS", "start": "2020-11-04", "end": "2022-12-30\n"}
+{"qid": "Q223127", "label": "Logitech", "symbol": "LOGI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1944412", "label": "MoneyGram", "symbol": "MGI", "start": "2022-08-24", "end": "2022-12-30\n"}
+{"qid": "Q1998662", "label": "Nordson Corporation", "symbol": "NDSN", "start": "2017-04-13", "end": "2022-12-30\n"}
+{"qid": "Q2034659", "label": "Extreme Networks", "symbol": "EXTR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2037125", "label": "State Street Corporation", "symbol": "STT", "start": "2021-07-08", "end": "2022-12-30\n"}
+{"qid": "Q19900", "label": "Oracle", "symbol": "ORCL", "start": "2022-09-30", "end": "2022-12-30\n"}
+{"qid": "Q48822", "label": "Valspar", "symbol": "VAL", "start": "2022-01-25", "end": "2022-12-30\n"}
+{"qid": "Q26110522", "label": "Pinnacle West Capital Corporation", "symbol": "PNW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q26215536", "label": "Axalta Coating Systems", "symbol": "AXTA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q210047", "label": "Petrobras", "symbol": "PBR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q214346", "label": "Viacom", "symbol": "VIA", "start": "2019-05-08", "end": "2022-12-30\n"}
+{"qid": "Q207983", "label": "Monsanto", "symbol": "MON", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q282997", "label": "Fox Racing Shox", "symbol": "FOXF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q297879", "label": "ASML Holding", "symbol": "ASML", "start": "2018-06-21", "end": "2022-12-30\n"}
+{"qid": "Q4118850", "label": "Pizza Inn", "symbol": "RAVE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4189507", "label": "Cathay Bank", "symbol": "CATY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q23018189", "label": "Albany International", "symbol": "AIN", "start": "2018-06-28", "end": "2022-12-30\n"}
+{"qid": "Q2047336", "label": "Palantir Technologies", "symbol": "PLTR", "start": "2020-12-08", "end": "2022-12-30\n"}
+{"qid": "Q2288792", "label": "Sinclair Broadcast Group", "symbol": "SBGI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5337641", "label": "Edgewell Personal Care", "symbol": "EPC", "start": "2016-08-05", "end": "2022-12-30\n"}
+{"qid": "Q5398941", "label": "Esperion Therapeutics", "symbol": "ESPR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5452775", "label": "First Community Bancshares", "symbol": "FCBC", "start": "2021-04-26", "end": "2022-12-30\n"}
+{"qid": "Q5509271", "label": "Funko", "symbol": "FNKO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3121014", "label": "Graham Holdings Company", "symbol": "GHC", "start": "2021-02-01", "end": "2022-12-30\n"}
+{"qid": "Q3285819", "label": "Manhattan Associates", "symbol": "MANH", "start": "2022-02-03", "end": "2022-12-30\n"}
+{"qid": "Q3277465", "label": "Sirius XM Radio", "symbol": "SIRI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q21463167", "label": "HashiCorp", "symbol": "HCP", "start": "2020-03-05", "end": "2022-12-30\n"}
+{"qid": "Q43303430", "label": "Twist Bioscience", "symbol": "TWST", "start": "2021-12-20", "end": "2022-12-30\n"}
+{"qid": "Q16131515", "label": "TARO Pharmaceuticals", "symbol": "TARO", "start": "2021-07-30", "end": "2022-12-30\n"}
+{"qid": "Q7449804", "label": "Sempra Energy", "symbol": "SRE", "start": "2019-10-11", "end": "2022-12-30\n"}
+{"qid": "Q7455653", "label": "ServiceNow", "symbol": "NOW", "start": "2022-06-17", "end": "2022-12-30\n"}
+{"qid": "Q7457122", "label": "Sevcon", "symbol": "SEV", "start": "2019-11-07", "end": "2022-12-30\n"}
+{"qid": "Q7521341", "label": "Simulations Plus", "symbol": "SLP", "start": "2014-05-23", "end": "2022-12-30\n"}
+{"qid": "Q7572694", "label": "Spacelabs Healthcare", "symbol": "OSIS", "start": "2017-05-24", "end": "2022-12-30\n"}
+{"qid": "Q7562151", "label": "Sonoco", "symbol": "SON", "start": "2020-01-17", "end": "2022-12-30\n"}
+{"qid": "Q7615829", "label": "Stewart Information Services Corporation", "symbol": "STC", "start": "2021-11-09", "end": "2022-12-30\n"}
+{"qid": "Q7663801", "label": "Global Industrial Company", "symbol": "GIC", "start": "2016-09-15", "end": "2022-12-30\n"}
+{"qid": "Q7701648", "label": "Terayon", "symbol": "TERN", "start": "2021-11-26", "end": "2022-12-30\n"}
+{"qid": "Q7706196", "label": "Tetra Tech", "symbol": "TTEK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7713699", "label": "The Andersons", "symbol": "ANDE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7738224", "label": "The Greenbrier Companies", "symbol": "GBX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q65089744", "label": "Oramed", "symbol": "ORMP", "start": "2022-12-13", "end": "2022-12-30\n"}
+{"qid": "Q6216567", "label": "Despegar Estafadora", "symbol": "DESP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6398722", "label": "Kforce", "symbol": "KFRC", "start": "2020-10-29", "end": "2022-12-30\n"}
+{"qid": "Q6468754", "label": "Spire Inc", "symbol": "SR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3331496", "label": "Myriad Genetics", "symbol": "MYGN", "start": "2018-10-18", "end": "2022-12-30\n"}
+{"qid": "Q3389022", "label": "Piper Sandler Companies", "symbol": "PIPR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q55627388", "label": "Okta", "symbol": "OKTA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q20182011", "label": "Jinko Solar", "symbol": "JKS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2940968", "label": "Casey's General Stores", "symbol": "CASY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2943995", "label": "Cellectis", "symbol": "CLLS", "start": "2014-06-20", "end": "2022-12-30\n"}
+{"qid": "Q3067119", "label": "Fastenal", "symbol": "FAST", "start": "2017-11-20", "end": "2022-12-30\n"}
+{"qid": "Q3146975", "label": "Xylem Inc.", "symbol": "XYL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3156864", "label": "JBT Corporation", "symbol": "JBT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28407181", "label": "Acadia Healthcare", "symbol": "ACHC", "start": "2022-06-21", "end": "2022-12-30\n"}
+{"qid": "Q28446528", "label": "Renasant Bank", "symbol": "RNST", "start": "2021-11-05", "end": "2022-12-30\n"}
+{"qid": "Q2918415", "label": "Codere", "symbol": "CDRO", "start": "2021-07-01", "end": "2022-12-30\n"}
+{"qid": "Q2961234", "label": "Charter Communications", "symbol": "CHTR", "start": "2017-12-04", "end": "2022-12-30\n"}
+{"qid": "Q2981857", "label": "Cognex Corporation", "symbol": "CGNX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2721586", "label": "Spelling Television", "symbol": "SP", "start": "2021-04-15", "end": "2022-12-30\n"}
+{"qid": "Q2861324", "label": "Arista Networks", "symbol": "ANET", "start": "2021-06-03", "end": "2022-12-30\n"}
+{"qid": "Q2895160", "label": "Commtouch", "symbol": "CYRN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2901365", "label": "Mobileye", "symbol": "MBLY", "start": "2018-10-18", "end": "2022-12-30\n"}
+{"qid": "Q84698811", "label": "The RMR Group", "symbol": "RMR", "start": "2020-06-18", "end": "2022-12-30\n"}
+{"qid": "Q806189", "label": "Bilbao Vizcaya Argentaria Bank", "symbol": "BBVA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q839555", "label": "Lands' End", "symbol": "LE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q898750", "label": "Teva Pharmaceutical Industries", "symbol": "TEVA", "start": "2021-02-09", "end": "2022-12-30\n"}
+{"qid": "Q931032", "label": "Kinder Morgan", "symbol": "KMI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q942471", "label": "The Travelers Companies", "symbol": "TRV", "start": "2014-08-27", "end": "2022-12-30\n"}
+{"qid": "Q1045842", "label": "The Cheesecake Factory", "symbol": "CAKE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1046951", "label": "Target", "symbol": "TGT", "start": "2021-12-27", "end": "2022-12-30\n"}
+{"qid": "Q1071853", "label": "Chicago Board Options Exchange", "symbol": "CBOE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1141173", "label": "Marriott International", "symbol": "MAR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17747021", "label": "Arbutus Biopharma", "symbol": "ABUS", "start": "2020-03-02", "end": "2022-12-30\n"}
+{"qid": "Q2274089", "label": "Wynn Resorts", "symbol": "WYNN", "start": "2021-02-11", "end": "2022-12-30\n"}
+{"qid": "Q2376711", "label": "Sysco", "symbol": "SYY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2414097", "label": "The Scotts Miracle-Gro Company", "symbol": "SMG", "start": "2021-03-16", "end": "2022-12-30\n"}
+{"qid": "Q2443609", "label": "Zebra Technologies", "symbol": "ZBRA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3216600", "label": "Lamb Weston", "symbol": "LW", "start": "2018-04-05", "end": "2022-12-30\n"}
+{"qid": "Q3216588", "label": "Lamar Advertising Company", "symbol": "LAMR", "start": "2021-08-18", "end": "2022-12-30\n"}
+{"qid": "Q3301958", "label": "Overstock.com", "symbol": "OSTK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3344170", "label": "Upwork", "symbol": "UPWK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q663452", "label": "TE Connectivity", "symbol": "TEL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q734338", "label": "Verisign", "symbol": "VRSN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q715583", "label": "Costco", "symbol": "COST", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q747207", "label": "Lattice Semiconductor", "symbol": "LSCC", "start": "2015-06-19", "end": "2022-12-30\n"}
+{"qid": "Q829961", "label": "Forrester", "symbol": "FORR", "start": "2022-09-09", "end": "2022-12-30\n"}
+{"qid": "Q85727717", "label": "1Life Healthcare", "symbol": "ONEM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18619982", "label": "Century Aluminum", "symbol": "CENX", "start": "2021-02-04", "end": "2022-12-30\n"}
+{"qid": "Q18636524", "label": "Caesars Entertainment", "symbol": "CZR", "start": "2021-05-18", "end": "2022-12-30\n"}
+{"qid": "Q18712620", "label": "Walgreens Boots Alliance", "symbol": "WBA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4045482", "label": "Northrop Grumman Ship Systems", "symbol": "NOC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4041316", "label": "Impinj", "symbol": "PI", "start": "2021-08-11", "end": "2022-12-30\n"}
+{"qid": "Q60742568", "label": "CalAmp", "symbol": "CAMP", "start": "2022-01-03", "end": "2022-12-30\n"}
+{"qid": "Q60767471", "label": "Norwegian Cruise Line Holdings", "symbol": "NCLH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30256699", "label": "BioNTech", "symbol": "BNTX", "start": "2021-11-23", "end": "2022-12-30\n"}
+{"qid": "Q105965677", "label": "MPLX", "symbol": "MPLX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q974846", "label": "IAC", "symbol": "IAC", "start": "2022-03-16", "end": "2022-12-30\n"}
+{"qid": "Q1023155", "label": "CDW", "symbol": "CDW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1023876", "label": "CME Group", "symbol": "CME", "start": "2020-09-10", "end": "2022-12-30\n"}
+{"qid": "Q1057464", "label": "Hilton Worldwide", "symbol": "HLT", "start": "2020-10-16", "end": "2022-12-30\n"}
+{"qid": "Q596499", "label": "KBR, Inc.", "symbol": "KBR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q608776", "label": "Cadence Design Systems", "symbol": "CDNS", "start": "2020-12-15", "end": "2022-12-30\n"}
+{"qid": "Q625708", "label": "Aramark", "symbol": "ARMK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q624649", "label": "KLA Tencor", "symbol": "KLAC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q625713", "label": "BHP Group", "symbol": "BHP", "start": "2021-04-21", "end": "2022-12-30\n"}
+{"qid": "Q658089", "label": "Nomura Group", "symbol": "NMR", "start": "2017-02-15", "end": "2022-12-30\n"}
+{"qid": "Q5887924", "label": "HomeAway", "symbol": "AWAY", "start": "2017-09-20", "end": "2022-12-30\n"}
+{"qid": "Q6032595", "label": "Ingles", "symbol": "IMKTA", "start": "2021-11-04", "end": "2022-12-30\n"}
+{"qid": "Q6036100", "label": "Innodata", "symbol": "INOD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17460900", "label": "Zoom Video Communications", "symbol": "ZM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7083862", "label": "Old Dominion Freight Line", "symbol": "ODFL", "start": "2022-01-31", "end": "2022-12-30\n"}
+{"qid": "Q7084595", "label": "Old National Bank", "symbol": "ONB", "start": "2020-11-05", "end": "2022-12-30\n"}
+{"qid": "Q7095328", "label": "Ooma", "symbol": "OOMA", "start": "2020-09-21", "end": "2022-12-30\n"}
+{"qid": "Q7100213", "label": "Orchard Supply Hardware", "symbol": "OSH", "start": "2022-06-01", "end": "2022-12-30\n"}
+{"qid": "Q7115371", "label": "Oxford Industries", "symbol": "OXM", "start": "2020-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7156760", "label": "Paylocity Corporation", "symbol": "PCTY", "start": "2018-07-18", "end": "2022-12-30\n"}
+{"qid": "Q7234972", "label": "Potlatch Corp.", "symbol": "PCH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7243481", "label": "Primerica", "symbol": "PRI", "start": "2019-03-20", "end": "2022-12-30\n"}
+{"qid": "Q7268803", "label": "Qualtrics", "symbol": "XM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7276947", "label": "RLI Corp.", "symbol": "RLI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7280290", "label": "Radian Group", "symbol": "RDN", "start": "2021-12-06", "end": "2022-12-30\n"}
+{"qid": "Q7280047", "label": "Radcom Ltd", "symbol": "RDCM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7305846", "label": "Redfin", "symbol": "RDFN", "start": "2022-02-11", "end": "2022-12-30\n"}
+{"qid": "Q7311031", "label": "Reliance Steel & Aluminum Co.", "symbol": "RS", "start": "2022-02-15", "end": "2022-12-30\n"}
+{"qid": "Q7377461", "label": "Onto Innovation", "symbol": "ONTO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7389686", "label": "SEI Investments Company", "symbol": "SEIC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19866242", "label": "Catalent Pharma Solutions", "symbol": "CTLT", "start": "2014-11-07", "end": "2022-12-30\n"}
+{"qid": "Q104188375", "label": "Legend Biotech", "symbol": "LEGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7638153", "label": "SunOpta", "symbol": "STKL", "start": "2018-02-01", "end": "2022-12-30\n"}
+{"qid": "Q7669439", "label": "TAT Technologies", "symbol": "TATT", "start": "2022-04-05", "end": "2022-12-30\n"}
+{"qid": "Q7711620", "label": "The9", "symbol": "NCTY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7833612", "label": "TransDigm Group", "symbol": "TDG", "start": "2019-09-26", "end": "2022-12-30\n"}
+{"qid": "Q7838954", "label": "Trevena Inc", "symbol": "TRVN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7865088", "label": "UMB Financial Corporation", "symbol": "UMBF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7876533", "label": "Ubiquiti Networks", "symbol": "UI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7889101", "label": "United Rentals", "symbol": "URI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q9396", "label": "Deutsche Telekom", "symbol": "DTE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q45600", "label": "Bitstream Inc.", "symbol": "BITS", "start": "2021-12-29", "end": "2022-12-30\n"}
+{"qid": "Q63335", "label": "Foot Locker", "symbol": "FL", "start": "2015-12-18", "end": "2022-12-30\n"}
+{"qid": "Q20708654", "label": "Bank OZK", "symbol": "OZK", "start": "2022-05-17", "end": "2022-12-30\n"}
+{"qid": "Q105887484", "label": "Rocket Companies, Inc.", "symbol": "RKT", "start": "2020-01-16", "end": "2022-12-30\n"}
+{"qid": "Q105964823", "label": "Liberty Broadband Corp", "symbol": "LBRDA", "start": "2018-03-23", "end": "2022-12-30\n"}
+{"qid": "Q106221634", "label": "Amerco", "symbol": "UHAL", "start": "2020-06-12", "end": "2022-12-30\n"}
+{"qid": "Q106309492", "label": "Agora, Inc.", "symbol": "API", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q484143", "label": "Gravity Corporation", "symbol": "GRVY", "start": "2022-01-13", "end": "2022-12-30\n"}
+{"qid": "Q486269", "label": "Eastman Kodak", "symbol": "KODK", "start": "2015-09-30", "end": "2022-12-30\n"}
+{"qid": "Q481472", "label": "Sappi", "symbol": "SAP", "start": "2022-02-09", "end": "2022-12-30\n"}
+{"qid": "Q502940", "label": "General Dynamics", "symbol": "GD", "start": "2019-04-01", "end": "2022-12-30\n"}
+{"qid": "Q502121", "label": "BlackBerry", "symbol": "BB", "start": "2021-09-09", "end": "2022-12-30\n"}
+{"qid": "Q1347782", "label": "Marvell Technology Group", "symbol": "MRVL", "start": "2014-06-05", "end": "2022-12-30\n"}
+{"qid": "Q1359568", "label": "Alibaba Group", "symbol": "BABA", "start": "2017-06-12", "end": "2022-12-30\n"}
+{"qid": "Q1392999", "label": "FICO", "symbol": "FICO", "start": "2020-07-23", "end": "2022-12-30\n"}
+{"qid": "Q1425063", "label": "Hyatt Hotels Corporation", "symbol": "H", "start": "2021-12-15", "end": "2022-12-30\n"}
+{"qid": "Q1435628", "label": "FEMSA", "symbol": "FMX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1470619", "label": "Parker Hannifin", "symbol": "PH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1471346", "label": "Whirlpool Corporation", "symbol": "WHR", "start": "2022-01-07", "end": "2022-12-30\n"}
+{"qid": "Q23679974", "label": "Avalanche Biotechnologies", "symbol": "ADVM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q108888216", "label": "Tri Counties Bank", "symbol": "TCBK", "start": "2021-11-22", "end": "2022-12-30\n"}
+{"qid": "Q5884072", "label": "Hologic", "symbol": "HOLX", "start": "2021-06-24", "end": "2022-12-30\n"}
+{"qid": "Q5926631", "label": "HubSpot", "symbol": "HUBS", "start": "2022-09-15", "end": "2022-12-30\n"}
+{"qid": "Q5972276", "label": "Voya Financial", "symbol": "VOYA", "start": "2019-11-07", "end": "2022-12-30\n"}
+{"qid": "Q5969562", "label": "ICF International", "symbol": "ICFI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5969799", "label": "ICU Medical", "symbol": "ICUI", "start": "2014-11-24", "end": "2022-12-30\n"}
+{"qid": "Q6016398", "label": "Independent Bank", "symbol": "IBCP", "start": "2018-01-11", "end": "2022-12-30\n"}
+{"qid": "Q6415714", "label": "Kirkland's", "symbol": "KIRK", "start": "2020-06-04", "end": "2022-12-30\n"}
+{"qid": "Q6522339", "label": "LendingTree", "symbol": "TREE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6522340", "label": "Lending Club", "symbol": "LC", "start": "2020-01-22", "end": "2022-12-30\n"}
+{"qid": "Q6552749", "label": "Lindsay Manufacturing", "symbol": "LNN", "start": "2021-10-08", "end": "2022-12-30\n"}
+{"qid": "Q27919383", "label": "Fortive", "symbol": "FTV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q496302", "label": "Deere & Company", "symbol": "DE", "start": "2021-03-26", "end": "2022-12-30\n"}
+{"qid": "Q501476", "label": "Hasbro", "symbol": "HAS", "start": "2015-03-05", "end": "2022-12-30\n"}
+{"qid": "Q507306", "label": "Nasdaq-100", "symbol": "QQQ", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q541076", "label": "AngloGold Ashanti", "symbol": "AGG", "start": "2021-12-16", "end": "2022-12-30\n"}
+{"qid": "Q550258", "label": "Wendy's", "symbol": "WEN", "start": "2020-06-15", "end": "2022-12-30\n"}
+{"qid": "Q570473", "label": "McKesson Corporation", "symbol": "MCK", "start": "2018-03-27", "end": "2022-12-30\n"}
+{"qid": "Q96575974", "label": "ExOne", "symbol": "XONE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96482392", "label": "Lineage Cell Therapeutics", "symbol": "LCTX", "start": "2015-11-11", "end": "2022-12-30\n"}
+{"qid": "Q96575127", "label": "PennantPark Investment Corporation", "symbol": "PFLT", "start": "2022-08-22", "end": "2022-12-30\n"}
+{"qid": "Q25230554", "label": "21Vianet", "symbol": "VNET", "start": "2022-10-14", "end": "2022-12-30\n"}
+{"qid": "Q16251015", "label": "Gaming and Leisure Properties", "symbol": "GLPI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16255113", "label": "Jazz Pharmaceuticals", "symbol": "JAZZ", "start": "2021-08-05", "end": "2022-12-30\n"}
+{"qid": "Q110220617", "label": "Matthews International", "symbol": "MATW", "start": "2020-02-03", "end": "2022-12-30\n"}
+{"qid": "Q27893", "label": "ArcelorMittal", "symbol": "MT", "start": "2018-08-02", "end": "2022-12-30\n"}
+{"qid": "Q52618", "label": "Ericsson", "symbol": "ERIC", "start": "2021-11-03", "end": "2022-12-30\n"}
+{"qid": "Q20708639", "label": "Forum Energy Technologies", "symbol": "FET", "start": "2022-08-22", "end": "2022-12-30\n"}
+{"qid": "Q20715093", "label": "Teladoc", "symbol": "TDOC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6690181", "label": "LoveSac", "symbol": "LOVE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6723256", "label": "Macerich", "symbol": "MAC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6750663", "label": "MannKind Corporation", "symbol": "MNKD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6822267", "label": "MetaBank", "symbol": "CASH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6968762", "label": "Natera", "symbol": "NTRA", "start": "2017-12-18", "end": "2022-12-30\n"}
+{"qid": "Q7002174", "label": "Neurocrine Biosciences", "symbol": "NBIX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7057831", "label": "Northeast Bank", "symbol": "NBN", "start": "2022-01-03", "end": "2022-12-30\n"}
+{"qid": "Q1104787", "label": "Coty", "symbol": "COTY", "start": "2017-11-08", "end": "2022-12-30\n"}
+{"qid": "Q1141267", "label": "Thomson Reuters", "symbol": "TRI", "start": "2021-11-26", "end": "2022-12-30\n"}
+{"qid": "Q1155729", "label": "Scholastic Corporation", "symbol": "SCHL", "start": "2021-12-16", "end": "2022-12-30\n"}
+{"qid": "Q1197548", "label": "Micron Technology", "symbol": "MU", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1283291", "label": "Valero Energy Corporation", "symbol": "VLO", "start": "2022-10-27", "end": "2022-12-30\n"}
+{"qid": "Q4667884", "label": "AbioMed", "symbol": "ABMD", "start": "2018-10-30", "end": "2022-12-30\n"}
+{"qid": "Q4670840", "label": "Acacia Research", "symbol": "ACTG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4727688", "label": "Alkermes", "symbol": "ALKS", "start": "2020-01-14", "end": "2022-12-30\n"}
+{"qid": "Q4742937", "label": "American Airlines Group", "symbol": "AAL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4811929", "label": "Asure Software", "symbol": "ASUR", "start": "2021-12-21", "end": "2022-12-30\n"}
+{"qid": "Q4876829", "label": "Beasley Broadcast Group", "symbol": "BBGI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4904902", "label": "Big 5 Sporting Goods", "symbol": "BGFV", "start": "2018-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30588251", "label": "Pacific Premier Bancorp", "symbol": "PPBI", "start": "2015-04-29", "end": "2022-12-30\n"}
+{"qid": "Q38928", "label": "PNC Financial Services", "symbol": "PNC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q48881", "label": "Sherwin-Williams", "symbol": "SHW", "start": "2022-03-04", "end": "2022-12-30\n"}
+{"qid": "Q63327", "label": "Airbnb", "symbol": "ABNB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q80978", "label": "Hewlett-Packard", "symbol": "HPQ", "start": "2021-05-07", "end": "2022-12-30\n"}
+{"qid": "Q122141", "label": "Vodafone", "symbol": "VOD", "start": "2019-01-25", "end": "2022-12-30\n"}
+{"qid": "Q122141", "label": "Vodafone", "symbol": "VPG", "start": "2021-12-16", "end": "2022-12-30\n"}
+{"qid": "Q92526", "label": "Sina Weibo", "symbol": "WB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q10896530", "label": "O2Micro International Limited", "symbol": "OIIM", "start": "2014-12-31", "end": "2022-12-30\n"}
+{"qid": "Q10921659", "label": "Hutchison China Meditech", "symbol": "HCM", "start": "2021-03-23", "end": "2022-12-30\n"}
+{"qid": "Q11074156", "label": "ONEOK", "symbol": "OKE", "start": "2021-05-06", "end": "2022-12-30\n"}
+{"qid": "Q16162525", "label": "Auburn National Bancorporation", "symbol": "AUBN", "start": "2022-12-13", "end": "2022-12-30\n"}
+{"qid": "Q16245358", "label": "Berry Petroleum Company", "symbol": "BRY", "start": "2022-01-10", "end": "2022-12-30\n"}
+{"qid": "Q420506", "label": "Wix.com", "symbol": "WIX", "start": "2019-07-18", "end": "2022-12-30\n"}
+{"qid": "Q426583", "label": "Sanmina Corporation", "symbol": "SANM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q415598", "label": "Akamai Technologies", "symbol": "AKAM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q431454", "label": "Bruker", "symbol": "BRKR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q483959", "label": "PayPal", "symbol": "PYPL", "start": "2021-09-30", "end": "2022-12-30\n"}
+{"qid": "Q483915", "label": "Nike", "symbol": "NKE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q105966359", "label": "StoneCo Ltd.", "symbol": "STNE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q106024170", "label": "UWM Holdings", "symbol": "UWMC", "start": "2021-10-22", "end": "2022-12-30\n"}
+{"qid": "Q104480795", "label": "Insulet (United States)", "symbol": "PODD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q54621387", "label": "Intellia Therapeutics", "symbol": "NTLA", "start": "2020-05-15", "end": "2022-12-30\n"}
+{"qid": "Q106295041", "label": "Digital Turbine", "symbol": "APPS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q108426662", "label": "Esports Entertainment Group", "symbol": "GMBL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q10394124", "label": "XP Investimentos", "symbol": "XP", "start": "2022-09-26", "end": "2022-12-30\n"}
+{"qid": "Q15109912", "label": "Natural Alternatives International", "symbol": "NAII", "start": "2022-07-28", "end": "2022-12-30\n"}
+{"qid": "Q6044894", "label": "InterDigital", "symbol": "IDCC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6113060", "label": "Jack Henry & Associates", "symbol": "JKHY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19873469", "label": "Bio-Techne", "symbol": "TECH", "start": "2020-05-01", "end": "2022-12-30\n"}
+{"qid": "Q20136005", "label": "Skillsoft", "symbol": "SKIL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q33127130", "label": "TrueBlue", "symbol": "TBI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q56273983", "label": "Appian Corporation", "symbol": "APPN", "start": "2022-03-09", "end": "2022-12-30\n"}
+{"qid": "Q26989", "label": "Infosys", "symbol": "INFY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q38076", "label": "McDonald’s", "symbol": "MCD", "start": "2021-07-22", "end": "2022-12-30\n"}
+{"qid": "Q47099", "label": "Televisa", "symbol": "TV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q29921278", "label": "NIO", "symbol": "NIO", "start": "2021-05-13", "end": "2022-12-30\n"}
+{"qid": "Q15109846", "label": "Sarepta Therapeutics", "symbol": "SRPT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q15238661", "label": "CNH Industrial", "symbol": "CNHI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q85811579", "label": "UPC Insurance", "symbol": "UIHC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q13529450", "label": "Oncolytics Biotech", "symbol": "ONCY", "start": "2020-08-27", "end": "2022-12-30\n"}
+{"qid": "Q13631921", "label": "New Oriental", "symbol": "EDU", "start": "2020-05-11", "end": "2022-12-30\n"}
+{"qid": "Q16013760", "label": "Enpro Industries", "symbol": "NPO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q29469208", "label": "Simpson Manufacturing Company", "symbol": "SSD", "start": "2021-04-14", "end": "2022-12-30\n"}
+{"qid": "Q19604609", "label": "Vericel", "symbol": "VCEL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q21843099", "label": "Freedom Finance", "symbol": "FRHC", "start": "2021-12-10", "end": "2022-12-30\n"}
+{"qid": "Q107183498", "label": "Wallbox", "symbol": "WBX", "start": "2015-03-12", "end": "2022-12-30\n"}
+{"qid": "Q107364296", "label": "Orchard Therapeutics", "symbol": "ORTX", "start": "2021-05-07", "end": "2022-12-30\n"}
+{"qid": "Q4742102", "label": "Amedisys Home Health and Hospice Care", "symbol": "AMED", "start": "2021-09-15", "end": "2022-12-30\n"}
+{"qid": "Q4726659", "label": "Alimera Sciences", "symbol": "ALIM", "start": "2021-09-28", "end": "2022-12-30\n"}
+{"qid": "Q4742486", "label": "AmeriServ Financial", "symbol": "ASRV", "start": "2021-04-16", "end": "2022-12-30\n"}
+{"qid": "Q4789079", "label": "Ares Management", "symbol": "ARCC", "start": "2015-11-04", "end": "2022-12-30\n"}
+{"qid": "Q4789079", "label": "Ares Management", "symbol": "ARES", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4803857", "label": "Ascent Solar", "symbol": "ASTI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4830196", "label": "Axcelis Technologies", "symbol": "ACLS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4854759", "label": "Bandwidth.com", "symbol": "BAND", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4951483", "label": "Box", "symbol": "BOX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5035870", "label": "Capitol Federal Savings Bank", "symbol": "CFFN", "start": "2021-03-26", "end": "2022-12-30\n"}
+{"qid": "Q1764040", "label": "Nu Skin Enterprises", "symbol": "NUS", "start": "2015-10-21", "end": "2022-12-30\n"}
+{"qid": "Q1770710", "label": "Tripadvisor", "symbol": "TRIP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1785405", "label": "Newmont Mining Corporation", "symbol": "NEM", "start": "2019-11-07", "end": "2022-12-30\n"}
+{"qid": "Q1817417", "label": "National Oilwell Varco", "symbol": "NOV", "start": "2021-12-09", "end": "2022-12-30\n"}
+{"qid": "Q1885491", "label": "FactSet", "symbol": "FDS", "start": "2019-05-23", "end": "2022-12-30\n"}
+{"qid": "Q1916402", "label": "Pearson plc", "symbol": "PSO", "start": "2017-02-03", "end": "2022-12-30\n"}
+{"qid": "Q1922290", "label": "Mesa Air Group", "symbol": "MESA", "start": "2021-05-06", "end": "2022-12-30\n"}
+{"qid": "Q1931458", "label": "Micro Focus International", "symbol": "MCRO", "start": "2021-03-19", "end": "2022-12-30\n"}
+{"qid": "Q1961738", "label": "HUI Gold Index", "symbol": "GOLD", "start": "2014-04-16", "end": "2022-12-30\n"}
+{"qid": "Q1969091", "label": "Oshkosh Corporation", "symbol": "OSK", "start": "2021-04-14", "end": "2022-12-30\n"}
+{"qid": "Q1728446", "label": "Korn Ferry", "symbol": "KFY", "start": "2021-10-28", "end": "2022-12-30\n"}
+{"qid": "Q1740323", "label": "Key Tronic", "symbol": "KTCC", "start": "2018-03-08", "end": "2022-12-30\n"}
+{"qid": "Q1785549", "label": "Peabody Energy", "symbol": "BTU", "start": "2016-04-14", "end": "2022-12-30\n"}
+{"qid": "Q104480207", "label": "CRISPR Therapeutics", "symbol": "CRSP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17183768", "label": "Hub Group", "symbol": "HUBG", "start": "2021-12-10", "end": "2022-12-30\n"}
+{"qid": "Q17145638", "label": "National Rural Utilities Cooperative Finance Corporation", "symbol": "NRUC", "start": "2020-09-04", "end": "2022-12-30\n"}
+{"qid": "Q7545224", "label": "Smith Micro Software", "symbol": "SMSI", "start": "2014-06-25", "end": "2022-12-30\n"}
+{"qid": "Q7616390", "label": "Stifel", "symbol": "SF", "start": "2021-01-08", "end": "2022-12-30\n"}
+{"qid": "Q7690075", "label": "Taylor Morrison", "symbol": "TMHC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7707945", "label": "Texas Roadhouse", "symbol": "TXRH", "start": "2016-10-27", "end": "2022-12-30\n"}
+{"qid": "Q7800873", "label": "Tidewater", "symbol": "TDW", "start": "2021-07-23", "end": "2022-12-30\n"}
+{"qid": "Q7825574", "label": "Torchmark", "symbol": "GL", "start": "2015-05-11", "end": "2022-12-30\n"}
+{"qid": "Q7829730", "label": "TowerJazz", "symbol": "TSEM", "start": "2021-12-17", "end": "2022-12-30\n"}
+{"qid": "Q7847309", "label": "TrueCar", "symbol": "TRUE", "start": "2021-11-08", "end": "2022-12-30\n"}
+{"qid": "Q3388421", "label": "Pilgrim's Corp", "symbol": "PPC", "start": "2017-05-18", "end": "2022-12-30\n"}
+{"qid": "Q176587", "label": "Check Point", "symbol": "CHKP", "start": "2021-07-21", "end": "2022-12-30\n"}
+{"qid": "Q60238941", "label": "Fox Corporation", "symbol": "FOX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1107088", "label": "Coherent, Inc.", "symbol": "COHR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q23090931", "label": "Outfront Media", "symbol": "OUT", "start": "2021-11-05", "end": "2022-12-30\n"}
+{"qid": "Q128896", "label": "Advanced Micro Devices", "symbol": "AMD", "start": "2018-04-19", "end": "2022-12-30\n"}
+{"qid": "Q143435", "label": "Unum", "symbol": "UNM", "start": "2022-10-04", "end": "2022-12-30\n"}
+{"qid": "Q192314", "label": "JPMorgan Chase", "symbol": "JPM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q185278", "label": "News Corporation", "symbol": "NWSA", "start": "2021-10-27", "end": "2022-12-30\n"}
+{"qid": "Q205378", "label": "Zions Bancorporation", "symbol": "ZION", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7512923", "label": "Signet Jewelers Limited", "symbol": "SIG", "start": "2017-06-12", "end": "2022-12-30\n"}
+{"qid": "Q7538146", "label": "Skyworks Solutions", "symbol": "SWKS", "start": "2016-06-23", "end": "2022-12-30\n"}
+{"qid": "Q7571413", "label": "Southwestern Energy", "symbol": "SWN", "start": "2021-07-02", "end": "2022-12-30\n"}
+{"qid": "Q7581990", "label": "Block", "symbol": "SQ", "start": "2021-08-26", "end": "2022-12-30\n"}
+{"qid": "Q7571280", "label": "Southwest Gas", "symbol": "SWX", "start": "2021-05-04", "end": "2022-12-30\n"}
+{"qid": "Q7581369", "label": "Sprouts Farmers Market", "symbol": "SFM", "start": "2017-07-10", "end": "2022-12-30\n"}
+{"qid": "Q7727445", "label": "The Container Store", "symbol": "TCS", "start": "2017-03-31", "end": "2022-12-30\n"}
+{"qid": "Q60751931", "label": "SmileDirectClub", "symbol": "SDC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6786571", "label": "Materialise NV", "symbol": "MTLS", "start": "2017-04-28", "end": "2022-12-30\n"}
+{"qid": "Q6818651", "label": "Mercury Systems", "symbol": "MRCY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7049673", "label": "Noodles & Company", "symbol": "NDLS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q105602379", "label": "Five9 Inc.", "symbol": "FIVN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q54622058", "label": "Texas Capital Bank", "symbol": "TCBI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q83768717", "label": "Bakkt", "symbol": "BKKT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96378897", "label": "Futu Holdings", "symbol": "FUTU", "start": "2020-10-21", "end": "2022-12-30\n"}
+{"qid": "Q96574719", "label": "PowerFleet", "symbol": "PWFL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28406599", "label": "Workhorse Group", "symbol": "WKHS", "start": "2020-12-17", "end": "2022-12-30\n"}
+{"qid": "Q110186196", "label": "Encore Wire", "symbol": "WIRE", "start": "2020-03-03", "end": "2022-12-30\n"}
+{"qid": "Q6386533", "label": "Kelso & Company", "symbol": "BKCC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6466630", "label": "LabCorp", "symbol": "LH", "start": "2022-11-23", "end": "2022-12-30\n"}
+{"qid": "Q6537727", "label": "Lexicon Pharmaceuticals", "symbol": "LXRX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1196745", "label": "Rambus", "symbol": "RMBS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1189695", "label": "Denny's", "symbol": "DENN", "start": "2018-12-28", "end": "2022-12-30\n"}
+{"qid": "Q1225892", "label": "Sonim Technologies", "symbol": "SONM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1285819", "label": "TJX Companies", "symbol": "TJX", "start": "2020-10-29", "end": "2022-12-30\n"}
+{"qid": "Q1327874", "label": "RealNetworks", "symbol": "RNWK", "start": "2019-12-20", "end": "2022-12-30\n"}
+{"qid": "Q1337797", "label": "Office Depot", "symbol": "ODP", "start": "2020-01-13", "end": "2022-12-30\n"}
+{"qid": "Q97574745", "label": "Ouster", "symbol": "OUST", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q24204493", "label": "Veeva Systems", "symbol": "VEEV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q104081972", "label": "C3.ai", "symbol": "AI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q104158381", "label": "Vistra", "symbol": "VST", "start": "2022-02-10", "end": "2022-12-30\n"}
+{"qid": "Q20183163", "label": "Union Pacific Corporation", "symbol": "UNP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7752327", "label": "The Mosaic Company", "symbol": "MOS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7776719", "label": "The York Water Company", "symbol": "YORW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7795716", "label": "Thompson Creek Metals", "symbol": "TC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7809768", "label": "Titan Pharmaceuticals", "symbol": "TTNP", "start": "2018-04-27", "end": "2022-12-30\n"}
+{"qid": "Q7876045", "label": "UTStarcom", "symbol": "UTSI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7995089", "label": "White Mountains Insurance Group", "symbol": "WTM", "start": "2021-02-12", "end": "2022-12-30\n"}
+{"qid": "Q8046013", "label": "Yellow Corporation", "symbol": "YELL", "start": "2020-04-13", "end": "2022-12-30\n"}
+{"qid": "Q6782872", "label": "Masco", "symbol": "MAS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6806861", "label": "Medifast", "symbol": "MED", "start": "2020-09-23", "end": "2022-12-30\n"}
+{"qid": "Q6822359", "label": "Yield10 Bioscience", "symbol": "YTEN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6843476", "label": "Midwestone Financial Group", "symbol": "MOFG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6896175", "label": "Molina Healthcare", "symbol": "MOH", "start": "2014-07-23", "end": "2022-12-30\n"}
+{"qid": "Q7011152", "label": "New Relic", "symbol": "NEWR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7067712", "label": "NuStar Energy", "symbol": "NS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5506152", "label": "Frost Bank", "symbol": "CFR", "start": "2019-12-13", "end": "2022-12-30\n"}
+{"qid": "Q5554922", "label": "Gevo, Inc", "symbol": "GEVO", "start": "2019-06-27", "end": "2022-12-30\n"}
+{"qid": "Q5533818", "label": "Genuine Parts Company", "symbol": "GPC", "start": "2018-05-25", "end": "2022-12-30\n"}
+{"qid": "Q5635303", "label": "HNI Corporation", "symbol": "HNI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5647768", "label": "Hanesbrands", "symbol": "HBI", "start": "2021-04-15", "end": "2022-12-30\n"}
+{"qid": "Q5703474", "label": "Helen of Troy Limited", "symbol": "HELE", "start": "2022-08-10", "end": "2022-12-30\n"}
+{"qid": "Q5765159", "label": "Himax", "symbol": "HIMX", "start": "2016-08-25", "end": "2022-12-30\n"}
+{"qid": "Q5750671", "label": "Hibbett Sports", "symbol": "HIBB", "start": "2016-06-16", "end": "2022-12-30\n"}
+{"qid": "Q24909030", "label": "Canaan Creative", "symbol": "CAN", "start": "2018-12-03", "end": "2022-12-30\n"}
+{"qid": "Q25231005", "label": "Genius Brands", "symbol": "GNUS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q25326524", "label": "Mesoblast", "symbol": "MESO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q25326524", "label": "Mesoblast", "symbol": "MSB", "start": "2014-11-14", "end": "2022-12-30\n"}
+{"qid": "Q6324302", "label": "K12", "symbol": "LRN", "start": "2021-01-08", "end": "2022-12-30\n"}
+{"qid": "Q6348410", "label": "Kaiser Aluminum", "symbol": "KALU", "start": "2017-11-06", "end": "2022-12-30\n"}
+{"qid": "Q6410043", "label": "Kimco Realty", "symbol": "KIM", "start": "2022-11-25", "end": "2022-12-30\n"}
+{"qid": "Q6545549", "label": "Lifeway Foods", "symbol": "LWAY", "start": "2014-10-23", "end": "2022-12-30\n"}
+{"qid": "Q6550657", "label": "Lincoln Electric", "symbol": "LECO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2331913", "label": "Stantec", "symbol": "STN", "start": "2014-10-02", "end": "2022-12-30\n"}
+{"qid": "Q2357515", "label": "Stryker Corporation", "symbol": "SYK", "start": "2021-09-07", "end": "2022-12-30\n"}
+{"qid": "Q2466256", "label": "U.S. Cellular", "symbol": "USM", "start": "2021-03-23", "end": "2022-12-30\n"}
+{"qid": "Q2552219", "label": "Waste Management, Inc", "symbol": "WM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28776959", "label": "Richardson Electronics", "symbol": "RELL", "start": "2021-04-07", "end": "2022-12-30\n"}
+{"qid": "Q97439162", "label": "Stellantis", "symbol": "STLA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q21639712", "label": "Sibanye-Stillwater", "symbol": "SBSW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7088304", "label": "Ollie's Bargain Outlet", "symbol": "OLLI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7089136", "label": "Olympic Steel", "symbol": "ZEUS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7168146", "label": "Perficient", "symbol": "PRFT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7187948", "label": "Photronics Inc", "symbol": "PLAB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7239836", "label": "Preferred Bank", "symbol": "PFBC", "start": "2018-01-29", "end": "2022-12-30\n"}
+{"qid": "Q7242563", "label": "PriceSmart", "symbol": "PSMT", "start": "2021-10-21", "end": "2022-12-30\n"}
+{"qid": "Q7251172", "label": "LifeVantage", "symbol": "LFVN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7252517", "label": "Provident Bank of New Jersey", "symbol": "PFS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7268802", "label": "Qualys", "symbol": "QLYS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7304886", "label": "Red Robin", "symbol": "RRGB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7334682", "label": "RingCentral", "symbol": "RNG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7355744", "label": "Rocky Brands", "symbol": "RCKY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7405065", "label": "Sally Beauty Holdings", "symbol": "SBH", "start": "2021-10-08", "end": "2022-12-30\n"}
+{"qid": "Q1318848", "label": "Intuit", "symbol": "INTU", "start": "2021-02-08", "end": "2022-12-30\n"}
+{"qid": "Q1381973", "label": "Everest Re", "symbol": "RE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1384324", "label": "Expeditors International", "symbol": "EXPD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1420513", "label": "Fiserv", "symbol": "FISV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1424293", "label": "Itaú Unibanco", "symbol": "ITUB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1454852", "label": "Hormel", "symbol": "HRL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1465461", "label": "National Grid plc", "symbol": "NGG", "start": "2022-06-24", "end": "2022-12-30\n"}
+{"qid": "Q1494132", "label": "Gardner Denver", "symbol": "IR", "start": "2015-07-29", "end": "2022-12-30\n"}
+{"qid": "Q1502794", "label": "GEO Group", "symbol": "GEO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q48742870", "label": "Nutrien", "symbol": "NTR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q103793759", "label": "Cardlytics", "symbol": "CDLX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16932392", "label": "Roper Technologies", "symbol": "ROP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16950815", "label": "Beacon Roofing Supply, Inc.", "symbol": "BECN", "start": "2021-04-14", "end": "2022-12-30\n"}
+{"qid": "Q16964955", "label": "NetLogic Microsystems", "symbol": "NETL", "start": "2022-02-01", "end": "2022-12-30\n"}
+{"qid": "Q16980281", "label": "Haemonetics", "symbol": "HAE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16984522", "label": "Select Medical", "symbol": "SEM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16984687", "label": "SM Energy", "symbol": "SM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16986288", "label": "Vail Resorts", "symbol": "MTN", "start": "2019-10-25", "end": "2022-12-30\n"}
+{"qid": "Q16984598", "label": "Siemens Mexico", "symbol": "SI", "start": "2016-12-02", "end": "2022-12-30\n"}
+{"qid": "Q16993862", "label": "FuelCell Energy", "symbol": "FCEL", "start": "2022-10-11", "end": "2022-12-30\n"}
+{"qid": "Q17020720", "label": "SoFi", "symbol": "SOFI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17085620", "label": "Planet Labs", "symbol": "PL", "start": "2020-06-22", "end": "2022-12-30\n"}
+{"qid": "Q17072200", "label": "Novavax", "symbol": "NVAX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17087372", "label": "Willdan Group", "symbol": "WLDN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17078981", "label": "Carrols Restaurant Group", "symbol": "TAST", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17110635", "label": "Heidrick & Struggles", "symbol": "HSII", "start": "2017-06-19", "end": "2022-12-30\n"}
+{"qid": "Q17086972", "label": "Huron Consulting Group", "symbol": "HURN", "start": "2021-06-14", "end": "2022-12-30\n"}
+{"qid": "Q17068984", "label": "eGain", "symbol": "EGAN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17138182", "label": "OPKO Health", "symbol": "OPK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q54871457", "label": "Ribbon Communications", "symbol": "RBBN", "start": "2022-02-08", "end": "2022-12-30\n"}
+{"qid": "Q15109904", "label": "Magnetek", "symbol": "MAG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q15109910", "label": "National Beverage", "symbol": "FIZZ", "start": "2017-01-25", "end": "2022-12-30\n"}
+{"qid": "Q247489", "label": "Merck & Co.", "symbol": "MRK", "start": "2014-02-05", "end": "2022-12-30\n"}
+{"qid": "Q255381", "label": "Pinterest", "symbol": "PINS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q286214", "label": "AAON", "symbol": "AAON", "start": "2014-03-21", "end": "2022-12-30\n"}
+{"qid": "Q283852", "label": "Turkcell", "symbol": "TKC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q295774", "label": "Ansys", "symbol": "ANSS", "start": "2016-12-07", "end": "2022-12-30\n"}
+{"qid": "Q333718", "label": "Johnson & Johnson", "symbol": "JNJ", "start": "2020-08-14", "end": "2022-12-30\n"}
+{"qid": "Q334204", "label": "Morgan Stanley", "symbol": "MS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q368181", "label": "Vornado Realty Trust", "symbol": "VNO", "start": "2022-10-17", "end": "2022-12-30\n"}
+{"qid": "Q373225", "label": "Virgin Galactic", "symbol": "SPCE", "start": "2014-01-30", "end": "2022-12-30\n"}
+{"qid": "Q95158851", "label": "ANGI Homeservices", "symbol": "ANGI", "start": "2020-11-24", "end": "2022-12-30\n"}
+{"qid": "Q5318916", "label": "Dynamic Materials Corporation", "symbol": "BOOM", "start": "2021-08-24", "end": "2022-12-30\n"}
+{"qid": "Q5324689", "label": "EXL", "symbol": "EXLS", "start": "2021-01-04", "end": "2022-12-30\n"}
+{"qid": "Q5431118", "label": "Salem Media Group", "symbol": "SALM", "start": "2021-09-09", "end": "2022-12-30\n"}
+{"qid": "Q5439999", "label": "Federal Agricultural Mortgage Corporation", "symbol": "AGM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5453106", "label": "First Internet Bank of Indiana", "symbol": "INBK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5452773", "label": "First Commonwealth Bank", "symbol": "FCF", "start": "2014-10-09", "end": "2022-12-30\n"}
+{"qid": "Q607131", "label": "MetLife", "symbol": "MET", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q620875", "label": "Goodyear Tire and Rubber Company", "symbol": "GT", "start": "2017-04-28", "end": "2022-12-30\n"}
+{"qid": "Q642189", "label": "Medtronic plc", "symbol": "MDT", "start": "2014-10-29", "end": "2022-12-30\n"}
+{"qid": "Q691637", "label": "Gol Transportes Aéreos", "symbol": "GOL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4468073", "label": "Asana", "symbol": "ASAN", "start": "2017-12-08", "end": "2022-12-30\n"}
+{"qid": "Q4474231", "label": "Jakks Pacific", "symbol": "JAKK", "start": "2022-01-14", "end": "2022-12-30\n"}
+{"qid": "Q1508526", "label": "Sturm, Ruger & Co.", "symbol": "RGR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1538507", "label": "Jack in the Box", "symbol": "JACK", "start": "2021-07-01", "end": "2022-12-30\n"}
+{"qid": "Q1569558", "label": "Sallie Mae", "symbol": "SLM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1591976", "label": "Haynes International", "symbol": "HAYN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1671509", "label": "ON Semiconductor", "symbol": "ON", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1672602", "label": "Koss Corporation", "symbol": "KOSS", "start": "2014-04-07", "end": "2022-12-30\n"}
+{"qid": "Q1673079", "label": "Iron Mountain Incorporated", "symbol": "IRM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1673079", "label": "Iron Mountain Incorporated", "symbol": "INM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1700871", "label": "Bausch Health", "symbol": "BHC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q99872290", "label": "Manchester United Plc", "symbol": "MANU", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q12859164", "label": "National Fuel Gas", "symbol": "NFG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q14914829", "label": "Thryv, Inc.", "symbol": "THRY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q15109850", "label": "Brooktree", "symbol": "CNXT", "start": "2014-03-27", "end": "2022-12-30\n"}
+{"qid": "Q15109880", "label": "Harmonic Inc.", "symbol": "HLIT", "start": "2020-09-15", "end": "2022-12-30\n"}
+{"qid": "Q15109928", "label": "Van Dyne Crotty", "symbol": "CTAS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1150535", "label": "Oceaneering International", "symbol": "OII", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1129792", "label": "The Cooper Companies", "symbol": "COO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1134069", "label": "Otis Elevator Company", "symbol": "OTIS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1319601", "label": "Allegiant Air", "symbol": "ALGT", "start": "2020-08-12", "end": "2022-12-30\n"}
+{"qid": "Q30268897", "label": "Cidara Therapeutics", "symbol": "CDTX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18387139", "label": "Synchrony", "symbol": "SYF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7098552", "label": "Oppenheimer Holdings", "symbol": "OPY", "start": "2020-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7114736", "label": "Owens Corning", "symbol": "OC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7118151", "label": "PAM Transport", "symbol": "PTSI", "start": "2017-06-05", "end": "2022-12-30\n"}
+{"qid": "Q7231939", "label": "Portland General Electric", "symbol": "POR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7234777", "label": "Potbelly Sandwich Shop", "symbol": "PBPB", "start": "2021-07-28", "end": "2022-12-30\n"}
+{"qid": "Q7276640", "label": "RGC Resources", "symbol": "RGCO", "start": "2021-08-11", "end": "2022-12-30\n"}
+{"qid": "Q7298901", "label": "Raymond James Financial", "symbol": "RJF", "start": "2015-09-02", "end": "2022-12-30\n"}
+{"qid": "Q7355463", "label": "Rockland Trust", "symbol": "INDB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7382830", "label": "Ruth's Hospitality Group", "symbol": "RUTH", "start": "2021-07-14", "end": "2022-12-30\n"}
+{"qid": "Q30256497", "label": "Perma-Fix Environmental Services", "symbol": "PESI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30265338", "label": "BioNano Genomics", "symbol": "BNGO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2740047", "label": "Weber-Stephen Products", "symbol": "WEBR", "start": "2021-08-04", "end": "2022-12-30\n"}
+{"qid": "Q2874395", "label": "Avis Budget Group", "symbol": "CAR", "start": "2020-07-15", "end": "2022-12-30\n"}
+{"qid": "Q2907743", "label": "Radware", "symbol": "RDWR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2913953", "label": "Brainsway", "symbol": "BWAY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2912154", "label": "VeriFone", "symbol": "PAY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q24204571", "label": "Signature Bank", "symbol": "SBNY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q63035278", "label": "XPeng", "symbol": "XPEV", "start": "2022-02-15", "end": "2022-12-30\n"}
+{"qid": "Q19681433", "label": "Kraft Heinz", "symbol": "KHC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q109291018", "label": "ArcBest", "symbol": "ARCB", "start": "2020-08-31", "end": "2022-12-30\n"}
+{"qid": "Q27146006", "label": "Empire State Realty Trust", "symbol": "ESRT", "start": "2018-09-28", "end": "2022-12-30\n"}
+{"qid": "Q30283745", "label": "Zynerba Pharmaceuticals", "symbol": "ZYNE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q21189310", "label": "DraftKings", "symbol": "DKNG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3344199", "label": "Eversource Energy", "symbol": "ES", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18619470", "label": "Restaurant Brands International", "symbol": "QSR", "start": "2022-10-12", "end": "2022-12-30\n"}
+{"qid": "Q101209811", "label": "Pool Corporation", "symbol": "POOL", "start": "2021-03-05", "end": "2022-12-30\n"}
+{"qid": "Q27065", "label": "Gogo Inflight Internet", "symbol": "GOGO", "start": "2020-07-31", "end": "2022-12-30\n"}
+{"qid": "Q35339", "label": "WWE", "symbol": "WWE", "start": "2021-03-30", "end": "2022-12-30\n"}
+{"qid": "Q59507", "label": "Astrotech Corporation", "symbol": "ASTC", "start": "2022-06-27", "end": "2022-12-30\n"}
+{"qid": "Q48754", "label": "PPG Industries", "symbol": "PPG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28127133", "label": "ElectraMeccanica", "symbol": "SOLO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18712957", "label": "Farfetch", "symbol": "FTCH", "start": "2021-04-16", "end": "2022-12-30\n"}
+{"qid": "Q4356115", "label": "ShopHQ", "symbol": "IMBI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96481629", "label": "Ellomay Capital", "symbol": "ELLO", "start": "2018-04-05", "end": "2022-12-30\n"}
+{"qid": "Q96482218", "label": "G. Willi-Food International Ltd", "symbol": "WILC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96574614", "label": "Safe-T Group", "symbol": "SFET", "start": "2021-10-13", "end": "2022-12-30\n"}
+{"qid": "Q85769888", "label": "Iovance Biotherapeutics", "symbol": "IOVA", "start": "2021-01-04", "end": "2022-12-30\n"}
+{"qid": "Q98608948", "label": "JFrog Ltd", "symbol": "FROG", "start": "2022-04-18", "end": "2022-12-30\n"}
+{"qid": "Q17510106", "label": "Agilysys", "symbol": "AGYS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4914611", "label": "BioCryst Pharmaceuticals", "symbol": "BCRX", "start": "2020-11-11", "end": "2022-12-30\n"}
+{"qid": "Q4972437", "label": "Broadway Federal Bank", "symbol": "BYFC", "start": "2015-05-06", "end": "2022-12-30\n"}
+{"qid": "Q4979671", "label": "Materion", "symbol": "MTRN", "start": "2015-10-21", "end": "2022-12-30\n"}
+{"qid": "Q5018092", "label": "Cal-Maine", "symbol": "CALM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5028383", "label": "Camping World", "symbol": "CWH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5167736", "label": "Cooper-Standard Automotive", "symbol": "CPS", "start": "2017-11-06", "end": "2022-12-30\n"}
+{"qid": "Q17512182", "label": "Brixmor Property Group", "symbol": "BRX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28048853", "label": "Winmark", "symbol": "WINA", "start": "2021-02-01", "end": "2022-12-30\n"}
+{"qid": "Q26913624", "label": "Blue Apron", "symbol": "APRN", "start": "2021-09-16", "end": "2022-12-30\n"}
+{"qid": "Q5152539", "label": "Commercial Vehicle Group", "symbol": "CVGI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5184408", "label": "Crescent Point Energy", "symbol": "CPG", "start": "2021-04-19", "end": "2022-12-30\n"}
+{"qid": "Q5277215", "label": "Dime Community Bank", "symbol": "DCOM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5279096", "label": "Diodes Incorporated", "symbol": "DIOD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5291323", "label": "Domo", "symbol": "DOMO", "start": "2014-10-08", "end": "2022-12-30\n"}
+{"qid": "Q5324749", "label": "EZCorp", "symbol": "EZPW", "start": "2018-05-04", "end": "2022-12-30\n"}
+{"qid": "Q5375543", "label": "Encore Capital Group", "symbol": "ECPG", "start": "2018-02-01", "end": "2022-12-30\n"}
+{"qid": "Q5388314", "label": "Erie Insurance Group", "symbol": "ERIE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5412010", "label": "Euronet Worldwide", "symbol": "EEFT", "start": "2019-12-09", "end": "2022-12-30\n"}
+{"qid": "Q5433448", "label": "Famous Dave's", "symbol": "DAVE", "start": "2020-11-13", "end": "2022-12-30\n"}
+{"qid": "Q47015652", "label": "Pinduoduo", "symbol": "PDD", "start": "2015-01-09", "end": "2022-12-30\n"}
+{"qid": "Q47016300", "label": "Autohome", "symbol": "ATHM", "start": "2021-12-16", "end": "2022-12-30\n"}
+{"qid": "Q1817174", "label": "Supermicro", "symbol": "SMCI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1825763", "label": "Lincoln National Corporation", "symbol": "LNC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1945295", "label": "Monster Beverage", "symbol": "MNST", "start": "2019-05-10", "end": "2022-12-30\n"}
+{"qid": "Q1984481", "label": "NiSource", "symbol": "NI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2000500", "label": "Partner Communications Company", "symbol": "PTNR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2004071", "label": "Genpact", "symbol": "G", "start": "2018-03-20", "end": "2022-12-30\n"}
+{"qid": "Q5970002", "label": "IDEX Corporation", "symbol": "IEX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5974942", "label": "ITT Technical Institute", "symbol": "ESI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6042841", "label": "Integrated Electrical Services", "symbol": "IESC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30267502", "label": "Novocure (Jersey)", "symbol": "NVCR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30284052", "label": "Athersys", "symbol": "ATHX", "start": "2021-06-17", "end": "2022-12-30\n"}
+{"qid": "Q24887050", "label": "Nikola Corporation", "symbol": "NKLA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96482303", "label": "Can Fite Biopharma", "symbol": "CANF", "start": "2021-12-07", "end": "2022-12-30\n"}
+{"qid": "Q96482054", "label": "XTL Bio", "symbol": "XTLB", "start": "2020-05-18", "end": "2022-12-30\n"}
+{"qid": "Q96574751", "label": "foresight automotive LTD", "symbol": "FRSX", "start": "2020-06-11", "end": "2022-12-30\n"}
+{"qid": "Q6863447", "label": "Mind CTI", "symbol": "MNDO", "start": "2021-10-26", "end": "2022-12-30\n"}
+{"qid": "Q6893780", "label": "Mohawk Industries", "symbol": "MHK", "start": "2021-09-14", "end": "2022-12-30\n"}
+{"qid": "Q7018524", "label": "Newmark Knight Frank", "symbol": "NMRK", "start": "2017-06-27", "end": "2022-12-30\n"}
+{"qid": "Q7128508", "label": "Palo Alto Networks", "symbol": "PANW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7132349", "label": "Papa Murphy's", "symbol": "FRSH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7160600", "label": "Pegasystems", "symbol": "PEGA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7165001", "label": "Pentair", "symbol": "PNR", "start": "2021-09-16", "end": "2022-12-30\n"}
+{"qid": "Q27988208", "label": "Veritiv", "symbol": "VRTV", "start": "2021-09-23", "end": "2022-12-30\n"}
+{"qid": "Q28130158", "label": "Chewy", "symbol": "CHWY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q731912", "label": "Carrier Corporation", "symbol": "CARR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q804353", "label": "Baker Hughes", "symbol": "BKR", "start": "2020-08-18", "end": "2022-12-30\n"}
+{"qid": "Q28782856", "label": "DXC Technology", "symbol": "DXC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q56273715", "label": "Tapestry, Inc.", "symbol": "TPR", "start": "2021-03-12", "end": "2022-12-30\n"}
+{"qid": "Q3208192", "label": "Stepan Company", "symbol": "SCL", "start": "2021-02-05", "end": "2022-12-30\n"}
+{"qid": "Q3272257", "label": "M&T Bank", "symbol": "MTB", "start": "2022-09-07", "end": "2022-12-30\n"}
+{"qid": "Q27988152", "label": "Federal Realty Investment Trust", "symbol": "FRT", "start": "2022-01-03", "end": "2022-12-30\n"}
+{"qid": "Q28027517", "label": "Lucid Motors", "symbol": "LCID", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q108076472", "label": "Hyzon Motors", "symbol": "HYZN", "start": "2021-02-11", "end": "2022-12-30\n"}
+{"qid": "Q106641474", "label": "WRAP Technologies", "symbol": "WRAP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q8074134", "label": "ZoomInfo", "symbol": "ZI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1364176", "label": "Wipro", "symbol": "WIT", "start": "2021-01-08", "end": "2022-12-30\n"}
+{"qid": "Q1389504", "label": "Morningstar, Inc.", "symbol": "MORN", "start": "2021-01-19", "end": "2022-12-30\n"}
+{"qid": "Q1419446", "label": "First Horizon National Corporation", "symbol": "FHN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1419248", "label": "FirstEnergy", "symbol": "FE", "start": "2015-02-02", "end": "2022-12-30\n"}
+{"qid": "Q1431486", "label": "Orange", "symbol": "ORAN", "start": "2015-02-27", "end": "2022-12-30\n"}
+{"qid": "Q1477661", "label": "PACCAR", "symbol": "PCAR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3492619", "label": "Sonos", "symbol": "SONO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3508889", "label": "Synovus", "symbol": "SNV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3552887", "label": "OneSpan", "symbol": "OSPN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3598926", "label": "JD.com", "symbol": "JD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q101209850", "label": "Vontier", "symbol": "VNT", "start": "2021-12-23", "end": "2022-12-30\n"}
+{"qid": "Q101429880", "label": "Adecoagro", "symbol": "AGRO", "start": "2022-03-23", "end": "2022-12-30\n"}
+{"qid": "Q4492609", "label": "Cracker Barrel", "symbol": "CBRL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28222763", "label": "VIAVI Solutions", "symbol": "VIAV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17551096", "label": "Keysight Technologies", "symbol": "KEYS", "start": "2021-10-18", "end": "2022-12-30\n"}
+{"qid": "Q30272258", "label": "Align Technology in the United States", "symbol": "ALGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30285756", "label": "Arcadia Biosciences (United States)", "symbol": "RKDA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q30325409", "label": "Janus Henderson", "symbol": "JHG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1615684", "label": "Hess Corporation", "symbol": "HES", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1660662", "label": "West Pharmaceutical Services", "symbol": "WST", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1666568", "label": "International Flavors & Fragrances", "symbol": "IFF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2916497", "label": "Perrigo", "symbol": "PRGO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3067064", "label": "Sociedad Química y Minera de Chile", "symbol": "SQM", "start": "2020-08-13", "end": "2022-12-30\n"}
+{"qid": "Q3100337", "label": "Gemplus International", "symbol": "GEM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3118234", "label": "Galicia Financial Group", "symbol": "GGAL", "start": "2021-07-29", "end": "2022-12-30\n"}
+{"qid": "Q4967514", "label": "Brightcove", "symbol": "BCOV", "start": "2021-10-08", "end": "2022-12-30\n"}
+{"qid": "Q5001347", "label": "Busey Bank", "symbol": "BUSE", "start": "2022-11-25", "end": "2022-12-30\n"}
+{"qid": "Q5011381", "label": "CHS Inc.", "symbol": "CHSCP", "start": "2021-09-29", "end": "2022-12-30\n"}
+{"qid": "Q5063615", "label": "Ceragon", "symbol": "CRNT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16247698", "label": "Cinedigm", "symbol": "CIDM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16247191", "label": "Carvana", "symbol": "CVNA", "start": "2018-04-19", "end": "2022-12-30\n"}
+{"qid": "Q16250432", "label": "Fidelity Southern Corporation", "symbol": "LION", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16531742", "label": "Valvoline", "symbol": "VVV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q98713358", "label": "Arcturus Therapeutics", "symbol": "ARCT", "start": "2021-03-17", "end": "2022-12-30\n"}
+{"qid": "Q48976878", "label": "Berkshire Bank", "symbol": "BHLB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q48989804", "label": "PagerDuty", "symbol": "PD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4740289", "label": "Amarin Corporation", "symbol": "AMRN", "start": "2020-03-19", "end": "2022-12-30\n"}
+{"qid": "Q4749580", "label": "Amyris", "symbol": "AMRS", "start": "2019-05-14", "end": "2022-12-30\n"}
+{"qid": "Q4829076", "label": "Avnet", "symbol": "AVT", "start": "2014-03-13", "end": "2022-12-30\n"}
+{"qid": "Q4833850", "label": "B.O.S. Better Online Solutions", "symbol": "BOSC", "start": "2014-06-12", "end": "2022-12-30\n"}
+{"qid": "Q19604459", "label": "Murphy USA", "symbol": "MUSA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19799775", "label": "Voxeljet", "symbol": "VJET", "start": "2020-10-02", "end": "2022-12-30\n"}
+{"qid": "Q1024454", "label": "CSX Corporation", "symbol": "CSX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1056637", "label": "The Hershey Company", "symbol": "HSY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1069924", "label": "Zipcar", "symbol": "ZIP", "start": "2018-06-21", "end": "2022-12-30\n"}
+{"qid": "Q4854030", "label": "BancFirst", "symbol": "BANF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4915361", "label": "Biotie Therapies", "symbol": "BITI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4967421", "label": "Bright Horizons", "symbol": "BFAM", "start": "2022-01-13", "end": "2022-12-30\n"}
+{"qid": "Q5122438", "label": "Citi Trends", "symbol": "CTRN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5118415", "label": "Chuy's", "symbol": "CHUY", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q23807959", "label": "Mr. Cooper", "symbol": "COOP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q109648854", "label": "Nano-X Imaging", "symbol": "NNOX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q105965623", "label": "RLX Technology Inc.", "symbol": "RLX", "start": "2014-11-06", "end": "2022-12-30\n"}
+{"qid": "Q28402389", "label": "Simmons Bank", "symbol": "SFNC", "start": "2022-09-16", "end": "2022-12-30\n"}
+{"qid": "Q91387266", "label": "Lindblad Expeditions", "symbol": "LIND", "start": "2021-02-22", "end": "2022-12-30\n"}
+{"qid": "Q94933", "label": "Take-Two Interactive", "symbol": "TTWO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q173941", "label": "Electronic Arts", "symbol": "EA", "start": "2021-07-16", "end": "2022-12-30\n"}
+{"qid": "Q180106", "label": "Owens-Illinois", "symbol": "OI", "start": "2017-01-12", "end": "2022-12-30\n"}
+{"qid": "Q182477", "label": "Nvidia", "symbol": "NVDA", "start": "2022-03-31", "end": "2022-12-30\n"}
+{"qid": "Q188514", "label": "Tata Motors", "symbol": "TTM", "start": "2020-02-03", "end": "2022-12-30\n"}
+{"qid": "Q196259", "label": "NetEase", "symbol": "NTES", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q202972", "label": "International Paper", "symbol": "IP", "start": "2021-02-18", "end": "2022-12-30\n"}
+{"qid": "Q202210", "label": "GameStop", "symbol": "GME", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q193412", "label": "Texas Instruments", "symbol": "TXN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q109565934", "label": "Opiant Pharmaceuticals", "symbol": "OPNT", "start": "2016-09-29", "end": "2022-12-30\n"}
+{"qid": "Q54621346", "label": "BiondVax", "symbol": "BVXV", "start": "2021-11-26", "end": "2022-12-30\n"}
+{"qid": "Q63862184", "label": "Braemar Hotels & Resorts", "symbol": "BHR", "start": "2021-05-07", "end": "2022-12-30\n"}
+{"qid": "Q27022329", "label": "Snap Inc.", "symbol": "SNAP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q106070945", "label": "Hall of Fame Resort & Entertainment Co", "symbol": "HOFV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q979690", "label": "Netgear", "symbol": "NTGR", "start": "2015-06-25", "end": "2022-12-30\n"}
+{"qid": "Q1053299", "label": "CRH", "symbol": "CRH", "start": "2017-03-27", "end": "2022-12-30\n"}
+{"qid": "Q1106938", "label": "Cogent Communications", "symbol": "CCOI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1107035", "label": "Cognizant", "symbol": "CTSH", "start": "2021-01-19", "end": "2022-12-30\n"}
+{"qid": "Q502509", "label": "Smith & Nephew", "symbol": "SNN", "start": "2018-01-25", "end": "2022-12-30\n"}
+{"qid": "Q572948", "label": "Herbalife", "symbol": "HLF", "start": "2021-05-12", "end": "2022-12-30\n"}
+{"qid": "Q96407440", "label": "TAL Education Group", "symbol": "TAL", "start": "2021-12-29", "end": "2022-12-30\n"}
+{"qid": "Q96480089", "label": "Enlivex", "symbol": "ENLV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96482167", "label": "Biomx", "symbol": "PHGE", "start": "2019-12-09", "end": "2022-12-30\n"}
+{"qid": "Q25104597", "label": "Howmet Aerospace", "symbol": "HWM", "start": "2021-03-31", "end": "2022-12-30\n"}
+{"qid": "Q27150140", "label": "Ameris Bancorp", "symbol": "ABCB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4671580", "label": "Acadia Pharmaceuticals", "symbol": "ACAD", "start": "2021-04-20", "end": "2022-12-30\n"}
+{"qid": "Q4674531", "label": "Acorda Therapeutics", "symbol": "ACOR", "start": "2021-05-19", "end": "2022-12-30\n"}
+{"qid": "Q4835545", "label": "BGC Partners", "symbol": "BGCP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4836852", "label": "BWX Technologies", "symbol": "BWXT", "start": "2022-11-03", "end": "2022-12-30\n"}
+{"qid": "Q4816705", "label": "Atlantis Casino Resort Spa", "symbol": "MCRI", "start": "2021-07-21", "end": "2022-12-30\n"}
+{"qid": "Q64448268", "label": "J.Jill", "symbol": "JILL", "start": "2018-04-26", "end": "2022-12-30\n"}
+{"qid": "Q16858748", "label": "Ceres, Inc.", "symbol": "CERE", "start": "2021-09-03", "end": "2022-12-30\n"}
+{"qid": "Q16858667", "label": "Kratos Defense & Security Solutions", "symbol": "KTOS", "start": "2020-03-12", "end": "2022-12-30\n"}
+{"qid": "Q16959629", "label": "Nutanix", "symbol": "NTNX", "start": "2021-06-25", "end": "2022-12-30\n"}
+{"qid": "Q16985829", "label": "Tupperware Brands", "symbol": "TUP", "start": "2018-06-06", "end": "2022-12-30\n"}
+{"qid": "Q16975567", "label": "Health Care Property Investors", "symbol": "PEAK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16997126", "label": "Intercept Pharmaceuticals", "symbol": "ICPT", "start": "2015-10-12", "end": "2022-12-30\n"}
+{"qid": "Q16983192", "label": "ONE Gas", "symbol": "OGS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16999030", "label": "Lakeland Industries", "symbol": "LAKE", "start": "2016-02-12", "end": "2022-12-30\n"}
+{"qid": "Q16998645", "label": "Kopin Corporation", "symbol": "KOPN", "start": "2020-11-13", "end": "2022-12-30\n"}
+{"qid": "Q17109642", "label": "Sandy Spring Bank", "symbol": "SASR", "start": "2020-09-14", "end": "2022-12-30\n"}
+{"qid": "Q17155112", "label": "Seagen", "symbol": "SGEN", "start": "2021-04-16", "end": "2022-12-29\n"}
+{"qid": "Q17114308", "label": "Nektar Therapeutics", "symbol": "NKTR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7301386", "label": "Realty Income Corporation", "symbol": "O", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7313497", "label": "Rent-A-Center", "symbol": "RCII", "start": "2021-09-29", "end": "2022-12-30\n"}
+{"qid": "Q7355878", "label": "Rocky Mountain Chocolate Factory", "symbol": "RMCF", "start": "2020-12-08", "end": "2022-12-30\n"}
+{"qid": "Q7391016", "label": "SL Green Realty", "symbol": "SLG", "start": "2019-06-21", "end": "2022-12-30\n"}
+{"qid": "Q7388926", "label": "SBA Communications", "symbol": "SBAC", "start": "2021-04-01", "end": "2022-12-30\n"}
+{"qid": "Q7399844", "label": "Saia", "symbol": "SAIA", "start": "2021-01-15", "end": "2022-12-30\n"}
+{"qid": "Q7431894", "label": "Schneider National", "symbol": "SNDR", "start": "2020-10-01", "end": "2022-12-30\n"}
+{"qid": "Q7447640", "label": "Sleep Number", "symbol": "SNBR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7516369", "label": "SSR Mining", "symbol": "SSRM", "start": "2021-11-10", "end": "2022-12-30\n"}
+{"qid": "Q7575301", "label": "Spectrum Pharmaceuticals", "symbol": "SPPI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q26832896", "label": "Adient", "symbol": "ADNT", "start": "2017-11-06", "end": "2022-12-30\n"}
+{"qid": "Q741707", "label": "Wabtec", "symbol": "WAB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q739084", "label": "U.S. Bancorp", "symbol": "USB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q771865", "label": "Spectrum Brands", "symbol": "SPB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q795486", "label": "Truist Financial", "symbol": "TFC", "start": "2022-08-15", "end": "2022-12-30\n"}
+{"qid": "Q852787", "label": "Groupon", "symbol": "GRPN", "start": "2022-12-14", "end": "2022-12-30\n"}
+{"qid": "Q868587", "label": "S&P Global", "symbol": "SPGI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q899183", "label": "FMC Corporation", "symbol": "FMC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q903957", "label": "ICL Group Ltd.", "symbol": "ICL", "start": "2021-05-05", "end": "2022-12-30\n"}
+{"qid": "Q2006989", "label": "YPF", "symbol": "YPF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2099437", "label": "Plexus Corporation", "symbol": "PLXS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2140315", "label": "Textron", "symbol": "TXT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3157622", "label": "Jacobs Engineering Group sa", "symbol": "J", "start": "2021-07-30", "end": "2022-12-30\n"}
+{"qid": "Q864338", "label": "Biogen", "symbol": "BIIB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q930919", "label": "Public Service Enterprise Group", "symbol": "PEG", "start": "2022-12-19", "end": "2022-12-30\n"}
+{"qid": "Q56011958", "label": "Tencent Music", "symbol": "TME", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q20486917", "label": "Health Care REIT", "symbol": "WELL", "start": "2020-08-12", "end": "2022-12-30\n"}
+{"qid": "Q20714863", "label": "Coca-Cola FEMSA", "symbol": "KOF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7835892", "label": "TravelCenters of America", "symbol": "TA", "start": "2020-08-14", "end": "2022-12-30\n"}
+{"qid": "Q7848087", "label": "TrustCo Bank", "symbol": "TRST", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7858146", "label": "Twin Disc", "symbol": "TWIN", "start": "2022-01-24", "end": "2022-12-30\n"}
+{"qid": "Q7880076", "label": "Ulta", "symbol": "ULTA", "start": "2017-05-31", "end": "2022-12-30\n"}
+{"qid": "Q7881772", "label": "Umpqua Holdings Corporation", "symbol": "UMPQ", "start": "2019-04-09", "end": "2022-12-30\n"}
+{"qid": "Q7907548", "label": "VSE Corporation", "symbol": "VSEC", "start": "2021-10-28", "end": "2022-12-30\n"}
+{"qid": "Q7912506", "label": "Valmont Industries", "symbol": "VMI", "start": "2020-09-21", "end": "2022-12-30\n"}
+{"qid": "Q8033550", "label": "Woodward", "symbol": "WWD", "start": "2015-12-03", "end": "2022-12-30\n"}
+{"qid": "Q8038212", "label": "Wright Express", "symbol": "WEX", "start": "2021-12-17", "end": "2022-12-30\n"}
+{"qid": "Q8044687", "label": "Xinyuan Real Estate", "symbol": "XIN", "start": "2021-03-17", "end": "2022-12-30\n"}
+{"qid": "Q8053341", "label": "Yext", "symbol": "YEXT", "start": "2014-11-11", "end": "2022-12-30\n"}
+{"qid": "Q18674747", "label": "Booking Holdings", "symbol": "BKNG", "start": "2017-12-18", "end": "2022-12-30\n"}
+{"qid": "Q15507516", "label": "Triumph Group", "symbol": "TGI", "start": "2021-11-01", "end": "2022-12-30\n"}
+{"qid": "Q276345", "label": "Millicom", "symbol": "TIGO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q285161", "label": "iRobot", "symbol": "IRBT", "start": "2022-05-19", "end": "2022-12-30\n"}
+{"qid": "Q315287", "label": "Qiagen", "symbol": "QGEN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q344341", "label": "Activision Blizzard", "symbol": "ATVI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q109680037", "label": "Franchise Group", "symbol": "FRG", "start": "2015-06-30", "end": "2022-12-30\n"}
+{"qid": "Q104664954", "label": "Delek US", "symbol": "DK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q96379626", "label": "GoHealth", "symbol": "GOCO", "start": "2021-06-10", "end": "2022-12-30\n"}
+{"qid": "Q96397546", "label": "Opendoor", "symbol": "OPEN", "start": "2021-07-12", "end": "2022-12-30\n"}
+{"qid": "Q12620655", "label": "Coupang", "symbol": "CPNG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7919303", "label": "Velodyne Lidar", "symbol": "VLDR", "start": "2017-06-30", "end": "2022-12-30\n"}
+{"qid": "Q7935247", "label": "Virtus Investment Partners", "symbol": "VRTS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7943726", "label": "Vuzix", "symbol": "VUZI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7955609", "label": "WSFS Bank", "symbol": "WSFS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7987107", "label": "Evergy", "symbol": "EVRG", "start": "2019-04-11", "end": "2022-12-30\n"}
+{"qid": "Q8003328", "label": "Willamette Valley Vineyards", "symbol": "WVVI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q8027166", "label": "Wisconsin Energy Corporation", "symbol": "WEC", "start": "2020-07-24", "end": "2022-12-30\n"}
+{"qid": "Q8035757", "label": "World Fuel Services", "symbol": "INT", "start": "2020-10-15", "end": "2022-12-30\n"}
+{"qid": "Q8073337", "label": "Zoetis", "symbol": "ZTS", "start": "2022-01-20", "end": "2022-12-30\n"}
+{"qid": "Q8075320", "label": "Zuora", "symbol": "ZUO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q8085893", "label": "Expedia Group", "symbol": "EXPE", "start": "2017-11-06", "end": "2022-12-30\n"}
+{"qid": "Q4914627", "label": "BioLineRx", "symbol": "BLRX", "start": "2018-06-27", "end": "2022-12-30\n"}
+{"qid": "Q5048400", "label": "Casella Waste Systems", "symbol": "CWST", "start": "2014-01-15", "end": "2022-12-30\n"}
+{"qid": "Q5096273", "label": "Chicken Soup for the Soul", "symbol": "CSSE", "start": "2017-04-28", "end": "2022-12-30\n"}
+{"qid": "Q5120253", "label": "Cincinnati Financial", "symbol": "CINF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5147194", "label": "Colliers International", "symbol": "CIGI", "start": "2022-11-01", "end": "2022-12-30\n"}
+{"qid": "Q5152411", "label": "Commerce Bancshares", "symbol": "CBSH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5178055", "label": "coupons.com", "symbol": "QUOT", "start": "2014-05-29", "end": "2022-12-30\n"}
+{"qid": "Q5197142", "label": "Cvent", "symbol": "CVT", "start": "2019-11-01", "end": "2022-12-30\n"}
+{"qid": "Q356212", "label": "Fossil", "symbol": "FOSL", "start": "2021-04-22", "end": "2022-12-30\n"}
+{"qid": "Q451476", "label": "Scotiabank", "symbol": "BNS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q460307", "label": "Amcor", "symbol": "AMCR", "start": "2020-06-04", "end": "2022-12-30\n"}
+{"qid": "Q460307", "label": "Amcor", "symbol": "AMC", "start": "2015-03-24", "end": "2022-12-30\n"}
+{"qid": "Q496606", "label": "KB Kookmin Bank", "symbol": "KB", "start": "2022-01-03", "end": "2022-12-30\n"}
+{"qid": "Q489921", "label": "Mastercard", "symbol": "MA", "start": "2018-06-21", "end": "2022-12-30\n"}
+{"qid": "Q2066858", "label": "PerkinElmer", "symbol": "PKI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2305438", "label": "Telkom Indonesia", "symbol": "TLK", "start": "2021-03-26", "end": "2022-12-30\n"}
+{"qid": "Q1571490", "label": "Synaptics", "symbol": "SYNA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1548363", "label": "Magic Software Enterprises", "symbol": "MGIC", "start": "2021-06-23", "end": "2022-12-30\n"}
+{"qid": "Q1586955", "label": "Harsco", "symbol": "HSC", "start": "2015-11-05", "end": "2022-12-30\n"}
+{"qid": "Q1653258", "label": "ICICI Bank", "symbol": "IBN", "start": "2020-06-12", "end": "2022-12-30\n"}
+{"qid": "Q1631922", "label": "Snap-on", "symbol": "SNA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1627894", "label": "W. W. Grainger", "symbol": "GWW", "start": "2015-11-19", "end": "2022-12-30\n"}
+{"qid": "Q1666331", "label": "INTL FCStone", "symbol": "INTL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1666040", "label": "Interface, Inc.", "symbol": "TILE", "start": "2021-12-03", "end": "2022-12-30\n"}
+{"qid": "Q1722848", "label": "Kaman Aircraft", "symbol": "KAMN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q98424095", "label": "M/I Homes", "symbol": "MHO", "start": "2021-09-21", "end": "2022-12-30\n"}
+{"qid": "Q65053147", "label": "L3Harris Technologies", "symbol": "LHX", "start": "2021-11-10", "end": "2022-12-30\n"}
+{"qid": "Q15109897", "label": "J.W. Mays", "symbol": "MAYS", "start": "2022-04-04", "end": "2022-12-30\n"}
+{"qid": "Q15109925", "label": "Tractor Supply Company", "symbol": "TSCO", "start": "2017-09-28", "end": "2022-12-30\n"}
+{"qid": "Q78203110", "label": "Phunware", "symbol": "PHUN", "start": "2021-12-17", "end": "2022-12-30\n"}
+{"qid": "Q5578424", "label": "Golar LNG", "symbol": "GLNG", "start": "2016-09-07", "end": "2022-12-30\n"}
+{"qid": "Q5684575", "label": "Hawaiian Telcom", "symbol": "HCOM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5683881", "label": "Havertys", "symbol": "HVT", "start": "2020-07-22", "end": "2022-12-30\n"}
+{"qid": "Q487230", "label": "Shinhan Bank", "symbol": "SHG", "start": "2019-03-29", "end": "2022-12-30\n"}
+{"qid": "Q656165", "label": "Halliburton", "symbol": "HAL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3442791", "label": "Ross Stores", "symbol": "ROST", "start": "2022-06-07", "end": "2022-12-30\n"}
+{"qid": "Q3511885", "label": "T-Mobile US", "symbol": "TMUS", "start": "2020-05-27", "end": "2022-12-30\n"}
+{"qid": "Q80947821", "label": "Steris", "symbol": "STE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7836120", "label": "Travelzoo", "symbol": "TZOO", "start": "2020-12-21", "end": "2022-12-30\n"}
+{"qid": "Q7884645", "label": "UniFirst", "symbol": "UNF", "start": "2015-05-06", "end": "2022-12-30\n"}
+{"qid": "Q7888979", "label": "United Natural Foods", "symbol": "UNFI", "start": "2016-10-07", "end": "2022-12-30\n"}
+{"qid": "Q7893929", "label": "Universal Corporation", "symbol": "UVV", "start": "2021-04-19", "end": "2022-12-30\n"}
+{"qid": "Q7978891", "label": "Webster Bank", "symbol": "WBS", "start": "2018-08-09", "end": "2022-12-30\n"}
+{"qid": "Q7983382", "label": "Werner Enterprises", "symbol": "WERN", "start": "2019-12-19", "end": "2022-12-30\n"}
+{"qid": "Q7983629", "label": "WesBanco", "symbol": "WSBC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7989598", "label": "Westport Innovations", "symbol": "WPRT", "start": "2019-07-26", "end": "2022-12-30\n"}
+{"qid": "Q8025339", "label": "Wingstop", "symbol": "WING", "start": "2020-12-04", "end": "2022-12-30\n"}
+{"qid": "Q106240666", "label": "Luminar Technologies", "symbol": "LAZR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q37158", "label": "Starbucks", "symbol": "SBUX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q92546757", "label": "Biohaven Pharmaceuticals", "symbol": "BHVN", "start": "2022-08-22", "end": "2022-12-30\n"}
+{"qid": "Q824278", "label": "Six Flags", "symbol": "SIX", "start": "2021-07-28", "end": "2022-12-30\n"}
+{"qid": "Q841458", "label": "Intercontinental Exchange", "symbol": "ICE", "start": "2021-01-26", "end": "2022-12-30\n"}
+{"qid": "Q856897", "label": "Kellogg's", "symbol": "K", "start": "2021-09-23", "end": "2022-12-30\n"}
+{"qid": "Q905086", "label": "Henry Schein", "symbol": "HSIC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q907311", "label": "Netflix", "symbol": "NFLX", "start": "2018-09-27", "end": "2022-12-30\n"}
+{"qid": "Q910866", "label": "Humana", "symbol": "HUM", "start": "2020-09-17", "end": "2022-12-30\n"}
+{"qid": "Q926806", "label": "Carlyle Group", "symbol": "CG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q684825", "label": "Alcon", "symbol": "ALC", "start": "2016-12-22", "end": "2022-12-30\n"}
+{"qid": "Q733482", "label": "GoPro", "symbol": "GPRO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q726654", "label": "Glatfelter", "symbol": "GLT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q713418", "label": "TSMC", "symbol": "TSM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q731938", "label": "AstraZeneca", "symbol": "AZN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q768773", "label": "MSCI", "symbol": "MSCI", "start": "2020-01-10", "end": "2022-12-30\n"}
+{"qid": "Q105886736", "label": "KE Holdings Inc.", "symbol": "BEKE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q20708193", "label": "Live Oak Bank", "symbol": "LOB", "start": "2015-06-17", "end": "2022-12-30\n"}
+{"qid": "Q20714950", "label": "Primoris Services Corporation", "symbol": "PRIM", "start": "2021-12-14", "end": "2022-12-30\n"}
+{"qid": "Q20858163", "label": "Norfolk Southern Corporation", "symbol": "NSC", "start": "2017-09-01", "end": "2022-12-30\n"}
+{"qid": "Q14993631", "label": "Science Applications International Corporation", "symbol": "SAIC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q15109903", "label": "Luna Innovations", "symbol": "LUNA", "start": "2022-11-11", "end": "2022-12-30\n"}
+{"qid": "Q14662364", "label": "AbbVie", "symbol": "ABBV", "start": "2016-06-14", "end": "2022-12-30\n"}
+{"qid": "Q15109891", "label": "Innospec", "symbol": "IOSP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q22243729", "label": "Ferrari N.V.", "symbol": "RACE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q107623842", "label": "Herc Holdings Inc.", "symbol": "HRI", "start": "2021-02-11", "end": "2022-12-30\n"}
+{"qid": "Q6654568", "label": "LivePerson", "symbol": "LPSN", "start": "2017-05-26", "end": "2022-12-30\n"}
+{"qid": "Q6702957", "label": "Lululemon Athletica", "symbol": "LULU", "start": "2018-12-11", "end": "2022-12-30\n"}
+{"qid": "Q6743395", "label": "Malibu Boats", "symbol": "MBUU", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6758107", "label": "Marcus Corporation", "symbol": "MCS", "start": "2014-03-21", "end": "2022-12-30\n"}
+{"qid": "Q6782217", "label": "MasTec", "symbol": "MTZ", "start": "2020-05-08", "end": "2022-12-30\n"}
+{"qid": "Q6805492", "label": "Media General", "symbol": "MEG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6889843", "label": "Steel Connect", "symbol": "MLNK", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6902090", "label": "Monro Muffler Brake", "symbol": "MNRO", "start": "2018-07-19", "end": "2022-12-30\n"}
+{"qid": "Q6952158", "label": "NACCO Industries", "symbol": "NC", "start": "2014-05-01", "end": "2022-12-30\n"}
+{"qid": "Q6952868", "label": "NBT Bank", "symbol": "NBTB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6955989", "label": "NW Natural", "symbol": "NWN", "start": "2014-05-02", "end": "2022-12-30\n"}
+{"qid": "Q6971495", "label": "National CineMedia", "symbol": "NCMI", "start": "2019-09-03", "end": "2022-12-30\n"}
+{"qid": "Q59089890", "label": "Qudian", "symbol": "QD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q55589254", "label": "GitLab Inc.", "symbol": "GTLB", "start": "2016-09-16", "end": "2022-12-30\n"}
+{"qid": "Q104839226", "label": "Luokong Technology", "symbol": "LKCO", "start": "2021-09-15", "end": "2022-12-30\n"}
+{"qid": "Q4041705", "label": "J. B. Hunt", "symbol": "JBHT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4047736", "label": "Qiwi", "symbol": "QIWI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q106240910", "label": "Brookfield Renewable Corporation", "symbol": "BEPC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5508083", "label": "Full House Resorts", "symbol": "FLL", "start": "2018-02-08", "end": "2022-12-30\n"}
+{"qid": "Q5533602", "label": "Gentex", "symbol": "GNTX", "start": "2022-03-16", "end": "2022-12-30\n"}
+{"qid": "Q5570544", "label": "Global Payments", "symbol": "GPN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5625470", "label": "Gyrodyne Company of America", "symbol": "GYRO", "start": "2021-01-19", "end": "2022-12-30\n"}
+{"qid": "Q5649395", "label": "Hanover Insurance", "symbol": "THG", "start": "2021-05-14", "end": "2022-12-30\n"}
+{"qid": "Q5639346", "label": "Hain Celestial Group", "symbol": "HAIN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5648633", "label": "Hanmi Bank", "symbol": "HAFC", "start": "2016-09-23", "end": "2022-12-30\n"}
+{"qid": "Q22661749", "label": "Chart Industries, Inc", "symbol": "GTLS", "start": "2021-04-01", "end": "2022-12-30\n"}
+{"qid": "Q1032353", "label": "Canadian Solar", "symbol": "CSIQ", "start": "2015-04-10", "end": "2022-12-30\n"}
+{"qid": "Q1053348", "label": "Cemex", "symbol": "CX", "start": "2021-04-01", "end": "2022-12-30\n"}
+{"qid": "Q1113804", "label": "Comcast", "symbol": "CMCSA", "start": "2020-12-07", "end": "2022-12-30\n"}
+{"qid": "Q1061903", "label": "Live Nation Entertainment", "symbol": "LYV", "start": "2022-12-30", "end": "2022-12-30\n"}
+{"qid": "Q1122299", "label": "Computer Task Group, Incorporated", "symbol": "CTG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1144473", "label": "CureVac", "symbol": "CVAC", "start": "2021-12-30", "end": "2022-12-30\n"}
+{"qid": "Q3520257", "label": "The Children's Place", "symbol": "PLCE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3552193", "label": "Urban Outfitters", "symbol": "URBN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3630923", "label": "MakeMyTrip", "symbol": "MMYT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2287759", "label": "Simon Property Group", "symbol": "SPG", "start": "2014-05-16", "end": "2022-12-30\n"}
+{"qid": "Q7416970", "label": "Sandstorm Gold", "symbol": "SAND", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7682888", "label": "Tanger Factory Outlet Centers", "symbol": "SKT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7692144", "label": "TechTarget", "symbol": "TTGT", "start": "2022-01-04", "end": "2022-12-30\n"}
+{"qid": "Q7696143", "label": "Teleflex", "symbol": "TFX", "start": "2021-11-15", "end": "2022-12-30\n"}
+{"qid": "Q7742790", "label": "The J.M. Smucker Company", "symbol": "SJM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q29026065", "label": "Ginkgo Bioworks", "symbol": "DNA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q265286", "label": "trivago", "symbol": "TRVG", "start": "2020-06-30", "end": "2022-12-30\n"}
+{"qid": "Q55622230", "label": "MarketAxess", "symbol": "MKTX", "start": "2021-01-29", "end": "2022-12-30\n"}
+{"qid": "Q18385610", "label": "Stitch Fix", "symbol": "SFIX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q28155430", "label": "Arch Capital Group", "symbol": "ACGL", "start": "2020-12-11", "end": "2022-12-30\n"}
+{"qid": "Q105099852", "label": "Seritage Growth Properties", "symbol": "SRG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6647881", "label": "Lithia Motors", "symbol": "LAD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6648755", "label": "Littelfuse", "symbol": "LFUS", "start": "2018-09-14", "end": "2022-12-30\n"}
+{"qid": "Q6703090", "label": "LL Flooring", "symbol": "LL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6715642", "label": "MFS Investment Management", "symbol": "MGF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6776123", "label": "Martin Marietta Materials", "symbol": "MLM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q6801109", "label": "McEwen Mining", "symbol": "MUX", "start": "2016-12-13", "end": "2022-12-30\n"}
+{"qid": "Q6955706", "label": "NVR, Inc.", "symbol": "NVR", "start": "2021-10-15", "end": "2022-12-30\n"}
+{"qid": "Q6990264", "label": "Nelnet", "symbol": "NNI", "start": "2014-05-02", "end": "2022-12-30\n"}
+{"qid": "Q6998317", "label": "NetScout Systems", "symbol": "NTCT", "start": "2021-04-28", "end": "2022-12-30\n"}
+{"qid": "Q7002474", "label": "Neuronetics, Inc.", "symbol": "STIM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7060191", "label": "Northwest Bank", "symbol": "NWBI", "start": "2019-07-09", "end": "2022-12-30\n"}
+{"qid": "Q7064069", "label": "Nova Measuring Instruments", "symbol": "NVMI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q48802335", "label": "Tyler Technologies", "symbol": "TYL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q12857502", "label": "Mondelēz International", "symbol": "MDLZ", "start": "2020-10-22", "end": "2022-12-30\n"}
+{"qid": "Q2918660", "label": "Duolingo", "symbol": "DUOL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2945643", "label": "Skechers", "symbol": "SKX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q3072937", "label": "First Hawaiian Bank", "symbol": "FHB", "start": "2022-03-09", "end": "2022-12-30\n"}
+{"qid": "Q3077586", "label": "bilibili", "symbol": "BILI", "start": "2018-03-23", "end": "2022-12-30\n"}
+{"qid": "Q71819175", "label": "Gentherm Hungary Kft.", "symbol": "THRM", "start": "2021-08-06", "end": "2022-12-30\n"}
+{"qid": "Q20711490", "label": "LKQ Corporation", "symbol": "LKQ", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q20979194", "label": "American Homes 4 Rent", "symbol": "AMH", "start": "2018-05-16", "end": "2022-12-30\n"}
+{"qid": "Q20979249", "label": "Everi Holdings", "symbol": "EVRI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q106239511", "label": "New Fortress Energy", "symbol": "NFE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18111091", "label": "Cheetah Mobile", "symbol": "CMCM", "start": "2019-02-15", "end": "2022-12-30\n"}
+{"qid": "Q667865", "label": "Johnson Controls", "symbol": "JCI", "start": "2018-07-27", "end": "2022-12-30\n"}
+{"qid": "Q686785", "label": "Transocean", "symbol": "RIG", "start": "2015-04-15", "end": "2022-12-30\n"}
+{"qid": "Q689475", "label": "Laureate Education", "symbol": "LAUR", "start": "2015-01-02", "end": "2022-12-30\n"}
+{"qid": "Q735261", "label": "Royal Bank of Canada", "symbol": "RY", "start": "2019-12-11", "end": "2022-12-30\n"}
+{"qid": "Q784022", "label": "Renren", "symbol": "RENN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q813782", "label": "Bed Bath & Beyond", "symbol": "BBBY", "start": "2016-06-13", "end": "2022-12-30\n"}
+{"qid": "Q818846", "label": "Novo Nordisk", "symbol": "NVO", "start": "2021-04-01", "end": "2022-12-30\n"}
+{"qid": "Q60744565", "label": "Trade Desk", "symbol": "TTD", "start": "2019-05-03", "end": "2022-12-30\n"}
+{"qid": "Q60742531", "label": "California Resources Corporation", "symbol": "CRC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q60764327", "label": "Walker & Dunlop", "symbol": "WD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1577587", "label": "Marathon Oil", "symbol": "MRO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1641437", "label": "Ralph Lauren Corporation", "symbol": "RL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1654103", "label": "IMAX Corporation", "symbol": "IMAX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1660996", "label": "IncrediMail", "symbol": "PERI", "start": "2022-06-02", "end": "2022-12-30\n"}
+{"qid": "Q1758392", "label": "IDEXX Laboratories, Inc.", "symbol": "IDXX", "start": "2014-12-03", "end": "2022-12-30\n"}
+{"qid": "Q18636409", "label": "Sprinklr", "symbol": "CXM", "start": "2018-02-07", "end": "2022-12-30\n"}
+{"qid": "Q105751519", "label": "Thredup", "symbol": "TDUP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q21016487", "label": "WestRock", "symbol": "WRK", "start": "2019-12-04", "end": "2022-12-30\n"}
+{"qid": "Q21189117", "label": "WD-40 Company", "symbol": "WDFC", "start": "2015-06-11", "end": "2022-12-30\n"}
+{"qid": "Q2299611", "label": "Yelp", "symbol": "YELP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2353849", "label": "El Pollo Loco", "symbol": "LOCO", "start": "2014-10-16", "end": "2022-12-30\n"}
+{"qid": "Q2443320", "label": "PHLX Semiconductor Sector", "symbol": "SOXX", "start": "2022-02-10", "end": "2022-12-30\n"}
+{"qid": "Q2502355", "label": "USANA Health Sciences", "symbol": "USNA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2504058", "label": "Golden Ocean Group", "symbol": "GOGL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2529982", "label": "The New York Times Company", "symbol": "NYT", "start": "2018-05-04", "end": "2022-12-30\n"}
+{"qid": "Q11074158", "label": "Silicon Motion", "symbol": "SIMO", "start": "2020-09-08", "end": "2022-12-30\n"}
+{"qid": "Q62739842", "label": "Dow Inc.", "symbol": "DOW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1155668", "label": "NXP Semiconductors", "symbol": "NXPI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1194832", "label": "Toronto–Dominion Bank", "symbol": "TD", "start": "2022-03-23", "end": "2022-12-30\n"}
+{"qid": "Q1157767", "label": "Daktronics", "symbol": "DAKT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1319505", "label": "Nathan's Famous", "symbol": "NATH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1325987", "label": "Tyson Foods", "symbol": "TSN", "start": "2021-10-21", "end": "2022-12-30\n"}
+{"qid": "Q85770729", "label": "Jamf", "symbol": "JAMF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16986355", "label": "Insignia Systems, Inc.", "symbol": "ISIG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16984188", "label": "Rogers Corporation", "symbol": "ROG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16981897", "label": "Mercury Insurance Group", "symbol": "MCY", "start": "2021-03-29", "end": "2022-12-30\n"}
+{"qid": "Q16983204", "label": "Amwell", "symbol": "AMWL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17006727", "label": "Kandi Technologies", "symbol": "KNDI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17078090", "label": "Repligen", "symbol": "RGEN", "start": "2022-10-20", "end": "2022-12-30\n"}
+{"qid": "Q17082992", "label": "SPS Commerce", "symbol": "SPSC", "start": "2020-04-30", "end": "2022-12-30\n"}
+{"qid": "Q15589464", "label": "Dropbox Inc.", "symbol": "DBX", "start": "2021-11-02", "end": "2022-12-30\n"}
+{"qid": "Q109619213", "label": "Orion Office REIT", "symbol": "ONL", "start": "2020-01-17", "end": "2022-12-30\n"}
+{"qid": "Q2843029", "label": "American Superconductor", "symbol": "AMSC", "start": "2021-05-26", "end": "2022-12-30\n"}
+{"qid": "Q28404585", "label": "DCP Midstream Partners", "symbol": "DCP", "start": "2014-01-27", "end": "2022-12-30\n"}
+{"qid": "Q1663044", "label": "Ingersoll Rand", "symbol": "TT", "start": "2021-12-23", "end": "2022-12-30\n"}
+{"qid": "Q1703389", "label": "Jones Lang LaSalle", "symbol": "JLL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1741634", "label": "Kimberly-Clark", "symbol": "KMB", "start": "2020-10-28", "end": "2022-12-30\n"}
+{"qid": "Q6135535", "label": "James Hardie", "symbol": "JHX", "start": "2017-05-12", "end": "2022-12-30\n"}
+{"qid": "Q16953039", "label": "Moelis & Company", "symbol": "MC", "start": "2018-10-18", "end": "2022-12-30\n"}
+{"qid": "Q16952393", "label": "Cowen Group", "symbol": "COWN", "start": "2016-06-03", "end": "2022-12-30\n"}
+{"qid": "Q16966841", "label": "Edwards Lifesciences", "symbol": "EW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16981175", "label": "Lennar Corporation", "symbol": "LEN", "start": "2015-03-09", "end": "2022-12-30\n"}
+{"qid": "Q17001319", "label": "Benitec Biopharma Ltd", "symbol": "BNTC", "start": "2018-05-31", "end": "2022-12-30\n"}
+{"qid": "Q17081612", "label": "Moderna", "symbol": "MRNA", "start": "2019-08-08", "end": "2022-12-30\n"}
+{"qid": "Q17074260", "label": "Patriot National Bancorp", "symbol": "PNBK", "start": "2014-01-07", "end": "2022-12-30\n"}
+{"qid": "Q17109731", "label": "NextGen Healthcare Information Systems", "symbol": "NXGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17109447", "label": "M/A-COM Technology Solutions", "symbol": "MTSI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17131128", "label": "Rockwell Medical Inc.", "symbol": "RMTI", "start": "2018-03-19", "end": "2022-12-30\n"}
+{"qid": "Q17141691", "label": "Pixelworks", "symbol": "PXLW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17141393", "label": "SJW Group", "symbol": "SJW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q17145997", "label": "UFP Technologies", "symbol": "UFPT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q644167", "label": "PLDT", "symbol": "PHI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q682759", "label": "Linde Group", "symbol": "LIN", "start": "2017-01-11", "end": "2022-12-30\n"}
+{"qid": "Q667599", "label": "Newell Brands", "symbol": "NWL", "start": "2020-10-02", "end": "2022-12-30\n"}
+{"qid": "Q706094", "label": "Stanley Black & Decker", "symbol": "SWK", "start": "2021-02-10", "end": "2022-12-30\n"}
+{"qid": "Q694872", "label": "TORM", "symbol": "TRMD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q725793", "label": "Union Pacific Railroad", "symbol": "CNP", "start": "2021-05-20", "end": "2022-12-30\n"}
+{"qid": "Q744683", "label": "Franklin Templeton Investments", "symbol": "BEN", "start": "2019-07-25", "end": "2022-12-30\n"}
+{"qid": "Q780442", "label": "Uber Technology", "symbol": "UBER", "start": "2018-05-03", "end": "2022-12-30\n"}
+{"qid": "Q757307", "label": "Atlassian", "symbol": "TEAM", "start": "2017-10-20", "end": "2022-12-30\n"}
+{"qid": "Q30640316", "label": "GoodRx", "symbol": "GDRX", "start": "2021-12-27", "end": "2022-12-30\n"}
+{"qid": "Q30645592", "label": "Yum China", "symbol": "YUMC", "start": "2019-09-27", "end": "2022-12-30\n"}
+{"qid": "Q58606588", "label": "Arrow Financial Corporation", "symbol": "AROW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7500007", "label": "Shoe Carnival", "symbol": "SCVL", "start": "2018-06-14", "end": "2022-12-30\n"}
+{"qid": "Q7501097", "label": "ShopRite", "symbol": "VLGEA", "start": "2022-01-06", "end": "2022-12-30\n"}
+{"qid": "Q7537214", "label": "SkyWest, Inc.", "symbol": "SKYW", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7555837", "label": "SolarWinds", "symbol": "SWI", "start": "2021-01-04", "end": "2022-12-30\n"}
+{"qid": "Q7573912", "label": "SpartanNash", "symbol": "SPTN", "start": "2022-08-25", "end": "2022-12-30\n"}
+{"qid": "Q7605667", "label": "Steel Dynamics", "symbol": "STLD", "start": "2019-11-01", "end": "2022-12-30\n"}
+{"qid": "Q99744172", "label": "Tricida", "symbol": "TCDA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q20648663", "label": "Tegna Inc.", "symbol": "TGNA", "start": "2015-12-01", "end": "2022-12-30\n"}
+{"qid": "Q18636301", "label": "Patriot Transportation", "symbol": "FRPH", "start": "2022-03-14", "end": "2022-12-30\n"}
+{"qid": "Q4652575", "label": "AMC Networks", "symbol": "AMCX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4651203", "label": "ADTRAN", "symbol": "ADTN", "start": "2020-12-31", "end": "2022-12-30\n"}
+{"qid": "Q4708382", "label": "Alarm.com, Inc.", "symbol": "ALRM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q105375474", "label": "Sphere 3D", "symbol": "ANY", "start": "2021-06-24", "end": "2022-12-30\n"}
+{"qid": "Q104868523", "label": "Niu Technologies", "symbol": "NIU", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q104842834", "label": "Avantor", "symbol": "AVTR", "start": "2015-01-09", "end": "2022-12-30\n"}
+{"qid": "Q1526456", "label": "Kimball International", "symbol": "KBAL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1544413", "label": "National Instruments", "symbol": "NATI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1545076", "label": "Microchip Technology", "symbol": "MCHP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1630431", "label": "HCA Corporation", "symbol": "HCA", "start": "2015-11-11", "end": "2022-12-30\n"}
+{"qid": "Q1630559", "label": "Host Hotels & Resorts", "symbol": "HST", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1645081", "label": "Nucor", "symbol": "NUE", "start": "2021-07-30", "end": "2022-12-30\n"}
+{"qid": "Q1652574", "label": "Manulife Financial", "symbol": "MFC", "start": "2021-12-17", "end": "2022-12-30\n"}
+{"qid": "Q1656230", "label": "Phillips 66", "symbol": "PSX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18378515", "label": "Skillz", "symbol": "SKLZ", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5517961", "label": "Galapagos Genomics", "symbol": "GLPG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5586622", "label": "Gorman-Rupp Company", "symbol": "GRC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5595849", "label": "Granite Construction", "symbol": "GVA", "start": "2017-02-27", "end": "2022-12-30\n"}
+{"qid": "Q5627799", "label": "H&R Block", "symbol": "HRB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5609934", "label": "Grocery Outlet", "symbol": "GO", "start": "2017-11-16", "end": "2022-12-30\n"}
+{"qid": "Q5612176", "label": "Grupo Aeroportuario Centro Norte", "symbol": "OMAB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q5664727", "label": "180 Degree Capital", "symbol": "TINY", "start": "2021-01-08", "end": "2022-12-30\n"}
+{"qid": "Q5696498", "label": "Hecla Mining", "symbol": "HL", "start": "2022-07-15", "end": "2022-12-30\n"}
+{"qid": "Q48976818", "label": "NeoGenomics", "symbol": "NEO", "start": "2021-02-12", "end": "2022-12-30\n"}
+{"qid": "Q48977470", "label": "EPR Properties", "symbol": "EPR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q15727302", "label": "Arcos Dorados Holdings", "symbol": "ARCO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q22121866", "label": "Exact Sciences", "symbol": "EXAS", "start": "2022-08-01", "end": "2022-12-30\n"}
+{"qid": "Q55633597", "label": "South State Bank", "symbol": "SSB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1760641", "label": "Parametric Technology Corporation", "symbol": "PTC", "start": "2015-09-30", "end": "2022-12-30\n"}
+{"qid": "Q1850587", "label": "Polaris Industries", "symbol": "PII", "start": "2021-10-01", "end": "2022-12-30\n"}
+{"qid": "Q1138888", "label": "First Solar", "symbol": "FSLR", "start": "2019-07-31", "end": "2022-12-30\n"}
+{"qid": "Q1322011", "label": "Waters Corporation", "symbol": "WAT", "start": "2022-08-26", "end": "2022-12-30\n"}
+{"qid": "Q99744291", "label": "Magenta Therapeutics", "symbol": "MGTA", "start": "2020-11-27", "end": "2022-12-30\n"}
+{"qid": "Q34045622", "label": "Fastly", "symbol": "FSLY", "start": "2020-03-02", "end": "2022-12-30\n"}
+{"qid": "Q10819817", "label": "Silicom", "symbol": "SILC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q10876705", "label": "ZTO EXPRESS", "symbol": "ZTO", "start": "2016-08-18", "end": "2022-12-30\n"}
+{"qid": "Q11306218", "label": "Service Corporation International", "symbol": "SCI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q60269744", "label": "Spotify Technology", "symbol": "SPOT", "start": "2018-10-25", "end": "2022-12-30\n"}
+{"qid": "Q13529431", "label": "Methanex", "symbol": "MEOH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q13529476", "label": "Sierra Wireless", "symbol": "SWIR", "start": "2021-11-01", "end": "2022-12-30\n"}
+{"qid": "Q1929466", "label": "WW International", "symbol": "WW", "start": "2021-04-19", "end": "2022-12-29\n"}
+{"qid": "Q1937503", "label": "Terex", "symbol": "TEX", "start": "2017-07-28", "end": "2022-12-30\n"}
+{"qid": "Q2031485", "label": "Under Armour", "symbol": "UA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2031485", "label": "Under Armour", "symbol": "UAA", "start": "2021-06-30", "end": "2022-12-30\n"}
+{"qid": "Q2044512", "label": "PPL", "symbol": "PPL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2103926", "label": "UnitedHealth Group", "symbol": "UNH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q105563992", "label": "MP Materials", "symbol": "MP", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2297063", "label": "Trimble", "symbol": "TRMB", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q10605824", "label": "Oatly", "symbol": "OTLY", "start": "2021-06-24", "end": "2022-12-30\n"}
+{"qid": "Q7824332", "label": "Tootsie Roll Industries", "symbol": "TR", "start": "2018-10-11", "end": "2022-12-30\n"}
+{"qid": "Q7848008", "label": "Trupanion", "symbol": "TRUP", "start": "2019-06-13", "end": "2022-12-30\n"}
+{"qid": "Q7856379", "label": "Turtle Beach Systems", "symbol": "HEAR", "start": "2018-11-06", "end": "2022-12-30\n"}
+{"qid": "Q7893967", "label": "Universal Health Services", "symbol": "UHS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7893816", "label": "Unity Technologies", "symbol": "U", "start": "2020-11-19", "end": "2022-12-30\n"}
+{"qid": "Q7912737", "label": "Value Line", "symbol": "VALU", "start": "2021-09-24", "end": "2022-12-30\n"}
+{"qid": "Q7953597", "label": "WNS Global Services", "symbol": "WNS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7971859", "label": "WaFd Bank", "symbol": "WAFD", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q18217462", "label": "Tandy Leather Factory", "symbol": "TLF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q33129672", "label": "Grand Canyon Education", "symbol": "LOPE", "start": "2018-05-21", "end": "2022-12-30\n"}
+{"qid": "Q75256038", "label": "Cronos Group Inc", "symbol": "CRON", "start": "2021-10-13", "end": "2022-12-30\n"}
+{"qid": "Q16838618", "label": "Fleetcor", "symbol": "FLT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16974527", "label": "Dover Corporation", "symbol": "DOV", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16975278", "label": "Green Dot Corporation", "symbol": "GDOT", "start": "2015-07-23", "end": "2022-12-30\n"}
+{"qid": "Q16979157", "label": "PBF Energy", "symbol": "PBF", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q16997309", "label": "Ironwood Pharmaceuticals", "symbol": "IRWD", "start": "2018-11-28", "end": "2022-12-30\n"}
+{"qid": "Q17012234", "label": "Enphase Energy", "symbol": "ENPH", "start": "2022-01-03", "end": "2022-12-30\n"}
+{"qid": "Q17077936", "label": "Lyft", "symbol": "LYFT", "start": "2015-11-10", "end": "2022-12-30\n"}
+{"qid": "Q17068094", "label": "Hostess Brands", "symbol": "TWNK", "start": "2015-07-02", "end": "2022-12-30\n"}
+{"qid": "Q17113791", "label": "Middlesex Water Company", "symbol": "MSEX", "start": "2017-02-01", "end": "2022-12-30\n"}
+{"qid": "Q17108492", "label": "Middleby Corporation", "symbol": "MIDD", "start": "2020-09-23", "end": "2022-12-30\n"}
+{"qid": "Q15913890", "label": "iQIYI", "symbol": "IQ", "start": "2020-11-02", "end": "2022-12-30\n"}
+{"qid": "Q1156045", "label": "Public Storage", "symbol": "PSA", "start": "2022-11-16", "end": "2022-12-30\n"}
+{"qid": "Q1280748", "label": "EchoStar", "symbol": "SATS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1342041", "label": "Lam Research", "symbol": "LRCX", "start": "2021-09-02", "end": "2022-12-30\n"}
+{"qid": "Q2744099", "label": "Vertex Pharmaceuticals", "symbol": "VRTX", "start": "2015-07-13", "end": "2022-12-30\n"}
+{"qid": "Q2814507", "label": "Criteo", "symbol": "CRTO", "start": "2022-08-24", "end": "2022-12-30\n"}
+{"qid": "Q106698278", "label": "Ocugen", "symbol": "OCGN", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q4045079", "label": "Nature's Sunshine Products", "symbol": "NATR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q108670343", "label": "B. Riley Financial", "symbol": "RILY", "start": "2016-09-29", "end": "2022-12-30\n"}
+{"qid": "Q73883753", "label": "Alteryx", "symbol": "AYX", "start": "2017-02-28", "end": "2022-12-30\n"}
+{"qid": "Q7161915", "label": "Pembina Pipeline", "symbol": "PBA", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7163201", "label": "Penn National Gaming", "symbol": "PENN", "start": "2014-05-27", "end": "2022-12-30\n"}
+{"qid": "Q7178935", "label": "Petroleum & Resources Corporation", "symbol": "PEO", "start": "2021-07-19", "end": "2022-12-30\n"}
+{"qid": "Q7201095", "label": "Planet Fitness", "symbol": "PLNT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7241774", "label": "Prestige Brands", "symbol": "PBH", "start": "2020-02-27", "end": "2022-12-30\n"}
+{"qid": "Q7259716", "label": "Pulte Homes", "symbol": "PHM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7311538", "label": "Remark Media", "symbol": "MARK", "start": "2021-04-30", "end": "2022-12-30\n"}
+{"qid": "Q7314387", "label": "Republic Bank & Trust Company", "symbol": "RBCAA", "start": "2020-11-25", "end": "2022-12-30\n"}
+{"qid": "Q7314903", "label": "ResMed", "symbol": "RMD", "start": "2022-08-12", "end": "2022-12-30\n"}
+{"qid": "Q7360089", "label": "Roku, Inc", "symbol": "ROKU", "start": "2015-05-15", "end": "2022-12-30\n"}
+{"qid": "Q7417809", "label": "Sangamo Therapeutics", "symbol": "SGMO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q7431916", "label": "Schnitzer Steel Industries", "symbol": "SCHN", "start": "2021-11-03", "end": "2022-12-30\n"}
+{"qid": "Q2506396", "label": "Voxx International", "symbol": "VOXX", "start": "2019-12-17", "end": "2022-12-30\n"}
+{"qid": "Q2581220", "label": "Williams-Sonoma", "symbol": "WSM", "start": "2022-04-07", "end": "2022-12-30\n"}
+{"qid": "Q29641502", "label": "Aware, Inc.", "symbol": "AWRE", "start": "2019-05-14", "end": "2022-12-30\n"}
+{"qid": "Q301965", "label": "Sprint Corporation", "symbol": "S", "start": "2019-02-28", "end": "2022-12-30\n"}
+{"qid": "Q433896", "label": "Altairnano", "symbol": "ALTI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q19730939", "label": "Plains GP Holdings", "symbol": "PAGP", "start": "2021-12-27", "end": "2022-12-30\n"}
+{"qid": "Q628051", "label": "Autodesk", "symbol": "ADSK", "start": "2017-10-13", "end": "2022-12-30\n"}
+{"qid": "Q629998", "label": "General Mills", "symbol": "GIS", "start": "2021-04-28", "end": "2022-12-30\n"}
+{"qid": "Q643674", "label": "Thermo Fisher Scientific", "symbol": "TMO", "start": "2014-06-12", "end": "2022-12-30\n"}
+{"qid": "Q645525", "label": "SunPower", "symbol": "SPWR", "start": "2020-06-04", "end": "2022-12-30\n"}
+{"qid": "Q648533", "label": "Semiconductor Manufacturing International Corporation", "symbol": "SMI", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q518016", "label": "Unisys", "symbol": "UIS", "start": "2021-02-10", "end": "2022-12-30\n"}
+{"qid": "Q529157", "label": "Frontline Ltd.", "symbol": "FRO", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q507154", "label": "Novartis", "symbol": "NOVN", "start": "2022-03-31", "end": "2022-12-30\n"}
+{"qid": "Q507154", "label": "Novartis", "symbol": "NVS", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q582418", "label": "ITT Corporation", "symbol": "ITT", "start": "2022-10-25", "end": "2022-12-30\n"}
+{"qid": "Q568532", "label": "MGM Resorts International", "symbol": "MGM", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2594130", "label": "Worthington Industries", "symbol": "WOR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q2749364", "label": "Fortinet", "symbol": "FTNT", "start": "2021-11-03", "end": "2022-12-30\n"}
+{"qid": "Q155026", "label": "United Parcel Service", "symbol": "UPS", "start": "2022-02-09", "end": "2022-12-30\n"}
+{"qid": "Q152433", "label": "Xerox", "symbol": "XRX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q174310", "label": "Nordstrom", "symbol": "JWN", "start": "2020-06-19", "end": "2022-12-30\n"}
+{"qid": "Q1287771", "label": "Caesarstone Sdot-Yam", "symbol": "CSTE", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1325369", "label": "Elbit Systems", "symbol": "ESLT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1345971", "label": "Gannett", "symbol": "GCI", "start": "2020-04-02", "end": "2022-12-30\n"}
+{"qid": "Q1353939", "label": "Etsy", "symbol": "ETSY", "start": "2014-03-07", "end": "2022-12-30\n"}
+{"qid": "Q1058722", "label": "Shake Shack", "symbol": "SHAK", "start": "2022-06-24", "end": "2022-12-30\n"}
+{"qid": "Q1044059", "label": "Carnival Corporation & plc", "symbol": "CCL", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1049080", "label": "Juniper Networks", "symbol": "JNPR", "start": "2018-02-07", "end": "2022-12-30\n"}
+{"qid": "Q1132272", "label": "PVH", "symbol": "PVH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q1146061", "label": "Cushman & Wakefield", "symbol": "CWK", "start": "2015-12-02", "end": "2022-12-30\n"}
+{"qid": "Q434017", "label": "Altair Engineering", "symbol": "ALTR", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q444110", "label": "The Hartford", "symbol": "HIG", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q456563", "label": "Ambac", "symbol": "AMBC", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q477993", "label": "iHeartMedia", "symbol": "IHRT", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q483551", "label": "Walmart", "symbol": "WMT", "start": "2019-05-16", "end": "2022-12-30\n"}
+{"qid": "Q502344", "label": "Lear Corporation", "symbol": "LEA", "start": "2021-11-08", "end": "2022-12-20\n"}
+{"qid": "Q522617", "label": "Invesco", "symbol": "IVZ", "start": "2018-05-08", "end": "2022-12-30\n"}
+{"qid": "Q21196367", "label": "Black Stone Minerals", "symbol": "BSM", "start": "2021-04-28", "end": "2022-12-30\n"}
+{"qid": "Q160229", "label": "Telefónica", "symbol": "TEF", "start": "2018-11-29", "end": "2022-12-30\n"}
+{"qid": "Q191715", "label": "WarnerMedia", "symbol": "TWX", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q203552", "label": "Zimmer Biomet Holdings", "symbol": "ZBH", "start": "2014-01-02", "end": "2022-12-30\n"}
+{"qid": "Q156238", "label": "ExxonMobil", "symbol": "XOM", "start": "2019-11-08", "end": "2022-12-30\n"}
+{"qid": "Q604775", "label": "4Kids Entertainment", "symbol": "FOUR", "start": "2014-06-12", "end": "2022-12-30\n"}
+{"qid": "Q18150963", "label": "ForgeRock", "symbol": "FORG", "start": "2021-07-08", "end": "2022-12-30\n"}
+{"qid": "Q98055133", "label": "Sunnova Energy International", "symbol": "NOVA", "start": "2019-02-07", "end": "2022-12-30\n"}
+{"qid": "Q7076286", "label": "Sculptor Capital Management", "symbol": "SCU", "start": "2022-01-13", "end": "2022-12-30\n"}

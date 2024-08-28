@@ -1,0 +1,3 @@
+name: MyHXDFComputeBackend
+module_path: q4l_idea_toolbox.data.compute_backend
+kwargs: {}

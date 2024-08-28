@@ -1,0 +1,12 @@
+defaults:
+  - base_data
+  - loader: qbench_loader
+  - preprocessor: qbench_preprocessor
+  - sampler: qbench_sampler
+  - loader/backend/compute@loader.backend.compute.myhxdf: myhxdf
+  - loader/alpha@loader.alpha.fundamental: qbench_fundamental
+  - loader/alpha@loader.alpha.news: qbench_news
+  - loader/alpha@loader.alpha.ohlcvp: qbench_ohlcvp
+  - loader/alpha@loader.alpha.industry: qbench_industry
+
+shm_name: qbench_shm_data

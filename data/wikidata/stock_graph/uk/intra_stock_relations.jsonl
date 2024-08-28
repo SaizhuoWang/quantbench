@@ -1,0 +1,10 @@
+{"claim_id":"Q638098$06c6dd32-45d2-5e61-23e1-d9135d02e4de","qid":"Q638098","property_id":"P127","value":"Q1142797","point_in_time":"+2020-05-31T00:00:00Z"}
+{"claim_id":"Q28402815$15ad97d7-4bb5-21c9-738a-fc4af8888a7b","qid":"Q28402815","property_id":"P137","value":"Q1142797"}
+{"claim_id":"Q1256028$399b6245-4540-a66f-b5e5-0901f2270df4","qid":"Q1256028","property_id":"P127","value":"Q1142797"}
+{"claim_id":"Q487494$b7efee78-417b-2e26-91e0-1db46feccde7","qid":"Q487494","property_id":"P127","value":"Q1142797","point_in_time":"+2016-02-27T00:00:00Z"}
+{"claim_id":"Q278810$2c3bd4ba-42d8-9167-36f6-6ce4b855b702","qid":"Q278810","property_id":"P127","value":"Q1470848"}
+{"claim_id":"Q503077$1A904663-8A90-47BC-A671-3118377417E1","qid":"Q503077","property_id":"P1830","value":"Q4904749"}
+{"claim_id":"Q4904749$e27c2207-42cd-675c-0f95-f5e384395b6e","qid":"Q4904749","property_id":"P127","value":"Q503077","start_time":"+1991-00-00T00:00:00Z","end_time":"+2008-00-00T00:00:00Z"}
+{"claim_id":"Q19903338$16f990cb-4c2d-49e0-478f-ad608fb057da","qid":"Q19903338","property_id":"P127","value":"Q838553"}
+{"claim_id":"Q838553$A3AB029E-205B-4CE2-8960-4B88FE3F13BF","qid":"Q838553","property_id":"P1830","value":"Q19903338"}
+{"claim_id":"Q190464$42ceb366-43a1-badb-84c9-18cea3fa7b97","qid":"Q190464","property_id":"P485","value":"Q190464"}

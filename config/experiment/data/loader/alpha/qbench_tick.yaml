@@ -1,0 +1,6 @@
+defaults:
+  - base_data_loader_alpha
+
+name: tick
+expressions:
+  tick_spread: "{disk:spread}"

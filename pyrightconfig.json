@@ -1,0 +1,18 @@
+{
+    "exclude": [
+        "qbench_*/",
+        "**/outputs",
+        "mqbench_runs",
+        "**/mlruns",
+        "logs",
+        "factor_cache",
+        "data",
+        "catboost_info",
+        "results",
+        "**/slurm_logs",
+        "**/tensorboard_logs",
+        "**/qbench_slurm_log",
+        "**/quotes*",
+        "**/trades*",
+    ]
+}

@@ -1,0 +1,385 @@
+{"qid":"Q18635633","label":"Maruha Nichiro","symbol":"1333.T"}
+{"qid":"Q17212505","label":"Tama Home","symbol":"1419.T"}
+{"qid":"Q1654229","label":"Inpex","symbol":"1605.T"}
+{"qid":"Q420659","label":"Takamatsu Construction Group","symbol":"1762.T"}
+{"qid":"Q842437","label":"YTL Corporation","symbol":"1773.T"}
+{"qid":"Q3178370","label":"Taisei Corporation","symbol":"1801.T"}
+{"qid":"Q384730","label":"Obayashi Corporation","symbol":"1802.T"}
+{"qid":"Q7496874","label":"Shimizu Corporation","symbol":"1803.T"}
+{"qid":"Q11435927","label":"Daisue Construction","symbol":"1814.T"}
+{"qid":"Q11445911","label":"Okumura Corporation","symbol":"1833.T"}
+{"qid":"Q11661591","label":"Asunaro Aoki Construction","symbol":"1865.T"}
+{"qid":"Q11507575","label":"JDC Corporation","symbol":"1887.T"}
+{"qid":"Q1539141","label":"Sekisui House","symbol":"1928.T"}
+{"qid":"Q5216057","label":"JGC Holdings Corporation","symbol":"1963.T"}
+{"qid":"Q16144107","label":"Mixi","symbol":"2121.T"}
+{"qid":"Q11505520","label":"Nihon M&A Center","symbol":"2127.T"}
+{"qid":"Q53309920","label":"Takeei Corporation","symbol":"2151.T"}
+{"qid":"Q391534","label":"Ezaki Glico","symbol":"2206.T"}
+{"qid":"Q11334857","label":"Bourbon","symbol":"2208.T"}
+{"qid":"Q858452","label":"Fujiya","symbol":"2211.T"}
+{"qid":"Q846834","label":"Calbee","symbol":"2229.T"}
+{"qid":"Q6912239","label":"Morinaga Milk Industry","symbol":"2264.T"}
+{"qid":"Q11512295","label":"Meiji Holdings","symbol":"2269.T"}
+{"qid":"Q7039626","label":"NH Foods","symbol":"2282.T"}
+{"qid":"Q24877030","label":"Itoham Yonekyu Holdings","symbol":"2296.T"}
+{"qid":"Q11320256","label":"DeNA","symbol":"2432.T"}
+{"qid":"Q11395551","label":"Demae-can","symbol":"2484.T"}
+{"qid":"Q11328124","label":"ValueCommerce","symbol":"2491.T"}
+{"qid":"Q11304809","label":"Sapporo Holdings","symbol":"2501.T"}
+{"qid":"Q11283168","label":"Asahi Group Holdings","symbol":"2502.T"}
+{"qid":"Q13403399","label":"Kirin Holdings","symbol":"2503.T"}
+{"qid":"Q7677258","label":"Takara Holdings","symbol":"2531.T"}
+{"qid":"Q11666819","label":"Yomeishu Seizo","symbol":"2540.T"}
+{"qid":"Q28685058","label":"Coca-Cola Bottlers Japan Holdings","symbol":"2579.T"}
+{"qid":"Q1557223","label":"Lawson","symbol":"2651.T"}
+{"qid":"Q11286217","label":"Aeon Kyushu","symbol":"2653.T"}
+{"qid":"Q11245018","label":"Vector","symbol":"2656.T"}
+{"qid":"Q11295397","label":"Cawachi","symbol":"2664.T"}
+{"qid":"Q11188787","label":"ABC-Mart","symbol":"2670.T"}
+{"qid":"Q11283438","label":"Askul Corporation","symbol":"2678.T"}
+{"qid":"Q11301501","label":"Geo Holdings","symbol":"2681.T"}
+{"qid":"Q6445491","label":"Kura Sushi","symbol":"2695.T"}
+{"qid":"Q11290252","label":"EDION","symbol":"2730.T"}
+{"qid":"Q586260","label":"Sojitz","symbol":"2768.T"}
+{"qid":"Q412826","label":"Ajinomoto","symbol":"2802.T"}
+{"qid":"Q11345600","label":"Yutaka Foods","symbol":"2806.T"}
+{"qid":"Q6346618","label":"Kagome","symbol":"2811.T"}
+{"qid":"Q4921527","label":"Nichirei","symbol":"2871.T"}
+{"qid":"Q7830633","label":"Toyo Suisan","symbol":"2875.T"}
+{"qid":"Q18341667","label":"Nissin Foods Holdings","symbol":"2897.T"}
+{"qid":"Q11301272","label":"Kenko Mayonnaise","symbol":"2915.T"}
+{"qid":"Q11330273","label":"Hulic","symbol":"3003.T"}
+{"qid":"Q17192331","label":"Alpen","symbol":"3028.T"}
+{"qid":"Q11590183","label":"Kobe Bussan","symbol":"3038.T"}
+{"qid":"Q4903531","label":"Bic Camera","symbol":"3048.T"}
+{"qid":"Q11195603","label":"DCM Holdings","symbol":"3050.T"}
+{"qid":"Q11650214","label":"Choushimaru","symbol":"3075.T"}
+{"qid":"Q11225149","label":"J. Front Retailing","symbol":"3086.T"}
+{"qid":"Q11322733","label":"Doutor Nichires Holdings","symbol":"3087.T"}
+{"qid":"Q11312063","label":"ZOZO","symbol":"3092.T"}
+{"qid":"Q6079763","label":"Isetan Mitsukoshi Holdings","symbol":"3099.T"}
+{"qid":"Q7830642","label":"Toyobo","symbol":"3101.T"}
+{"qid":"Q7893684","label":"Unitika","symbol":"3103.T"}
+{"qid":"Q7830755","label":"Toyota Boshoku","symbol":"3116.T"}
+{"qid":"Q11299163","label":"CREATE SD HOLDINGS. CO., LTD.","symbol":"3148.T"}
+{"qid":"Q11645551","label":"Nomura Real Estate Holdings","symbol":"3231.T"}
+{"qid":"Q11357660","label":"Mie Kotsu Group Holdings","symbol":"3232.T"}
+{"qid":"Q17219597","label":"Tokyu Fudosan Holdings","symbol":"3289.T"}
+{"qid":"Q27017119","label":"AEON REIT Investment","symbol":"3292.T"}
+{"qid":"Q11509159","label":"Nihon Chouzai","symbol":"3341.T"}
+{"qid":"Q17214979","label":"Red Planet Japan","symbol":"3350.T"}
+{"qid":"Q639447","label":"Seven & I Holdings Co.","symbol":"3382.T"}
+{"qid":"Q11318827","label":"Tsuruha Holdings","symbol":"3391.T"}
+{"qid":"Q11332729","label":"Felissimo Corporation","symbol":"3396.T"}
+{"qid":"Q168115","label":"Toray Industries","symbol":"3402.T"}
+{"qid":"Q720489","label":"Asahi Kasei","symbol":"3407.T"}
+{"qid":"Q53310092","label":"Pixta","symbol":"3416.T"}
+{"qid":"Q96313509","label":"N","symbol":"3461.T"}
+{"qid":"Q106689901","label":"Hogy Medical","symbol":"3593.T"}
+{"qid":"Q1576915","label":"Koei Tecmo Holdings","symbol":"3635.T"}
+{"qid":"Q18339307","label":"Voltage","symbol":"3639.T"}
+{"qid":"Q16962428","label":"Ateam Inc.","symbol":"3662.T"}
+{"qid":"Q11302894","label":"COLOPL","symbol":"3668.T"}
+{"qid":"Q17995797","label":"SOFTMAX","symbol":"3671.T"}
+{"qid":"Q63126788","label":"Media Do Holdings","symbol":"3678.T"}
+{"qid":"Q11252820","label":"CARTA HOLDINGS","symbol":"3688.T"}
+{"qid":"Q11292328","label":"OPTiM","symbol":"3694.T"}
+{"qid":"Q1142226","label":"Nihon Falcom","symbol":"3723.T"}
+{"qid":"Q11267769","label":"Sakura Internet","symbol":"3778.T"}
+{"qid":"Q1143659","label":"Nippon Ichi Software","symbol":"3851.T"}
+{"qid":"Q1993312","label":"Nippon Paper Group","symbol":"3863.T"}
+{"qid":"Q11404108","label":"Hokuetsu Kishu Paper","symbol":"3865.T"}
+{"qid":"Q905412","label":"Showa Denko","symbol":"4004.T"}
+{"qid":"Q137803","label":"Sumitomo Chemical","symbol":"4005.T"}
+{"qid":"Q7040930","label":"Nissan Chemical Corporation","symbol":"4021.T"}
+{"qid":"Q11299598","label":"Kureha","symbol":"4023.T"}
+{"qid":"Q906991","label":"Tosoh","symbol":"4042.T"}
+{"qid":"Q7811386","label":"Toagosei","symbol":"4045.T"}
+{"qid":"Q904284","label":"Shin-Etsu Chemical","symbol":"4063.T"}
+{"qid":"Q11289523","label":"Air Water","symbol":"4088.T"}
+{"qid":"Q11441729","label":"Taiyo Nippon Sanso","symbol":"4091.T"}
+{"qid":"Q17229636","label":"Nippon Chemical Industrial","symbol":"4092.T"}
+{"qid":"Q11294493","label":"Kaneka Corporation","symbol":"4118.T"}
+{"qid":"Q6452254","label":"Kyowa Kirin","symbol":"4151.T"}
+{"qid":"Q56272861","label":"Appier","symbol":"4180.T"}
+{"qid":"Q1589451","label":"Mitsubishi Gas Chemical Company","symbol":"4182.T"}
+{"qid":"Q777141","label":"Mitsui Chemicals","symbol":"4183.T"}
+{"qid":"Q11282086","label":"Aica Kogyo","symbol":"4206.T"}
+{"qid":"Q260121","label":"UBE Corporation","symbol":"4208.T"}
+{"qid":"Q11305473","label":"N","symbol":"4234.T"}
+{"qid":"Q719628","label":"Amuse","symbol":"4301.T"}
+{"qid":"Q1189945","label":"Dentsu","symbol":"4324.T"}
+{"qid":"Q1923795","label":"Yuke's","symbol":"4334.T"}
+{"qid":"Q11315494","label":"Sourcenext","symbol":"4344.T"}
+{"qid":"Q11335195","label":"Broadmedia","symbol":"4347.T"}
+{"qid":"Q96324107","label":"Medical System Network","symbol":"4350.T"}
+{"qid":"Q899133","label":"Takeda Pharmaceutical Company","symbol":"4502.T"}
+{"qid":"Q528842","label":"Astellas Pharma","symbol":"4503.T"}
+{"qid":"Q1087980","label":"Sumitomo Pharma","symbol":"4506.T"}
+{"qid":"Q3482319","label":"Shionogi","symbol":"4507.T"}
+{"qid":"Q6883161","label":"Mitsubishi Tanabe Pharma","symbol":"4508.T"}
+{"qid":"Q903384","label":"Eisai","symbol":"4523.T"}
+{"qid":"Q11464265","label":"Ono Pharmaceutical","symbol":"4528.T"}
+{"qid":"Q11504979","label":"Nichi-Iko Pharmaceutical Co.","symbol":"4541.T"}
+{"qid":"Q11553124","label":"Sawai Pharmaceutical","symbol":"4555.T"}
+{"qid":"Q18339236","label":"PeptiDream","symbol":"4587.T"}
+{"qid":"Q11656239","label":"Kansai Paint","symbol":"4613.T"}
+{"qid":"Q11283180","label":"Asahipen","symbol":"4623.T"}
+{"qid":"Q15731340","label":"DIC Corporation","symbol":"4631.T"}
+{"qid":"Q868679","label":"The Oriental Land Company","symbol":"4661.T"}
+{"qid":"Q11317143","label":"Duskin","symbol":"4665.T"}
+{"qid":"Q11511998","label":"Meiko Network Japan","symbol":"4668.T"}
+{"qid":"Q10954015","label":"Fuji Media Holdings","symbol":"4676.T"}
+{"qid":"Q11348063","label":"Resorttrust","symbol":"4681.T"}
+{"qid":"Q6315712","label":"JustSystems","symbol":"4686.T"}
+{"qid":"Q1146428","label":"Yahoo! Japan","symbol":"4689.T"}
+{"qid":"Q700974","label":"Trend Micro","symbol":"4704.T"}
+{"qid":"Q2271746","label":"Tose Co.","symbol":"4728.T"}
+{"qid":"Q11304138","label":"CyberAgent","symbol":"4751.T"}
+{"qid":"Q973054","label":"Rakuten","symbol":"4755.T"}
+{"qid":"Q476215","label":"Oricon","symbol":"4800.T"}
+{"qid":"Q492412","label":"Weathernews","symbol":"4825.T"}
+{"qid":"Q11455891","label":"Fujifilm Holdings","symbol":"4901.T"}
+{"qid":"Q11308895","label":"C\u2019BON COSMETICS Co.,Ltd.","symbol":"4926.T"}
+{"qid":"Q11285616","label":"Earth Chemical","symbol":"4985.T"}
+{"qid":"Q277115","label":"Showa Shell Sekiyu","symbol":"5002.T"}
+{"qid":"Q128577","label":"ENEOS Holdings","symbol":"5020.T"}
+{"qid":"Q85329888","label":"AnyColor","symbol":"5032.T"}
+{"qid":"Q568406","label":"Toyo Tire Corporation","symbol":"5105.T"}
+{"qid":"Q179433","label":"Bridgestone","symbol":"5108.T"}
+{"qid":"Q114895416","label":"pluszero, Inc","symbol":"5132.T"}
+{"qid":"Q11582081","label":"Sagami Rubber Industries","symbol":"5194.T"}
+{"qid":"Q326700","label":"Nippon Sheet Glass","symbol":"5202.T"}
+{"qid":"Q11348062","label":"Resol Holdings","symbol":"5261.T"}
+{"qid":"Q1751566","label":"Toto Ltd.","symbol":"5332.T"}
+{"qid":"Q11283190","label":"Asahi Eito","symbol":"5341.T"}
+{"qid":"Q1151693","label":"Nippon Steel Corporation","symbol":"5401.T"}
+{"qid":"Q11411383","label":"Furukawa Company","symbol":"5715.T"}
+{"qid":"Q5509800","label":"Furukawa Electric","symbol":"5801.T"}
+{"qid":"Q1814247","label":"Sumitomo Electric Industries","symbol":"5802.T"}
+{"qid":"Q11525019","label":"Totoku Electric","symbol":"5807.T"}
+{"qid":"Q114401686","label":"Iyogin Holdings, Inc.","symbol":"5830.T"}
+{"qid":"Q11229276","label":"LIXIL Group","symbol":"5938.T"}
+{"qid":"Q795243","label":"Rinnai","symbol":"5947.T"}
+{"qid":"Q13479653","label":"Okuma Corporation","symbol":"6103.T"}
+{"qid":"Q626459","label":"Makino","symbol":"6135.T"}
+{"qid":"Q11293105","label":"OSG Corporation","symbol":"6136.T"}
+{"qid":"Q1372049","label":"Japan Post Holdings","symbol":"6178.T"}
+{"qid":"Q11323984","label":"Nabtesco","symbol":"6268.T"}
+{"qid":"Q1581562","label":"Iseki","symbol":"6310.T"}
+{"qid":"Q1514221","label":"Kubota","symbol":"6326.T"}
+{"qid":"Q11516071","label":"Tsukishima Kikai","symbol":"6332.T"}
+{"qid":"Q11315935","label":"Takatori Corporation","symbol":"6338.T"}
+{"qid":"Q11443999","label":"Taihei Machinery Works","symbol":"6342.T"}
+{"qid":"Q5331498","label":"Ebara Corporation","symbol":"6361.T"}
+{"qid":"Q955596","label":"Chiyoda Corporation","symbol":"6366.T"}
+{"qid":"Q1157589","label":"Daikin Industries","symbol":"6367.T"}
+{"qid":"Q4041964","label":"Kato Works","symbol":"6390.T"}
+{"qid":"Q2387094","label":"Tadano Limited","symbol":"6395.T"}
+{"qid":"Q1457152","label":"Sega Sammy Holdings","symbol":"6460.T"}
+{"qid":"Q1961495","label":"NSK Ltd.","symbol":"6471.T"}
+{"qid":"Q11361559","label":"Nachi-Fujikoshi","symbol":"6474.T"}
+{"qid":"Q53238","label":"Hitachi","symbol":"6501.T"}
+{"qid":"Q2620239","label":"Yaskawa Electric Corporation","symbol":"6506.T"}
+{"qid":"Q11221651","label":"N","symbol":"6557.T"}
+{"qid":"Q107123586","label":"LOGLY","symbol":"6579.T"}
+{"qid":"Q691508","label":"Makita","symbol":"6586.T"}
+{"qid":"Q3341241","label":"Nidec","symbol":"6594.T"}
+{"qid":"Q5969993","label":"IDEC Corporation","symbol":"6652.T"}
+{"qid":"Q1001931","label":"Melco Holdings","symbol":"6676.T"}
+{"qid":"Q219203","label":"NEC","symbol":"6701.T"}
+{"qid":"Q186394","label":"Fujitsu","symbol":"6702.T"}
+{"qid":"Q11660436","label":"Denki Kogyo","symbol":"6706.T"}
+{"qid":"Q159614","label":"Seiko Epson","symbol":"6724.T"}
+{"qid":"Q592182","label":"Eizo","symbol":"6737.T"}
+{"qid":"Q2679402","label":"Japan Display","symbol":"6740.T"}
+{"qid":"Q5354491","label":"Elecom","symbol":"6750.T"}
+{"qid":"Q53247","label":"Panasonic Corporation","symbol":"6752.T"}
+{"qid":"Q53227","label":"Sharp Corporation","symbol":"6753.T"}
+{"qid":"Q41187","label":"Sony","symbol":"6758.T"}
+{"qid":"Q855479","label":"TDK","symbol":"6762.T"}
+{"qid":"Q11245510","label":"Santec Corporation","symbol":"6777.T"}
+{"qid":"Q1439493","label":"Fostex","symbol":"6794.T"}
+{"qid":"Q1549408","label":"TEAC Corporation","symbol":"6803.T"}
+{"qid":"Q176572","label":"Horiba","symbol":"6856.T"}
+{"qid":"Q2722179","label":"Advantest","symbol":"6857.T"}
+{"qid":"Q1475699","label":"Keyence","symbol":"6861.T"}
+{"qid":"Q7663566","label":"Sysmex Corporation","symbol":"6869.T"}
+{"qid":"Q5967675","label":"I-O Data","symbol":"6916.T"}
+{"qid":"Q1314072","label":"Yamaichi Electronics Co.","symbol":"6941.T"}
+{"qid":"Q217338","label":"Casio","symbol":"6952.T"}
+{"qid":"Q11199029","label":"FDK Corporation","symbol":"6955.T"}
+{"qid":"Q11333054","label":"Fukuda Denshi","symbol":"6960.T"}
+{"qid":"Q17228540","label":"Daishinku Corp.","symbol":"6962.T"}
+{"qid":"Q745099","label":"Kyocera","symbol":"6971.T"}
+{"qid":"Q7024819","label":"Nichicon","symbol":"6996.T"}
+{"qid":"Q7039614","label":"Nippon Chemi-Con","symbol":"6997.T"}
+{"qid":"Q5871699","label":"Hitachi Zosen Corporation","symbol":"7004.T"}
+{"qid":"Q748148","label":"Kawasaki Heavy Industries","symbol":"7012.T"}
+{"qid":"Q3936221","label":"Mitsubishi Logisnext","symbol":"7105.T"}
+{"qid":"Q24870433","label":"Mebuki Financial Group","symbol":"7167.T"}
+{"qid":"Q907103","label":"Japan Post Bank","symbol":"7182.T"}
+{"qid":"Q28688621","label":"Hirose Tsusyo","symbol":"7185.T"}
+{"qid":"Q2744340","label":"Bank of Yokohama","symbol":"7186.T"}
+{"qid":"Q20165","label":"Nissan","symbol":"7201.T"}
+{"qid":"Q53268","label":"Toyota","symbol":"7203.T"}
+{"qid":"Q36033","label":"Mitsubishi Motors","symbol":"7211.T"}
+{"qid":"Q2979687","label":"HKS","symbol":"7219.T"}
+{"qid":"Q409907","label":"Aisin Seiki","symbol":"7259.T"}
+{"qid":"Q35996","label":"Mazda","symbol":"7261.T"}
+{"qid":"Q9584","label":"Honda","symbol":"7267.T"}
+{"qid":"Q158888","label":"Yamaha Motor Company","symbol":"7272.T"}
+{"qid":"Q11286431","label":"Ikuyo","symbol":"7273.T"}
+{"qid":"Q56348545","label":"Branding Engineer","symbol":"7352.T"}
+{"qid":"Q115035752","label":"Retty Inc.","symbol":"7356.T"}
+{"qid":"Q708789","label":"Ryohin Keikaku","symbol":"7453.T"}
+{"qid":"Q11311760","label":"Suzuden Corporation","symbol":"7480.T"}
+{"qid":"Q11335403","label":"Plaza Create","symbol":"7502.T"}
+{"qid":"Q11325464","label":"Net One Systems","symbol":"7518.T"}
+{"qid":"Q16485533","label":"Pan Pacific International Holdings Corporation","symbol":"7532.T"}
+{"qid":"Q8069229","label":"Zensho","symbol":"7550.T"}
+{"qid":"Q11326640","label":"Happinet","symbol":"7552.T"}
+{"qid":"Q886564","label":"Saizeriya","symbol":"7581.T"}
+{"qid":"Q5986105","label":"Ichibanya","symbol":"7630.T"}
+{"qid":"Q517117","label":"Shimadzu Corp.","symbol":"7701.T"}
+{"qid":"Q1218180","label":"Nikon","symbol":"7731.T"}
+{"qid":"Q11435639","label":"SCREEN Holdings","symbol":"7735.T"}
+{"qid":"Q11291617","label":"A&D Company","symbol":"7745.T"}
+{"qid":"Q178778","label":"Ricoh","symbol":"7752.T"}
+{"qid":"Q11508787","label":"Nihon Seimitsu","symbol":"7771.T"}
+{"qid":"Q656229","label":"Bushiroad","symbol":"7803.T"}
+{"qid":"Q806259","label":"Bandai Namco Holdings","symbol":"7832.T"}
+{"qid":"Q2546713","label":"Marvelous","symbol":"7844.T"}
+{"qid":"Q1356034","label":"Pilot Corporation","symbol":"7846.T"}
+{"qid":"Q1335998","label":"Tomy","symbol":"7867.T"}
+{"qid":"Q773924","label":"Yonex","symbol":"7906.T"}
+{"qid":"Q986752","label":"Toppan","symbol":"7911.T"}
+{"qid":"Q1157511","label":"Dai Nippon Printing","symbol":"7912.T"}
+{"qid":"Q11420345","label":"Tosho Printing","symbol":"7913.T"}
+{"qid":"Q11392639","label":"Kyodo Printing","symbol":"7914.T"}
+{"qid":"Q327247","label":"ASICS","symbol":"7936.T"}
+{"qid":"Q188454","label":"Yamaha Corporation","symbol":"7951.T"}
+{"qid":"Q11331467","label":"Pigeon","symbol":"7956.T"}
+{"qid":"Q1101230","label":"Zojirushi Corporation","symbol":"7965.T"}
+{"qid":"Q8093","label":"Nintendo","symbol":"7974.T"}
+{"qid":"Q867714","label":"Mitsubishi Pencil","symbol":"7976.T"}
+{"qid":"Q716457","label":"Toyota Tsusho","symbol":"8015.T"}
+{"qid":"Q24876211","label":"FamilyMart UNY Holdings","symbol":"8028.T"}
+{"qid":"Q322601","label":"Seiko","symbol":"8050.T"}
+{"qid":"Q11467670","label":"Yamazen Corporation","symbol":"8051.T"}
+{"qid":"Q11324590","label":"Nipro","symbol":"8086.T"}
+{"qid":"Q11475649","label":"Iwatani Corporation","symbol":"8088.T"}
+{"qid":"Q11320384","label":"Descente","symbol":"8114.T"}
+{"qid":"Q11314927","label":"Zett","symbol":"8135.T"}
+{"qid":"Q1204169","label":"MOS Burger","symbol":"8153.T"}
+{"qid":"Q11304897","label":"SRS Holdings","symbol":"8163.T"}
+{"qid":"Q11350142","label":"Royal Holdings","symbol":"8179.T"}
+{"qid":"Q7334856","label":"Ringer Hut","symbol":"8200.T"}
+{"qid":"Q11346643","label":"LaOX","symbol":"8202.T"}
+{"qid":"Q2058024","label":"Takashimaya","symbol":"8233.T"}
+{"qid":"Q6414357","label":"Kintetsu Department Store","symbol":"8244.T"}
+{"qid":"Q271413","label":"AEON","symbol":"8267.T"}
+{"qid":"Q333101","label":"Bank of Japan","symbol":"8301.T"}
+{"qid":"Q571997","label":"SBI Shinsei Bank","symbol":"8303.T"}
+{"qid":"Q1232514","label":"Resona Holdings","symbol":"8308.T"}
+{"qid":"Q5215535","label":"Sumitomo Mitsui Trust Holdings","symbol":"8309.T"}
+{"qid":"Q2094989","label":"Sumitomo Mitsui Financial Group","symbol":"8316.T"}
+{"qid":"Q11433765","label":"Ogaki Kyoritsu Bank","symbol":"8361.T"}
+{"qid":"Q11277712","label":"Hokuhoku Financial Group","symbol":"8377.T"}
+{"qid":"Q166621","label":"Mizuho Financial Group","symbol":"8411.T"}
+{"qid":"Q1113213","label":"SBI Holdings","symbol":"8473.T"}
+{"qid":"Q4696808","label":"Aiful","symbol":"8515.T"}
+{"qid":"Q11279163","label":"Minato Bank","symbol":"8543.T"}
+{"qid":"Q11656195","label":"Kansai Urban Banking Corporation","symbol":"8545.T"}
+{"qid":"Q4674469","label":"Acom","symbol":"8572.T"}
+{"qid":"Q5215858","label":"Sompo Holdings","symbol":"8630.T"}
+{"qid":"Q6899066","label":"Monex Group","symbol":"8698.T"}
+{"qid":"Q11551995","label":"Senshu Ikeda Holdings","symbol":"8714.T"}
+{"qid":"Q5215769","label":"MS&AD Insurance Group Holdings","symbol":"8725.T"}
+{"qid":"Q1812986","label":"Mitsui Fudosan","symbol":"8801.T"}
+{"qid":"Q11524838","label":"Tokyo Tatemono","symbol":"8804.T"}
+{"qid":"Q11316949","label":"Daibiru Corporation","symbol":"8806.T"}
+{"qid":"Q4050347","label":"Sumitomo Realty & Development","symbol":"8830.T"}
+{"qid":"Q11286068","label":"AEON Mall","symbol":"8905.T"}
+{"qid":"Q4750607","label":"Anabuki Kosan","symbol":"8928.T"}
+{"qid":"Q28685083","label":"Nippon Building Fund","symbol":"8951.T"}
+{"qid":"Q38276324","label":"N","symbol":"8963.T"}
+{"qid":"Q1332242","label":"Tokyu","symbol":"9005.T"}
+{"qid":"Q1322206","label":"Keikyu","symbol":"9006.T"}
+{"qid":"Q83538","label":"Keisei Electric Railway","symbol":"9009.T"}
+{"qid":"Q842879","label":"Fuji Kyuko","symbol":"9010.T"}
+{"qid":"Q841573","label":"Shin-Keisei Electric Railway","symbol":"9014.T"}
+{"qid":"Q499071","label":"East Japan Railway Company","symbol":"9020.T"}
+{"qid":"Q502125","label":"West Japan Railway Company","symbol":"9021.T"}
+{"qid":"Q513679","label":"Central Japan Railway Company","symbol":"9022.T"}
+{"qid":"Q11628893","label":"Seibu Holdings","symbol":"9024.T"}
+{"qid":"Q869251","label":"Nishi-Nippon Railroad","symbol":"9031.T"}
+{"qid":"Q19758662","label":"Kintetsu Group Holdings","symbol":"9041.T"}
+{"qid":"Q841220","label":"Hankyu Hanshin Holdings","symbol":"9042.T"}
+{"qid":"Q1188230","label":"Nankai Electric Railway","symbol":"9044.T"}
+{"qid":"Q1188274","label":"Keihan Electric Railway","symbol":"9045.T"}
+{"qid":"Q836658","label":"Kobe Electric Railway","symbol":"9046.T"}
+{"qid":"Q30850","label":"Meitetsu","symbol":"9048.T"}
+{"qid":"Q3537126","label":"Keifuku Electric Railroad","symbol":"9049.T"}
+{"qid":"Q1993298","label":"Nippon Express","symbol":"9062.T"}
+{"qid":"Q3571463","label":"Yamato Holdings","symbol":"9064.T"}
+{"qid":"Q11466247","label":"Sankyu Inc","symbol":"9065.T"}
+{"qid":"Q11508697","label":"Japan Oil Transportation","symbol":"9074.T"}
+{"qid":"Q11592104","label":"Fukuyama Transporting","symbol":"9075.T"}
+{"qid":"Q11314140","label":"Seino Holdings","symbol":"9076.T"}
+{"qid":"Q10854960","label":"Kanagawa Chuo Kotsu","symbol":"9081.T"}
+{"qid":"Q11589421","label":"Shinki Bus","symbol":"9083.T"}
+{"qid":"Q213140","label":"Japan Airlines","symbol":"9201.T"}
+{"qid":"Q11189379","label":"ANA Holdings","symbol":"9202.T"}
+{"qid":"Q6414376","label":"Kintetsu World Express","symbol":"9375.T"}
+{"qid":"Q605233","label":"TBS Holdings","symbol":"9401.T"}
+{"qid":"Q11086747","label":"Nippon Television Holdings","symbol":"9404.T"}
+{"qid":"Q1064900","label":"Asahi Broadcasting Group Holdings","symbol":"9405.T"}
+{"qid":"Q17199570","label":"TV Asahi Holdings","symbol":"9409.T"}
+{"qid":"Q11319692","label":"TV Tokyo Holdings","symbol":"9413.T"}
+{"qid":"Q843957","label":"Nippon BS Broadcasting","symbol":"9414.T"}
+{"qid":"Q1054787","label":"Nippon Telegraph and Telephone","symbol":"9432.T"}
+{"qid":"Q971946","label":"KDDI","symbol":"9433.T"}
+{"qid":"Q2214105","label":"SoftBank Mobile","symbol":"9434.T"}
+{"qid":"Q853958","label":"NTT DoCoMo","symbol":"9437.T"}
+{"qid":"Q11201240","label":"GMO Internet","symbol":"9449.T"}
+{"qid":"Q17224985","label":"Kadokawa Corporation","symbol":"9468.T"}
+{"qid":"Q2664679","label":"Gakken Holdings","symbol":"9470.T"}
+{"qid":"Q6150832","label":"Zenrin","symbol":"9474.T"}
+{"qid":"Q11514182","label":"Shobunsha","symbol":"9475.T"}
+{"qid":"Q333894","label":"Tokyo Electric Power Company Holdings","symbol":"9501.T"}
+{"qid":"Q1365015","label":"Kansai Electric Power Company","symbol":"9503.T"}
+{"qid":"Q694507","label":"Kyushu Electric Power","symbol":"9508.T"}
+{"qid":"Q742449","label":"Hokkaido Electric Power Company","symbol":"9509.T"}
+{"qid":"Q11288002","label":"EREX Co.,Ltd","symbol":"9517.T"}
+{"qid":"Q1813910","label":"Tokyo Gas","symbol":"9531.T"}
+{"qid":"Q385775","label":"Osaka Gas","symbol":"9532.T"}
+{"qid":"Q11528430","label":"Toho Gas","symbol":"9533.T"}
+{"qid":"Q11402466","label":"Hokkaido Gas","symbol":"9534.T"}
+{"qid":"Q11629593","label":"Saibu Gas","symbol":"9536.T"}
+{"qid":"Q114436904","label":"N","symbol":"9560.T"}
+{"qid":"Q1066018","label":"Toei Company","symbol":"9605.T"}
+{"qid":"Q56354365","label":"N","symbol":"9610.T"}
+{"qid":"Q1030691","label":"NTT Data","symbol":"9613.T"}
+{"qid":"Q24698699","label":"Kyoritsu Maintenance","symbol":"9616.T"}
+{"qid":"Q22130419","label":"Ain Holdings","symbol":"9627.T"}
+{"qid":"Q11311474","label":"Square Enix Holdings","symbol":"9684.T"}
+{"qid":"Q14428","label":"Capcom","symbol":"9697.T"}
+{"qid":"Q17210356","label":"Nishio Rent All","symbol":"9699.T"}
+{"qid":"Q17049674","label":"Imperial Hotel","symbol":"9708.T"}
+{"qid":"Q11242714","label":"SCSK Corporation","symbol":"9719.T"}
+{"qid":"Q11624896","label":"Fujita Kanko","symbol":"9722.T"}
+{"qid":"Q11374823","label":"Kyoto Hotel","symbol":"9723.T"}
+{"qid":"Q11228051","label":"KNT-CT Holdings","symbol":"9726.T"}
+{"qid":"Q11360432","label":"Ueno Seiyoken","symbol":"9734.T"}
+{"qid":"Q11455874","label":"Fujisoft","symbol":"9749.T"}
+{"qid":"Q55557125","label":"Funai Soken Holdings","symbol":"9757.T"}
+{"qid":"Q45700","label":"Konami","symbol":"9766.T"}
+{"qid":"Q118592389","label":"N","symbol":"9783.T"}
+{"qid":"Q5533323","label":"Genki Sushi","symbol":"9828.T"}
+{"qid":"Q110652704","label":"Yamada Holdings","symbol":"9831.T"}
+{"qid":"Q17212489","label":"Nitori Holdings","symbol":"9843.T"}
+{"qid":"Q848773","label":"Matsuya Foods","symbol":"9887.T"}
+{"qid":"Q17190570","label":"Arcs","symbol":"9948.T"}
+{"qid":"Q201653","label":"SoftBank Group","symbol":"9984.T"}

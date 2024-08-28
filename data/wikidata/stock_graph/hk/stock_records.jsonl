@@ -1,0 +1,1367 @@
+{"qid":"Q709535","label":"Cheung Kong Holdings","symbol":"0001.HK"}
+{"qid":"Q977959","label":"CLP Group","symbol":"0002.HK"}
+{"qid":"Q751883","label":"The Hong Kong and China Gas Company Limited","symbol":"0003.HK"}
+{"qid":"Q1506638","label":"The Wharf (Holdings) Limited","symbol":"0004.HK"}
+{"qid":"Q190464","label":"HSBC","symbol":"0005.HK"}
+{"qid":"Q3400900","label":"Power Assets Holdings Limited","symbol":"0006.HK"}
+{"qid":"Q7189526","label":"Hoifu Energy Group Limited","symbol":"0007.HK"}
+{"qid":"Q4774435","label":"Hang Lung Group","symbol":"0010.HK"}
+{"qid":"Q1575470","label":"Hang Seng Bank","symbol":"0011.HK"}
+{"qid":"Q1604969","label":"KOLOUR","symbol":"0012.HK"}
+{"qid":"Q15805","label":"Hutchison Whampoa","symbol":"0013.HK"}
+{"qid":"Q1789188","label":"Sun Hung Kai Properties","symbol":"0016.HK"}
+{"qid":"Q752084","label":"New World Development Company Limited","symbol":"0017.HK"}
+{"qid":"Q11723118","label":"Swire Pacific","symbol":"0019.HK"}
+{"qid":"Q836696","label":"Wheelock & Co","symbol":"0020.HK"}
+{"qid":"Q15920256","label":"N","symbol":"0021.HK"}
+{"qid":"Q15935272","label":"N","symbol":"0022.HK"}
+{"qid":"Q806679","label":"Bank of East Asia","symbol":"0023.HK"}
+{"qid":"Q5099790","label":"China Motor Bus","symbol":"0026.HK"}
+{"qid":"Q4039216","label":"Galaxy Entertainment Group","symbol":"0027.HK"}
+{"qid":"Q10939372","label":"N","symbol":"0028.HK"}
+{"qid":"Q7258500","label":"Ban Loong Holdings","symbol":"0030.HK"}
+{"qid":"Q7728168","label":"The Cross-Harbour","symbol":"0032.HK"}
+{"qid":"Q10921375","label":"Amber Hill Financial Holdings","symbol":"0033.HK"}
+{"qid":"Q10879603","label":"Kowloon Development","symbol":"0034.HK"}
+{"qid":"Q15935049","label":"Far East Consortium International Limited","symbol":"0035.HK"}
+{"qid":"Q15935370","label":"N","symbol":"0037.HK"}
+{"qid":"Q17031454","label":"N","symbol":"0038.HK"}
+{"qid":"Q17014843","label":"N","symbol":"0039.HK"}
+{"qid":"Q849842","label":"Gold Peak","symbol":"0040.HK"}
+{"qid":"Q4039682","label":"Great Eagle Holdings","symbol":"0041.HK"}
+{"qid":"Q11103117","label":"Northeast Electric Development","symbol":"0042.HK"}
+{"qid":"Q10909630","label":"N","symbol":"0043.HK"}
+{"qid":"Q5895858","label":"Hongkong and Shanghai Hotels","symbol":"0045.HK"}
+{"qid":"Q16923612","label":"N","symbol":"0046.HK"}
+{"qid":"Q10875771","label":"N","symbol":"0048.HK"}
+{"qid":"Q12060513","label":"Hong Kong Ferry","symbol":"0050.HK"}
+{"qid":"Q5654805","label":"Harbour Centre Development","symbol":"0051.HK"}
+{"qid":"Q5430935","label":"Fairwood","symbol":"0052.HK"}
+{"qid":"Q5619652","label":"Guoco Group","symbol":"0053.HK"}
+{"qid":"Q10875653","label":"Neway Group Holdings Limited","symbol":"0055.HK"}
+{"qid":"Q5090779","label":"Chen Hsong","symbol":"0057.HK"}
+{"qid":"Q11082177","label":"SUNWAY INTERNATIONAL HOLDINGS LIMITED","symbol":"0058.HK"}
+{"qid":"Q10940727","label":"N","symbol":"0059.HK"}
+{"qid":"Q17032446","label":"N","symbol":"0060.HK"}
+{"qid":"Q10901998","label":"Green Leader Holdings","symbol":"0061.HK"}
+{"qid":"Q7834879","label":"Transport International Holdings","symbol":"0062.HK"}
+{"qid":"Q11120554","label":"China Graphene Group","symbol":"0063.HK"}
+{"qid":"Q16923691","label":"N","symbol":"0064.HK"}
+{"qid":"Q11066386","label":"N","symbol":"0065.HK"}
+{"qid":"Q11087085","label":"China Lumena New Materials Corp.","symbol":"0067.HK"}
+{"qid":"Q837244","label":"Shangri-La Hotels and Resorts","symbol":"0069.HK"}
+{"qid":"Q11151145","label":"N","symbol":"0070.HK"}
+{"qid":"Q6872704","label":"Miramar Hotel and Investment","symbol":"0071.HK"}
+{"qid":"Q17041361","label":"N","symbol":"0072.HK"}
+{"qid":"Q10882809","label":"Asian Citrus","symbol":"0073.HK"}
+{"qid":"Q16923295","label":"N","symbol":"0075.HK"}
+{"qid":"Q10908466","label":"Elate Holdings","symbol":"0076.HK"}
+{"qid":"Q15898867","label":"AMS Public Transport","symbol":"0077.HK"}
+{"qid":"Q7307919","label":"Regal Hotels International","symbol":"0078.HK"}
+{"qid":"Q10869176","label":"N","symbol":"0079.HK"}
+{"qid":"Q10874601","label":"China New Economy Fund Limited","symbol":"0080.HK"}
+{"qid":"Q10874660","label":"N","symbol":"0081.HK"}
+{"qid":"Q698504","label":"Sino Land","symbol":"0083.HK"}
+{"qid":"Q10956059","label":"STELUX Holdings International Limited","symbol":"0084.HK"}
+{"qid":"Q10874798","label":"N","symbol":"0085.HK"}
+{"qid":"Q7638341","label":"Sun Hung Kai & Co.","symbol":"0086.HK"}
+{"qid":"Q11723118","label":"Swire Pacific","symbol":"0087.HK"}
+{"qid":"Q10935611","label":"Tai Cheung Holdings Limited","symbol":"0088.HK"}
+{"qid":"Q10936875","label":"Tai Sang Land","symbol":"0089.HK"}
+{"qid":"Q15933935","label":"N","symbol":"0090.HK"}
+{"qid":"Q10895164","label":"Champion Technology Holdings Limited","symbol":"0092.HK"}
+{"qid":"Q11153696","label":"N","symbol":"0093.HK"}
+{"qid":"Q15956207","label":"Greenheart Group","symbol":"0094.HK"}
+{"qid":"Q11083326","label":"N","symbol":"0095.HK"}
+{"qid":"Q10911690","label":"Yusei Holdings Limited","symbol":"0096.HK"}
+{"qid":"Q5713382","label":"Henderson Investment","symbol":"0097.HK"}
+{"qid":"Q17035273","label":"N","symbol":"0098.HK"}
+{"qid":"Q16923423","label":"N","symbol":"0099.HK"}
+{"qid":"Q1575432","label":"Hang Lung Properties","symbol":"0101.HK"}
+{"qid":"Q10896425","label":"N","symbol":"0102.HK"}
+{"qid":"Q17031786","label":"N","symbol":"0103.HK"}
+{"qid":"Q10895122","label":"Asia Commercial Holdings Limited","symbol":"0104.HK"}
+{"qid":"Q10896457","label":"ASSOCIATED INTERNATIONAL HOTELS LIMITED","symbol":"0105.HK"}
+{"qid":"Q11153127","label":"N","symbol":"0106.HK"}
+{"qid":"Q46063","label":"Sichuan Expressway Company","symbol":"0107.HK"}
+{"qid":"Q11065356","label":"GR Properties","symbol":"0108.HK"}
+{"qid":"Q17039499","label":"Good Resources Holdings","symbol":"0109.HK"}
+{"qid":"Q10874793","label":"China Fortune Holdings Limited","symbol":"0110.HK"}
+{"qid":"Q5273784","label":"Dickson Concepts","symbol":"0113.HK"}
+{"qid":"Q4819105","label":"Herald Holdings","symbol":"0114.HK"}
+{"qid":"Q17040670","label":"N","symbol":"0115.HK"}
+{"qid":"Q10920877","label":"Chow Sang Sang","symbol":"0116.HK"}
+{"qid":"Q10946257","label":"Tianli Holdings","symbol":"0117.HK"}
+{"qid":"Q10934185","label":"Cosmos Machinery Enterprises Limited","symbol":"0118.HK"}
+{"qid":"Q10925154","label":"N","symbol":"0120.HK"}
+{"qid":"Q7730196","label":"Yuexiu Property","symbol":"0123.HK"}
+{"qid":"Q15956623","label":"N","symbol":"0124.HK"}
+{"qid":"Q11084178","label":"Sun Hing Vision Group Holdings Limited","symbol":"0125.HK"}
+{"qid":"Q10886986","label":"N","symbol":"0126.HK"}
+{"qid":"Q4036135","label":"Chinese Estates Holdings","symbol":"0127.HK"}
+{"qid":"Q10946619","label":"ENM Holdings Limited","symbol":"0128.HK"}
+{"qid":"Q11143927","label":"Asia Standard International Group","symbol":"0129.HK"}
+{"qid":"Q11074127","label":"Moiselle International","symbol":"0130.HK"}
+{"qid":"Q7253930","label":"N","symbol":"0131.HK"}
+{"qid":"Q10874731","label":"CHINA INVESTMENTS HOLDINGS LIMITED","symbol":"0132.HK"}
+{"qid":"Q11077288","label":"China Merchants China Direct Investments Limited","symbol":"0133.HK"}
+{"qid":"Q1792238","label":"Kunlun Energy","symbol":"0135.HK"}
+{"qid":"Q22968872","label":"HengTen Networks","symbol":"0136.HK"}
+{"qid":"Q16922677","label":"Jinhui Shipping Company Limited","symbol":"0137.HK"}
+{"qid":"Q10875519","label":"CCT Fortis Holdings Limited","symbol":"0138.HK"}
+{"qid":"Q7262214","label":"China Soft Power Technology","symbol":"0139.HK"}
+{"qid":"Q10933396","label":"SkyChinafortune Holdings Group","symbol":"0141.HK"}
+{"qid":"Q305393","label":"First Pacific","symbol":"0142.HK"}
+{"qid":"Q268784","label":"China Merchants Port","symbol":"0144.HK"}
+{"qid":"Q11065317","label":"N","symbol":"0145.HK"}
+{"qid":"Q10941294","label":"Tai Ping Carpets","symbol":"0146.HK"}
+{"qid":"Q17040981","label":"International Business Settlement","symbol":"0147.HK"}
+{"qid":"Q10874771","label":"China Agri-Products Exchange Limited","symbol":"0149.HK"}
+{"qid":"Q7494375","label":"Shenzhen International Holdings","symbol":"0152.HK"}
+{"qid":"Q10902371","label":"N","symbol":"0154.HK"}
+{"qid":"Q17035036","label":"NATURAL BEAUTY BIO-TECHNOLOGY LIMITED","symbol":"0157.HK"}
+{"qid":"Q16923833","label":"N","symbol":"0158.HK"}
+{"qid":"Q11059720","label":"Brockman Mining Limited","symbol":"0159.HK"}
+{"qid":"Q10869178","label":"Century Ginwa Retail Holdings Limited","symbol":"0162.HK"}
+{"qid":"Q5373896","label":"Emperor International Holdings Limited","symbol":"0163.HK"}
+{"qid":"Q4036126","label":"China Everbright Limited","symbol":"0165.HK"}
+{"qid":"Q11082856","label":"N","symbol":"0166.HK"}
+{"qid":"Q17033380","label":"IDT International Limited","symbol":"0167.HK"}
+{"qid":"Q313542","label":"Tsingtao Brewery","symbol":"0168.HK"}
+{"qid":"Q17040735","label":"N","symbol":"0171.HK"}
+{"qid":"Q4041960","label":"K. Wah International","symbol":"0173.HK"}
+{"qid":"Q16923609","label":"N","symbol":"0174.HK"}
+{"qid":"Q17034261","label":"Superactive Group Company Limited","symbol":"0176.HK"}
+{"qid":"Q15910675","label":"Sa Sa International Holdings","symbol":"0178.HK"}
+{"qid":"Q16924007","label":"N","symbol":"0181.HK"}
+{"qid":"Q16923380","label":"N","symbol":"0184.HK"}
+{"qid":"Q15942802","label":"ZH International Hold","symbol":"0185.HK"}
+{"qid":"Q5595322","label":"Nimble Holdings","symbol":"0186.HK"}
+{"qid":"Q17163886","label":"N","symbol":"0187.HK"}
+{"qid":"Q11084243","label":"Sunwah Kingsway Capital Holdings Limited","symbol":"0188.HK"}
+{"qid":"Q11103308","label":"N","symbol":"0189.HK"}
+{"qid":"Q11175231","label":"N","symbol":"0191.HK"}
+{"qid":"Q10895121","label":"N","symbol":"0193.HK"}
+{"qid":"Q11064282","label":"N","symbol":"0194.HK"}
+{"qid":"Q10898383","label":"GREENTECH TECHNOLOGY INTERNATIONAL","symbol":"0195.HK"}
+{"qid":"Q10948032","label":"Honghua Group Limited","symbol":"0196.HK"}
+{"qid":"Q17075011","label":"HENG TAI CONSUMABLES GROUP LIMITED","symbol":"0197.HK"}
+{"qid":"Q11088648","label":"SMI Holdings","symbol":"0198.HK"}
+{"qid":"Q11071789","label":"N","symbol":"0199.HK"}
+{"qid":"Q6812076","label":"Melco International Development","symbol":"0200.HK"}
+{"qid":"Q16923821","label":"N","symbol":"0201.HK"}
+{"qid":"Q10926757","label":"EverChina Int'l Holdings Company Limited","symbol":"0202.HK"}
+{"qid":"Q11145166","label":"China Investment Development Limited","symbol":"0204.HK"}
+{"qid":"Q17038709","label":"SEEC Media Group Limited","symbol":"0205.HK"}
+{"qid":"Q15952707","label":"TSC Group Holdings Limited","symbol":"0206.HK"}
+{"qid":"Q5894903","label":"Joy City Property","symbol":"0207.HK"}
+{"qid":"Q10887529","label":"N","symbol":"0208.HK"}
+{"qid":"Q15912538","label":"DAPHNE","symbol":"0210.HK"}
+{"qid":"Q10933729","label":"N","symbol":"0211.HK"}
+{"qid":"Q10908407","label":"Nanyang Holdings Limited","symbol":"0212.HK"}
+{"qid":"Q11120849","label":"National Electronics Holding","symbol":"0213.HK"}
+{"qid":"Q10904238","label":"ASIA ORIENT HOLDINGS LIMITED","symbol":"0214.HK"}
+{"qid":"Q5950764","label":"Hutchison Telecommunications Hong Kong Holdings","symbol":"0215.HK"}
+{"qid":"Q11065413","label":"Chinney Investments, Limited","symbol":"0216.HK"}
+{"qid":"Q10874754","label":"N","symbol":"0217.HK"}
+{"qid":"Q17065318","label":"Hongyuan","symbol":"0218.HK"}
+{"qid":"Q17063018","label":"N","symbol":"0219.HK"}
+{"qid":"Q17061975","label":"N","symbol":"0222.HK"}
+{"qid":"Q17029576","label":"N","symbol":"0223.HK"}
+{"qid":"Q10909411","label":"Pokfulam Development Company Limited","symbol":"0225.HK"}
+{"qid":"Q10900651","label":"LIPPO LIMITED","symbol":"0226.HK"}
+{"qid":"Q17066749","label":"First Shanghai Investments Limited","symbol":"0227.HK"}
+{"qid":"Q10875987","label":"N","symbol":"0228.HK"}
+{"qid":"Q10882020","label":"Minmetals Land Limited","symbol":"0230.HK"}
+{"qid":"Q2667719","label":"Aviation Industry Corporation of China","symbol":"0232.HK"}
+{"qid":"Q11080943","label":"N","symbol":"0234.HK"}
+{"qid":"Q10875956","label":"China Strategic Holdings","symbol":"0235.HK"}
+{"qid":"Q10946403","label":"Safety Godown Company Limited","symbol":"0237.HK"}
+{"qid":"Q15904871","label":"N","symbol":"0239.HK"}
+{"qid":"Q7262683","label":"AliHealth","symbol":"0241.HK"}
+{"qid":"Q4049426","label":"Shun Tak Holdings","symbol":"0242.HK"}
+{"qid":"Q10921845","label":"QPL International Holdings Limited","symbol":"0243.HK"}
+{"qid":"Q3372957","label":"Sincere","symbol":"0244.HK"}
+{"qid":"Q10864652","label":"N","symbol":"0245.HK"}
+{"qid":"Q17061076","label":"N","symbol":"0246.HK"}
+{"qid":"Q7849670","label":"Tsim Sha Tsui Properties Limited","symbol":"0247.HK"}
+{"qid":"Q15954098","label":"HKC International Holdings Limited","symbol":"0248.HK"}
+{"qid":"Q10874587","label":"SINO-I TECHNOLOGY LIMITED","symbol":"0250.HK"}
+{"qid":"Q16923815","label":"N","symbol":"0252.HK"}
+{"qid":"Q15901180","label":"N","symbol":"0253.HK"}
+{"qid":"Q10874580","label":"N","symbol":"0254.HK"}
+{"qid":"Q10874664","label":"CITYCHAMP WATCH & JEWELLERY","symbol":"0256.HK"}
+{"qid":"Q10890263","label":"China Everbright International Limited","symbol":"0257.HK"}
+{"qid":"Q15930713","label":"PUDONG DEVELOPMENT HOLDINGS LIMITED","symbol":"0258.HK"}
+{"qid":"Q10889425","label":"N","symbol":"0259.HK"}
+{"qid":"Q10874680","label":"AVIC","symbol":"0260.HK"}
+{"qid":"Q10875516","label":"GBAHoldings Limited","symbol":"0261.HK"}
+{"qid":"Q16923926","label":"N","symbol":"0262.HK"}
+{"qid":"Q10906133","label":"Ascent International","symbol":"0264.HK"}
+{"qid":"Q10939602","label":"Tian Teck Land Limited","symbol":"0266.HK"}
+{"qid":"Q1023763","label":"CITIC Limited","symbol":"0267.HK"}
+{"qid":"Q11647862","label":"Kingdee","symbol":"0268.HK"}
+{"qid":"Q10874765","label":"N","symbol":"0269.HK"}
+{"qid":"Q5613634","label":"Guangdong Investment","symbol":"0270.HK"}
+{"qid":"Q10882825","label":"Asiasec Properties","symbol":"0271.HK"}
+{"qid":"Q1035964","label":"Shui On Land","symbol":"0272.HK"}
+{"qid":"Q10943687","label":"Mason Financial","symbol":"0273.HK"}
+{"qid":"Q17014920","label":"China Billion Resources Limited","symbol":"0274.HK"}
+{"qid":"Q13650250","label":"Mongolia Energy Corporation","symbol":"0276.HK"}
+{"qid":"Q10941723","label":"Tern Properties Company Limited","symbol":"0277.HK"}
+{"qid":"Q15930483","label":"Wah Ha Realty Company Limited","symbol":"0278.HK"}
+{"qid":"Q6411583","label":"King Fook Holdings","symbol":"0280.HK"}
+{"qid":"Q7021083","label":"Next Digital","symbol":"0282.HK"}
+{"qid":"Q16924100","label":"Goldin Properties Holdings Limited","symbol":"0283.HK"}
+{"qid":"Q4836868","label":"BYD Electronic","symbol":"0285.HK"}
+{"qid":"Q17499655","label":"WH Group","symbol":"0288.HK"}
+{"qid":"Q11131604","label":"Wing On Company International Limited","symbol":"0289.HK"}
+{"qid":"Q10874564","label":"China Fortune Financial Group Limited","symbol":"0290.HK"}
+{"qid":"Q21158111","label":"China Resources Beer","symbol":"0291.HK"}
+{"qid":"Q15944618","label":"Asia Standard Hotel Group Limited","symbol":"0292.HK"}
+{"qid":"Q32141","label":"Cathay Pacific","symbol":"0293.HK"}
+{"qid":"Q15939960","label":"N","symbol":"0294.HK"}
+{"qid":"Q11134329","label":"KONG SUN HOLDINGS LIMITED","symbol":"0295.HK"}
+{"qid":"Q841714","label":"Sinofert Holdings","symbol":"0297.HK"}
+{"qid":"Q16923807","label":"N","symbol":"0298.HK"}
+{"qid":"Q21264915","label":"New Sports Group","symbol":"0299.HK"}
+{"qid":"Q1859143","label":"VTech","symbol":"0303.HK"}
+{"qid":"Q3817853","label":"Wuling Motors","symbol":"0305.HK"}
+{"qid":"Q7256641","label":"Kwoon Chung Bus Holdings","symbol":"0306.HK"}
+{"qid":"Q5099945","label":"China Travel International Investment Hong Kong","symbol":"0308.HK"}
+{"qid":"Q11084249","label":"Xinhua News Media Holdings Limited","symbol":"0309.HK"}
+{"qid":"Q17034287","label":"LUEN THAI HOLDINGS LIMITED","symbol":"0311.HK"}
+{"qid":"Q17062324","label":"Richly Field China Development Ltd","symbol":"0313.HK"}
+{"qid":"Q11079498","label":"SmarTone","symbol":"0315.HK"}
+{"qid":"Q5613742","label":"Guangzhou Shipyard International","symbol":"0317.HK"}
+{"qid":"Q11176536","label":"The Vongroup","symbol":"0318.HK"}
+{"qid":"Q17061608","label":"COMPUTIME GROUP LIMITED","symbol":"0320.HK"}
+{"qid":"Q11071747","label":"N","symbol":"0321.HK"}
+{"qid":"Q11063808","label":"Master Kong","symbol":"0322.HK"}
+{"qid":"Q16926370","label":"PAX Global Technology Limited","symbol":"0327.HK"}
+{"qid":"Q10911503","label":"N","symbol":"0329.HK"}
+{"qid":"Q532746","label":"Esprit Holdings","symbol":"0330.HK"}
+{"qid":"Q11125852","label":"Yuan Heng Gas Holdings Limited","symbol":"0332.HK"}
+{"qid":"Q11179909","label":"N","symbol":"0333.HK"}
+{"qid":"Q16926700","label":"Upbest Group Limited","symbol":"0335.HK"}
+{"qid":"Q16926244","label":"Huabao International Holdings Limited","symbol":"0336.HK"}
+{"qid":"Q15912246","label":"Greenland Hong Kong Holdings Limited","symbol":"0337.HK"}
+{"qid":"Q820770","label":"Shanghai Petrochemical","symbol":"0338.HK"}
+{"qid":"Q10946416","label":"Core Economy Investment Group Limited","symbol":"0339.HK"}
+{"qid":"Q10874700","label":"Tongguan Gold Group Limited","symbol":"0340.HK"}
+{"qid":"Q5017274","label":"Caf\u00e9 de Coral","symbol":"0341.HK"}
+{"qid":"Q11083217","label":"N","symbol":"0342.HK"}
+{"qid":"Q11079569","label":"Culturecom Holdings Limited","symbol":"0343.HK"}
+{"qid":"Q15081643","label":"Vitasoy International Holdings","symbol":"0345.HK"}
+{"qid":"Q11065113","label":"Yanchang Petroleum International Limited","symbol":"0346.HK"}
+{"qid":"Q2227422","label":"Angang Steel Company","symbol":"0347.HK"}
+{"qid":"Q10882818","label":"Asia Energy Logistics Group Limited","symbol":"0351.HK"}
+{"qid":"Q16923018","label":"N","symbol":"0352.HK"}
+{"qid":"Q17034764","label":"N","symbol":"0353.HK"}
+{"qid":"Q10869173","label":"N","symbol":"0355.HK"}
+{"qid":"Q17017952","label":"DT Capital","symbol":"0356.HK"}
+{"qid":"Q1518015","label":"Jiangxi Copper","symbol":"0358.HK"}
+{"qid":"Q16924086","label":"N","symbol":"0361.HK"}
+{"qid":"Q7488456","label":"Shanghai Industrial Holdings","symbol":"0363.HK"}
+{"qid":"Q11086783","label":"N","symbol":"0365.HK"}
+{"qid":"Q15928300","label":"N","symbol":"0366.HK"}
+{"qid":"Q15924536","label":"Chuang's Consortium","symbol":"0367.HK"}
+{"qid":"Q7524965","label":"Sinotrans Shipping","symbol":"0368.HK"}
+{"qid":"Q8025118","label":"Wing Tai Properties Limited","symbol":"0369.HK"}
+{"qid":"Q22966553","label":"China Best","symbol":"0370.HK"}
+{"qid":"Q10903006","label":"N","symbol":"0371.HK"}
+{"qid":"Q11071788","label":"N","symbol":"0372.HK"}
+{"qid":"Q16923752","label":"Allied Group Limited","symbol":"0373.HK"}
+{"qid":"Q10925149","label":"Four Seas Mercantile Holdings","symbol":"0374.HK"}
+{"qid":"Q28418866","label":"N","symbol":"0376.HK"}
+{"qid":"Q10879994","label":"FDG Kinetic Limited","symbol":"0378.HK"}
+{"qid":"Q10889358","label":"Kiu Hung Energy Holdings Limited","symbol":"0381.HK"}
+{"qid":"Q10943784","label":"Welling Holding Limited","symbol":"0382.HK"}
+{"qid":"Q10874718","label":"China Medical & HealthCare Group Limited","symbol":"0383.HK"}
+{"qid":"Q17233490","label":"CHINNEY ALLIANCE GROUP","symbol":"0385.HK"}
+{"qid":"Q831445","label":"Sinopec","symbol":"0386.HK"}
+{"qid":"Q10900669","label":"N","symbol":"0387.HK"}
+{"qid":"Q751361","label":"Hong Kong Exchanges and Clearing Limited","symbol":"0388.HK"}
+{"qid":"Q15939410","label":"China Tontine Wines Group Limited","symbol":"0389.HK"}
+{"qid":"Q5977673","label":"Mei Ah Entertainment","symbol":"0391.HK"}
+{"qid":"Q836569","label":"Beijing Enterprises","symbol":"0392.HK"}
+{"qid":"Q11087098","label":"Glorious Sun","symbol":"0393.HK"}
+{"qid":"Q15955736","label":"N","symbol":"0396.HK"}
+{"qid":"Q10874422","label":"Jun Yang Financial Holdings Limited","symbol":"0397.HK"}
+{"qid":"Q7225213","label":"Oriental Watch Co","symbol":"0398.HK"}
+{"qid":"Q17034233","label":"N","symbol":"0399.HK"}
+{"qid":"Q11088415","label":"N","symbol":"0403.HK"}
+{"qid":"Q11082819","label":"Hsin Chong","symbol":"0404.HK"}
+{"qid":"Q15931462","label":"N","symbol":"0405.HK"}
+{"qid":"Q11092063","label":"Yau Lee Holdings Limited","symbol":"0406.HK"}
+{"qid":"Q15935730","label":"N","symbol":"0408.HK"}
+{"qid":"Q10909328","label":"Lam Soon Hong Kong Group","symbol":"0411.HK"}
+{"qid":"Q13164530","label":"Tse Sui Luen Jewellery","symbol":"0417.HK"}
+{"qid":"Q11084896","label":"Founder Holdings Limited","symbol":"0418.HK"}
+{"qid":"Q17032758","label":"N","symbol":"0419.HK"}
+{"qid":"Q15934758","label":"N","symbol":"0420.HK"}
+{"qid":"Q15935419","label":"N","symbol":"0422.HK"}
+{"qid":"Q17040955","label":"Hong Kong Economic Times Holdings Limited","symbol":"0423.HK"}
+{"qid":"Q19599200","label":"Minth Group Limited","symbol":"0425.HK"}
+{"qid":"Q7212259","label":"One Media Group Limited","symbol":"0426.HK"}
+{"qid":"Q10883067","label":"Huge China Holdings Limited","symbol":"0428.HK"}
+{"qid":"Q17026289","label":"ORIENTAL EXPLORER HOLDINGS LIMITED","symbol":"0430.HK"}
+{"qid":"Q18669998","label":"Greater China Financial","symbol":"0431.HK"}
+{"qid":"Q7217682","label":"Pacific Century Premium Developments","symbol":"0432.HK"}
+{"qid":"Q10903064","label":"North Mining Shares Company Limited","symbol":"0433.HK"}
+{"qid":"Q15951354","label":"Boyaa Interactive International Limited","symbol":"0434.HK"}
+{"qid":"Q15925749","label":"N","symbol":"0435.HK"}
+{"qid":"Q11069636","label":"IRICO Group New Energy","symbol":"0438.HK"}
+{"qid":"Q17030706","label":"KuangChi Science Limited","symbol":"0439.HK"}
+{"qid":"Q10935561","label":"Dah Sing Financial Holdings Limited","symbol":"0440.HK"}
+{"qid":"Q11173963","label":"Hung Hing Printing Group Limited","symbol":"0450.HK"}
+{"qid":"Q11117180","label":"N","symbol":"0451.HK"}
+{"qid":"Q10939319","label":"TIANDA PHARMA","symbol":"0455.HK"}
+{"qid":"Q11081936","label":"N","symbol":"0456.HK"}
+{"qid":"Q15915928","label":"N","symbol":"0459.HK"}
+{"qid":"Q10925198","label":"N","symbol":"0460.HK"}
+{"qid":"Q17194432","label":"KENFORD GROUP HOLDINGS LIMITED","symbol":"0464.HK"}
+{"qid":"Q17163980","label":"N","symbol":"0465.HK"}
+{"qid":"Q17034260","label":"N","symbol":"0467.HK"}
+{"qid":"Q7214111","label":"Greatview","symbol":"0468.HK"}
+{"qid":"Q17039229","label":"New Silkroad Culturaltainment Limited","symbol":"0472.HK"}
+{"qid":"Q10875928","label":"Zhong Fa Zhan Holdings Limited","symbol":"0475.HK"}
+{"qid":"Q30583047","label":"CIL Holdings","symbol":"0479.HK"}
+{"qid":"Q5629997","label":"HKR International","symbol":"0480.HK"}
+{"qid":"Q15938437","label":"N","symbol":"0482.HK"}
+{"qid":"Q10901620","label":"N","symbol":"0483.HK"}
+{"qid":"Q15956351","label":"Forgame Holdings Limited","symbol":"0484.HK"}
+{"qid":"Q10905045","label":"China Sinostar Group","symbol":"0485.HK"}
+{"qid":"Q16926449","label":"N","symbol":"0487.HK"}
+{"qid":"Q6473666","label":"Lai Sun Development","symbol":"0488.HK"}
+{"qid":"Q11104175","label":"Dongfeng Motor Group Company Limited","symbol":"0489.HK"}
+{"qid":"Q4263408","label":"Emperor Culture Group","symbol":"0491.HK"}
+{"qid":"Q1486322","label":"GOME Electrical Appliances","symbol":"0493.HK"}
+{"qid":"Q1822546","label":"Li & Fung","symbol":"0494.HK"}
+{"qid":"Q11072679","label":"N","symbol":"0495.HK"}
+{"qid":"Q10909869","label":"N","symbol":"0496.HK"}
+{"qid":"Q15920454","label":"CSI Properties Limited","symbol":"0497.HK"}
+{"qid":"Q15896919","label":"N","symbol":"0499.HK"}
+{"qid":"Q42309964","label":"Frontier Services Group","symbol":"0500.HK"}
+{"qid":"Q11092335","label":"Lansen Pharmaceutical Holdings Limited","symbol":"0503.HK"}
+{"qid":"Q8044583","label":"Huan Yue Interactive","symbol":"0505.HK"}
+{"qid":"Q4382153","label":"China Foods Limited","symbol":"0506.HK"}
+{"qid":"Q11179945","label":"Dingyi Group Investment Limited","symbol":"0508.HK"}
+{"qid":"Q30238467","label":"Century Sunshine Group","symbol":"0509.HK"}
+{"qid":"Q11089221","label":"N","symbol":"0510.HK"}
+{"qid":"Q1195543","label":"TVB","symbol":"0511.HK"}
+{"qid":"Q17059837","label":"N","symbol":"0512.HK"}
+{"qid":"Q11072814","label":"CONTINENTAL HOLDINGS LIMITED","symbol":"0513.HK"}
+{"qid":"Q10917590","label":"N","symbol":"0518.HK"}
+{"qid":"Q10955430","label":"Applied Development Holdings Limited","symbol":"0519.HK"}
+{"qid":"Q15955538","label":"HNA Holdings Group Co. Limited","symbol":"0521.HK"}
+{"qid":"Q10846983","label":"Great Wall Belt & Road Holdings","symbol":"0524.HK"}
+{"qid":"Q837982","label":"Guangshen Railway","symbol":"0525.HK"}
+{"qid":"Q10898347","label":"N","symbol":"0526.HK"}
+{"qid":"Q10874675","label":"N","symbol":"0527.HK"}
+{"qid":"Q11084590","label":"N","symbol":"0529.HK"}
+{"qid":"Q94640889","label":"Goldin Financial Holdings Ltd.","symbol":"0530.HK"}
+{"qid":"Q15939824","label":"Samson Holding Ltd.","symbol":"0531.HK"}
+{"qid":"Q16923444","label":"WKK","symbol":"0532.HK"}
+{"qid":"Q7205398","label":"N","symbol":"0533.HK"}
+{"qid":"Q15927688","label":"N","symbol":"0535.HK"}
+{"qid":"Q10921192","label":"N","symbol":"0538.HK"}
+{"qid":"Q17061075","label":"Speedy Global Holdings Limited","symbol":"0540.HK"}
+{"qid":"Q11088526","label":"N","symbol":"0542.HK"}
+{"qid":"Q10934223","label":"DAIDO GROUP LIMITED","symbol":"0544.HK"}
+{"qid":"Q568817","label":"Digital Domain","symbol":"0547.HK"}
+{"qid":"Q16926206","label":"Shenzhen Expressway Company Limited","symbol":"0548.HK"}
+{"qid":"Q10889916","label":"KK Culture Holdings Limited","symbol":"0550.HK"}
+{"qid":"Q698467","label":"Yue Yuen Industrial Holdings","symbol":"0551.HK"}
+{"qid":"Q5099641","label":"China Communications Services Corporation","symbol":"0552.HK"}
+{"qid":"Q6558783","label":"Panda Electronics","symbol":"0553.HK"}
+{"qid":"Q17855888","label":"N","symbol":"0556.HK"}
+{"qid":"Q16923587","label":"China Tian Yuan Healthcare","symbol":"0557.HK"}
+{"qid":"Q10900639","label":"L.K. Technology Holdings Limited","symbol":"0558.HK"}
+{"qid":"Q18944710","label":"DeTai New Energy Group","symbol":"0559.HK"}
+{"qid":"Q15956690","label":"Chu Kong Shipping","symbol":"0560.HK"}
+{"qid":"Q10867362","label":"N","symbol":"0563.HK"}
+{"qid":"Q15937427","label":"N","symbol":"0564.HK"}
+{"qid":"Q17040886","label":"Art Group Holdings","symbol":"0565.HK"}
+{"qid":"Q17032769","label":"Hanergy Thin Film Power","symbol":"0566.HK"}
+{"qid":"Q10935605","label":"N","symbol":"0567.HK"}
+{"qid":"Q7487931","label":"Shandong Molong Petroleum Machinery","symbol":"0568.HK"}
+{"qid":"Q17040044","label":"China Traditional Chinese Medicine Co., Ltd.","symbol":"0570.HK"}
+{"qid":"Q15514231","label":"Esun Holdings","symbol":"0571.HK"}
+{"qid":"Q15925108","label":"Central Wealth Financial Group Limited","symbol":"0572.HK"}
+{"qid":"Q15911600","label":"Tao Heung Group","symbol":"0573.HK"}
+{"qid":"Q10901480","label":"Regent Pacific Group Limited","symbol":"0575.HK"}
+{"qid":"Q8070658","label":"Zhejiang Expressway Company","symbol":"0576.HK"}
+{"qid":"Q10883230","label":"N","symbol":"0579.HK"}
+{"qid":"Q15955674","label":"Sun.King Power Electronics Group Limited","symbol":"0580.HK"}
+{"qid":"Q10874620","label":"N","symbol":"0581.HK"}
+{"qid":"Q3043485","label":"Imagi Animation Studios","symbol":"0585.HK"}
+{"qid":"Q750118","label":"Beijing North Star","symbol":"0588.HK"}
+{"qid":"Q10893397","label":"LukFook Jewellery","symbol":"0590.HK"}
+{"qid":"Q17034251","label":"DREAMEAST","symbol":"0593.HK"}
+{"qid":"Q17018568","label":"AV CONCEPT HOLDINGS LIMITED","symbol":"0595.HK"}
+{"qid":"Q10385533","label":"N","symbol":"0596.HK"}
+{"qid":"Q5321581","label":"E.Bon Holdings","symbol":"0599.HK"}
+{"qid":"Q10874513","label":"China Infrastructure Investment Limited","symbol":"0600.HK"}
+{"qid":"Q11122526","label":"Rare Earth Magnesium","symbol":"0601.HK"}
+{"qid":"Q16926180","label":"Jiahua Stores Holdings Limited","symbol":"0602.HK"}
+{"qid":"Q10875785","label":"N","symbol":"0603.HK"}
+{"qid":"Q7494376","label":"Shenzhen Investment","symbol":"0604.HK"}
+{"qid":"Q10874783","label":"China Financial Services Holdings (China)","symbol":"0605.HK"}
+{"qid":"Q1023973","label":"China Agri-Industries Holdings Limited","symbol":"0606.HK"}
+{"qid":"Q13163841","label":"Fullshare Holdings","symbol":"0607.HK"}
+{"qid":"Q10939601","label":"Tiande Chemical Holdings Limited","symbol":"0609.HK"}
+{"qid":"Q7234727","label":"Wai Kee Holdings Limited","symbol":"0610.HK"}
+{"qid":"Q10874623","label":"N","symbol":"0611.HK"}
+{"qid":"Q17029646","label":"Planetree INTERNATIONAL Development LIMITED","symbol":"0613.HK"}
+{"qid":"Q11132652","label":"Eminence Enterprise","symbol":"0616.HK"}
+{"qid":"Q16923589","label":"PALIBURG HOLDINGS LIMITED","symbol":"0617.HK"}
+{"qid":"Q11084897","label":"Peking University Resources (Holdings)","symbol":"0618.HK"}
+{"qid":"Q10908936","label":"South China Financial Holdings Limited","symbol":"0619.HK"}
+{"qid":"Q10941012","label":"N","symbol":"0620.HK"}
+{"qid":"Q10931454","label":"Taung Gold International Limited","symbol":"0621.HK"}
+{"qid":"Q10943756","label":"Enerchina Holdings Limited","symbol":"0622.HK"}
+{"qid":"Q10937052","label":"N","symbol":"0626.HK"}
+{"qid":"Q7862923","label":"Fullsun","symbol":"0627.HK"}
+{"qid":"Q17025235","label":"Yue Da Mining Holdings Limited","symbol":"0629.HK"}
+{"qid":"Q17035626","label":"AMCO United Holding Limited","symbol":"0630.HK"}
+{"qid":"Q10865228","label":"N","symbol":"0631.HK"}
+{"qid":"Q11103438","label":"Pearl Oriental Oil Limited","symbol":"0632.HK"}
+{"qid":"Q1660544","label":"Playmates Toys","symbol":"0635.HK"}
+{"qid":"Q16901705","label":"Kerry Logistics Network","symbol":"0636.HK"}
+{"qid":"Q7256095","label":"Lee Kee Group","symbol":"0637.HK"}
+{"qid":"Q11065460","label":"Kin Yat Holdings Limited","symbol":"0638.HK"}
+{"qid":"Q17031767","label":"Shougang Fushan Resources Group Limited","symbol":"0639.HK"}
+{"qid":"Q11088675","label":"Infinity Development","symbol":"0640.HK"}
+{"qid":"Q11072819","label":"CARRY WEALTH HOLDINGS LIMITED","symbol":"0643.HK"}
+{"qid":"Q15936539","label":"Ares Asia Limited","symbol":"0645.HK"}
+{"qid":"Q17014777","label":"N","symbol":"0646.HK"}
+{"qid":"Q17030530","label":"IDG Energy","symbol":"0650.HK"}
+{"qid":"Q10875814","label":"China Ocean Industry Group Limited","symbol":"0651.HK"}
+{"qid":"Q10906081","label":"Bonjour Holdings","symbol":"0653.HK"}
+{"qid":"Q16924088","label":"HONGKONG CHINESE LIMITED","symbol":"0655.HK"}
+{"qid":"Q3079736","label":"Fosun International Limited","symbol":"0656.HK"}
+{"qid":"Q16923616","label":"N","symbol":"0657.HK"}
+{"qid":"Q5099718","label":"China High Speed Transmission","symbol":"0658.HK"}
+{"qid":"Q6955984","label":"NWS Holdings","symbol":"0659.HK"}
+{"qid":"Q47170373","label":"Wai Chun Mining","symbol":"0660.HK"}
+{"qid":"Q10874523","label":"N","symbol":"0661.HK"}
+{"qid":"Q10882845","label":"Asia Financial Holdings Limited","symbol":"0662.HK"}
+{"qid":"Q17061627","label":"N","symbol":"0663.HK"}
+{"qid":"Q29468921","label":"Haitong International Securities Group Limited","symbol":"0665.HK"}
+{"qid":"Q11103537","label":"Doyen International","symbol":"0668.HK"}
+{"qid":"Q2399612","label":"Techtronic Industries","symbol":"0669.HK"}
+{"qid":"Q291796","label":"China Eastern Airlines","symbol":"0670.HK"}
+{"qid":"Q16923626","label":"N","symbol":"0672.HK"}
+{"qid":"Q11079580","label":"Culture Landmark Investment Limited","symbol":"0674.HK"}
+{"qid":"Q10930530","label":"K & P INTERNATIONAL HOLDINGS LIMITED","symbol":"0675.HK"}
+{"qid":"Q10899284","label":"PEGASUS INTERNATIONAL HOLDINGS LIMITED","symbol":"0676.HK"}
+{"qid":"Q16924150","label":"N","symbol":"0677.HK"}
+{"qid":"Q16922766","label":"Genting Hong Kong","symbol":"0678.HK"}
+{"qid":"Q26265181","label":"Nan Hai Corporation","symbol":"0680.HK"}
+{"qid":"Q10875763","label":"Chinese People Holdings Company Limited","symbol":"0681.HK"}
+{"qid":"Q5072760","label":"Chaoda Modern Agriculture","symbol":"0682.HK"}
+{"qid":"Q4042172","label":"Kerry Properties","symbol":"0683.HK"}
+{"qid":"Q10882713","label":"Allan International Holdings Ltd.","symbol":"0684.HK"}
+{"qid":"Q6805468","label":"Media Chinese International","symbol":"0685.HK"}
+{"qid":"Q1073463","label":"China Overseas Land and Investment Limited","symbol":"0688.HK"}
+{"qid":"Q17029978","label":"N","symbol":"0689.HK"}
+{"qid":"Q15935079","label":"Uni-Bio Science Group Limited","symbol":"0690.HK"}
+{"qid":"Q11046053","label":"N","symbol":"0691.HK"}
+{"qid":"Q17034307","label":"Tan Chong International Limited","symbol":"0693.HK"}
+{"qid":"Q2893987","label":"Beijing Capital International Airport Company Limited","symbol":"0694.HK"}
+{"qid":"Q11103166","label":"Dongwu Cement International Limited","symbol":"0695.HK"}
+{"qid":"Q7835895","label":"TravelSky","symbol":"0696.HK"}
+{"qid":"Q7502645","label":"Shoucheng Holdings","symbol":"0697.HK"}
+{"qid":"Q17059182","label":"N","symbol":"0698.HK"}
+{"qid":"Q18091357","label":"China Auto Renting Inc.","symbol":"0699.HK"}
+{"qid":"Q860580","label":"Tencent","symbol":"0700.HK"}
+{"qid":"Q10903671","label":"CNT Group Limited","symbol":"0701.HK"}
+{"qid":"Q18651369","label":"N","symbol":"0702.HK"}
+{"qid":"Q10886995","label":"N","symbol":"0703.HK"}
+{"qid":"Q10921391","label":"N","symbol":"0704.HK"}
+{"qid":"Q23636037","label":"Asia Television Holdings","symbol":"0707.HK"}
+{"qid":"Q4115012","label":"Giordano","symbol":"0709.HK"}
+{"qid":"Q17032194","label":"VARITRONIX INTERNATIONAL LIMITED","symbol":"0710.HK"}
+{"qid":"Q7258334","label":"Asia Allied Infrastructure Holdings Limited","symbol":"0711.HK"}
+{"qid":"Q10869169","label":"N","symbol":"0713.HK"}
+{"qid":"Q10921661","label":"Hutchison Harbour Ring","symbol":"0715.HK"}
+{"qid":"Q10901398","label":"Singasmas Containers","symbol":"0716.HK"}
+{"qid":"Q27554880","label":"Tai United Holdings","symbol":"0718.HK"}
+{"qid":"Q11045670","label":"Xinhua Pharmaceutical","symbol":"0719.HK"}
+{"qid":"Q10921663","label":"AUTO ITALIA HOLDINGS LIMITED","symbol":"0720.HK"}
+{"qid":"Q11131102","label":"N","symbol":"0723.HK"}
+{"qid":"Q11145189","label":"Ruixin International","symbol":"0724.HK"}
+{"qid":"Q11072960","label":"PERENNIAL INTERNATIONAL LIMITED","symbol":"0725.HK"}
+{"qid":"Q11103135","label":"SOUTH EAST GROUP LIMITED","symbol":"0726.HK"}
+{"qid":"Q10906125","label":"Crown International Corporation Limited","symbol":"0727.HK"}
+{"qid":"Q24834296","label":"China Telecom","symbol":"0728.HK"}
+{"qid":"Q18711819","label":"N","symbol":"0729.HK"}
+{"qid":"Q17031776","label":"Capital Industrial Financial","symbol":"0730.HK"}
+{"qid":"Q11117051","label":"Samson Paper Holdings Limited","symbol":"0731.HK"}
+{"qid":"Q10887948","label":"N","symbol":"0732.HK"}
+{"qid":"Q16922919","label":"Hopefluent Group Holdings","symbol":"0733.HK"}
+{"qid":"Q5900378","label":"Shenzhen Investment Holdings Bay Area Development","symbol":"0737.HK"}
+{"qid":"Q10898286","label":"Le Saunda Holdings Limited","symbol":"0738.HK"}
+{"qid":"Q27555139","label":"China National Culture","symbol":"0745.HK"}
+{"qid":"Q16923503","label":"Lee & Man Chemical Company Limited","symbol":"0746.HK"}
+{"qid":"Q17035269","label":"N","symbol":"0750.HK"}
+{"qid":"Q7538148","label":"Skyworth","symbol":"0751.HK"}
+{"qid":"Q7215569","label":"Pico Far East Holdings Limited","symbol":"0752.HK"}
+{"qid":"Q51747","label":"Air China","symbol":"0753.HK"}
+{"qid":"Q25996","label":"Hopson Development","symbol":"0754.HK"}
+{"qid":"Q10868037","label":"N","symbol":"0755.HK"}
+{"qid":"Q17034930","label":"N","symbol":"0757.HK"}
+{"qid":"Q10846678","label":"CEC International Holdings Limited","symbol":"0759.HK"}
+{"qid":"Q11082153","label":"TALENT PROPERTY GROUP LIMITED","symbol":"0760.HK"}
+{"qid":"Q136484","label":"ZTE","symbol":"0763.HK"}
+{"qid":"Q27450445","label":"Pacific Plywood","symbol":"0767.HK"}
+{"qid":"Q17031083","label":"UBA Investments Limited","symbol":"0768.HK"}
+{"qid":"Q7262071","label":"N","symbol":"0769.HK"}
+{"qid":"Q13164074","label":"Shanghai International Shanghai Growth Investment","symbol":"0770.HK"}
+{"qid":"Q17035011","label":"AUTOMATED SYSTEMS HOLDINGS LIMITED","symbol":"0771.HK"}
+{"qid":"Q11325442","label":"NetDragon Websoft","symbol":"0777.HK"}
+{"qid":"Q15908527","label":"Fortune REIT","symbol":"0778.HK"}
+{"qid":"Q47305821","label":"LING YUI HOLDINGS","symbol":"0784.HK"}
+{"qid":"Q17035442","label":"Primeview Holdings","symbol":"0789.HK"}
+{"qid":"Q16926279","label":"N","symbol":"0794.HK"}
+{"qid":"Q3800498","label":"IGG Inc.","symbol":"0799.HK"}
+{"qid":"Q10948045","label":"China e-Wallet Payment","symbol":"0802.HK"}
+{"qid":"Q22100613","label":"Pinestone Capital Limited","symbol":"0804.HK"}
+{"qid":"Q11073450","label":"Value Partners","symbol":"0806.HK"}
+{"qid":"Q11143325","label":"Prosperity REIT","symbol":"0808.HK"}
+{"qid":"Q5570140","label":"Global Bio-Chem","symbol":"0809.HK"}
+{"qid":"Q17032748","label":"N","symbol":"0810.HK"}
+{"qid":"Q11084242","label":"Xinhua Winshare","symbol":"0811.HK"}
+{"qid":"Q11079362","label":"N","symbol":"0812.HK"}
+{"qid":"Q7496840","label":"Shimao Property","symbol":"0813.HK"}
+{"qid":"Q10902027","label":"Jingkelong","symbol":"0814.HK"}
+{"qid":"Q15934382","label":"Huadian Fuxin Energy Corporation Limited","symbol":"0816.HK"}
+{"qid":"Q5492439","label":"China Jinmao","symbol":"0817.HK"}
+{"qid":"Q17035822","label":"N","symbol":"0818.HK"}
+{"qid":"Q10940654","label":"N","symbol":"0819.HK"}
+{"qid":"Q10904239","label":"Value Convergence Holdings Limited","symbol":"0821.HK"}
+{"qid":"Q10924054","label":"Ka Shui International Holdings Limited","symbol":"0822.HK"}
+{"qid":"Q11080927","label":"New World Department Store China Limited","symbol":"0825.HK"}
+{"qid":"Q7800174","label":"Tiangong International","symbol":"0826.HK"}
+{"qid":"Q15927239","label":"N","symbol":"0828.HK"}
+{"qid":"Q17029481","label":"N","symbol":"0829.HK"}
+{"qid":"Q15930108","label":"China State Construction Development Holdings","symbol":"0830.HK"}
+{"qid":"Q5166130","label":"Convenience Retail Asia","symbol":"0831.HK"}
+{"qid":"Q17033011","label":"ALLTRONICS HOLDINGS LIMITED","symbol":"0833.HK"}
+{"qid":"Q748693","label":"China Resources Power","symbol":"0836.HK"}
+{"qid":"Q15951561","label":"Carpenter Tan Holdings Limited","symbol":"0837.HK"}
+{"qid":"Q10882808","label":"Asia Cassava Resources Holdings Limited","symbol":"0841.HK"}
+{"qid":"Q16926210","label":"Leoch International Technology Limited","symbol":"0842.HK"}
+{"qid":"Q11072957","label":"Glorious Property Holdings","symbol":"0845.HK"}
+{"qid":"Q11088149","label":"N","symbol":"0846.HK"}
+{"qid":"Q13646628","label":"Maoye International","symbol":"0848.HK"}
+{"qid":"Q17066411","label":"Sheng Yuan Holdings Limited","symbol":"0851.HK"}
+{"qid":"Q11150697","label":"Strong Petrochemical Holdings Limited","symbol":"0852.HK"}
+{"qid":"Q10943782","label":"N","symbol":"0854.HK"}
+{"qid":"Q5099963","label":"China Water Affairs Group","symbol":"0855.HK"}
+{"qid":"Q10888776","label":"VST HOLDINGS LIMITED","symbol":"0856.HK"}
+{"qid":"Q503182","label":"PetroChina Company Limited","symbol":"0857.HK"}
+{"qid":"Q15901456","label":"N","symbol":"0859.HK"}
+{"qid":"Q11088196","label":"O Luxe Holdings Limited","symbol":"0860.HK"}
+{"qid":"Q5275805","label":"Digital China","symbol":"0861.HK"}
+{"qid":"Q10921837","label":"BC Technology Group Limited","symbol":"0863.HK"}
+{"qid":"Q11131226","label":"Wing Lee Property Investments Limited","symbol":"0864.HK"}
+{"qid":"Q10874709","label":"China Qinfa Group Limited","symbol":"0866.HK"}
+{"qid":"Q3674725","label":"Xinyi Glass","symbol":"0868.HK"}
+{"qid":"Q17025163","label":"N","symbol":"0869.HK"}
+{"qid":"Q15944687","label":"N","symbol":"0871.HK"}
+{"qid":"Q14322832","label":"TUS International","symbol":"0872.HK"}
+{"qid":"Q11062187","label":"Guangzhou Baiyunshan Pharmaceutical Holdings Company Limited","symbol":"0874.HK"}
+{"qid":"Q11131237","label":"Mega Medical","symbol":"0876.HK"}
+{"qid":"Q14289358","label":"Soundwill Holdings","symbol":"0878.HK"}
+{"qid":"Q7221157","label":"SJM HOLDINGS LTD.","symbol":"0880.HK"}
+{"qid":"Q7800194","label":"Tianjin Development","symbol":"0882.HK"}
+{"qid":"Q795221","label":"CNOOC Limited","symbol":"0883.HK"}
+{"qid":"Q11087112","label":"N","symbol":"0884.HK"}
+{"qid":"Q24200100","label":"Rentian Technology","symbol":"0885.HK"}
+{"qid":"Q17040729","label":"Silver Base Group Holdings Limited","symbol":"0886.HK"}
+{"qid":"Q5373931","label":"Emperor Watch & Jewellery Limited","symbol":"0887.HK"}
+{"qid":"Q23925146","label":"RoadShow","symbol":"0888.HK"}
+{"qid":"Q10874790","label":"N","symbol":"0893.HK"}
+{"qid":"Q17033512","label":"Man Yue Technology Holdings Limited","symbol":"0894.HK"}
+{"qid":"Q16924096","label":"N","symbol":"0896.HK"}
+{"qid":"Q10885818","label":"Wai Yuen Tong","symbol":"0897.HK"}
+{"qid":"Q13411199","label":"Multifield International Holdings","symbol":"0898.HK"}
+{"qid":"Q15945041","label":"Goldstone Investment Group","symbol":"0901.HK"}
+{"qid":"Q10874716","label":"N","symbol":"0904.HK"}
+{"qid":"Q10875959","label":"CPMC Holdings Limited","symbol":"0906.HK"}
+{"qid":"Q17014656","label":"N","symbol":"0907.HK"}
+{"qid":"Q5099699","label":"China Sandi Holdings","symbol":"0910.HK"}
+{"qid":"Q17271942","label":"Qianhai Health","symbol":"0911.HK"}
+{"qid":"Q10887946","label":"SUGA INTERNATIONAL HOLDINGS LIMITED","symbol":"0912.HK"}
+{"qid":"Q8057770","label":"Youku Tudou","symbol":"0913.HK"}
+{"qid":"Q545565","label":"Anhui Conch Cement Company","symbol":"0914.HK"}
+{"qid":"Q11107271","label":"N","symbol":"0915.HK"}
+{"qid":"Q130889","label":"Longyuan Power","symbol":"0916.HK"}
+{"qid":"Q17031445","label":"STATE ENERGY GROUP INTERNATIONAL ASSETS","symbol":"0918.HK"}
+{"qid":"Q15950958","label":"Modern Beauty Salon Holdings Limited","symbol":"0919.HK"}
+{"qid":"Q5772527","label":"Hisense Kelon","symbol":"0921.HK"}
+{"qid":"Q10875942","label":"Anxian Yuan China Holdings Limited","symbol":"0922.HK"}
+{"qid":"Q15932689","label":"N","symbol":"0923.HK"}
+{"qid":"Q18235380","label":"N","symbol":"0926.HK"}
+{"qid":"Q17023557","label":"IPE GROUP LIMITED","symbol":"0929.HK"}
+{"qid":"Q18165187","label":"China LNG Group Limited","symbol":"0931.HK"}
+{"qid":"Q15934629","label":"Shunten International (Holdings)","symbol":"0932.HK"}
+{"qid":"Q10875935","label":"N","symbol":"0934.HK"}
+{"qid":"Q11079088","label":"Eagle Legend Asia Limited","symbol":"0936.HK"}
+{"qid":"Q11129178","label":"N","symbol":"0938.HK"}
+{"qid":"Q26299","label":"China Construction Bank","symbol":"0939.HK"}
+{"qid":"Q10874445","label":"China Animal Healthcare Limited","symbol":"0940.HK"}
+{"qid":"Q741618","label":"China Mobile","symbol":"0941.HK"}
+{"qid":"Q1652574","label":"Manulife Financial","symbol":"0945.HK"}
+{"qid":"Q11078449","label":"MOBI Development Co., Ltd.","symbol":"0947.HK"}
+{"qid":"Q11097140","label":"LEE'S PHARMACEUTICAL HOLDINGS LIMITED","symbol":"0950.HK"}
+{"qid":"Q17040930","label":"CHAOWEI POWER HOLDINGS LIMITED","symbol":"0951.HK"}
+{"qid":"Q18218462","label":"China Tonghai International Financial","symbol":"0952.HK"}
+{"qid":"Q17025838","label":"Shaw Brothers Holdings","symbol":"0953.HK"}
+{"qid":"Q11060476","label":"N","symbol":"0954.HK"}
+{"qid":"Q11082162","label":"China Suntien Green Energy","symbol":"0956.HK"}
+{"qid":"Q15931391","label":"Huaneng Renewables","symbol":"0958.HK"}
+{"qid":"Q26207839","label":"Century Entertainment International","symbol":"0959.HK"}
+{"qid":"Q11180568","label":"Longfor Properties","symbol":"0960.HK"}
+{"qid":"Q17032930","label":"N","symbol":"0963.HK"}
+{"qid":"Q11113014","label":"SOUND GLOBAL LIMITED","symbol":"0967.HK"}
+{"qid":"Q24833424","label":"Hualien Media International","symbol":"0969.HK"}
+{"qid":"Q17026434","label":"Sparkle Roll Group Limited","symbol":"0970.HK"}
+{"qid":"Q17059500","label":"N","symbol":"0975.HK"}
+{"qid":"Q15922324","label":"China Merchants Land Limited","symbol":"0978.HK"}
+{"qid":"Q17040963","label":"Green Energy Group Limited|","symbol":"0979.HK"}
+{"qid":"Q15913381","label":"Lianhua Supermarket","symbol":"0980.HK"}
+{"qid":"Q648533","label":"Semiconductor Manufacturing International Corporation","symbol":"0981.HK"}
+{"qid":"Q10906085","label":"HJ Capital (International)","symbol":"0982.HK"}
+{"qid":"Q7218289","label":"N","symbol":"0983.HK"}
+{"qid":"Q10875947","label":"CST Group","symbol":"0985.HK"}
+{"qid":"Q17201276","label":"China Environmental Energy Investment","symbol":"0986.HK"}
+{"qid":"Q11121084","label":"N","symbol":"0988.HK"}
+{"qid":"Q16926193","label":"Ground International Development","symbol":"0989.HK"}
+{"qid":"Q287744","label":"Datang International Power Generation Company","symbol":"0991.HK"}
+{"qid":"Q10940718","label":"N","symbol":"0993.HK"}
+{"qid":"Q46065","label":"ANHUI EXPRESSWAY COMPANY LIMITED","symbol":"0995.HK"}
+{"qid":"Q10924009","label":"N","symbol":"0996.HK"}
+{"qid":"Q38960","label":"China CITIC Bank","symbol":"0998.HK"}
+{"qid":"Q5967913","label":"I.T","symbol":"0999.HK"}
+{"qid":"Q23649975","label":"Beijing Media","symbol":"1000.HK"}
+{"qid":"Q10943781","label":"N","symbol":"1002.HK"}
+{"qid":"Q11120489","label":"Huanxi Media","symbol":"1003.HK"}
+{"qid":"Q11175258","label":"China Smarter Energy","symbol":"1004.HK"}
+{"qid":"Q17025849","label":"MATRIX HOLDINGS LIMITED","symbol":"1005.HK"}
+{"qid":"Q10935467","label":"LONGHUI INTERNATIONAL HOLDINGS LIMITED","symbol":"1007.HK"}
+{"qid":"Q15902344","label":"N","symbol":"1008.HK"}
+{"qid":"Q10927387","label":"N","symbol":"1009.HK"}
+{"qid":"Q11066390","label":"N","symbol":"1010.HK"}
+{"qid":"Q11144804","label":"China NT Pharma Group Company Limited","symbol":"1011.HK"}
+{"qid":"Q2689375","label":"Convoy Global Holdings Limited","symbol":"1019.HK"}
+{"qid":"Q17032992","label":"Cybernaut Intl Holdings","symbol":"1020.HK"}
+{"qid":"Q18585794","label":"Feiyu Technology","symbol":"1022.HK"}
+{"qid":"Q15951944","label":"SITOY GROUP HOLDINGS LIMITED","symbol":"1023.HK"}
+{"qid":"Q20776435","label":"China Jicheng Holdings","symbol":"1027.HK"}
+{"qid":"Q10904951","label":"C.BANNER INTERNATIONAL Holdings Limited","symbol":"1028.HK"}
+{"qid":"Q15925149","label":"Kingston Financial Group","symbol":"1031.HK"}
+{"qid":"Q20117829","label":"Sinopec SSC","symbol":"1033.HK"}
+{"qid":"Q15925915","label":"Vanke Property Overseas","symbol":"1036.HK"}
+{"qid":"Q17023148","label":"Maxnerva Technology","symbol":"1037.HK"}
+{"qid":"Q5094252","label":"CK Infrastructure Holdings","symbol":"1038.HK"}
+{"qid":"Q17025534","label":"Fortunet e-Commerce Group Limited","symbol":"1039.HK"}
+{"qid":"Q5714244","label":"Hengan International","symbol":"1044.HK"}
+{"qid":"Q25227012","label":"APT Satellite Holdings","symbol":"1045.HK"}
+{"qid":"Q10955994","label":"Universe International Financial Holdings","symbol":"1046.HK"}
+{"qid":"Q11125861","label":"Ngai Hing Hong Company Limited","symbol":"1047.HK"}
+{"qid":"Q11089220","label":"N","symbol":"1049.HK"}
+{"qid":"Q10923963","label":"KARRIE INTERNATIONAL HOLDINGS LIMITED","symbol":"1050.HK"}
+{"qid":"Q10927432","label":"G-Resources Group Limited","symbol":"1051.HK"}
+{"qid":"Q5515097","label":"GZI Transport","symbol":"1052.HK"}
+{"qid":"Q291090","label":"China Southern Airlines","symbol":"1055.HK"}
+{"qid":"Q11148475","label":"Zhejiang Shibao Company Limited","symbol":"1057.HK"}
+{"qid":"Q17040867","label":"GUANGDONG TANNERY LIMITED","symbol":"1058.HK"}
+{"qid":"Q17040703","label":"KANTONE HOLDINGS LIMITED","symbol":"1059.HK"}
+{"qid":"Q11079561","label":"Alibaba Pictures","symbol":"1060.HK"}
+{"qid":"Q15955718","label":"ESSEX BIO-TECHNOLOGY LIMITED","symbol":"1061.HK"}
+{"qid":"Q17023555","label":"China Development Bank International Investment Limited","symbol":"1062.HK"}
+{"qid":"Q11083910","label":"N","symbol":"1063.HK"}
+{"qid":"Q10876231","label":"ZHONG HUA INTERNATIONAL HOLDINGS LIMITED","symbol":"1064.HK"}
+{"qid":"Q10939968","label":"N","symbol":"1065.HK"}
+{"qid":"Q10943794","label":"N","symbol":"1066.HK"}
+{"qid":"Q8061773","label":"Yurun Group","symbol":"1068.HK"}
+{"qid":"Q5925035","label":"Huadian Power International","symbol":"1071.HK"}
+{"qid":"Q5295864","label":"Dongfang Electric","symbol":"1072.HK"}
+{"qid":"Q11667056","label":"Capinfo","symbol":"1075.HK"}
+{"qid":"Q20441616","label":"Imperial Pacific","symbol":"1076.HK"}
+{"qid":"Q11104472","label":"Pine Technology Holdings Limited","symbol":"1079.HK"}
+{"qid":"Q10901378","label":"Shengli Oil & Gas Pipe Holdings Limited","symbol":"1080.HK"}
+{"qid":"Q6888647","label":"Modern Education","symbol":"1082.HK"}
+{"qid":"Q7830116","label":"Towngas China","symbol":"1083.HK"}
+{"qid":"Q28134057","label":"Goodbaby International","symbol":"1086.HK"}
+{"qid":"Q17029093","label":"HL TECHNOLOGY GROUP LIMITED","symbol":"1087.HK"}
+{"qid":"Q1073509","label":"China Shenhua Energy Company","symbol":"1088.HK"}
+{"qid":"Q28187010","label":"Leyou","symbol":"1089.HK"}
+{"qid":"Q10935617","label":"N","symbol":"1090.HK"}
+{"qid":"Q10871741","label":"N","symbol":"1091.HK"}
+{"qid":"Q7496503","label":"CSPC Pharmaceutical Group","symbol":"1093.HK"}
+{"qid":"Q17014669","label":"China Public Procurement Limited","symbol":"1094.HK"}
+{"qid":"Q4185510","label":"I-Cable Communications","symbol":"1097.HK"}
+{"qid":"Q16923921","label":"Road King Infrastructure Limited","symbol":"1098.HK"}
+{"qid":"Q7524930","label":"Sinopharm Group","symbol":"1099.HK"}
+{"qid":"Q17063132","label":"MAINLAND HEADWEAR HOLDINGS LIMITED","symbol":"1100.HK"}
+{"qid":"Q15928955","label":"China Huarong Energy","symbol":"1101.HK"}
+{"qid":"Q17061367","label":"N","symbol":"1102.HK"}
+{"qid":"Q10867946","label":"N","symbol":"1103.HK"}
+{"qid":"Q10882736","label":"N","symbol":"1104.HK"}
+{"qid":"Q7522713","label":"Sing Tao News Corporation Limited","symbol":"1105.HK"}
+{"qid":"Q16923553","label":"N","symbol":"1107.HK"}
+{"qid":"Q5099887","label":"China Resources Land","symbol":"1109.HK"}
+{"qid":"Q5104600","label":"Chong Hing Bank","symbol":"1111.HK"}
+{"qid":"Q10916903","label":"Health and Happiness (H&H) International Holdings","symbol":"1112.HK"}
+{"qid":"Q19985983","label":"CK Asset Holdings","symbol":"1113.HK"}
+{"qid":"Q97961992","label":"Brilliance China Automotive Holdings","symbol":"1114.HK"}
+{"qid":"Q15923620","label":"Tibet Water Resources","symbol":"1115.HK"}
+{"qid":"Q17025830","label":"N","symbol":"1116.HK"}
+{"qid":"Q17060278","label":"China Modern Dairy Holdings Ltd.","symbol":"1117.HK"}
+{"qid":"Q15897174","label":"N","symbol":"1118.HK"}
+{"qid":"Q178576","label":"Qingling Motors","symbol":"1122.HK"}
+{"qid":"Q10875825","label":"N","symbol":"1123.HK"}
+{"qid":"Q5138297","label":"Coastal Greenland","symbol":"1124.HK"}
+{"qid":"Q11071727","label":"N","symbol":"1126.HK"}
+{"qid":"Q11131238","label":"Wynn Macau, Limited","symbol":"1128.HK"}
+{"qid":"Q10874650","label":"CHINA WATER INDUSTRY GROUP LIMITED","symbol":"1129.HK"}
+{"qid":"Q10874678","label":"N","symbol":"1130.HK"}
+{"qid":"Q11173937","label":"N","symbol":"1131.HK"}
+{"qid":"Q541569","label":"Orange Sky Golden Harvest","symbol":"1132.HK"}
+{"qid":"Q5654441","label":"Harbin Electric","symbol":"1133.HK"}
+{"qid":"Q9013416","label":"HKTV","symbol":"1137.HK"}
+{"qid":"Q641021","label":"COSCO SHIPPING Energy Transportation Co., Ltd.","symbol":"1138.HK"}
+{"qid":"Q11103942","label":"OP Financial Investments Limited","symbol":"1140.HK"}
+{"qid":"Q18681268","label":"CMBC Capital","symbol":"1141.HK"}
+{"qid":"Q15900414","label":"N","symbol":"1142.HK"}
+{"qid":"Q13425917","label":"China Healthcare Enterprise","symbol":"1143.HK"}
+{"qid":"Q5178074","label":"Courage Investment Group","symbol":"1145.HK"}
+{"qid":"Q11082860","label":"XINCHEN CHINA POWER HOLDINGS LIMITED","symbol":"1148.HK"}
+{"qid":"Q10947175","label":"N","symbol":"1149.HK"}
+{"qid":"Q7215145","label":"Milan Station","symbol":"1150.HK"}
+{"qid":"Q17038403","label":"Infinity Financial Group","symbol":"1152.HK"}
+{"qid":"Q5972314","label":"Zoomlion","symbol":"1157.HK"}
+{"qid":"Q10934288","label":"Grand Investment International Limited","symbol":"1160.HK"}
+{"qid":"Q10942607","label":"N","symbol":"1161.HK"}
+{"qid":"Q11071871","label":"Dejin Resources Group Company Limited","symbol":"1163.HK"}
+{"qid":"Q17063030","label":"SFCE","symbol":"1165.HK"}
+{"qid":"Q16923581","label":"N","symbol":"1168.HK"}
+{"qid":"Q10888016","label":"KINGMAKER FOOTWEAR HOLDINGS LIMITED","symbol":"1170.HK"}
+{"qid":"Q850451","label":"Yanzhou Coal Mining Company","symbol":"1171.HK"}
+{"qid":"Q10901469","label":"Magnus Concordia Group","symbol":"1172.HK"}
+{"qid":"Q10943793","label":"VEEKO INTERNATIONAL HOLDINGS LIMITED","symbol":"1173.HK"}
+{"qid":"Q18657358","label":"Zhuguang Holdings Group Company Limited","symbol":"1176.HK"}
+{"qid":"Q10874682","label":"Sino Biopharmaceutical Limited","symbol":"1177.HK"}
+{"qid":"Q16926374","label":"Paradise Entertainment Limited","symbol":"1180.HK"}
+{"qid":"Q10922681","label":"N","symbol":"1181.HK"}
+{"qid":"Q10876828","label":"N","symbol":"1182.HK"}
+{"qid":"Q11089230","label":"N","symbol":"1184.HK"}
+{"qid":"Q10874734","label":"China Energine","symbol":"1185.HK"}
+{"qid":"Q1073482","label":"China Railway Construction Corporation Limited","symbol":"1186.HK"}
+{"qid":"Q11123593","label":"N","symbol":"1188.HK"}
+{"qid":"Q15942219","label":"GREATER BAY AREA DYNAMIC GROWTH","symbol":"1189.HK"}
+{"qid":"Q16926391","label":"China Gem Holdings Limited","symbol":"1191.HK"}
+{"qid":"Q11144998","label":"N","symbol":"1192.HK"}
+{"qid":"Q5099882","label":"China Resources Gas","symbol":"1193.HK"}
+{"qid":"Q10874762","label":"Bay Area Gold","symbol":"1194.HK"}
+{"qid":"Q10883227","label":"N","symbol":"1195.HK"}
+{"qid":"Q22101492","label":"Realord Group Holdings Limited","symbol":"1196.HK"}
+{"qid":"Q7375104","label":"Royale Furniture Holdings","symbol":"1198.HK"}
+{"qid":"Q5013500","label":"COSCO Shipping Ports","symbol":"1199.HK"}
+{"qid":"Q6842356","label":"Midland Holdings","symbol":"1200.HK"}
+{"qid":"Q10889353","label":"Kith Holdings Limited","symbol":"1201.HK"}
+{"qid":"Q11074669","label":"N","symbol":"1202.HK"}
+{"qid":"Q11064543","label":"N","symbol":"1203.HK"}
+{"qid":"Q5011913","label":"CITIC Resources","symbol":"1205.HK"}
+{"qid":"Q17023394","label":"Technovator International Limited","symbol":"1206.HK"}
+{"qid":"Q10868214","label":"SRE Group Limited","symbol":"1207.HK"}
+{"qid":"Q10882021","label":"N","symbol":"1208.HK"}
+{"qid":"Q10890995","label":"N","symbol":"1210.HK"}
+{"qid":"Q2608329","label":"BYD Company","symbol":"1211.HK"}
+{"qid":"Q10898409","label":"Lifestyle International Holdings","symbol":"1212.HK"}
+{"qid":"Q6347521","label":"Kai Yuan Holdings Limited","symbol":"1215.HK"}
+{"qid":"Q11132651","label":"N","symbol":"1218.HK"}
+{"qid":"Q11150461","label":"N","symbol":"1220.HK"}
+{"qid":"Q10948002","label":"Wang On Group Limited","symbol":"1222.HK"}
+{"qid":"Q5015054","label":"C C Land","symbol":"1224.HK"}
+{"qid":"Q17035100","label":"Lerado Financial Group Company Limited","symbol":"1225.HK"}
+{"qid":"Q10874581","label":"N","symbol":"1226.HK"}
+{"qid":"Q8049726","label":"Yashili","symbol":"1230.HK"}
+{"qid":"Q11083911","label":"N","symbol":"1231.HK"}
+{"qid":"Q16923216","label":"N","symbol":"1233.HK"}
+{"qid":"Q10874442","label":"N","symbol":"1234.HK"}
+{"qid":"Q7241570","label":"Travel Expert","symbol":"1235.HK"}
+{"qid":"Q10879966","label":"National Agricultural Holdings Limited","symbol":"1236.HK"}
+{"qid":"Q17025961","label":"China Environmental Technology and Bioenergy Holdings Limited","symbol":"1237.HK"}
+{"qid":"Q17061594","label":"Teamway International Group Holdings Limited","symbol":"1239.HK"}
+{"qid":"Q15950225","label":"CNQC International","symbol":"1240.HK"}
+{"qid":"Q17035702","label":"Shuanghua Holdings Limited","symbol":"1241.HK"}
+{"qid":"Q11325043","label":"Niraku","symbol":"1245.HK"}
+{"qid":"Q16926272","label":"Beijing Enterprises Clean Energy","symbol":"1250.HK"}
+{"qid":"Q17032895","label":"SPT Energy Group Inc.","symbol":"1251.HK"}
+{"qid":"Q10940477","label":"N","symbol":"1252.HK"}
+{"qid":"Q15942143","label":"N","symbol":"1258.HK"}
+{"qid":"Q15912092","label":"China Child Care Corporation Limited","symbol":"1259.HK"}
+{"qid":"Q15956006","label":"N","symbol":"1260.HK"}
+{"qid":"Q17060916","label":"N","symbol":"1262.HK"}
+{"qid":"Q226897","label":"Zotac","symbol":"1263.HK"}
+{"qid":"Q10940050","label":"N","symbol":"1265.HK"}
+{"qid":"Q17065314","label":"Xiwang Special Steel Company Limited","symbol":"1266.HK"}
+{"qid":"Q15952007","label":"China First Capital","symbol":"1269.HK"}
+{"qid":"Q17025577","label":"N","symbol":"1270.HK"}
+{"qid":"Q15941722","label":"Grand Ming Group Holdings Limited","symbol":"1271.HK"}
+{"qid":"Q27865940","label":"Datang Environment Industry","symbol":"1272.HK"}
+{"qid":"Q17032044","label":"Hong Kong Finance Group Limited","symbol":"1273.HK"}
+{"qid":"Q10900671","label":"Kinetic Mines and Energy Limited","symbol":"1277.HK"}
+{"qid":"Q10874599","label":"China New Town Development Co. Ltd.","symbol":"1278.HK"}
+{"qid":"Q15939847","label":"Huiyin Smart Community Co., Ltd.","symbol":"1280.HK"}
+{"qid":"Q17013324","label":"China Goldjoy","symbol":"1282.HK"}
+{"qid":"Q26298","label":"Agricultural Bank of China","symbol":"1288.HK"}
+{"qid":"Q17014677","label":"China Huirong Financial Holdings Limited","symbol":"1290.HK"}
+{"qid":"Q15951982","label":"N","symbol":"1292.HK"}
+{"qid":"Q10956056","label":"Grand Baoxin Auto Group Limited","symbol":"1293.HK"}
+{"qid":"Q1152465","label":"AIA Group","symbol":"1299.HK"}
+{"qid":"Q17021941","label":"N","symbol":"1303.HK"}
+{"qid":"Q11149577","label":"N","symbol":"1308.HK"}
+{"qid":"Q5894319","label":"HKBN Limited","symbol":"1310.HK"}
+{"qid":"Q17034241","label":"Allied Cement Holdings Limited","symbol":"1312.HK"}
+{"qid":"Q5099884","label":"China Resources Cement","symbol":"1313.HK"}
+{"qid":"Q7850018","label":"Tsui Wah Restaurant","symbol":"1314.HK"}
+{"qid":"Q7257770","label":"N","symbol":"1315.HK"}
+{"qid":"Q16923629","label":"Nexteer Automotive","symbol":"1316.HK"}
+{"qid":"Q48863167","label":"China Maple Leaf Educational","symbol":"1317.HK"}
+{"qid":"Q17028124","label":"Oi Wah Pawnshop Credit Holdings Limited","symbol":"1319.HK"}
+{"qid":"Q17498956","label":"N","symbol":"1321.HK"}
+{"qid":"Q14617988","label":"Newtree Group","symbol":"1323.HK"}
+{"qid":"Q10940853","label":"Pegasus Entertainment Holdings Limited","symbol":"1326.HK"}
+{"qid":"Q17039849","label":"China Opto Holdings Limited","symbol":"1332.HK"}
+{"qid":"Q5099980","label":"China Zhongwang","symbol":"1333.HK"}
+{"qid":"Q15935501","label":"Sheen Tai Holdings Group Company Limited","symbol":"1335.HK"}
+{"qid":"Q11084240","label":"New China Life Insurance Co., Ltd.","symbol":"1336.HK"}
+{"qid":"Q367412","label":"Razer Inc.","symbol":"1337.HK"}
+{"qid":"Q4873764","label":"Bawang Shampoo","symbol":"1338.HK"}
+{"qid":"Q1807264","label":"The People's Insurance Company (Group) of China Limited","symbol":"1339.HK"}
+{"qid":"Q18110469","label":"China Pioneer Pharma Holdings Limited","symbol":"1345.HK"}
+{"qid":"Q17032041","label":"Quali-Smart Holdings Limited","symbol":"1348.HK"}
+{"qid":"Q15954177","label":"N","symbol":"1355.HK"}
+{"qid":"Q15933437","label":"China Cinda Asset Management Co., Ltd.","symbol":"1359.HK"}
+{"qid":"Q10846067","label":"361\u02da","symbol":"1361.HK"}
+{"qid":"Q15932696","label":"CT ENVIRONMENTAL GROUP LIMITED","symbol":"1363.HK"}
+{"qid":"Q11133933","label":"Jiangnan Group Limited","symbol":"1366.HK"}
+{"qid":"Q4021859","label":"Xtep","symbol":"1368.HK"}
+{"qid":"Q14921882","label":"Wuzhou International Holdings","symbol":"1369.HK"}
+{"qid":"Q18657391","label":"Aowei Holding","symbol":"1370.HK"}
+{"qid":"Q17025230","label":"N","symbol":"1372.HK"}
+{"qid":"Q10874559","label":"China Hongqiao","symbol":"1378.HK"}
+{"qid":"Q18001649","label":"China Kingstone Mining Holdings","symbol":"1380.HK"}
+{"qid":"Q10881423","label":"Pacific Textiles Holdings Limited","symbol":"1382.HK"}
+{"qid":"Q10941820","label":"Suncity Group","symbol":"1383.HK"}
+{"qid":"Q17013170","label":"N","symbol":"1385.HK"}
+{"qid":"Q10883462","label":"N","symbol":"1387.HK"}
+{"qid":"Q21279515","label":"Major Holdings","symbol":"1389.HK"}
+{"qid":"Q5752816","label":"Hidili Industry International Development Limited","symbol":"1393.HK"}
+{"qid":"Q18118904","label":"Baguio Green Group Limited","symbol":"1397.HK"}
+{"qid":"Q26463","label":"Industrial and Commercial Bank of China","symbol":"1398.HK"}
+{"qid":"Q17031415","label":"Veson Holdings","symbol":"1399.HK"}
+{"qid":"Q17023870","label":"N","symbol":"1400.HK"}
+{"qid":"Q116896406","label":"N","symbol":"1408.HK"}
+{"qid":"Q17025007","label":"Kingbo Strike Limited","symbol":"1421.HK"}
+{"qid":"Q16923206","label":"N","symbol":"1426.HK"}
+{"qid":"Q19855063","label":"Bright Smart Securities","symbol":"1428.HK"}
+{"qid":"Q17022952","label":"N","symbol":"1431.HK"}
+{"qid":"Q19854665","label":"Mobile Internet (China)","symbol":"1439.HK"}
+{"qid":"Q10954627","label":"Fulum Group","symbol":"1443.HK"}
+{"qid":"Q11173952","label":"Hung Fook Tong","symbol":"1446.HK"}
+{"qid":"Q10306747","label":"N","symbol":"1447.HK"}
+{"qid":"Q53957963","label":"MS GROUP HOLDINGS","symbol":"1451.HK"}
+{"qid":"Q22100400","label":"N","symbol":"1452.HK"}
+{"qid":"Q20679940","label":"Guolian Securities","symbol":"1456.HK"}
+{"qid":"Q20644611","label":"Luzheng Futures","symbol":"1461.HK"}
+{"qid":"Q17030722","label":"N","symbol":"1468.HK"}
+{"qid":"Q23899086","label":"Get Nice Financial Group Limited","symbol":"1469.HK"}
+{"qid":"Q18594470","label":"Q Technology","symbol":"1478.HK"}
+{"qid":"Q19883130","label":"Yan Tat Group","symbol":"1480.HK"}
+{"qid":"Q16923514","label":"Lee & Man Handbags Holding Limited","symbol":"1488.HK"}
+{"qid":"Q32052973","label":"AP Rentals Holdings Limited","symbol":"1496.HK"}
+{"qid":"Q19798117","label":"In Construction","symbol":"1500.HK"}
+{"qid":"Q10873285","label":"China Reinsurance","symbol":"1508.HK"}
+{"qid":"Q10877611","label":"Livzon Pharmaceutical Group Inc.","symbol":"1513.HK"}
+{"qid":"Q17164020","label":"CEFC Hong Kong Financial Investment Company Limited","symbol":"1520.HK"}
+{"qid":"Q10874512","label":"BII Railway Transportation Technology Holdings Company Limited","symbol":"1522.HK"}
+{"qid":"Q22704472","label":"Red Star Macalline","symbol":"1528.HK"}
+{"qid":"Q20022836","label":"3SBio","symbol":"1530.HK"}
+{"qid":"Q21118867","label":"China Partytime Culture","symbol":"1532.HK"}
+{"qid":"Q19801094","label":"N","symbol":"1539.HK"}
+{"qid":"Q54335808","label":"GENSCRIPT BIOTECH","symbol":"1548.HK"}
+{"qid":"Q24727811","label":"Ever Harvest Group","symbol":"1549.HK"}
+{"qid":"Q10851552","label":"N","symbol":"1555.HK"}
+{"qid":"Q21428428","label":"CHINNEY KIN WING HOLDINGS LIMITED","symbol":"1556.HK"}
+{"qid":"Q11073397","label":"K. H. Group Holdings","symbol":"1557.HK"}
+{"qid":"Q19718787","label":"Kwan On Holdings","symbol":"1559.HK"}
+{"qid":"Q10481240","label":"Virscend Education","symbol":"1565.HK"}
+{"qid":"Q11076393","label":"Sundart Holdings Limited","symbol":"1568.HK"}
+{"qid":"Q28950387","label":"China Art Financial","symbol":"1572.HK"}
+{"qid":"Q10940359","label":"Bank of Tianjin","symbol":"1578.HK"}
+{"qid":"Q10947027","label":"Yihai International","symbol":"1579.HK"}
+{"qid":"Q28416167","label":"Qinqin Foods","symbol":"1583.HK"}
+{"qid":"Q30339716","label":"China Leon Inspection","symbol":"1586.HK"}
+{"qid":"Q18109576","label":"N","symbol":"1588.HK"}
+{"qid":"Q16926185","label":"SYNERTONE COMMUNICATION CORPORATION","symbol":"1613.HK"}
+{"qid":"Q15951039","label":"Starrise Media Holdings Limited","symbol":"1616.HK"}
+{"qid":"Q27927773","label":"Nanfang Communication Holdings Limited","symbol":"1617.HK"}
+{"qid":"Q17855883","label":"Tianhe Chemicals Group Limited","symbol":"1619.HK"}
+{"qid":"Q17030148","label":"N","symbol":"1628.HK"}
+{"qid":"Q21014205","label":"REF Holdings","symbol":"1631.HK"}
+{"qid":"Q10886972","label":"Kaisa Group","symbol":"1638.HK"}
+{"qid":"Q986744","label":"Postal Savings Bank of China","symbol":"1658.HK"}
+{"qid":"Q15951096","label":"N","symbol":"1663.HK"}
+{"qid":"Q10917514","label":"Tong Ren Tang Technologies","symbol":"1666.HK"}
+{"qid":"Q5099902","label":"China South City Holdings","symbol":"1668.HK"}
+{"qid":"Q18638691","label":"N","symbol":"1669.HK"}
+{"qid":"Q17032969","label":"Huazhang Technology Holding Limited","symbol":"1673.HK"}
+{"qid":"Q16926426","label":"N","symbol":"1680.HK"}
+{"qid":"Q17030063","label":"N","symbol":"1682.HK"}
+{"qid":"Q17022931","label":"Boer Power Holdings Limited","symbol":"1685.HK"}
+{"qid":"Q17032962","label":"HUAXI HOLDINGS COMPANY LIMITED","symbol":"1689.HK"}
+{"qid":"Q10909399","label":"Boshiwa International Holding Limited","symbol":"1698.HK"}
+{"qid":"Q11089826","label":"China Putian Food Holding Limited","symbol":"1699.HK"}
+{"qid":"Q17032827","label":"Springland International","symbol":"1700.HK"}
+{"qid":"Q6963681","label":"Nanjing Sample Technology","symbol":"1708.HK"}
+{"qid":"Q11121101","label":"Ulferts International","symbol":"1711.HK"}
+{"qid":"Q20743393","label":"Wan Kei Group","symbol":"1718.HK"}
+{"qid":"Q11123589","label":"N","symbol":"1728.HK"}
+{"qid":"Q11132296","label":"N","symbol":"1733.HK"}
+{"qid":"Q17031406","label":"N","symbol":"1738.HK"}
+{"qid":"Q54823949","label":"Affluent Foundation Holdings","symbol":"1757.HK"}
+{"qid":"Q19840026","label":"CRRC","symbol":"1766.HK"}
+{"qid":"Q7426108","label":"Sateri","symbol":"1768.HK"}
+{"qid":"Q17025427","label":"Sunfonda Group Holdings Limited","symbol":"1771.HK"}
+{"qid":"Q11061887","label":"GF Securities Company Limited","symbol":"1776.HK"}
+{"qid":"Q5434139","label":"Fantasia Holdings","symbol":"1777.HK"}
+{"qid":"Q21855089","label":"CRCC High-tech Equipment","symbol":"1786.HK"}
+{"qid":"Q10934290","label":"N","symbol":"1798.HK"}
+{"qid":"Q1073236","label":"China Communications Construction","symbol":"1800.HK"}
+{"qid":"Q116216568","label":"Innovent Biologics","symbol":"1801.HK"}
+{"qid":"Q17039391","label":"Beijing Sports and Entertainment","symbol":"1803.HK"}
+{"qid":"Q10884789","label":"Enterprise Development Holdings Limited","symbol":"1808.HK"}
+{"qid":"Q18681345","label":"CGN New Energy","symbol":"1811.HK"}
+{"qid":"Q4977492","label":"Chenming Paper","symbol":"1812.HK"}
+{"qid":"Q18699320","label":"CGN Power","symbol":"1816.HK"}
+{"qid":"Q8070607","label":"Zhaojin Mining","symbol":"1818.HK"}
+{"qid":"Q7167012","label":"Hongda Financial","symbol":"1822.HK"}
+{"qid":"Q17066737","label":"Huayu Expressway Group Limited","symbol":"1823.HK"}
+{"qid":"Q16957715","label":"China Machinery Engineering Corporation","symbol":"1829.HK"}
+{"qid":"Q10904637","label":"ShiFang Holding Limited","symbol":"1831.HK"}
+{"qid":"Q10878994","label":"Stella International Holdings Limited","symbol":"1836.HK"}
+{"qid":"Q4036129","label":"China Properties Group","symbol":"1838.HK"}
+{"qid":"Q19845346","label":"China Aircraft Leasing","symbol":"1848.HK"}
+{"qid":"Q1028719","label":"Ernest Borel","symbol":"1856.HK"}
+{"qid":"Q16923226","label":"JINGRUI HOLDINGS LIMITED","symbol":"1862.HK"}
+{"qid":"Q10874578","label":"N","symbol":"1866.HK"}
+{"qid":"Q4045177","label":"Neo-Neon Holdings","symbol":"1868.HK"}
+{"qid":"Q10907886","label":"SouthGobi Resources","symbol":"1878.HK"}
+{"qid":"Q15936065","label":"Haitian International Holdings Limited","symbol":"1882.HK"}
+{"qid":"Q5011903","label":"CITIC 1616 Holdings","symbol":"1883.HK"}
+{"qid":"Q16078482","label":"Eprint Group Limited","symbol":"1884.HK"}
+{"qid":"Q933850","label":"Huiyuan Juice","symbol":"1886.HK"}
+{"qid":"Q11123987","label":"Sanai Health Industry Group","symbol":"1889.HK"}
+{"qid":"Q97350749","label":"Maoyan entertainment","symbol":"1896.HK"}
+{"qid":"Q1073240","label":"China Coal Energy","symbol":"1898.HK"}
+{"qid":"Q17035276","label":"Xingda International Holdings Limited","symbol":"1899.HK"}
+{"qid":"Q17075003","label":"N","symbol":"1900.HK"}
+{"qid":"Q24902293","label":"JBB Builders","symbol":"1903.HK"}
+{"qid":"Q15956108","label":"N","symbol":"1908.HK"}
+{"qid":"Q1203426","label":"Samsonite","symbol":"1910.HK"}
+{"qid":"Q193136","label":"Prada","symbol":"1913.HK"}
+{"qid":"Q13410248","label":"Sunac China","symbol":"1918.HK"}
+{"qid":"Q5099614","label":"Cosco Shipping Holdings Co., Ltd.","symbol":"1919.HK"}
+{"qid":"Q15913951","label":"Sands China","symbol":"1928.HK"}
+{"qid":"Q48880993","label":"Chow Tai Fook Jewellery Group","symbol":"1929.HK"}
+{"qid":"Q10876554","label":"CPM Group","symbol":"1932.HK"}
+{"qid":"Q99929860","label":"Jinxin Fertility Group","symbol":"1951.HK"}
+{"qid":"Q5099893","label":"China SCE Property","symbol":"1966.HK"}
+{"qid":"Q21085610","label":"IMAX China Holding","symbol":"1970.HK"}
+{"qid":"Q7658810","label":"Swire Properties","symbol":"1972.HK"}
+{"qid":"Q28921811","label":"Microware Group Limited","symbol":"1985.HK"}
+{"qid":"Q911543","label":"China Minsheng Bank","symbol":"1988.HK"}
+{"qid":"Q28799644","label":"Pine Care Group","symbol":"1989.HK"}
+{"qid":"Q42893706","label":"Wharf Real Estate Investment Company Limited","symbol":"1997.HK"}
+{"qid":"Q11079086","label":"Man Wah Holdings Limited","symbol":"1999.HK"}
+{"qid":"Q11089563","label":"SIM TECHNOLOGY GROUP LIMITED","symbol":"2000.HK"}
+{"qid":"Q18669108","label":"China Sunshine Paper Holdings Co Ltd","symbol":"2002.HK"}
+{"qid":"Q6547021","label":"Lijun International Pharmaceutical (Holding) Co. Ltd.","symbol":"2005.HK"}
+{"qid":"Q6202545","label":"Shanghai Jin Jiang Capital Company Limited","symbol":"2006.HK"}
+{"qid":"Q5177291","label":"Country Garden","symbol":"2007.HK"}
+{"qid":"Q724186","label":"Phoenix Television","symbol":"2008.HK"}
+{"qid":"Q4415024","label":"BBMG","symbol":"2009.HK"}
+{"qid":"Q17060875","label":"Real Nutriceutical Group Limited","symbol":"2010.HK"}
+{"qid":"Q17031091","label":"China Apex Group Limited","symbol":"2011.HK"}
+{"qid":"Q15924407","label":"China Zheshang Bank","symbol":"2016.HK"}
+{"qid":"Q16926211","label":"AAC Technologies Holdings Inc","symbol":"2018.HK"}
+{"qid":"Q17014802","label":"China Ludao Technology Company Limited","symbol":"2023.HK"}
+{"qid":"Q17025500","label":"Jolimark Holdings Ltd.","symbol":"2028.HK"}
+{"qid":"Q26208093","label":"Ausupreme","symbol":"2031.HK"}
+{"qid":"Q11089243","label":"Time Watch Investments Limited","symbol":"2033.HK"}
+{"qid":"Q463094","label":"Foxconn","symbol":"2038.HK"}
+{"qid":"Q1073291","label":"China International Marine Containers","symbol":"2039.HK"}
+{"qid":"Q10876705","label":"ZTO EXPRESS","symbol":"2057.HK"}
+{"qid":"Q10876753","label":"N","symbol":"2068.HK"}
+{"qid":"Q15933573","label":"AUX International","symbol":"2080.HK"}
+{"qid":"Q4686143","label":"HNA Technology Investments Holdings Limited","symbol":"2086.HK"}
+{"qid":"Q16923874","label":"Xiwang Sugar Holdings Company Limited","symbol":"2088.HK"}
+{"qid":"Q10906096","label":"Zall Group","symbol":"2098.HK"}
+{"qid":"Q5099698","label":"China Gold International Resources","symbol":"2099.HK"}
+{"qid":"Q10939467","label":"N","symbol":"2118.HK"}
+{"qid":"Q15939935","label":"N","symbol":"2121.HK"}
+{"qid":"Q42424581","label":"Kidsland International Holdings","symbol":"2122.HK"}
+{"qid":"Q10874726","label":"Lesso","symbol":"2128.HK"}
+{"qid":"Q10874519","label":"CHINA POLYMETALLIC MINING LIMITED","symbol":"2133.HK"}
+{"qid":"Q17040050","label":"Yingde Gases Group Company Limited","symbol":"2168.HK"}
+{"qid":"Q11172217","label":"Petro-king Oilfield Services Limited","symbol":"2178.HK"}
+{"qid":"Q16922864","label":"Lifestyle Properties Development Limited","symbol":"2183.HK"}
+{"qid":"Q15942252","label":"Luye Pharma Group Limited","symbol":"2186.HK"}
+{"qid":"Q11144887","label":"N","symbol":"2188.HK"}
+{"qid":"Q11071241","label":"Fosun Pharmaceutical","symbol":"2196.HK"}
+{"qid":"Q10874406","label":"N","symbol":"2198.HK"}
+{"qid":"Q21096923","label":"Regina Miracle","symbol":"2199.HK"}
+{"qid":"Q861340","label":"Vanke","symbol":"2202.HK"}
+{"qid":"Q18119311","label":"BRAINHOLE TECHNOLOGY","symbol":"2203.HK"}
+{"qid":"Q13164532","label":"Tam Jai International Company Limited","symbol":"2217.HK"}
+{"qid":"Q10946738","label":"Yantai North Andre Juice Company Limited","symbol":"2218.HK"}
+{"qid":"Q18091348","label":"New Concepts Holdings","symbol":"2221.HK"}
+{"qid":"Q16926290","label":"NVC Lighting Holding Limited","symbol":"2222.HK"}
+{"qid":"Q10909844","label":"Casablanca Group Limited","symbol":"2223.HK"}
+{"qid":"Q15940172","label":"N","symbol":"2233.HK"}
+{"qid":"Q11073451","label":"Wison Engineering Services Co. Ltd.","symbol":"2236.HK"}
+{"qid":"Q1552770","label":"GAC Group","symbol":"2238.HK"}
+{"qid":"Q20063780","label":"Haichang Ocean Park Holdings Ltd.","symbol":"2255.HK"}
+{"qid":"Q57981720","label":"Watts International Maritime Engineering Limited","symbol":"2258.HK"}
+{"qid":"Q11074169","label":"HC INTERNATIONAL, INC.","symbol":"2280.HK"}
+{"qid":"Q15931251","label":"MGM CHINA HOLDINGS LIMITED","symbol":"2282.HK"}
+{"qid":"Q10947999","label":"Rykadan Capital Limited","symbol":"2288.HK"}
+{"qid":"Q17500099","label":"Bamboos Health Care Holdings Limited","symbol":"2293.HK"}
+{"qid":"Q96761198","label":"HUARCHI GLOBAL GROUP","symbol":"2296.HK"}
+{"qid":"Q17199542","label":"Cosmo Lady (China) Holdings","symbol":"2298.HK"}
+{"qid":"Q15940926","label":"Billion Industrial Holdings Limited","symbol":"2299.HK"}
+{"qid":"Q18654393","label":"N","symbol":"2300.HK"}
+{"qid":"Q10875705","label":"N","symbol":"2302.HK"}
+{"qid":"Q18390500","label":"Yuehua Entertainment","symbol":"2306.HK"}
+{"qid":"Q17040878","label":"KAM HING INTERNATIONAL HOLDINGS LIMITED","symbol":"2307.HK"}
+{"qid":"Q4916735","label":"Birmingham Sports Holdings","symbol":"2309.HK"}
+{"qid":"Q10890423","label":"N","symbol":"2310.HK"}
+{"qid":"Q17014852","label":"N","symbol":"2312.HK"}
+{"qid":"Q25054381","label":"Shenzhou International","symbol":"2313.HK"}
+{"qid":"Q4977572","label":"Lee & Man Paper","symbol":"2314.HK"}
+{"qid":"Q10921184","label":"N","symbol":"2317.HK"}
+{"qid":"Q1256188","label":"Ping An Insurance","symbol":"2318.HK"}
+{"qid":"Q985475","label":"Mengniu Dairy","symbol":"2319.HK"}
+{"qid":"Q10916976","label":"Hop Fung Group Holdings Limited","symbol":"2320.HK"}
+{"qid":"Q26235242","label":"Hong Kong Chaoshang Group","symbol":"2322.HK"}
+{"qid":"Q17035076","label":"HKBridge Financial Holdings","symbol":"2323.HK"}
+{"qid":"Q15940678","label":"New Provenance Everlasting Holdings","symbol":"2326.HK"}
+{"qid":"Q80556618","label":"PICC Property and Casualty Co. Ltd.","symbol":"2328.HK"}
+{"qid":"Q1272525","label":"Li Ning Company Limited","symbol":"2331.HK"}
+{"qid":"Q1117001","label":"Great Wall Motor","symbol":"2333.HK"}
+{"qid":"Q3567081","label":"Weichai Power","symbol":"2338.HK"}
+{"qid":"Q10903227","label":"N","symbol":"2339.HK"}
+{"qid":"Q11082820","label":"SYNERGIS HOLDINGS LIMITED","symbol":"2340.HK"}
+{"qid":"Q10875569","label":"EcoGreen International Group Limited","symbol":"2341.HK"}
+{"qid":"Q7122305","label":"Pacific Basin Shipping Limited","symbol":"2343.HK"}
+{"qid":"Q11103861","label":"N","symbol":"2348.HK"}
+{"qid":"Q10956262","label":"BAOYE GROUP COMPANY LIMITED","symbol":"2355.HK"}
+{"qid":"Q5208707","label":"Dah Sing Bank Limited","symbol":"2356.HK"}
+{"qid":"Q10876012","label":"N","symbol":"2357.HK"}
+{"qid":"Q18670566","label":"Jiu Rong Holdings","symbol":"2358.HK"}
+{"qid":"Q8038871","label":"WuXi PharmaTech","symbol":"2359.HK"}
+{"qid":"Q65117567","label":"Best Mart 360","symbol":"2360.HK"}
+{"qid":"Q17039853","label":"N","symbol":"2362.HK"}
+{"qid":"Q5167530","label":"Coolpad","symbol":"2369.HK"}
+{"qid":"Q17040563","label":"N","symbol":"2371.HK"}
+{"qid":"Q54471043","label":"Prudential Hong Kong Limited","symbol":"2378.HK"}
+{"qid":"Q5099856","label":"China Power International Development","symbol":"2380.HK"}
+{"qid":"Q17027991","label":"Sunny Optical Technology (Group) Company Limited","symbol":"2382.HK"}
+{"qid":"Q7671003","label":"TOM Group","symbol":"2383.HK"}
+{"qid":"Q15925126","label":"N","symbol":"2386.HK"}
+{"qid":"Q19844857","label":"Genvon Group","symbol":"2389.HK"}
+{"qid":"Q17025016","label":"N","symbol":"2393.HK"}
+{"qid":"Q16926183","label":"LAUNCH TECH COMPANY LIMITED","symbol":"2488.HK"}
+{"qid":"Q4263139","label":"BOC Aviation","symbol":"2588.HK"}
+{"qid":"Q1003813","label":"China Pacific Insurance","symbol":"2601.HK"}
+{"qid":"Q16924012","label":"Sunshine 100 China Holdings Ltd.","symbol":"2608.HK"}
+{"qid":"Q67936681","label":"JD Logistics","symbol":"2618.HK"}
+{"qid":"Q15942968","label":"Add New Energy","symbol":"2623.HK"}
+{"qid":"Q55210478","label":"Hunan Nonferrous Metals Corporation Limited","symbol":"2626.HK"}
+{"qid":"Q1073306","label":"China Life Insurance Company","symbol":"2628.HK"}
+{"qid":"Q26917266","label":"Jacobson Pharma","symbol":"2633.HK"}
+{"qid":"Q15940141","label":"HK Electric Investments Limited","symbol":"2638.HK"}
+{"qid":"Q17039511","label":"PAK TAK INTERNATIONAL LIMITED","symbol":"2668.HK"}
+{"qid":"Q21191713","label":"China Overseas Property","symbol":"2669.HK"}
+{"qid":"Q10940699","label":"Texhong Textile Group Limited","symbol":"2678.HK"}
+{"qid":"Q55610325","label":"ENN Energy","symbol":"2688.HK"}
+{"qid":"Q4972947","label":"Nine Dragons Paper","symbol":"2689.HK"}
+{"qid":"Q17036112","label":"N","symbol":"2698.HK"}
+{"qid":"Q10916761","label":"Green International Holdings Limited","symbol":"2700.HK"}
+{"qid":"Q995660","label":"Shanghai Electric","symbol":"2727.HK"}
+{"qid":"Q11074618","label":"YUHUA ENERGY HOLDINGS LIMITED","symbol":"2728.HK"}
+{"qid":"Q22967399","label":"Jiayuan International","symbol":"2768.HK"}
+{"qid":"Q5070020","label":"Champion REIT","symbol":"2778.HK"}
+{"qid":"Q17059824","label":"Yuanda China Holdings Limited","symbol":"2789.HK"}
+{"qid":"Q21584822","label":"China Huarong Asset Management","symbol":"2799.HK"}
+{"qid":"Q1013412","label":"China Shipping Container Lines","symbol":"2866.HK"}
+{"qid":"Q15938415","label":"N","symbol":"2868.HK"}
+{"qid":"Q17029506","label":"N","symbol":"2877.HK"}
+{"qid":"Q11090229","label":"Solomon Systech","symbol":"2878.HK"}
+{"qid":"Q5210934","label":"Dalian Port (PDA) Company","symbol":"2880.HK"}
+{"qid":"Q5099833","label":"China Oilfield Services","symbol":"2883.HK"}
+{"qid":"Q548278","label":"Standard Chartered","symbol":"2888.HK"}
+{"qid":"Q22084972","label":"Ronshine China","symbol":"3301.HK"}
+{"qid":"Q16926190","label":"Jutal Offshore Oil Services Limited","symbol":"3303.HK"}
+{"qid":"Q17040535","label":"N","symbol":"3308.HK"}
+{"qid":"Q5099926","label":"China State Construction International Holdings","symbol":"3311.HK"}
+{"qid":"Q16926177","label":"N","symbol":"3318.HK"}
+{"qid":"Q15955877","label":"N","symbol":"3320.HK"}
+{"qid":"Q5099798","label":"China National Building Material Company","symbol":"3323.HK"}
+{"qid":"Q21938035","label":"Perfect Group","symbol":"3326.HK"}
+{"qid":"Q806680","label":"Bank of Communications","symbol":"3328.HK"}
+{"qid":"Q30026036","label":"BOCOM International Holdings","symbol":"3329.HK"}
+{"qid":"Q13643691","label":"Lingbao Gold","symbol":"3330.HK"}
+{"qid":"Q7932312","label":"Vinda International","symbol":"3331.HK"}
+{"qid":"Q5417145","label":"Evergrande Group","symbol":"3333.HK"}
+{"qid":"Q8649354","label":"Anton Oilfield Services Group","symbol":"3337.HK"}
+{"qid":"Q3954691","label":"Lonking","symbol":"3339.HK"}
+{"qid":"Q10881429","label":"Addchance Holdings Limited","symbol":"3344.HK"}
+{"qid":"Q15953507","label":"Far East Horizon Ltd.","symbol":"3360.HK"}
+{"qid":"Q17038272","label":"N","symbol":"3363.HK"}
+{"qid":"Q15935312","label":"N","symbol":"3366.HK"}
+{"qid":"Q835145","label":"Parkson","symbol":"3368.HK"}
+{"qid":"Q17030547","label":"N","symbol":"3369.HK"}
+{"qid":"Q7524766","label":"Sino-Ocean Land","symbol":"3377.HK"}
+{"qid":"Q18669563","label":"Logan Property Holdings Company Limited","symbol":"3380.HK"}
+{"qid":"Q7800206","label":"Tianjin Port Development","symbol":"3382.HK"}
+{"qid":"Q4692540","label":"Agile Group Holdings Limited","symbol":"3383.HK"}
+{"qid":"Q17033048","label":"China Ting Group Holdings Limited","symbol":"3398.HK"}
+{"qid":"Q10908823","label":"N","symbol":"3399.HK"}
+{"qid":"Q1254961","label":"Fuyao","symbol":"3606.HK"}
+{"qid":"Q15927190","label":"N","symbol":"3618.HK"}
+{"qid":"Q17035555","label":"N","symbol":"3623.HK"}
+{"qid":"Q23940516","label":"HSSP Inetrnational","symbol":"3626.HK"}
+{"qid":"Q10883820","label":"RENHENG Enterprise Holdings Limited","symbol":"3628.HK"}
+{"qid":"Q10876623","label":"ZHONGYU GAS HOLDINGS LIMITED","symbol":"3633.HK"}
+{"qid":"Q17017971","label":"Poly Culture Group Corporation Limited","symbol":"3636.HK"}
+{"qid":"Q17025532","label":"Goldenmars Technology Holdings Limited","symbol":"3638.HK"}
+{"qid":"Q10957950","label":"TANSH Global Food","symbol":"3666.HK"}
+{"qid":"Q10876755","label":"N","symbol":"3668.HK"}
+{"qid":"Q11132782","label":"N","symbol":"3669.HK"}
+{"qid":"Q11120555","label":"N","symbol":"3683.HK"}
+{"qid":"Q15940427","label":"N","symbol":"3688.HK"}
+{"qid":"Q15907772","label":"Meituan","symbol":"3690.HK"}
+{"qid":"Q88925945","label":"Hansoh Pharmaceutical Group","symbol":"3692.HK"}
+{"qid":"Q23931470","label":"Yat Sing Holdings","symbol":"3708.HK"}
+{"qid":"Q10874720","label":"China Hanking Holdings Limited","symbol":"3788.HK"}
+{"qid":"Q15848248","label":"Fujian Dali Group","symbol":"3799.HK"}
+{"qid":"Q4039120","label":"GCL-Poly","symbol":"3800.HK"}
+{"qid":"Q995970","label":"Sinotruk (Hong Kong) Limited","symbol":"3808.HK"}
+{"qid":"Q7235456","label":"Pou Sheng International","symbol":"3813.HK"}
+{"qid":"Q10851245","label":"KFM KINGDOM HOLDINGS LIMITED","symbol":"3816.HK"}
+{"qid":"Q5099658","label":"China Dongxiang","symbol":"3818.HK"}
+{"qid":"Q26230714","label":"Sam Woo Construction Group","symbol":"3822.HK"}
+{"qid":"Q11071715","label":"Tech Pro Technology Development Limited","symbol":"3823.HK"}
+{"qid":"Q11088199","label":"N","symbol":"3828.HK"}
+{"qid":"Q8044620","label":"Xinjiang Xinxin Mining Industry Company","symbol":"3833.HK"}
+{"qid":"Q17023455","label":"N","symbol":"3836.HK"}
+{"qid":"Q15929703","label":"China Starch Holdings Limited","symbol":"3838.HK"}
+{"qid":"Q17062759","label":"Bank of Qingdao","symbol":"3866.HK"}
+{"qid":"Q7272801","label":"Qunxing Paper","symbol":"3868.HK"}
+{"qid":"Q5099571","label":"China Aoyuan Property","symbol":"3883.HK"}
+{"qid":"Q17025097","label":"N","symbol":"3886.HK"}
+{"qid":"Q1439934","label":"Kingsoft","symbol":"3888.HK"}
+{"qid":"Q10935480","label":"Global Sweeteners","symbol":"3889.HK"}
+{"qid":"Q8071259","label":"Zhuzhou CRRC Times Electric Co., Ltd.","symbol":"3898.HK"}
+{"qid":"Q16926179","label":"CIMC Enric Holdings Limited","symbol":"3899.HK"}
+{"qid":"Q5604606","label":"Greentown China","symbol":"3900.HK"}
+{"qid":"Q17034190","label":"Hanhua Financial Holding Co., Ltd","symbol":"3903.HK"}
+{"qid":"Q5099737","label":"China International Capital Corp","symbol":"3908.HK"}
+{"qid":"Q25230738","label":"NagaCorp Ltd","symbol":"3918.HK"}
+{"qid":"Q17041413","label":"N","symbol":"3933.HK"}
+{"qid":"Q17033331","label":"N","symbol":"3939.HK"}
+{"qid":"Q10885038","label":"Inner Mongolia Yitai Coal Company","symbol":"3948.HK"}
+{"qid":"Q24727812","label":"Orient Securities Co., Ltd.","symbol":"3958.HK"}
+{"qid":"Q1073327","label":"China Merchants Bank","symbol":"3968.HK"}
+{"qid":"Q20745675","label":"China Railway Signal & Communication","symbol":"3969.HK"}
+{"qid":"Q5099609","label":"China BlueChemical","symbol":"3983.HK"}
+{"qid":"Q790068","label":"Bank of China","symbol":"3988.HK"}
+{"qid":"Q17063197","label":"Capital Environment Holdings Limited","symbol":"3989.HK"}
+{"qid":"Q4947278","label":"Bosideng","symbol":"3998.HK"}
+{"qid":"Q737443","label":"CITIC Securities","symbol":"6030.HK"}
+{"qid":"Q17070703","label":"Telecom Digital","symbol":"6033.HK"}
+{"qid":"Q30042671","label":"G & M Holdings Limited","symbol":"6038.HK"}
+{"qid":"Q28409526","label":"ZhongAn","symbol":"6060.HK"}
+{"qid":"Q27833474","label":"CSC Financial Co., Ltd.","symbol":"6066.HK"}
+{"qid":"Q10947085","label":"COUNTRY GARDEN SERVICES","symbol":"6098.HK"}
+{"qid":"Q11077292","label":"China Merchants Securities","symbol":"6099.HK"}
+{"qid":"Q17025430","label":"N","symbol":"6108.HK"}
+{"qid":"Q18710180","label":"La Chapelle Fashion","symbol":"6116.HK"}
+{"qid":"Q18398205","label":"Austar Lifesciences Limited","symbol":"6118.HK"}
+{"qid":"Q28417376","label":"N","symbol":"6122.HK"}
+{"qid":"Q17499766","label":"N","symbol":"6136.HK"}
+{"qid":"Q1049674","label":"Harbin Bank","symbol":"6138.HK"}
+{"qid":"Q19854969","label":"N","symbol":"6161.HK"}
+{"qid":"Q27862965","label":"Gemilang International","symbol":"6163.HK"}
+{"qid":"Q18118279","label":"N","symbol":"6166.HK"}
+{"qid":"Q18671664","label":"CHINA U-TON HOLDINGS LIMITED","symbol":"6168.HK"}
+{"qid":"Q10947036","label":"CHINA YUHUA EDUCATION","symbol":"6169.HK"}
+{"qid":"Q5416931","label":"Everbright Securities","symbol":"6178.HK"}
+{"qid":"Q91016085","label":"CanSino Biologics","symbol":"6185.HK"}
+{"qid":"Q105966414","label":"China Feihe Limited","symbol":"6186.HK"}
+{"qid":"Q27869538","label":"ADWAY CONSTRUCTION","symbol":"6189.HK"}
+{"qid":"Q15925949","label":"Bank of Zhengzhou","symbol":"6196.HK"}
+{"qid":"Q17164326","label":"Qingdao Port International","symbol":"6198.HK"}
+{"qid":"Q15534494","label":"Sun Art Retail Group","symbol":"6808.HK"}
+{"qid":"Q28877691","label":"WINSON HOLDINGS HONG KONG LIMITED","symbol":"6812.HK"}
+{"qid":"Q25209335","label":"Prosper Construction","symbol":"6816.HK"}
+{"qid":"Q10873167","label":"China Everbright Bank","symbol":"6818.HK"}
+{"qid":"Q5895075","label":"HKT","symbol":"6823.HK"}
+{"qid":"Q10874551","label":"Beijing Gas Blue Sky Holdings Limited","symbol":"6828.HK"}
+{"qid":"Q17032953","label":"Huazhong In-Vehicle","symbol":"6830.HK"}
+{"qid":"Q11520941","label":"Honma Golf","symbol":"6858.HK"}
+{"qid":"Q5638920","label":"Haidilao","symbol":"6862.HK"}
+{"qid":"Q15935764","label":"N","symbol":"6863.HK"}
+{"qid":"Q25176857","label":"Flat Glass Group","symbol":"6865.HK"}
+{"qid":"Q10940578","label":"Ten Fu Group","symbol":"6868.HK"}
+{"qid":"Q20754799","label":"Differ Group Holding","symbol":"6878.HK"}
+{"qid":"Q17038493","label":"Tempus Holdings","symbol":"6880.HK"}
+{"qid":"Q15952752","label":"China Galaxy Securities","symbol":"6881.HK"}
+{"qid":"Q11103825","label":"EGL Tours","symbol":"6882.HK"}
+{"qid":"Q15942459","label":"N","symbol":"6888.HK"}
+{"qid":"Q10846977","label":"Dynam Japan Holdings","symbol":"6889.HK"}
+{"qid":"Q17066761","label":"Hin Sang Group","symbol":"6893.HK"}
+{"qid":"Q11062535","label":"Golden Throat Holdings Group Company Limited","symbol":"6896.HK"}
+{"qid":"Q17014860","label":"China Aluminum Cans","symbol":"6898.HK"}
+{"qid":"Q17062344","label":"N","symbol":"8005.HK"}
+{"qid":"Q17233512","label":"Sino Splendid Holdings","symbol":"8006.HK"}
+{"qid":"Q17025355","label":"Global Strategic Group Limited","symbol":"8007.HK"}
+{"qid":"Q17066292","label":"N","symbol":"8011.HK"}
+{"qid":"Q17039686","label":"N","symbol":"8017.HK"}
+{"qid":"Q15944945","label":"N","symbol":"8018.HK"}
+{"qid":"Q19561829","label":"Hao Wen Holdings","symbol":"8019.HK"}
+{"qid":"Q11055610","label":"Unitas Holdings Limited","symbol":"8020.HK"}
+{"qid":"Q10904249","label":"WLS Holdings Limited","symbol":"8021.HK"}
+{"qid":"Q10911667","label":"KPM Holdings","symbol":"8027.HK"}
+{"qid":"Q10939720","label":"N","symbol":"8028.HK"}
+{"qid":"Q10941824","label":"Sun International Resources","symbol":"8029.HK"}
+{"qid":"Q19484029","label":"N","symbol":"8030.HK"}
+{"qid":"Q11088342","label":"ETS Group Limited","symbol":"8031.HK"}
+{"qid":"Q11073899","label":"Vodatel Networks Holdings Limited","symbol":"8033.HK"}
+{"qid":"Q18763373","label":"N","symbol":"8041.HK"}
+{"qid":"Q10907301","label":"N","symbol":"8045.HK"}
+{"qid":"Q16926293","label":"Hong Kong Jewellery Holding Limited.","symbol":"8048.HK"}
+{"qid":"Q15938410","label":"N","symbol":"8049.HK"}
+{"qid":"Q10904998","label":"CircuTech International","symbol":"8051.HK"}
+{"qid":"Q27582537","label":"Luk Hing Entertainment","symbol":"8052.HK"}
+{"qid":"Q15894907","label":"Madison Wine","symbol":"8057.HK"}
+{"qid":"Q18653716","label":"Glory Flame Holdings Limited","symbol":"8059.HK"}
+{"qid":"Q10927299","label":"N","symbol":"8060.HK"}
+{"qid":"Q28086575","label":"WWPKG Holdings","symbol":"8069.HK"}
+{"qid":"Q22921242","label":"KEEN OCEAN INTERNATIONAL HOLDING LIMITED","symbol":"8070.HK"}
+{"qid":"Q5900378","label":"Shenzhen Investment Holdings Bay Area Development","symbol":"80737.HK"}
+{"qid":"Q6138447","label":"Media Asia Entertainment Group","symbol":"8075.HK"}
+{"qid":"Q20688456","label":"N","symbol":"8076.HK"}
+{"qid":"Q11351582","label":"One Dollar Production","symbol":"8078.HK"}
+{"qid":"Q15951144","label":"Easy Repay Finance & Investment Limited","symbol":"8079.HK"}
+{"qid":"Q10901996","label":"North Asia Strategic Holdings Limited","symbol":"8080.HK"}
+{"qid":"Q61198270","label":"Qima Investment Limited","symbol":"8083.HK"}
+{"qid":"Q11088286","label":"DX.com Holdings Limited","symbol":"8086.HK"}
+{"qid":"Q18983912","label":"Odella Leather","symbol":"8093.HK"}
+{"qid":"Q17436992","label":"Beijing Beida Jade Bird Universal Sci-Tech Co., Ltd.","symbol":"8095.HK"}
+{"qid":"Q17025473","label":"N","symbol":"8098.HK"}
+{"qid":"Q11148463","label":"N","symbol":"8106.HK"}
+{"qid":"Q210780","label":"Focus Media Holding","symbol":"8112.HK"}
+{"qid":"Q10874516","label":"N","symbol":"8117.HK"}
+{"qid":"Q18571967","label":"G.A. Holdings","symbol":"8126.HK"}
+{"qid":"Q17014735","label":"China Ground Source Energy Limited","symbol":"8128.HK"}
+{"qid":"Q11090258","label":"Zhi Cheng Holdings Limited","symbol":"8130.HK"}
+{"qid":"Q17060652","label":"ABC MULTIACTIVE LIMITED","symbol":"8131.HK"}
+{"qid":"Q19836801","label":"Solomon Worldwide Holdings","symbol":"8133.HK"}
+{"qid":"Q17038275","label":"ZMFY Automobile Glass Services Limited","symbol":"8135.HK"}
+{"qid":"Q11147015","label":"Honbridge Holdings Limited","symbol":"8137.HK"}
+{"qid":"Q18708845","label":"N","symbol":"8139.HK"}
+{"qid":"Q17498594","label":"Millennium Pacific Group","symbol":"8147.HK"}
+{"qid":"Q19853783","label":"N","symbol":"8159.HK"}
+{"qid":"Q27886471","label":"Goldway Education","symbol":"8160.HK"}
+{"qid":"Q17485397","label":"Loco Hong Kong","symbol":"8162.HK"}
+{"qid":"Q17061263","label":"N","symbol":"8169.HK"}
+{"qid":"Q18642202","label":"KSL Holdings","symbol":"8170.HK"}
+{"qid":"Q20687784","label":"SuperRobotics","symbol":"8176.HK"}
+{"qid":"Q10923575","label":"Food Idea Holdings","symbol":"8179.HK"}
+{"qid":"Q28878175","label":"GME Group Holdings Limited","symbol":"8188.HK"}
+{"qid":"Q17032790","label":"N","symbol":"8193.HK"}
+{"qid":"Q27881108","label":"L & A International Holdings Ltd.","symbol":"8195.HK"}
+{"qid":"Q10888117","label":"N","symbol":"8200.HK"}
+{"qid":"Q15956097","label":"N","symbol":"8201.HK"}
+{"qid":"Q10896469","label":"N","symbol":"8203.HK"}
+{"qid":"Q17500134","label":"N","symbol":"8206.HK"}
+{"qid":"Q15912346","label":"N","symbol":"8211.HK"}
+{"qid":"Q17066751","label":"First Credit Finance Group Limited","symbol":"8215.HK"}
+{"qid":"Q17038321","label":"N","symbol":"8218.HK"}
+{"qid":"Q10947026","label":"HANVEY GROUP HOLDINGS","symbol":"8219.HK"}
+{"qid":"Q11126179","label":"N","symbol":"8220.HK"}
+{"qid":"Q28005609","label":"PF Group Holdings","symbol":"8221.HK"}
+{"qid":"Q18165211","label":"E Lighting Group Holdings Limited","symbol":"8222.HK"}
+{"qid":"Q17028342","label":"N","symbol":"8227.HK"}
+{"qid":"Q6970500","label":"National Arts Holdings Limited","symbol":"8228.HK"}
+{"qid":"Q11103226","label":"N","symbol":"8229.HK"}
+{"qid":"Q20688419","label":"Winto Group","symbol":"8238.HK"}
+{"qid":"Q17023401","label":"Beifeng New Energy Holdings Limited","symbol":"8246.HK"}
+{"qid":"Q15954415","label":"N","symbol":"8247.HK"}
+{"qid":"Q17061296","label":"Super Strong Holdings","symbol":"8262.HK"}
+{"qid":"Q21192330","label":"Linekong","symbol":"8267.HK"}
+{"qid":"Q19853807","label":"N","symbol":"8268.HK"}
+{"qid":"Q18233885","label":"Wealth Glory Holdings Limited","symbol":"8269.HK"}
+{"qid":"Q17163864","label":"China CBM Group Company Limited","symbol":"8270.HK"}
+{"qid":"Q16926212","label":"N","symbol":"8271.HK"}
+{"qid":"Q10882725","label":"AGTech Holdings Limited","symbol":"8279.HK"}
+{"qid":"Q11090232","label":"Gameone","symbol":"8282.HK"}
+{"qid":"Q17029783","label":"N","symbol":"8286.HK"}
+{"qid":"Q10906052","label":"ZZ Capital International Limited","symbol":"8295.HK"}
+{"qid":"Q10874681","label":"N","symbol":"8296.HK"}
+{"qid":"Q18638683","label":"Medicskin Holdings Limited","symbol":"8307.HK"}
+{"qid":"Q21060946","label":"Dafeng Port Heshun","symbol":"8310.HK"}
+{"qid":"Q16926188","label":"Perfect Optronics Limited","symbol":"8311.HK"}
+{"qid":"Q17521146","label":"King Force Security","symbol":"8315.HK"}
+{"qid":"Q20739876","label":"Pak Wing Group","symbol":"8316.HK"}
+{"qid":"Q17038701","label":"N","symbol":"8317.HK"}
+{"qid":"Q27510704","label":"Tai Kam Holdings","symbol":"8321.HK"}
+{"qid":"Q16510412","label":"Tonking New Energy","symbol":"8326.HK"}
+{"qid":"Q11151144","label":"N","symbol":"8329.HK"}
+{"qid":"Q25279890","label":"Astrum Financial","symbol":"8333.HK"}
+{"qid":"Q17040571","label":"Directel Holdings Limited","symbol":"8337.HK"}
+{"qid":"Q10930183","label":"Vinco Financial Group Limited","symbol":"8340.HK"}
+{"qid":"Q11145201","label":"N","symbol":"8348.HK"}
+{"qid":"Q10874602","label":"CNC Holdings Limited","symbol":"8356.HK"}
+{"qid":"Q25513807","label":"AL Group","symbol":"8360.HK"}
+{"qid":"Q30339983","label":"Winning Tower Group","symbol":"8362.HK"}
+{"qid":"Q18226797","label":"SDM Group Holdings Limited","symbol":"8363.HK"}
+{"qid":"Q10925155","label":"VBG International Holdings Limited","symbol":"8365.HK"}
+{"qid":"Q21475233","label":"Creative China Holdings Limited","symbol":"8368.HK"}
+{"qid":"Q28943615","label":"Chi Ho Development","symbol":"8423.HK"}
+{"qid":"Q11121099","label":"Modern Living Investments","symbol":"8426.HK"}
+{"qid":"Q28946374","label":"Somerley Capital","symbol":"8439.HK"}
+{"qid":"Q30108707","label":"N","symbol":"8446.HK"}
+{"qid":"Q29920529","label":"FY FINANCIAL","symbol":"8452.HK"}
+{"qid":"Q30313043","label":"Basetrophy Group","symbol":"8460.HK"}
+{"qid":"Q48869894","label":"Mi Ming Mart","symbol":"8473.HK"}
+{"qid":"Q47159240","label":"Dragon King Group","symbol":"8493.HK"}
+{"qid":"Q48018720","label":"Jia Group","symbol":"8519.HK"}
+{"qid":"Q7254313","label":"Hui Xian REIT","symbol":"87001.HK"}
+{"qid":"Q29921278","label":"NIO","symbol":"9866.HK"}
+{"qid":"Q938668","label":"Sina Corporation","symbol":"9898.HK"}
+{"qid":"Q20063955","label":"NetEase Music","symbol":"9899.HK"}
+{"qid":"Q13631921","label":"New Oriental","symbol":"9901.HK"}
+{"qid":"Q5191790","label":"Trip.com Group","symbol":"9961.HK"}
+{"qid":"Q111437305","label":"N","symbol":"9985.HK"}
+{"qid":"Q1359568","label":"Alibaba Group","symbol":"9988.HK"}
+{"qid":"Q196259","label":"NetEase","symbol":"9999.HK"}

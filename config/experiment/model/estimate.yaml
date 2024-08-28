@@ -1,0 +1,22 @@
+defaults:
+  - base_spatial_model
+
+name: ESTIMATE
+model_type: spatial
+
+components:
+  spatial:
+    name: ESTIMATE
+    module_path: q4l.model.zoo.spatial.hypergraph.estimate
+    kwargs:
+      node_emb_dim: 32
+      hidden_size: 32
+
+  temporal:
+    name: DLSTM_ATTN
+    module_path: q4l.model.zoo.temporal.rnn.dlstm_attn
+    kwargs:
+      hidden_size: 32
+      stock_emb_dim: 64
+      num_layers: 2
+      dropout: 0.2

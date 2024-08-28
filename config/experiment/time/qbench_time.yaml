@@ -1,0 +1,22 @@
+defaults:
+  - base_time
+
+start_time: 2010-01-01
+end_time: 2023-04-01
+fit_start_time: 2010-01-01
+fit_end_time: 2021-10-01
+
+segments:
+  train:
+    - start: ${timestamp:2010-01-10}
+      end: ${timestamp:2021-10-01}
+  valid:
+    - start: ${timestamp:2021-10-02}
+      end: ${timestamp:2022-02-28}
+  test:
+    - start: ${timestamp:2022-03-01}
+      end: ${timestamp:2023-03-01}
+rolling_step: 140
+
+# Select from ["expanding", "sliding", "only_new"]
+rolling_type: expanding

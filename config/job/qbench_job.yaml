@@ -1,0 +1,19 @@
+defaults:
+  - base_job
+  - machine: dgx
+  - misc: qbench_misc
+
+name:
+  exp_name: qbench_exp
+  run_name: ${experiment.model.name}_${experiment.data.region}_${job.misc.timestamp}
+  slurm_jobname: qbench_run
+resource:
+  cpu_per_task: 10
+  total_gpu: 8
+repeat:
+  total_repeat: 4
+  split_repeat: false
+  repeat_per_job: 10
+parallel:
+  repeat: 1
+  rolling: 1

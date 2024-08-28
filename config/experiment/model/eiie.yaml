@@ -1,0 +1,29 @@
+defaults:
+  - base_rl_portfolio_model
+
+name: EIIE
+
+components:
+  agent:
+    name: DDPGAgent
+    module_path: q4l.model.rl.agent
+    kwargs:
+      actor:
+        name: EIIELSTMModel
+        module_path: q4l.model.rl.model.eiie
+        kwargs:
+          hidden_dim: 256
+      critic:
+        name: RNNCriticModel 
+        module_path: q4l.model.rl.model.base
+        kwargs:
+          hidden_dim: 256
+          num_layers: 2
+          dropout: 0.1
+
+  env:
+    kwargs:
+      reward:
+        name: EIIEReward  # Placeholder
+        module_path: q4l.model.rl.model.eiie
+        kwargs: {}

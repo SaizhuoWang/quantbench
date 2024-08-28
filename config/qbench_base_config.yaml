@@ -1,0 +1,15 @@
+defaults:
+  - base_config
+  - experiment: qbench_exp
+  - job: qbench_job
+  - override hydra/job_logging: disabled
+  - _self_
+
+hydra:
+  job:
+    chdir: false
+
+job:
+  misc:
+    debug: false
+    prepare_shm: true

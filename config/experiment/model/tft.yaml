@@ -1,0 +1,17 @@
+defaults:
+  - base_temporal_model
+
+name: TFT
+
+components:
+  temporal:
+    name: TemporalFusionTransformer
+    module_path: q4l.model.zoo.temporal.forecast.tft
+    kwargs:
+      # input_size: ${experiment.model.input_size}
+      hidden_size: 64
+      encoder_length: ${experiment.data.sampler.x_window}
+      n_head: 4
+      # rnn_hidden_unit: 64
+      dropout: 0.0
+      attn_dropout: 0.3

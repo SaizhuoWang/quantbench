@@ -1,0 +1,16 @@
+# LSTM + MLP
+defaults:
+  - base_model
+  - loss: ic_loss
+  - optimizer: adam
+  - metric: q4l_default_metric
+  - components@components.head: mlp
+  # - components@components.emb: emb
+
+output_type: signal
+model_type: temporal
+basic_info:
+  output_dim: 1
+  monitor: valid_ic
+trainer:
+  max_epochs: 100

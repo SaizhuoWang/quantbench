@@ -1,0 +1,111 @@
+ABIO.PA:
+  name: N
+  qid: Q55595435
+ALD.PA:
+  name: ALD Automotive
+  qid: Q2819236
+AM.PA:
+  name: Dassault Aviation
+  qid: Q460487
+AUB.PA:
+  name: Aubay
+  qid: Q2870542
+BSD.PA:
+  name: Bourse Direct
+  qid: Q16533733
+CAF.PA:
+  name: "Cr\xE9dit agricole d'\xCEle-de-France"
+  qid: Q17176822
+CRAV.PA:
+  name: N
+  qid: Q3006170
+EC.PA:
+  name: Total Gabon
+  qid: Q37934148
+EL.PA:
+  name: EssilorLuxottica
+  qid: Q56853086
+EO.PA:
+  name: Faurecia
+  qid: Q142205
+FNAC.PA:
+  name: Fnac Darty
+  qid: Q47088340
+HO.PA:
+  name: Thales Group
+  qid: Q1161666
+ICAD.PA:
+  name: Icade
+  qid: Q3147573
+IMDA.PA:
+  name: "Immobili\xE8re Dassault"
+  qid: Q13359824
+KORI.PA:
+  name: Korian
+  qid: Q3198944
+LI.PA:
+  name: "Kl\xE9pierre"
+  qid: Q3197950
+LNA.PA:
+  name: "LNA Sant\xE9"
+  qid: Q110024089
+MC.PA:
+  name: LVMH
+  qid: Q504998
+MDM.PA:
+  name: Maisons du Monde
+  qid: Q3280364
+MF.PA:
+  name: Wendel
+  qid: Q2558951
+NEX.PA:
+  name: Nexans
+  qid: Q141644
+NK.PA:
+  name: Imerys
+  qid: Q917717
+NXI.PA:
+  name: Nexity
+  qid: Q3339185
+OLG.PA:
+  name: OL Groupe
+  qid: Q3347591
+ORA.PA:
+  name: Orange
+  qid: Q1431486
+POM.PA:
+  name: Plastic Omnium
+  qid: Q3391735
+PWG.PA:
+  name: Prodways Group
+  qid: Q105508686
+RE.PA:
+  name: Colas Group
+  qid: Q2982355
+SAVE.PA:
+  name: Savencia Fromage & Dairy
+  qid: Q892432
+SCR.PA:
+  name: SCOR SE
+  qid: Q920000
+SGO.PA:
+  name: Saint-Gobain
+  qid: Q678565
+SOI.PA:
+  name: Soitec
+  qid: Q3488995
+STLA.PA:
+  name: Stellantis
+  qid: Q97439162
+TRI.PA:
+  name: Trigano
+  qid: Q3539134
+UBI.PA:
+  name: Ubisoft
+  qid: Q188273
+UG.PA:
+  name: Groupe PSA
+  qid: Q275623
+VLTSA.PA:
+  name: Voltalia
+  qid: Q57593821

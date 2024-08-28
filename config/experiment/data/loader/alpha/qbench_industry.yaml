@@ -1,0 +1,6 @@
+defaults:
+  - base_data_loader_alpha
+
+name: industry
+expressions:
+  categorization: "{disk:industry_categorization}"

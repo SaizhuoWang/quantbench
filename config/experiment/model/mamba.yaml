@@ -1,0 +1,16 @@
+defaults:
+  - base_temporal_model
+
+name: Mamba
+
+components:
+  temporal:
+    name: Mamba
+    module_path: q4l.model.zoo.temporal.mamba
+    kwargs:
+      # input_size: ${experiment.model.input_size}
+      hidden_size: 256
+      expand: 2
+      d_ff: 256
+      d_conv: 3
+      dropout: 0.0

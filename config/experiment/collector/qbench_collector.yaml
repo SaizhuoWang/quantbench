@@ -1,0 +1,51 @@
+defaults:
+  - base_collector
+  - zoo@zoo.backtest_zoo: portfolio_analysis
+  - zoo@zoo.signal_test: signal_analysis
+
+single:
+  signal: ${experiment.collector.zoo.signal_test}
+  portfolio_analysis: ${experiment.collector.zoo.backtest_zoo.portana_record}
+
+rolling:
+  signal: ${experiment.collector.zoo.signal_test}
+  portfolio_analysis: ${experiment.collector.zoo.backtest_zoo.portana_record}
+
+repeat:
+  signal: ${experiment.collector.zoo.signal_test}
+  portfolio_analysis: ${experiment.collector.zoo.backtest_zoo.portana_record}
+
+
+# zoo:
+#   backtest:
+#     name: PortAnaRecord
+#     module_path: cali_learn.record
+#     kwargs:
+#       strategy: {} # To be filled on-the-fly
+#       executor:
+#         name: SimulatorExecutor
+#         module_path: q4l.qlib.backtest.executor
+#         kwargs:
+#           time_per_step: day
+#           generate_portfolio_metrics: true
+#       exchange_kwargs:
+#         exchange:
+#           name: Q4LExchange
+#           module_path: q4l.eval.backtest.exchange
+#           kwargs:
+#             close_cost: 0.0015
+#             compute_backend: myhxdf
+#             deal_price: close
+#             min_cost: 5
+#             open_cost: 0.0015
+#             impact_cost: 0.000
+#             limit_threshold:
+#               - limitup
+#               - limitdown
+#             pool: ${experiment.data.pool}
+#             storage_backend: disk
+#             loader_config: ${experiment.data.loader}
+#             trade_unit: 100
+#             # extra_quote: placeholder # To be filled on-the-fly
+#       account: 1.0e+8
+#       benchmark: data/csi1000_ret.csv

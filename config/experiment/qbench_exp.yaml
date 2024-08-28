@@ -1,0 +1,47 @@
+defaults:
+  - base_experiment
+  - data: qbench_data
+  - time: qbench_time
+  - model: lstm
+  - strategy: top_k_dropout
+  - collector: qbench_collector
+
+data:
+  region: us
+  pool: all
+
+  use_shm: true
+  shm_name: qbench_shm
+
+  benchmark: '../data/benchmark/sp500.csv'
+
+  # Data sampling
+  sampler:
+    x_window: 15
+    sample_mode: C
+    batch_size: 1
+    sample_y_as_x: true
+    keep_group:
+      - ohlcvp
+    x_group:
+      - ohlcvp
+    y_group:
+      - c2c
+    cs_subsample_ratio: 0.95
+    shuffle: true
+
+  # Relational data option
+  graph:
+    use_wikidata: true
+    use_industry: false
+    wikidata_dir: ../data/wikidata/stock_graph
+    industry_dir: ../data/industry
+
+  preprocess_with_gpu: false
+
+model:
+  basic_info:
+    valid_metric: valid_ic
+    patience: 5
+  trainer:
+    max_epochs: 100

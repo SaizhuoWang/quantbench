@@ -1,0 +1,499 @@
+{"qid": "Q19865761", "label": "Ventas, Inc.", "symbol": "VTR", "start": "2012-06-05", "end": "2099-12-31\n"}
+{"qid": "Q19867294", "label": "WPX Energy", "symbol": "WPX", "start": "2010-11-17", "end": "2099-12-31\n"}
+{"qid": "Q16983765", "label": "Prologis", "symbol": "PLD", "start": "2021-02-12", "end": "2099-12-31\n"}
+{"qid": "Q16980898", "label": "Kansas City Southern", "symbol": "KSU", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q16988748", "label": "CoStar Group", "symbol": "CSGP", "start": "2012-09-05", "end": "2099-12-31\n"}
+{"qid": "Q17084959", "label": "Paycom", "symbol": "PAYC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q92639564", "label": "Arconic", "symbol": "ARNC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1666600", "label": "International Game Technology", "symbol": "IGT", "start": "1999-01-01", "end": "2016-09-21\n"}
+{"qid": "Q1780382", "label": "Weyerhaeuser", "symbol": "WY", "start": "1999-01-01", "end": "2010-04-28\n"}
+{"qid": "Q1786345", "label": "Marsh & McLennan Companies", "symbol": "MMC", "start": "1999-01-01", "end": "2018-06-29\n"}
+{"qid": "Q1915049", "label": "McCormick & Company", "symbol": "MKC", "start": "2015-03-23", "end": "2099-12-31\n"}
+{"qid": "Q63197674", "label": "Corteva Agriscience", "symbol": "CTVA", "start": "1999-01-01", "end": "2014-05-07\n"}
+{"qid": "Q22058448", "label": "Monolithic Power Systems, Inc.", "symbol": "MPWR", "start": "2015-08-28", "end": "2099-12-31\n"}
+{"qid": "Q3518066", "label": "Tenet Healthcare", "symbol": "THC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1055390", "label": "Cerner", "symbol": "CERN", "start": "1999-01-01", "end": "2010-12-16\n"}
+{"qid": "Q1199757", "label": "Dish", "symbol": "DISH", "start": "2018-03-19", "end": "2099-12-31\n"}
+{"qid": "Q101983981", "label": "Viatris", "symbol": "VTRS", "start": "1999-01-01", "end": "2021-12-17\n"}
+{"qid": "Q3156887", "label": "JDSU", "symbol": "JDSU", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3303765", "label": "Mead Johnson", "symbol": "MJN", "start": "2018-12-03", "end": "2099-12-31\n"}
+{"qid": "Q7921370", "label": "Verisk Analytics", "symbol": "VRSK", "start": "2010-04-29", "end": "2022-06-07\n"}
+{"qid": "Q7440621", "label": "Sealed Air", "symbol": "SEE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2404292", "label": "Teradyne", "symbol": "TER", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1852556", "label": "Philip Morris International", "symbol": "PM", "start": "2021-01-21", "end": "2099-12-31\n"}
+{"qid": "Q5479360", "label": "Macy's, Inc.", "symbol": "M", "start": "1999-01-01", "end": "2017-04-03\n"}
+{"qid": "Q5474321", "label": "Foundation Coal", "symbol": "ANR", "start": "2021-09-20", "end": "2099-12-31\n"}
+{"qid": "Q5881864", "label": "HollyFrontier", "symbol": "HFC", "start": "2018-06-18", "end": "2021-06-03\n"}
+{"qid": "Q5973024", "label": "IPG Photonics", "symbol": "IPGP", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7268886", "label": "Quanta Services", "symbol": "PWR", "start": "1999-01-01", "end": "2017-09-15\n"}
+{"qid": "Q7271456", "label": "Quest Diagnostics", "symbol": "DGX", "start": "2021-03-22", "end": "2099-12-31\n"}
+{"qid": "Q7271499", "label": "Questar Corporation", "symbol": "STR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q18169198", "label": "Qorvo", "symbol": "QRVO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1781428", "label": "L3 Technologies", "symbol": "LLL", "start": "2005-11-18", "end": "2099-12-31\n"}
+{"qid": "Q1812555", "label": "Leggett & Platt", "symbol": "LEG", "start": "1999-01-01", "end": "2012-06-04\n"}
+{"qid": "Q1815011", "label": "Pacific Gas and Electric Company", "symbol": "PCG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3029296", "label": "F5 Networks", "symbol": "FFIV", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3116111", "label": "Keurig Dr Pepper", "symbol": "GMCR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q871700", "label": "United Airlines Holdings", "symbol": "UAL", "start": "2019-06-03", "end": "2099-12-31\n"}
+{"qid": "Q899255", "label": "LyondellBasell", "symbol": "LYB", "start": "2017-09-18", "end": "2099-12-31\n"}
+{"qid": "Q906187", "label": "Allergan plc", "symbol": "AGN", "start": "2015-09-18", "end": "2099-12-31\n"}
+{"qid": "Q7314415", "label": "Republic Services", "symbol": "RSG", "start": "2009-03-03", "end": "2099-12-31\n"}
+{"qid": "Q7361273", "label": "Rollins Inc.", "symbol": "ROL", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7389067", "label": "SCANA", "symbol": "SCG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2013357", "label": "Occidental Petroleum", "symbol": "OXY", "start": "2010-06-28", "end": "2099-12-31\n"}
+{"qid": "Q2171646", "label": "Jabil", "symbol": "JBL", "start": "2019-08-09", "end": "2099-12-31\n"}
+{"qid": "Q1685287", "label": "Vulcan Materials Company", "symbol": "VMC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1740314", "label": "KeyBank", "symbol": "KEY", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2303478", "label": "Synopsys", "symbol": "SNPS", "start": "2011-06-30", "end": "2099-12-31\n"}
+{"qid": "Q2304693", "label": "Southern Company", "symbol": "SO", "start": "1999-01-01", "end": "2011-12-19\n"}
+{"qid": "Q48739877", "label": "Alexandria Real Estate Equities", "symbol": "ARE", "start": "2013-12-23", "end": "2099-12-31\n"}
+{"qid": "Q1373493", "label": "Lowe's", "symbol": "LOW", "start": "2017-07-26", "end": "2099-12-31\n"}
+{"qid": "Q1390577", "label": "Twitter, Inc.", "symbol": "TWTR", "start": "1999-01-01", "end": "2017-02-27\n"}
+{"qid": "Q1502712", "label": "Genworth Financial", "symbol": "GNW", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q23133268", "label": "Match Group", "symbol": "MTCH", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3884", "label": "Amazon", "symbol": "AMZN", "start": "2019-02-15", "end": "2099-12-31\n"}
+{"qid": "Q30873", "label": "Dell Inc.", "symbol": "DELL", "start": "2009-12-18", "end": "2099-12-31\n"}
+{"qid": "Q54173", "label": "General Electric", "symbol": "GE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q72539", "label": "U.S. Steel", "symbol": "X", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q187212", "label": "SolarEdge", "symbol": "SEDG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q192814", "label": "Harley-Davidson", "symbol": "HOG", "start": "2012-01-03", "end": "2014-03-20\n"}
+{"qid": "Q303341", "label": "Wyndham Worldwide", "symbol": "WYN", "start": "2019-12-09", "end": "2099-12-31\n"}
+{"qid": "Q305473", "label": "IQVIA", "symbol": "IQV", "start": "2015-06-11", "end": "2099-12-31\n"}
+{"qid": "Q174198", "label": "Gartner", "symbol": "IT", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q89368734", "label": "Raytheon Technologies Corporation", "symbol": "RTX", "start": "1999-01-01", "end": "2021-04-19\n"}
+{"qid": "Q790060", "label": "Broadcom Limited", "symbol": "AVGO", "start": "1999-01-01", "end": "2014-06-19\n"}
+{"qid": "Q798819", "label": "Huntington Bank", "symbol": "HBAN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q826526", "label": "Loews Corporation", "symbol": "L", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q30324333", "label": "TechnipFMC", "symbol": "FTI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7449678", "label": "Semitool", "symbol": "AMAT", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q16951448", "label": "Copart", "symbol": "CPRT", "start": "1999-01-01", "end": "2012-09-28\n"}
+{"qid": "Q16983334", "label": "Packaging Corporation of America", "symbol": "PKG", "start": "1999-01-01", "end": "2014-08-15\n"}
+{"qid": "Q16996073", "label": "Hudson City Bancorp", "symbol": "HCBK", "start": "2022-04-04", "end": "2099-12-31\n"}
+{"qid": "Q17112054", "label": "Silicon Valley Bank", "symbol": "SIVB", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3433273", "label": "Rite Aid", "symbol": "RAD", "start": "1999-01-01", "end": "2018-11-30\n"}
+{"qid": "Q538203", "label": "Patterson Companies", "symbol": "PDCO", "start": "2013-09-20", "end": "2099-12-31\n"}
+{"qid": "Q544847", "label": "Qualcomm Inc.", "symbol": "QCOM", "start": "2015-07-01", "end": "2099-12-31\n"}
+{"qid": "Q555925", "label": "Broadcom", "symbol": "BRCM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q600624", "label": "CA Technologies", "symbol": "CA", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q619111", "label": "Apollo Group", "symbol": "APOL", "start": "2017-07-26", "end": "2099-12-31\n"}
+{"qid": "Q658789", "label": "Garmin", "symbol": "GRMN", "start": "1999-01-01", "end": "2014-04-30\n"}
+{"qid": "Q675585", "label": "Moody's Corporation", "symbol": "MCO", "start": "1999-01-01", "end": "2009-03-02\n"}
+{"qid": "Q680186", "label": "Mettler Toledo", "symbol": "MTD", "start": "1999-01-01", "end": "2017-03-17\n"}
+{"qid": "Q680841", "label": "Sigma-Aldrich", "symbol": "SIAL", "start": "2019-09-26", "end": "2099-12-31\n"}
+{"qid": "Q5453752", "label": "First Republic Bank", "symbol": "FRC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q5472859", "label": "Fortune Brands Home & Security", "symbol": "FBHS", "start": "1999-01-01", "end": "2015-04-06\n"}
+{"qid": "Q93520415", "label": "Sea Ltd", "symbol": "SE", "start": "1999-01-01", "end": "2011-03-30\n"}
+{"qid": "Q48988040", "label": "DaVita Medical Group", "symbol": "DVA", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q946080", "label": "Paychex", "symbol": "PAYX", "start": "2014-09-22", "end": "2099-12-31\n"}
+{"qid": "Q946713", "label": "SunEdison", "symbol": "WFR", "start": "2016-02-01", "end": "2099-12-31\n"}
+{"qid": "Q15109865", "label": "Dexcom", "symbol": "DXCM", "start": "2018-08-28", "end": "2099-12-31\n"}
+{"qid": "Q325789", "label": "Jefferies & Company", "symbol": "JEF", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q430745", "label": "Teradata", "symbol": "TDC", "start": "2022-12-19", "end": "2099-12-31\n"}
+{"qid": "Q458363", "label": "Marathon Petroleum", "symbol": "MPC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2659099", "label": "Noble Energy", "symbol": "NBL", "start": "2012-12-03", "end": "2099-12-31\n"}
+{"qid": "Q2743863", "label": "Intuitive Surgical", "symbol": "ISRG", "start": "2015-03-23", "end": "2099-12-31\n"}
+{"qid": "Q19923099", "label": "Hewlett Packard Enterprise", "symbol": "HPE", "start": "2016-09-06", "end": "2099-12-31\n"}
+{"qid": "Q3973262", "label": "Stericycle", "symbol": "SRCL", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q4046987", "label": "Pioneer Natural Resources", "symbol": "PXD", "start": "1999-01-01", "end": "2015-07-01\n"}
+{"qid": "Q1374135", "label": "Prudential plc", "symbol": "PRU", "start": "1999-01-01", "end": "2017-02-28\n"}
+{"qid": "Q1508234", "label": "Safeway", "symbol": "SWY", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3511946", "label": "T. Rowe Price", "symbol": "TROW", "start": "2022-09-19", "end": "2099-12-31\n"}
+{"qid": "Q5289230", "label": "Dollar Tree", "symbol": "DLTR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q5422162", "label": "Extra Space Storage", "symbol": "EXR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q85769855", "label": "Invitation Homes", "symbol": "INVH", "start": "1999-01-01", "end": "2021-01-06\n"}
+{"qid": "Q1425316", "label": "Schlumberger", "symbol": "SLB", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1501630", "label": "Interpublic Group of Companies", "symbol": "IPG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1510378", "label": "Illinois Tool Works", "symbol": "ITW", "start": "2019-06-11", "end": "2099-12-31\n"}
+{"qid": "Q1519267", "label": "Omnicom Group", "symbol": "OMC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q663596", "label": "Gilead Sciences", "symbol": "GILD", "start": "1999-01-01", "end": "2015-11-17\n"}
+{"qid": "Q668737", "label": "Yum! Brands", "symbol": "YUM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q727883", "label": "NetApp", "symbol": "NTAP", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q738770", "label": "Western Digital", "symbol": "WDC", "start": "1999-01-01", "end": "2017-08-31\n"}
+{"qid": "Q6015591", "label": "Incyte", "symbol": "INCY", "start": "1999-01-01", "end": "2016-01-15\n"}
+{"qid": "Q470317", "label": "Ametek", "symbol": "AME", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q470517", "label": "Amgen", "symbol": "AMGN", "start": "1999-01-01", "end": "2010-12-16\n"}
+{"qid": "Q478214", "label": "Tesla, Inc.", "symbol": "TSLA", "start": "2015-12-01", "end": "2018-04-03\n"}
+{"qid": "Q503308", "label": "Southwest Airlines", "symbol": "LUV", "start": "1999-12-07", "end": "2017-06-16\n"}
+{"qid": "Q16738121", "label": "Allegion", "symbol": "ALLE", "start": "1999-01-01", "end": "2018-03-16\n"}
+{"qid": "Q5122694", "label": "Citizens Financial Group", "symbol": "CFG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q6744211", "label": "Mallinckrodt Pharmaceuticals", "symbol": "MNK", "start": "2020-06-22", "end": "2099-12-31\n"}
+{"qid": "Q6955139", "label": "NRG Energy", "symbol": "NRG", "start": "2011-12-12", "end": "2016-06-30\n"}
+{"qid": "Q7045708", "label": "Noble Corporation", "symbol": "NE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7017778", "label": "Newfield Exploration", "symbol": "NFX", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7071951", "label": "O'Reilly Auto Parts", "symbol": "ORLY", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7248721", "label": "Progressive Corporation", "symbol": "PGR", "start": "1999-01-01", "end": "2016-05-27\n"}
+{"qid": "Q7280388", "label": "Radica Games", "symbol": "MAT", "start": "1999-01-01", "end": "2016-09-07\n"}
+{"qid": "Q7308000", "label": "Regency Centers", "symbol": "REG", "start": "2013-07-08", "end": "2022-10-11\n"}
+{"qid": "Q7308054", "label": "Regeneron Pharmaceuticals", "symbol": "REGN", "start": "1999-01-01", "end": "2020-10-09\n"}
+{"qid": "Q20800404", "label": "Alphabet Inc.", "symbol": "GOOG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q20800404", "label": "Alphabet Inc.", "symbol": "GOOGL", "start": "2018-03-19", "end": "2099-12-31\n"}
+{"qid": "Q27988239", "label": "Mid-America Apartments", "symbol": "MAA", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q27964091", "label": "Essex Property Trust, Inc.", "symbol": "ESS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q27988153", "label": "UDR Inc", "symbol": "UDR", "start": "1999-01-01", "end": "2015-09-01\n"}
+{"qid": "Q5426537", "label": "FLIR Systems", "symbol": "FLIR", "start": "2020-04-03", "end": "2099-12-31\n"}
+{"qid": "Q5531627", "label": "Generac Holdings Inc.", "symbol": "GNRC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3403513", "label": "Principal Financial Group", "symbol": "PFG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q931200", "label": "C. H. Robinson Worldwide", "symbol": "CHRW", "start": "2021-03-22", "end": "2099-12-31\n"}
+{"qid": "Q951259", "label": "Murphy Oil", "symbol": "MUR", "start": "2021-01-07", "end": "2099-12-31\n"}
+{"qid": "Q967868", "label": "NextEra Energy", "symbol": "NEE", "start": "1999-01-01", "end": "2016-03-03\n"}
+{"qid": "Q19903490", "label": "Navient", "symbol": "NAVI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q420822", "label": "Gap Inc.", "symbol": "GPS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q427881", "label": "Royal Caribbean Group", "symbol": "RCL", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q457960", "label": "VF Corporation", "symbol": "VFC", "start": "1999-01-01", "end": "2016-04-01\n"}
+{"qid": "Q485593", "label": "Red Hat", "symbol": "RHT", "start": "2015-09-18", "end": "2099-12-31\n"}
+{"qid": "Q484930", "label": "Analog Devices", "symbol": "ADI", "start": "2020-05-12", "end": "2099-12-31\n"}
+{"qid": "Q489080", "label": "Automatic Data Processing", "symbol": "ADP", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q4048013", "label": "Range Resources", "symbol": "RRC", "start": "1999-01-01", "end": "2013-06-05\n"}
+{"qid": "Q1104787", "label": "Coty", "symbol": "COTY", "start": "2017-03-02", "end": "2099-12-31\n"}
+{"qid": "Q1197548", "label": "Micron Technology", "symbol": "MU", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1283291", "label": "Valero Energy Corporation", "symbol": "VLO", "start": "2000-06-07", "end": "2099-12-31\n"}
+{"qid": "Q2037080", "label": "Andeavor", "symbol": "ANDV", "start": "1999-01-01", "end": "2009-11-02\n"}
+{"qid": "Q2068984", "label": "Illumina", "symbol": "ILMN", "start": "1999-01-01", "end": "2021-09-17\n"}
+{"qid": "Q2157448", "label": "Robert Half International", "symbol": "RHI", "start": "2009-12-18", "end": "2014-04-01\n"}
+{"qid": "Q2178198", "label": "Ryder", "symbol": "R", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q39052929", "label": "Brighthouse Financial", "symbol": "BHF", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q6757974", "label": "Marcus & Millichap", "symbol": "MMI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q153417", "label": "Kroger", "symbol": "KR", "start": "1999-01-01", "end": "2008-09-11\n"}
+{"qid": "Q212405", "label": "Procter & Gamble", "symbol": "PG", "start": "2022-10-03", "end": "2099-12-31\n"}
+{"qid": "Q259011", "label": "Motorola", "symbol": "MSI", "start": "1999-01-01", "end": "2008-09-15\n"}
+{"qid": "Q608776", "label": "Cadence Design Systems", "symbol": "CDNS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q624649", "label": "KLA Tencor", "symbol": "KLAC", "start": "2013-07-01", "end": "2099-12-31\n"}
+{"qid": "Q2124539", "label": "RR Donnelley", "symbol": "RRD", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q48742298", "label": "Duke Realty", "symbol": "DRE", "start": "1999-01-01", "end": "2012-06-28\n"}
+{"qid": "Q173395", "label": "Cisco Systems", "symbol": "CSCO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q193326", "label": "Goldman Sachs", "symbol": "GS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q204727", "label": "Alexion Pharmaceuticals", "symbol": "ALXN", "start": "2017-09-01", "end": "2019-05-31\n"}
+{"qid": "Q1369955", "label": "W. R. Berkley", "symbol": "WRB", "start": "1999-01-01", "end": "2012-09-28\n"}
+{"qid": "Q1383669", "label": "Exelon", "symbol": "EXC", "start": "2011-06-01", "end": "2012-10-01\n"}
+{"qid": "Q1411295", "label": "Fidelity National Information Services", "symbol": "FIS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1453620", "label": "Freeport-McMoRan", "symbol": "FCX", "start": "2013-12-02", "end": "2099-12-31\n"}
+{"qid": "Q1486956", "label": "Xcel Energy", "symbol": "XEL", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1506045", "label": "Las Vegas Sands", "symbol": "LVS", "start": "2010-06-30", "end": "2015-06-30\n"}
+{"qid": "Q851641", "label": "Equinix", "symbol": "EQIX", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q834888", "label": "Dentsply", "symbol": "XRAY", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q861042", "label": "Western Union", "symbol": "WU", "start": "2021-07-21", "end": "2099-12-31\n"}
+{"qid": "Q864407", "label": "The Home Depot", "symbol": "HD", "start": "1999-01-01", "end": "2019-12-04\n"}
+{"qid": "Q898208", "label": "Honeywell", "symbol": "HON", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q917131", "label": "Regions Financial Corporation", "symbol": "RF", "start": "2015-03-18", "end": "2099-12-31\n"}
+{"qid": "Q941127", "label": "Salesforce.com", "symbol": "CRM", "start": "1999-01-01", "end": "2017-08-28\n"}
+{"qid": "Q970695", "label": "Northern Trust", "symbol": "NTRS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q65091423", "label": "Diamondback Energy", "symbol": "FANG", "start": "1999-01-01", "end": "2020-05-11\n"}
+{"qid": "Q2609162", "label": "Ticketmaster", "symbol": "ACE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q19900", "label": "Oracle", "symbol": "ORCL", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q217583", "label": "Berkshire Hathaway", "symbol": "BRK.B", "start": "1999-01-01", "end": "2011-07-01\n"}
+{"qid": "Q214346", "label": "Viacom", "symbol": "VIAB", "start": "2008-12-31", "end": "2016-12-01\n"}
+{"qid": "Q223407", "label": "Novell", "symbol": "NOVL", "start": "2014-04-03", "end": "2099-12-31\n"}
+{"qid": "Q207983", "label": "Monsanto", "symbol": "MON", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q327751", "label": "Kraft Foods Group", "symbol": "KRFT", "start": "1999-01-01", "end": "2022-02-14\n"}
+{"qid": "Q7449804", "label": "Sempra Energy", "symbol": "SRE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7455653", "label": "ServiceNow", "symbol": "NOW", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1318848", "label": "Intuit", "symbol": "INTU", "start": "2019-06-03", "end": "2099-12-31\n"}
+{"qid": "Q1381973", "label": "Everest Re", "symbol": "RE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1384324", "label": "Expeditors International", "symbol": "EXPD", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1420513", "label": "Fiserv", "symbol": "FISV", "start": "1999-01-01", "end": "2022-02-02\n"}
+{"qid": "Q1454852", "label": "Hormel", "symbol": "HRL", "start": "1999-01-01", "end": "2010-12-16\n"}
+{"qid": "Q1494132", "label": "Gardner Denver", "symbol": "IR", "start": "2014-01-24", "end": "2099-12-31\n"}
+{"qid": "Q3121014", "label": "Graham Holdings Company", "symbol": "GHC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1998662", "label": "Nordson Corporation", "symbol": "NDSN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2037125", "label": "State Street Corporation", "symbol": "STT", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q496302", "label": "Deere & Company", "symbol": "DE", "start": "2016-02-01", "end": "2099-12-31\n"}
+{"qid": "Q501476", "label": "Hasbro", "symbol": "HAS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q570473", "label": "McKesson Corporation", "symbol": "MCK", "start": "1999-01-01", "end": "2011-09-22\n"}
+{"qid": "Q5433101", "label": "Family Dollar", "symbol": "FDO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q5476713", "label": "21st Century Fox", "symbol": "FOXA", "start": "2015-04-07", "end": "2099-12-31\n"}
+{"qid": "Q9396", "label": "Deutsche Telekom", "symbol": "DTE", "start": "2013-06-21", "end": "2099-12-31\n"}
+{"qid": "Q11463", "label": "Adobe", "symbol": "ABS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q63335", "label": "Foot Locker", "symbol": "FL", "start": "2017-01-05", "end": "2099-12-31\n"}
+{"qid": "Q1348664", "label": "Rockwell International", "symbol": "ROK", "start": "2016-03-04", "end": "2099-12-31\n"}
+{"qid": "Q1371852", "label": "MBIA", "symbol": "MBI", "start": "1999-01-01", "end": "2013-05-07\n"}
+{"qid": "Q1411810", "label": "Fifth Third Bank", "symbol": "FITB", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1430331", "label": "Flowserve", "symbol": "FLS", "start": "1999-01-01", "end": "2013-06-20\n"}
+{"qid": "Q1046951", "label": "Target", "symbol": "TGT", "start": "2016-04-04", "end": "2019-08-08\n"}
+{"qid": "Q1071853", "label": "Chicago Board Options Exchange", "symbol": "CBOE", "start": "2007-09-26", "end": "2099-12-31\n"}
+{"qid": "Q1141173", "label": "Marriott International", "symbol": "MAR", "start": "1999-01-01", "end": "2021-03-19\n"}
+{"qid": "Q2861324", "label": "Arista Networks", "symbol": "ANET", "start": "1999-01-01", "end": "2012-12-10\n"}
+{"qid": "Q26110522", "label": "Pinnacle West Capital Corporation", "symbol": "PNW", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q931032", "label": "Kinder Morgan", "symbol": "KMI", "start": "1999-01-01", "end": "2015-07-28\n"}
+{"qid": "Q942471", "label": "The Travelers Companies", "symbol": "TRV", "start": "2014-06-20", "end": "2020-02-28\n"}
+{"qid": "Q2974454", "label": "Frontier Communications", "symbol": "FTR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3067119", "label": "Fastenal", "symbol": "FAST", "start": "1999-01-01", "end": "2012-12-20\n"}
+{"qid": "Q3146975", "label": "Xylem Inc.", "symbol": "XYL", "start": "2017-06-19", "end": "2099-12-31\n"}
+{"qid": "Q4045482", "label": "Northrop Grumman Ship Systems", "symbol": "NOC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q60767471", "label": "Norwegian Cruise Line Holdings", "symbol": "NCLH", "start": "1999-01-01", "end": "2015-03-20\n"}
+{"qid": "Q2376711", "label": "Sysco", "symbol": "SYY", "start": "2021-04-20", "end": "2099-12-31\n"}
+{"qid": "Q2443609", "label": "Zebra Technologies", "symbol": "ZBRA", "start": "1999-01-01", "end": "2012-03-12\n"}
+{"qid": "Q2274089", "label": "Wynn Resorts", "symbol": "WYNN", "start": "2020-10-09", "end": "2021-03-19\n"}
+{"qid": "Q38928", "label": "PNC Financial Services", "symbol": "PNC", "start": "2016-09-30", "end": "2020-09-18\n"}
+{"qid": "Q48881", "label": "Sherwin-Williams", "symbol": "SHW", "start": "2022-06-21", "end": "2099-12-31\n"}
+{"qid": "Q32396", "label": "American Airlines", "symbol": "AAL", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q80978", "label": "Hewlett-Packard", "symbol": "HPQ", "start": "1999-01-01", "end": "2020-04-03\n"}
+{"qid": "Q92526", "label": "Sina Weibo", "symbol": "WB", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q156644", "label": "Raytheon Company", "symbol": "RTN", "start": "2016-01-19", "end": "2099-12-31\n"}
+{"qid": "Q1023155", "label": "CDW", "symbol": "CDW", "start": "2019-12-23", "end": "2099-12-31\n"}
+{"qid": "Q1023876", "label": "CME Group", "symbol": "CME", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1046482", "label": "Xilinx", "symbol": "XLNX", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1057464", "label": "Hilton Worldwide", "symbol": "HLT", "start": "1999-01-01", "end": "2018-09-13\n"}
+{"qid": "Q663452", "label": "TE Connectivity", "symbol": "TEL", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q734338", "label": "Verisign", "symbol": "VRSN", "start": "2017-03-20", "end": "2099-12-31\n"}
+{"qid": "Q715583", "label": "Costco", "symbol": "COST", "start": "1999-01-01", "end": "2009-09-25\n"}
+{"qid": "Q7083862", "label": "Old Dominion Freight Line", "symbol": "ODFL", "start": "2007-10-01", "end": "2017-06-16\n"}
+{"qid": "Q7239519", "label": "Precision Castparts Corp.", "symbol": "PCP", "start": "2020-01-28", "end": "2099-12-31\n"}
+{"qid": "Q18636524", "label": "Caesars Entertainment", "symbol": "CZR", "start": "1999-01-01", "end": "2018-11-12\n"}
+{"qid": "Q18712620", "label": "Walgreens Boots Alliance", "symbol": "WBA", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3216600", "label": "Lamb Weston", "symbol": "LW", "start": "1999-01-01", "end": "2018-12-31\n"}
+{"qid": "Q19866242", "label": "Catalent Pharma Solutions", "symbol": "CTLT", "start": "2019-10-03", "end": "2099-12-31\n"}
+{"qid": "Q2961234", "label": "Charter Communications", "symbol": "CHTR", "start": "1999-01-01", "end": "2011-12-15\n"}
+{"qid": "Q7833612", "label": "TransDigm Group", "symbol": "TDG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7889101", "label": "United Rentals", "symbol": "URI", "start": "2020-04-01", "end": "2099-12-31\n"}
+{"qid": "Q502940", "label": "General Dynamics", "symbol": "GD", "start": "2010-12-17", "end": "2099-12-31\n"}
+{"qid": "Q1470619", "label": "Parker Hannifin", "symbol": "PH", "start": "2013-12-10", "end": "2018-08-27\n"}
+{"qid": "Q1471346", "label": "Whirlpool Corporation", "symbol": "WHR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q5884072", "label": "Hologic", "symbol": "HOLX", "start": "2010-12-17", "end": "2016-06-21\n"}
+{"qid": "Q27919383", "label": "Fortive", "symbol": "FTV", "start": "2013-10-29", "end": "2017-07-25\n"}
+{"qid": "Q6723256", "label": "Macerich", "symbol": "MAC", "start": "1999-01-01", "end": "2015-01-26\n"}
+{"qid": "Q415598", "label": "Akamai Technologies", "symbol": "AKAM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q483959", "label": "PayPal", "symbol": "PYPL", "start": "2018-06-20", "end": "2099-12-31\n"}
+{"qid": "Q483915", "label": "Nike", "symbol": "NKE", "start": "1999-01-01", "end": "2010-11-16\n"}
+{"qid": "Q4667884", "label": "AbioMed", "symbol": "ABMD", "start": "1999-01-01", "end": "2008-09-11\n"}
+{"qid": "Q1784671", "label": "Maxim Integrated", "symbol": "MXIM", "start": "1999-01-01", "end": "2014-04-30\n"}
+{"qid": "Q1785549", "label": "Peabody Energy", "symbol": "BTU", "start": "1999-01-01", "end": "2015-12-28\n"}
+{"qid": "Q6113060", "label": "Jack Henry & Associates", "symbol": "JKHY", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q38076", "label": "McDonald’s", "symbol": "MCD", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7669940", "label": "TECO Energy", "symbol": "TE", "start": "2011-04-01", "end": "2099-12-31\n"}
+{"qid": "Q7825574", "label": "Torchmark", "symbol": "GL", "start": "2016-11-01", "end": "2020-03-31\n"}
+{"qid": "Q247489", "label": "Merck & Co.", "symbol": "MRK", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q295774", "label": "Ansys", "symbol": "ANSS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q333718", "label": "Johnson & Johnson", "symbol": "JNJ", "start": "2018-06-18", "end": "2099-12-31\n"}
+{"qid": "Q334204", "label": "Morgan Stanley", "symbol": "MS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q368181", "label": "Vornado Realty Trust", "symbol": "VNO", "start": "1999-01-01", "end": "2011-10-13\n"}
+{"qid": "Q19873469", "label": "Bio-Techne", "symbol": "TECH", "start": "2017-06-19", "end": "2099-12-31\n"}
+{"qid": "Q181507", "label": "SunTrust Banks", "symbol": "STI", "start": "1999-01-01", "end": "2019-09-20\n"}
+{"qid": "Q212900", "label": "Lehman Brothers", "symbol": "LEH", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1770710", "label": "Tripadvisor", "symbol": "TRIP", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1785405", "label": "Newmont Mining Corporation", "symbol": "NEM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1809448", "label": "Whole Foods Market", "symbol": "WFM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1817417", "label": "National Oilwell Varco", "symbol": "NOV", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1885491", "label": "FactSet", "symbol": "FDS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q11074156", "label": "ONEOK", "symbol": "OKE", "start": "2015-07-06", "end": "2099-12-31\n"}
+{"qid": "Q128896", "label": "Advanced Micro Devices", "symbol": "AMD", "start": "2016-04-25", "end": "2099-12-31\n"}
+{"qid": "Q143435", "label": "Unum", "symbol": "UNM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q192314", "label": "JPMorgan Chase", "symbol": "JPM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q185278", "label": "News Corporation", "symbol": "NWS", "start": "1999-01-01", "end": "2015-07-07\n"}
+{"qid": "Q185278", "label": "News Corporation", "symbol": "NWSA", "start": "2014-05-01", "end": "2018-06-04\n"}
+{"qid": "Q205378", "label": "Zions Bancorporation", "symbol": "ZION", "start": "2022-06-21", "end": "2099-12-31\n"}
+{"qid": "Q48754", "label": "PPG Industries", "symbol": "PPG", "start": "1999-01-01", "end": "2021-12-17\n"}
+{"qid": "Q60238941", "label": "Fox Corporation", "symbol": "FOX", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1129792", "label": "The Cooper Companies", "symbol": "COO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1134069", "label": "Otis Elevator Company", "symbol": "OTIS", "start": "2022-10-12", "end": "2099-12-31\n"}
+{"qid": "Q7512923", "label": "Signet Jewelers Limited", "symbol": "SIG", "start": "2017-03-20", "end": "2099-12-31\n"}
+{"qid": "Q7538146", "label": "Skyworks Solutions", "symbol": "SWKS", "start": "2013-01-02", "end": "2099-12-31\n"}
+{"qid": "Q7571413", "label": "Southwestern Energy", "symbol": "SWN", "start": "2011-12-16", "end": "2021-09-17\n"}
+{"qid": "Q5533818", "label": "Genuine Parts Company", "symbol": "GPC", "start": "1999-01-01", "end": "2015-11-18\n"}
+{"qid": "Q5647768", "label": "Hanesbrands", "symbol": "HBI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1285819", "label": "TJX Companies", "symbol": "TJX", "start": "2012-06-29", "end": "2099-12-31\n"}
+{"qid": "Q1337797", "label": "Office Depot", "symbol": "ODP", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q6782872", "label": "Masco", "symbol": "MAS", "start": "1999-01-01", "end": "2018-05-30\n"}
+{"qid": "Q6896175", "label": "Molina Healthcare", "symbol": "MOH", "start": "2014-03-21", "end": "2016-03-04\n"}
+{"qid": "Q577911", "label": "Pepco Holdings, Inc.", "symbol": "POM", "start": "2018-09-14", "end": "2020-01-27\n"}
+{"qid": "Q607131", "label": "MetLife", "symbol": "MET", "start": "2012-07-02", "end": "2099-12-31\n"}
+{"qid": "Q620875", "label": "Goodyear Tire and Rubber Company", "symbol": "GT", "start": "2016-06-03", "end": "2099-12-31\n"}
+{"qid": "Q642189", "label": "Medtronic plc", "symbol": "MDT", "start": "2018-10-01", "end": "2099-12-31\n"}
+{"qid": "Q6466630", "label": "LabCorp", "symbol": "LH", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7752327", "label": "The Mosaic Company", "symbol": "MOS", "start": "1999-01-01", "end": "2013-11-29\n"}
+{"qid": "Q8024771", "label": "Windstream Communications", "symbol": "WIN", "start": "2012-04-23", "end": "2099-12-31\n"}
+{"qid": "Q6410043", "label": "Kimco Realty", "symbol": "KIM", "start": "1999-01-01", "end": "2013-06-28\n"}
+{"qid": "Q20183163", "label": "Union Pacific Corporation", "symbol": "UNP", "start": "1999-01-01", "end": "2011-02-25\n"}
+{"qid": "Q2357515", "label": "Stryker Corporation", "symbol": "SYK", "start": "2016-05-13", "end": "2099-12-31\n"}
+{"qid": "Q2552219", "label": "Waste Management, Inc", "symbol": "WM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q16932392", "label": "Roper Technologies", "symbol": "ROP", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q47080830", "label": "QEP Resources", "symbol": "QEP", "start": "2015-07-01", "end": "2016-06-02\n"}
+{"qid": "Q1569558", "label": "Sallie Mae", "symbol": "SLM", "start": "2013-09-10", "end": "2099-12-31\n"}
+{"qid": "Q1671509", "label": "ON Semiconductor", "symbol": "ON", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1673079", "label": "Iron Mountain Incorporated", "symbol": "IRM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q5376211", "label": "Endo International plc", "symbol": "ENDP", "start": "2014-09-22", "end": "2099-12-31\n"}
+{"qid": "Q15109928", "label": "Van Dyne Crotty", "symbol": "CTAS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7165802", "label": "People's United Financial", "symbol": "PBCT", "start": "2020-12-21", "end": "2099-12-31\n"}
+{"qid": "Q7298901", "label": "Raymond James Financial", "symbol": "RJF", "start": "2021-03-22", "end": "2022-09-16\n"}
+{"qid": "Q18387139", "label": "Synchrony", "symbol": "SYF", "start": "2019-12-05", "end": "2099-12-31\n"}
+{"qid": "Q24204571", "label": "Signature Bank", "symbol": "SBNY", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3344199", "label": "Eversource Energy", "symbol": "ES", "start": "2009-09-28", "end": "2016-05-20\n"}
+{"qid": "Q6893780", "label": "Mohawk Industries", "symbol": "MHK", "start": "2015-03-23", "end": "2021-12-17\n"}
+{"qid": "Q7165001", "label": "Pentair", "symbol": "PNR", "start": "2000-12-05", "end": "2099-12-31\n"}
+{"qid": "Q101209811", "label": "Pool Corporation", "symbol": "POOL", "start": "2018-05-31", "end": "2022-12-21\n"}
+{"qid": "Q20486917", "label": "Health Care REIT", "symbol": "WELL", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q19681433", "label": "Kraft Heinz", "symbol": "KHC", "start": "1999-01-01", "end": "2011-10-28\n"}
+{"qid": "Q1615684", "label": "Hess Corporation", "symbol": "HES", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1660662", "label": "West Pharmaceutical Services", "symbol": "WST", "start": "1999-01-01", "end": "2009-12-17\n"}
+{"qid": "Q1666568", "label": "International Flavors & Fragrances", "symbol": "IFF", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q731912", "label": "Carrier Corporation", "symbol": "CARR", "start": "2018-06-05", "end": "2099-12-31\n"}
+{"qid": "Q804353", "label": "Baker Hughes", "symbol": "BKR", "start": "1999-01-01", "end": "2010-02-25\n"}
+{"qid": "Q1825763", "label": "Lincoln National Corporation", "symbol": "LNC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1885099", "label": "Time Warner Cable", "symbol": "TWC", "start": "2007-12-13", "end": "2016-04-22\n"}
+{"qid": "Q1945295", "label": "Monster Beverage", "symbol": "MNST", "start": "2016-07-01", "end": "2099-12-31\n"}
+{"qid": "Q1984481", "label": "NiSource", "symbol": "NI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q5970002", "label": "IDEX Corporation", "symbol": "IEX", "start": "2000-07-27", "end": "2013-12-20\n"}
+{"qid": "Q6043367", "label": "Integrys Energy Group", "symbol": "TEG", "start": "2010-12-17", "end": "2019-02-14\n"}
+{"qid": "Q28782856", "label": "DXC Technology", "symbol": "DXC", "start": "2018-11-13", "end": "2099-12-31\n"}
+{"qid": "Q1419446", "label": "First Horizon National Corporation", "symbol": "FHN", "start": "1999-01-01", "end": "2015-03-17\n"}
+{"qid": "Q1419248", "label": "FirstEnergy", "symbol": "FE", "start": "1999-01-01", "end": "2021-03-19\n"}
+{"qid": "Q1477661", "label": "PACCAR", "symbol": "PCAR", "start": "1999-01-01", "end": "2013-11-12\n"}
+{"qid": "Q56273715", "label": "Tapestry, Inc.", "symbol": "TPR", "start": "2007-12-20", "end": "2018-06-15\n"}
+{"qid": "Q344341", "label": "Activision Blizzard", "symbol": "ATVI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q101209850", "label": "Vontier", "symbol": "VNT", "start": "1999-01-01", "end": "2017-04-04\n"}
+{"qid": "Q27988152", "label": "Federal Realty Investment Trust", "symbol": "FRT", "start": "2020-05-12", "end": "2099-12-31\n"}
+{"qid": "Q4993917", "label": "Varian Medical Systems", "symbol": "VAR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3272257", "label": "M&T Bank", "symbol": "MTB", "start": "1999-01-01", "end": "2020-10-06\n"}
+{"qid": "Q1155668", "label": "NXP Semiconductors", "symbol": "NXPI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1325987", "label": "Tyson Foods", "symbol": "TSN", "start": "2003-09-25", "end": "2018-12-21\n"}
+{"qid": "Q2916497", "label": "Perrigo", "symbol": "PRGO", "start": "1999-01-01", "end": "2023-01-20\n"}
+{"qid": "Q30272258", "label": "Align Technology in the United States", "symbol": "ALGN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1107035", "label": "Cognizant", "symbol": "CTSH", "start": "1999-01-01", "end": "2018-06-06\n"}
+{"qid": "Q17551096", "label": "Keysight Technologies", "symbol": "KEYS", "start": "1999-01-01", "end": "2020-06-19\n"}
+{"qid": "Q741707", "label": "Wabtec", "symbol": "WAB", "start": "1999-01-01", "end": "2019-02-26\n"}
+{"qid": "Q739084", "label": "U.S. Bancorp", "symbol": "USB", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q768231", "label": "Express Scripts", "symbol": "ESRX", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q795486", "label": "Truist Financial", "symbol": "TFC", "start": "1999-01-01", "end": "2019-01-17\n"}
+{"qid": "Q868587", "label": "S&P Global", "symbol": "SPGI", "start": "1999-01-01", "end": "2017-06-01\n"}
+{"qid": "Q899183", "label": "FMC Corporation", "symbol": "FMC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7301386", "label": "Realty Income Corporation", "symbol": "O", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7391016", "label": "SL Green Realty", "symbol": "SLG", "start": "2019-11-21", "end": "2099-12-31\n"}
+{"qid": "Q7388926", "label": "SBA Communications", "symbol": "SBAC", "start": "2000-12-05", "end": "2011-02-24\n"}
+{"qid": "Q94933", "label": "Take-Two Interactive", "symbol": "TTWO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q173941", "label": "Electronic Arts", "symbol": "EA", "start": "2015-12-29", "end": "2099-12-31\n"}
+{"qid": "Q180106", "label": "Owens-Illinois", "symbol": "OI", "start": "1999-01-01", "end": "2009-08-18\n"}
+{"qid": "Q182477", "label": "Nvidia", "symbol": "NVDA", "start": "2016-05-03", "end": "2018-06-15\n"}
+{"qid": "Q202972", "label": "International Paper", "symbol": "IP", "start": "1999-01-01", "end": "2011-11-17\n"}
+{"qid": "Q202210", "label": "GameStop", "symbol": "GME", "start": "1999-01-01", "end": "2013-09-19\n"}
+{"qid": "Q193412", "label": "Texas Instruments", "symbol": "TXN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q25104597", "label": "Howmet Aerospace", "symbol": "HWM", "start": "1999-01-01", "end": "2015-06-30\n"}
+{"qid": "Q55622230", "label": "MarketAxess", "symbol": "MKTX", "start": "1999-01-01", "end": "2013-07-05\n"}
+{"qid": "Q3157622", "label": "Jacobs Engineering Group sa", "symbol": "J", "start": "2013-05-08", "end": "2019-12-20\n"}
+{"qid": "Q16975567", "label": "Health Care Property Investors", "symbol": "PEAK", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q16985644", "label": "Titanium Metals", "symbol": "TIE", "start": "2015-07-29", "end": "2018-03-16\n"}
+{"qid": "Q17114308", "label": "Nektar Therapeutics", "symbol": "NKTR", "start": "1999-01-01", "end": "2023-01-20\n"}
+{"qid": "Q864338", "label": "Biogen", "symbol": "BIIB", "start": "2011-10-14", "end": "2099-12-31\n"}
+{"qid": "Q916196", "label": "Citrix Systems", "symbol": "CTXS", "start": "1999-01-01", "end": "2016-10-31\n"}
+{"qid": "Q920037", "label": "J. C. Penney", "symbol": "JCP", "start": "2018-12-03", "end": "2021-08-27\n"}
+{"qid": "Q930919", "label": "Public Service Enterprise Group", "symbol": "PEG", "start": "1999-01-01", "end": "2007-12-19\n"}
+{"qid": "Q999567", "label": "Linear Technology", "symbol": "LLTC", "start": "2021-12-20", "end": "2099-12-31\n"}
+{"qid": "Q628051", "label": "Autodesk", "symbol": "ADSK", "start": "1999-01-01", "end": "2022-06-17\n"}
+{"qid": "Q629998", "label": "General Mills", "symbol": "GIS", "start": "2014-05-08", "end": "2099-12-31\n"}
+{"qid": "Q643674", "label": "Thermo Fisher Scientific", "symbol": "TMO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2066858", "label": "PerkinElmer", "symbol": "PKI", "start": "2013-09-20", "end": "2099-12-31\n"}
+{"qid": "Q1024454", "label": "CSX Corporation", "symbol": "CSX", "start": "2017-07-26", "end": "2022-09-30\n"}
+{"qid": "Q1056637", "label": "The Hershey Company", "symbol": "HSY", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1066858", "label": "Tiffany & Co.", "symbol": "TIF", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q842947", "label": "Celgene", "symbol": "CELG", "start": "2022-09-19", "end": "2099-12-31\n"}
+{"qid": "Q841458", "label": "Intercontinental Exchange", "symbol": "ICE", "start": "2019-12-23", "end": "2099-12-31\n"}
+{"qid": "Q856897", "label": "Kellogg's", "symbol": "K", "start": "2012-05-21", "end": "2021-07-20\n"}
+{"qid": "Q905086", "label": "Henry Schein", "symbol": "HSIC", "start": "1999-01-01", "end": "2016-09-29\n"}
+{"qid": "Q907311", "label": "Netflix", "symbol": "NFLX", "start": "2012-10-02", "end": "2015-07-02\n"}
+{"qid": "Q910866", "label": "Humana", "symbol": "HUM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1113804", "label": "Comcast", "symbol": "CMCSA", "start": "2015-09-02", "end": "2099-12-31\n"}
+{"qid": "Q1061903", "label": "Live Nation Entertainment", "symbol": "LYV", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2140315", "label": "Textron", "symbol": "TXT", "start": "2006-06-02", "end": "2099-12-31\n"}
+{"qid": "Q356212", "label": "Fossil", "symbol": "FOSL", "start": "1999-01-01", "end": "2016-01-29\n"}
+{"qid": "Q460307", "label": "Amcor", "symbol": "AMCR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q498746", "label": "W. R. Grace and Company", "symbol": "GRA", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q489921", "label": "Mastercard", "symbol": "MA", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q18674747", "label": "Booking Holdings", "symbol": "BKNG", "start": "1999-01-01", "end": "2016-05-17\n"}
+{"qid": "Q7880076", "label": "Ulta", "symbol": "ULTA", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7981065", "label": "WellCare Health Plans", "symbol": "WCG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q656165", "label": "Halliburton", "symbol": "HAL", "start": "1999-01-01", "end": "2007-09-28\n"}
+{"qid": "Q15109925", "label": "Tractor Supply Company", "symbol": "TSCO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7987107", "label": "Evergy", "symbol": "EVRG", "start": "2015-03-23", "end": "2021-03-19\n"}
+{"qid": "Q8027166", "label": "Wisconsin Energy Corporation", "symbol": "WEC", "start": "2011-09-23", "end": "2099-12-31\n"}
+{"qid": "Q8073337", "label": "Zoetis", "symbol": "ZTS", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q8085893", "label": "Expedia Group", "symbol": "EXPE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1631922", "label": "Snap-on", "symbol": "SNA", "start": "1999-01-01", "end": "2020-05-11\n"}
+{"qid": "Q1627894", "label": "W. W. Grainger", "symbol": "GWW", "start": "1999-01-01", "end": "2011-06-29\n"}
+{"qid": "Q1662481", "label": "IHS Markit", "symbol": "INFO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q5120253", "label": "Cincinnati Financial", "symbol": "CINF", "start": "2020-09-21", "end": "2099-12-31\n"}
+{"qid": "Q65053147", "label": "L3Harris Technologies", "symbol": "LHX", "start": "1999-01-01", "end": "2020-09-18\n"}
+{"qid": "Q80947821", "label": "Steris", "symbol": "STE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3442791", "label": "Ross Stores", "symbol": "ROST", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3511885", "label": "T-Mobile US", "symbol": "TMUS", "start": "2017-09-01", "end": "2099-12-31\n"}
+{"qid": "Q4041705", "label": "J. B. Hunt", "symbol": "JBHT", "start": "2005-07-01", "end": "2099-12-31\n"}
+{"qid": "Q768773", "label": "MSCI", "symbol": "MSCI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q14662364", "label": "AbbVie", "symbol": "ABBV", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q20858163", "label": "Norfolk Southern Corporation", "symbol": "NSC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q3552193", "label": "Urban Outfitters", "symbol": "URBN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q6776123", "label": "Martin Marietta Materials", "symbol": "MLM", "start": "2016-12-02", "end": "2018-10-10\n"}
+{"qid": "Q6955706", "label": "NVR, Inc.", "symbol": "NVR", "start": "1999-01-01", "end": "2020-04-03\n"}
+{"qid": "Q7696143", "label": "Teleflex", "symbol": "TFX", "start": "1999-01-01", "end": "2015-10-30\n"}
+{"qid": "Q7742790", "label": "The J.M. Smucker Company", "symbol": "SJM", "start": "1999-01-01", "end": "2023-01-20\n"}
+{"qid": "Q37158", "label": "Starbucks", "symbol": "SBUX", "start": "1999-01-01", "end": "2022-09-30\n"}
+{"qid": "Q5570544", "label": "Global Payments", "symbol": "GPN", "start": "1999-01-01", "end": "2020-09-18\n"}
+{"qid": "Q28155430", "label": "Arch Capital Group", "symbol": "ACGL", "start": "2020-09-21", "end": "2099-12-31\n"}
+{"qid": "Q12857502", "label": "Mondelēz International", "symbol": "MDLZ", "start": "1999-01-01", "end": "2018-06-19\n"}
+{"qid": "Q667865", "label": "Johnson Controls", "symbol": "JCI", "start": "2013-05-23", "end": "2021-12-13\n"}
+{"qid": "Q686785", "label": "Transocean", "symbol": "RIG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q785943", "label": "Staples Inc.", "symbol": "SPLS", "start": "1999-01-01", "end": "2021-09-17\n"}
+{"qid": "Q813782", "label": "Bed Bath & Beyond", "symbol": "BBBY", "start": "1999-01-01", "end": "2017-08-07\n"}
+{"qid": "Q20711490", "label": "LKQ Corporation", "symbol": "LKQ", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q48802335", "label": "Tyler Technologies", "symbol": "TYL", "start": "2017-03-20", "end": "2099-12-31\n"}
+{"qid": "Q2144525", "label": "Scripps Networks Interactive", "symbol": "SNI", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2287759", "label": "Simon Property Group", "symbol": "SPG", "start": "1999-01-01", "end": "2014-12-04\n"}
+{"qid": "Q540891", "label": "Nielsen Company", "symbol": "NLSN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q682759", "label": "Linde Group", "symbol": "LIN", "start": "2022-03-02", "end": "2099-12-31\n"}
+{"qid": "Q62739842", "label": "Dow Inc.", "symbol": "DOW", "start": "1999-01-01", "end": "2007-10-25\n"}
+{"qid": "Q155026", "label": "United Parcel Service", "symbol": "UPS", "start": "2008-06-10", "end": "2015-06-10\n"}
+{"qid": "Q152433", "label": "Xerox", "symbol": "XRX", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q174310", "label": "Nordstrom", "symbol": "JWN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1577587", "label": "Marathon Oil", "symbol": "MRO", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1641437", "label": "Ralph Lauren Corporation", "symbol": "RL", "start": "2019-09-23", "end": "2099-12-31\n"}
+{"qid": "Q1758392", "label": "IDEXX Laboratories, Inc.", "symbol": "IDXX", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2529982", "label": "The New York Times Company", "symbol": "NYT", "start": "2015-07-20", "end": "2099-12-31\n"}
+{"qid": "Q667599", "label": "Newell Brands", "symbol": "NWL", "start": "2019-04-02", "end": "2099-12-31\n"}
+{"qid": "Q706094", "label": "Stanley Black & Decker", "symbol": "SWK", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q725793", "label": "Union Pacific Railroad", "symbol": "CNP", "start": "1999-01-01", "end": "2013-04-29\n"}
+{"qid": "Q744683", "label": "Franklin Templeton Investments", "symbol": "BEN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1663044", "label": "Ingersoll Rand", "symbol": "TT", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1741634", "label": "Kimberly-Clark", "symbol": "KMB", "start": "1999-01-01", "end": "2013-12-20\n"}
+{"qid": "Q16966841", "label": "Edwards Lifesciences", "symbol": "EW", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q16981175", "label": "Lennar Corporation", "symbol": "LEN", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q17081612", "label": "Moderna", "symbol": "MRNA", "start": "1999-01-01", "end": "2016-02-19\n"}
+{"qid": "Q20648663", "label": "Tegna Inc.", "symbol": "TGNA", "start": "1999-01-01", "end": "2016-03-29\n"}
+{"qid": "Q1760641", "label": "Parametric Technology Corporation", "symbol": "PTC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7605667", "label": "Steel Dynamics", "symbol": "STLD", "start": "1999-01-01", "end": "2012-06-29\n"}
+{"qid": "Q21016487", "label": "WestRock", "symbol": "WRK", "start": "1999-01-01", "end": "2015-03-20\n"}
+{"qid": "Q1545076", "label": "Microchip Technology", "symbol": "MCHP", "start": "1999-01-01", "end": "2015-07-17\n"}
+{"qid": "Q1630431", "label": "HCA Corporation", "symbol": "HCA", "start": "1999-01-01", "end": "2018-01-02\n"}
+{"qid": "Q1630559", "label": "Host Hotels & Resorts", "symbol": "HST", "start": "2020-06-22", "end": "2099-12-31\n"}
+{"qid": "Q1645081", "label": "Nucor", "symbol": "NUE", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1656230", "label": "Phillips 66", "symbol": "PSX", "start": "1999-01-01", "end": "2013-12-09\n"}
+{"qid": "Q5627799", "label": "H&R Block", "symbol": "HRB", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1138888", "label": "First Solar", "symbol": "FSLR", "start": "2013-06-06", "end": "2099-12-31\n"}
+{"qid": "Q1322011", "label": "Waters Corporation", "symbol": "WAT", "start": "1999-01-01", "end": "2015-08-27\n"}
+{"qid": "Q2031485", "label": "Under Armour", "symbol": "UA", "start": "1999-01-01", "end": "2012-05-16\n"}
+{"qid": "Q2031485", "label": "Under Armour", "symbol": "UAA", "start": "2014-07-02", "end": "2099-12-31\n"}
+{"qid": "Q2044512", "label": "PPL", "symbol": "PPL", "start": "1999-01-01", "end": "2014-01-23\n"}
+{"qid": "Q2103926", "label": "UnitedHealth Group", "symbol": "UNH", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2297063", "label": "Trimble", "symbol": "TRMB", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q191715", "label": "WarnerMedia", "symbol": "TWX", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q203552", "label": "Zimmer Biomet Holdings", "symbol": "ZBH", "start": "2015-03-12", "end": "2099-12-31\n"}
+{"qid": "Q156238", "label": "ExxonMobil", "symbol": "XOM", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2607502", "label": "E-Trade", "symbol": "ETFC", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2744099", "label": "Vertex Pharmaceuticals", "symbol": "VRTX", "start": "1999-01-01", "end": "2014-11-04\n"}
+{"qid": "Q1156045", "label": "Public Storage", "symbol": "PSA", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1342041", "label": "Lam Research", "symbol": "LRCX", "start": "1999-01-01", "end": "2009-12-17\n"}
+{"qid": "Q16838618", "label": "Fleetcor", "symbol": "FLT", "start": "1999-01-01", "end": "2015-10-06\n"}
+{"qid": "Q16974527", "label": "Dover Corporation", "symbol": "DOV", "start": "1999-01-01", "end": "2018-11-05\n"}
+{"qid": "Q17012234", "label": "Enphase Energy", "symbol": "ENPH", "start": "2014-11-05", "end": "2017-10-12\n"}
+{"qid": "Q7163201", "label": "Penn National Gaming", "symbol": "PENN", "start": "2017-07-26", "end": "2099-12-31\n"}
+{"qid": "Q7259716", "label": "Pulte Homes", "symbol": "PHM", "start": "2019-07-15", "end": "2099-12-31\n"}
+{"qid": "Q7314903", "label": "ResMed", "symbol": "RMD", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q7893967", "label": "Universal Health Services", "symbol": "UHS", "start": "2021-12-20", "end": "2099-12-31\n"}
+{"qid": "Q1044059", "label": "Carnival Corporation & plc", "symbol": "CCL", "start": "1999-01-01", "end": "2012-12-31\n"}
+{"qid": "Q1049080", "label": "Juniper Networks", "symbol": "JNPR", "start": "2009-12-18", "end": "2017-06-16\n"}
+{"qid": "Q1132272", "label": "PVH", "symbol": "PVH", "start": "1999-01-01", "end": "2010-07-13\n"}
+{"qid": "Q582418", "label": "ITT Corporation", "symbol": "ITT", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q568532", "label": "MGM Resorts International", "symbol": "MGM", "start": "2011-12-20", "end": "2019-12-20\n"}
+{"qid": "Q301965", "label": "Sprint Corporation", "symbol": "S", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q2749364", "label": "Fortinet", "symbol": "FTNT", "start": "2016-03-30", "end": "2099-12-31\n"}
+{"qid": "Q434017", "label": "Altair Engineering", "symbol": "ALTR", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q444110", "label": "The Hartford", "symbol": "HIG", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q461210", "label": "Rockwell Collins", "symbol": "COL", "start": "2016-07-05", "end": "2099-12-31\n"}
+{"qid": "Q483551", "label": "Walmart", "symbol": "WMT", "start": "2016-06-22", "end": "2022-12-16\n"}
+{"qid": "Q522617", "label": "Invesco", "symbol": "IVZ", "start": "1999-01-01", "end": "2099-12-31\n"}
+{"qid": "Q1353939", "label": "Etsy", "symbol": "ETSY", "start": "1999-01-01", "end": "2099-12-31\n"}
